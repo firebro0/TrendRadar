@@ -1,40 +1,37 @@
+虚拟货币
 比特币
 以太坊
 BTC
 ETH
 SOL
+BNB
+LTC
+LINK
+UNI
+AAVE
+HYPE
 Bitcoin
 Ethereum
 Solana
+Binance
+Hypeliquid
 
-黑神话
-冯骥
+美股
+
+沪深
 
 特斯拉
 马斯克
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
+苹果
 iphone
 ipad
 mac
 ios
+
+谷歌
+google
+pixel
 
 ai
 !gai
@@ -44,12 +41,12 @@ ai
 
 机器人
 
-国产
-中国
+新能源
+小鹏
+小米
+理想
 
-美国
-日本
-韩国
+固态电池
 
-科技
+智能驾驶
 
