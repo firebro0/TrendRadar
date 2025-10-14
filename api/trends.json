@@ -1,11 +1,174 @@
 {
-  "generated_at": "2025-10-15T03:15:32.270691+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-10-15T04:20:33.539748+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股三大股指低开，金银油下跌，数字货币重挫",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "纳斯达克100指数转涨。成分股爱彼迎涨4.4%，AMD、Arm控股至少涨超3.5%，英伟达目前跌超2.3%，英特尔跌3.6%。",
+          "url": "https://wallstreetcn.com/livenews/2987641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时15分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌1.5%，可选消费板块跌0.3%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.7%，成分股中，英特尔、英伟达、Strategy（MSTR）、博通、Arm控股、亚马逊、特斯拉至多跌超4%，霍尼韦尔、特许通讯、爱彼迎、Atlassian则至少涨超2%。 Salesforce初步收跌3.5%，高盛跌2%，摩根大通跌1.9%，和英伟达领跌道指成分股，霍尼韦尔、美国运通、卡特彼勒、沃尔玛则涨超2%领跑。",
+          "url": "https://wallstreetcn.com/livenews/2987696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2987693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "受消息面影响，美股三大股指短线小幅下挫。",
+          "url": "https://flash.jin10.com/detail/20251015033901545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "标普500指数美股尾盘转跌，一度跌0.2%",
+          "url": "https://wallstreetcn.com/livenews/2987689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251015003213265800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "分析师：美联储并未在意贸易局势升级 美股未来或迎来顺风",
+          "url": "https://flash.jin10.com/detail/20251015031003749800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
+          "url": "https://wallstreetcn.com/livenews/2987632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "道指和标普500指数转涨。",
+          "url": "https://flash.jin10.com/detail/20251015003021358800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251015012805608800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2987595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -16,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -27,8 +190,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "大雁塔玄奘铜像长满青苔系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -40,29 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "大雁塔玄奘铜像长满青苔系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
@@ -123,114 +286,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
+          "url": "https://flash.jin10.com/detail/20251015030536349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 9,
+      "keyword_group": "黄金 白银",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股三大股指低开，金银油下跌，数字货币重挫",
-          "url": "https://wallstreetcn.com/articles/3757142",
-          "source": "华尔街见闻",
+          "title": "黄金白银飙涨原因",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E9%A3%99%E6%B6%A8%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "现货白银短线下跌约0.4美元，最新报51.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015034434927800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
-          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2169365",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "纳斯达克100指数转涨。成分股爱彼迎涨4.4%，AMD、Arm控股至少涨超3.5%，英伟达目前跌超2.3%，英特尔跌3.6%。",
-          "url": "https://wallstreetcn.com/livenews/2987641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时15分]"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251015003213265800",
+          "title": "现货黄金短线下挫超10美元，最新报4135.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251015033756099800",
           "source": "金十数据",
           "ranks": [
-            21
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月14日（周二）晚盘收盘上涨0.53%报946.88元/克；<br/>上海黄金交易所白银T+D 10月14日（周二）晚盘收盘下跌0.02%报11692.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251015023134623800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "年轻人热衷买黄金贴纸最低仅几十元",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%B9%B0%E9%BB%84%E9%87%91%E8%B4%B4%E7%BA%B8%E6%9C%80%E4%BD%8E%E4%BB%85%E5%87%A0%E5%8D%81%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "美国10年期国债收益率维持超过1个基点的涨幅，（长周末归来暂时）持稳于4.04%附近。 两年期美债收益率维持微跌状态，短线波动于3.49%-3.50%一线。 标普500指数转涨，道指涨250点涨幅超过0.5%，纳指目前跌超0.3%。 彭博美元指数刷新日低。 鲍威尔称，可能会在未来数月停止缩表。",
-          "url": "https://wallstreetcn.com/livenews/2987632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "道指和标普500指数转涨。",
-          "url": "https://flash.jin10.com/detail/20251015003021358800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251015012805608800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2987595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
         }
       ]
     },
@@ -246,8 +376,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "中美一致发声,力促加沙战争终结",
@@ -257,8 +387,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "中美昨天进行了工作层会谈",
@@ -270,47 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金白银飙涨原因",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E9%A3%99%E6%B6%A8%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月14日（周二）晚盘收盘上涨0.53%报946.88元/克；<br/>上海黄金交易所白银T+D 10月14日（周二）晚盘收盘下跌0.02%报11692.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251015023134623800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "年轻人热衷买黄金贴纸最低仅几十元",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%B9%B0%E9%BB%84%E9%87%91%E8%B4%B4%E7%BA%B8%E6%9C%80%E4%BD%8E%E4%BB%85%E5%87%A0%E5%8D%81%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
         }
       ]
     },
@@ -356,8 +445,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时20分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
