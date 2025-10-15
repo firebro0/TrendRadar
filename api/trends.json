@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T02:28:43.078582+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2025-10-16T03:15:36.437240+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
+          "url": "https://wallstreetcn.com/livenews/2988357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "time_info": "[02时28分 ~ 03时15分]"
         },
         {
           "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
@@ -41,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
-          "url": "https://wallstreetcn.com/livenews/2988357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         },
         {
           "title": "Meta Platforms(META.O)：Arm(ARM.O)与公司宣布建立多年战略合作伙伴关系，以提升AI效率。",
@@ -93,7 +95,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -104,7 +106,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
@@ -122,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -134,8 +136,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -166,7 +168,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -185,8 +187,21 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
+          "url": "https://www.cls.cn/detail/2170336",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
+        },
         {
           "title": "金价暴涨 买黄金还是黄金股",
           "url": "https://www.toutiao.com/trending/7561421312267439654/",
@@ -194,23 +209,12 @@
           "ranks": [
             16,
             22,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
-        },
-        {
-          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
-          "url": "https://www.cls.cn/detail/2170336",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "卖出500克黄金 日赚五万",
@@ -222,8 +226,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
@@ -232,9 +236,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月15日（周三）晚盘收盘上涨1.04%报960.2元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）晚盘收盘上涨2.8%报12088.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251016023523177800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -249,11 +264,12 @@
           "ranks": [
             20,
             9,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "美国司法部没收近13万枚比特币",
@@ -261,11 +277,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "近13万枚比特币被查获",
@@ -273,11 +290,12 @@
           "source": "微博",
           "ranks": [
             29,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 03时15分]"
         }
       ]
     },
@@ -293,8 +311,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
+        },
+        {
+          "title": "苹果宣布推出M5芯片",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAM5%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -307,19 +339,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时28分]"
-        },
-        {
-          "title": "苹果宣布推出M5芯片",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BAM5%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[00时20分 ~ 02时28分]"
         }
       ]
@@ -334,11 +353,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
@@ -349,8 +369,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         },
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
@@ -378,8 +398,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         }
       ]
     },
@@ -431,8 +451,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时15分]"
         }
       ]
     }
