@@ -1,8 +1,160 @@
 {
-  "generated_at": "2025-10-16T03:15:36.437240+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-10-16T04:21:46.962561+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
+        },
+        {
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
+        },
+        {
+          "title": "WTI原油期货跌幅收窄至不足0.3%，暂报58.12美元。 在美上市印度ETF收涨1.9%，美股盘后跌0.05%。 美国总统特朗普称，印度总理莫迪今天向他保证，印度不会（继续）购买俄罗斯石油。",
+          "url": "https://wallstreetcn.com/livenews/2988405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251016040819160800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251016040818558800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "美联航三季度运营收入152亿美元，分析师预期152.8亿美元。 三季度可获得座位里程数874.2亿，分析师预期865.1亿。 三季度乘客里程收入737.7亿，分析师预期737.1亿。 三季度乘客营收138.2亿美元，分析师预期139.1亿美元。 三季度资本开支14.6亿美元。 预计四季度调整后EPS为3-3.50美元，分析师预期2.82美元。 美联航（UAL）美股盘后涨0.53%，涨幅随后扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/2988400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "标普500指数初步收涨0.3%，房地产、公用事业、电信、科技板块至多涨约1.4%，原材料和工业板块则跌0.5%。 纳斯达克100指数初步收涨0.6%，成分股中，AMD初步收涨8.8%，科磊、拉姆研究、应用材料、英特尔、核电概念股CEG至多涨5.5%紧随其后，Axon跌8.7%，MercadoLibre跌5%，Bookings跌3.4%，霍尼韦尔、新思科技、PayPal跌幅靠前。 Travelers Companies Inc.初步收跌2.4%，Salesforce跌1.4%，和霍尼韦尔领跌道指成分股，思科、卡特彼勒、安进、摩根大通、耐克、IBM、沃尔玛则至少收涨约1%。",
+          "url": "https://wallstreetcn.com/livenews/2988398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨约10%，文远知行、小鹏、台积电、百胜中国、网易、百度、京东至多涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2988396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251016004148057800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 AMD涨超9%",
+          "url": "https://flash.jin10.com/detail/20251016040058512800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251016004144753800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国三大股指部分转涨，标普500指数上涨0.2%，纳指上涨0.4%，道指持平。",
+          "url": "https://flash.jin10.com/detail/20251016014758593800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "标普500指数涨幅扩大至1%，房地产板块涨1.7%，科技、公用事业、电信、能源板块至多涨1.5%，保健板块涨约0.4%表现最差。 道指上涨402点涨幅0.87%，纳指涨306点涨幅1.35%，半导体指数涨2.7%，罗素2000指数涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/2988301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "ai 人工智能",
       "match_count": 9,
@@ -113,81 +265,8 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
-          "url": "https://wallstreetcn.com/articles/3757142",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
-        },
-        {
-          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
-        },
-        {
-          "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251016004148057800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "金十图示：2025年10月15日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251016004144753800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国三大股指部分转涨，标普500指数上涨0.2%，纳指上涨0.4%，道指持平。",
-          "url": "https://flash.jin10.com/detail/20251016014758593800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "标普500指数涨幅扩大至1%，房地产板块涨1.7%，科技、公用事业、电信、能源板块至多涨1.5%，保健板块涨约0.4%表现最差。 道指上涨402点涨幅0.87%，纳指涨306点涨幅1.35%，半导体指数涨2.7%，罗素2000指数涨1.31%。",
-          "url": "https://wallstreetcn.com/livenews/2988301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
@@ -199,8 +278,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -210,11 +289,12 @@
             16,
             22,
             9,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "卖出500克黄金 日赚五万",
@@ -223,11 +303,23 @@
           "ranks": [
             17,
             18,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
+        },
+        {
+          "title": "黄金：配多少，何时抛？",
+          "url": "https://wallstreetcn.com/articles/3757235",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         },
         {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
@@ -247,7 +339,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
@@ -259,30 +351,32 @@
       "titles": [
         {
           "title": "美国司法部没收近13万枚比特币",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B2%A1%E6%94%B6%E8%BF%9113%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            20,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
+        },
+        {
+          "title": "美国司法部没收近13万枚比特币",
           "url": "https://www.toutiao.com/trending/7561094845989912618/",
           "source": "今日头条",
           "ranks": [
             20,
             9,
             26,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
-        },
-        {
-          "title": "美国司法部没收近13万枚比特币",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%B2%A1%E6%94%B6%E8%BF%9113%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "近13万枚比特币被查获",
@@ -291,11 +385,52 @@
           "ranks": [
             29,
             24,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月15日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251016040820604800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "法国股市收涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2988319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时17分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（10月15日），南非富时/JSE非洲领先40可交易指数收涨0.77%，至10.4万点上方，突破10月8日所创接近10.4万点的收盘历史最高位。 成分股MTN集团涨8.03%，瑞士历峰集团涨5.50%，哈莫尼黄金公司涨44.7%表现第三。",
+          "url": "https://wallstreetcn.com/livenews/2988393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -311,8 +446,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -322,11 +457,12 @@
             22,
             23,
             17,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -357,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
@@ -369,8 +505,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         },
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
@@ -382,6 +518,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
+          "url": "https://wallstreetcn.com/articles/3757182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时28分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
+          "url": "https://wallstreetcn.com/livenews/2988383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     },
@@ -398,43 +562,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法国股市收涨约2%",
-          "url": "https://wallstreetcn.com/livenews/2988319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
-          "url": "https://wallstreetcn.com/articles/3757182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         }
       ]
     },
@@ -451,8 +580,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
         }
       ]
     }
