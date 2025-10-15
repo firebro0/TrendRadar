@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T16:27:06.700761+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2025-10-15T17:20:49.261426+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 17时20分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -66,17 +66,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 11时04分]"
-        },
-        {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2988064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -128,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时20分]"
         },
         {
           "title": "标普500指数美股尾盘转跌，一度跌0.2%",
@@ -230,7 +231,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -244,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "标普：确认新西兰外币“AA+/A-1+”及本币“AAA/A-1+”主权信用评级。",
@@ -520,6 +532,18 @@
           "time_info": "[11时04分 ~ 14时28分]"
         },
         {
+          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
+          "url": "https://www.cls.cn/detail/2169939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时20分]"
+        },
+        {
           "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
           "url": "https://www.zhihu.com/question/658385796",
           "source": "知乎",
@@ -581,6 +605,18 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "英国AI数据中心开发商NSCALE与微软签订了约20万个英伟达GB300 GPU合同。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2988061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时20分]"
+        },
+        {
           "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
           "url": "https://flash.jin10.com/detail/20251015120332275800",
           "source": "金十数据",
@@ -591,17 +627,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
-          "url": "https://www.cls.cn/detail/2169939",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
@@ -664,17 +689,6 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
-          "title": "英国AI数据中心开发商NSCALE与微软签订了约20万个英伟达GB300 GPU合同。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2988061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "OPPO发布AI全新战略",
           "url": "https://wallstreetcn.com/livenews/2987865",
           "source": "华尔街见闻-快讯",
@@ -733,7 +747,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "黄金白银飙涨原因",
@@ -850,11 +864,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "现货黄金涨破4190美元/盎司，再创历史新高，日内涨1.1%。",
@@ -949,6 +964,28 @@
           "time_info": "04时20分"
         },
         {
+          "title": "金十图示：2025年10月15日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251015170035611800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "现货白银再次站上53美元/盎司，日内涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "现货黄金短线拉升10逾美元，触及4160美元/盎司，日内涨0.41%。",
           "url": "https://flash.jin10.com/detail/20251015061527382800",
           "source": "金十数据",
@@ -993,13 +1030,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "上期所：对部分客户采取白银期货限制开仓监管措施",
+          "url": "https://wallstreetcn.com/livenews/2988083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月15日（周三）收盘上涨1.76%报958.4元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）收盘上涨2.27%报11960.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251015153049560800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1156,8 +1204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 17时20分]"
         },
         {
           "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
@@ -1168,11 +1216,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时20分]"
         },
         {
           "title": "工信部部长会见苹果公司CEO库克",
@@ -1184,8 +1233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 17时20分]"
         },
         {
           "title": "iPhone Air开启无SIM卡时代",
@@ -1210,8 +1259,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 17时20分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -1274,11 +1323,12 @@
             19,
             22,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时20分]"
         },
         {
           "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
@@ -1286,11 +1336,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
@@ -1302,8 +1353,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时20分]"
         },
         {
           "title": "中美昨天进行了工作层会谈",
@@ -1334,7 +1385,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
@@ -1395,6 +1446,34 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
+          "url": "https://www.cls.cn/detail/2170265",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，征和工业午后涨停，股价创历史新高，中坚科技、远大智能此前封板，五洲新春、三花智控、信质集团、浙江荣泰等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2987943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 2,
       "titles": [
@@ -1409,19 +1488,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时20分]"
         },
         {
           "title": "9月新能源车企TOP10门槛飙升，小米同比暴涨2倍搭上“末班车”",
           "url": "https://www.cls.cn/detail/2169657",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时20分]"
         }
       ]
     },
@@ -1455,6 +1535,23 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
+          "url": "https://wallstreetcn.com/livenews/2988096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 1,
       "titles": [
@@ -1468,23 +1565,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股机器人概念股震荡走强，征和工业午后涨停，股价创历史新高，中坚科技、远大智能此前封板，五洲新春、三花智控、信质集团、浙江荣泰等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2987943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         }
       ]
     }
