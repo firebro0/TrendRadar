@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T09:24:33.791536+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-10-15T11:04:26.760890+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -36,22 +36,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时04分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
           "url": "https://www.cls.cn/detail/2169528",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时04分]"
         },
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -60,9 +62,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
+        },
+        {
+          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
+          "url": "https://www.cls.cn/detail/2169304",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时17分 ~ 11时04分]"
         },
         {
           "title": "周二（10月14日）纽约尾盘，标普500股指期货最终跌0.16%，道指期货涨0.43%，纳斯达克100股指期货跌0.69%。 罗素2000股指期货涨1.17%。",
@@ -100,19 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
-          "url": "https://www.cls.cn/detail/2169304",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 09时24分]"
         },
         {
           "title": "标普500指数美股尾盘转跌，一度跌0.2%",
@@ -187,6 +190,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "标普：我们预测，未来三个财年新西兰的经济增长率将回升至2.2%—2.3%。",
+          "url": "https://flash.jin10.com/detail/20251015103527698800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "受消息面影响，美股三大股指短线小幅下挫。",
           "url": "https://flash.jin10.com/detail/20251015033901545800",
           "source": "金十数据",
@@ -196,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "标普：截至2025年6月的12个月内，新西兰实际GDP下降1.1%，且在过去五个季度中有三个季度出现经济收缩。",
+          "url": "https://flash.jin10.com/detail/20251015103353489800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "标普：确认新西兰外币“AA+/A-1+”及本币“AAA/A-1+”主权信用评级。",
+          "url": "https://flash.jin10.com/detail/20251015103300206800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
@@ -311,7 +347,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -398,6 +434,18 @@
           "time_info": "[01时16分 ~ 03时15分]"
         },
         {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
+        },
+        {
           "title": "前法国财政部长Brune Le Maire将重返阿斯麦控股，担任顾问。（BNR）",
           "url": "https://wallstreetcn.com/livenews/2987624",
           "source": "华尔街见闻-快讯",
@@ -422,6 +470,18 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "甲骨文官宣明年部署5万枚AMD芯片 或预示AI硬件格局生变",
+          "url": "https://www.cls.cn/detail/2169443",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
+        },
+        {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到人工智能加速器组合（AI Accelerator Portfolio）。",
           "url": "https://wallstreetcn.com/livenews/2987652",
           "source": "华尔街见闻-快讯",
@@ -434,26 +494,37 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
-          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
-          "url": "https://www.cls.cn/detail/2169533",
-          "source": "财联社热门",
+          "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
+          "url": "https://www.zhihu.com/question/658385796",
+          "source": "知乎",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "11时04分"
         },
         {
-          "title": "甲骨文官宣明年部署5万枚AMD芯片 或预示AI硬件格局生变",
-          "url": "https://www.cls.cn/detail/2169443",
-          "source": "财联社热门",
+          "title": "OPPO发布AI全新战略",
+          "url": "https://wallstreetcn.com/livenews/2987865",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "11时04分"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：如果大规模人工智能投资取得成效，生产力提升将消除增长难题。",
@@ -528,7 +599,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -539,7 +610,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -550,7 +621,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -649,59 +720,8 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
-          "url": "https://wallstreetcn.com/livenews/2987719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "贝莱德三季度iShares ETFs净资金流入创历史新高，得益于比特币和以太坊投资需求激增",
-          "url": "https://wallstreetcn.com/livenews/2987737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。",
-          "url": "https://wallstreetcn.com/livenews/2987619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年10月14日（周二）全球股市指数-美洲市场（收盘）",
@@ -721,9 +741,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20251015102600010800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "花旗警告股市存在“泡沫和估值过高”板块",
@@ -735,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "创业板指涨超1%，此前一度跌近1%，沪指涨0.48%，深成指涨0.73%，创新药、国产软件、汽车整车、量子科技等方向领涨，沪深京三市上涨个股近4200只。",
+          "url": "https://wallstreetcn.com/livenews/2987848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）全球股市指数-欧洲市场（收盘）",
@@ -750,8 +792,60 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
+          "url": "https://wallstreetcn.com/livenews/2987719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
+        },
+        {
+          "title": "贝莱德三季度iShares ETFs净资金流入创历史新高，得益于比特币和以太坊投资需求激增",
+          "url": "https://wallstreetcn.com/livenews/2987737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。",
+          "url": "https://wallstreetcn.com/livenews/2987619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中美",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "胡锡进：中美新较量打响",
@@ -762,19 +856,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时04分]"
         },
         {
           "title": "中美一致发声,力促加沙战争终结",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时04分]"
         },
         {
           "title": "中美昨天进行了工作层会谈",
@@ -786,12 +881,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779272",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "iPhone Air开启无SIM卡时代",
@@ -805,8 +911,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 09时24分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 11时04分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -826,9 +932,49 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
+        },
+        {
+          "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
+          "url": "https://www.zhihu.com/question/1960660962592928224",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光伏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
+          "url": "https://wallstreetcn.com/livenews/2987654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "A股光伏概念股震荡反弹，双良节能触及涨停，阿特斯涨超6%，大全能源、通威股份、天合光能纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/2987853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
@@ -850,20 +996,19 @@
       ]
     },
     {
-      "keyword_group": "光伏",
+      "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 1,
       "titles": [
         {
-          "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
-          "url": "https://wallstreetcn.com/livenews/2987654",
-          "source": "华尔街见闻-快讯",
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            16
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     }
