@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T12:22:24.976416+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-10-15T13:18:51.253655+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 13时18分]"
         },
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时18分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -348,7 +348,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -410,28 +410,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2987912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
-          "url": "https://flash.jin10.com/detail/20251015120826259800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
           "url": "https://www.cls.cn/detail/2169533",
           "source": "财联社热门",
@@ -441,8 +419,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时18分]"
+        },
+        {
+          "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
+          "url": "https://wallstreetcn.com/livenews/2987934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -457,17 +446,67 @@
           "time_info": "[05时16分 ~ 06时18分]"
         },
         {
+          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2987912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
+          "url": "https://flash.jin10.com/detail/20251015120826259800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
           "title": "甲骨文官宣明年部署5万枚AMD芯片 或预示AI硬件格局生变",
           "url": "https://www.cls.cn/detail/2169443",
           "source": "财联社热门",
           "ranks": [
             12,
             10,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时18分]"
+        },
+        {
+          "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
+          "url": "https://www.zhihu.com/question/658385796",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时22分]"
+          "time_info": "[11时04分 ~ 13时18分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时18分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
@@ -507,28 +546,64 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
-          "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
-          "url": "https://www.zhihu.com/question/658385796",
-          "source": "知乎",
+          "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
+          "url": "https://flash.jin10.com/detail/20251015120340138800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
+          "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
+          "url": "https://flash.jin10.com/detail/20251015120332275800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251015120232496800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正计划达成协议，为政府和企业提供更多定制化产品。",
+          "url": "https://flash.jin10.com/detail/20251015120212177800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI制定五年商业计划，以实现1万亿美元支出承诺。",
+          "url": "https://flash.jin10.com/detail/20251015120157638800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到人工智能加速器组合（AI Accelerator Portfolio）。",
@@ -543,37 +618,16 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
-          "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
-          "url": "https://flash.jin10.com/detail/20251015120340138800",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-15）",
+          "url": "https://flash.jin10.com/detail/20251015120143556800",
           "source": "金十数据",
           "ranks": [
-            7
+            12,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
-          "url": "https://flash.jin10.com/detail/20251015120332275800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251015120232496800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "OPPO发布AI全新战略",
@@ -587,37 +641,15 @@
           "time_info": "11时04分"
         },
         {
-          "title": "据英国金融时报：OpenAI正计划达成协议，为政府和企业提供更多定制化产品。",
-          "url": "https://flash.jin10.com/detail/20251015120212177800",
-          "source": "金十数据",
+          "title": "高盛员工信：AI将成为实现增长新路径 代价是部分人的岗位",
+          "url": "https://www.cls.cn/detail/2169506",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "据英国金融时报：OpenAI制定五年商业计划，以实现1万亿美元支出承诺。",
-          "url": "https://flash.jin10.com/detail/20251015120157638800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-15）",
-          "url": "https://flash.jin10.com/detail/20251015120143556800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "13时18分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：如果大规模人工智能投资取得成效，生产力提升将消除增长难题。",
@@ -760,11 +792,48 @@
           "url": "https://wallstreetcn.com/livenews/2987905",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251015115555085800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251015115352039800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "现货黄金突破4190美元/盎司，再创历史新高，日内涨1.12%。",
+          "url": "https://flash.jin10.com/detail/20251015115027295800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "现货黄金短线下挫超10美元，最新报4135.15美元/盎司。",
@@ -789,17 +858,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "金十图示：2025年10月15日（周三）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251015115555085800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 10月14日（周二）晚盘收盘上涨0.53%报946.88元/克；<br/>上海黄金交易所白银T+D 10月14日（周二）晚盘收盘下跌0.02%报11692.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251015023134623800",
           "source": "金十数据",
@@ -822,28 +880,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "金十图示：2025年10月15日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251015115352039800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "现货黄金突破4190美元/盎司，再创历史新高，日内涨1.12%。",
-          "url": "https://flash.jin10.com/detail/20251015115027295800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.57吨，当前持仓量为1021.45吨。",
           "url": "https://flash.jin10.com/detail/20251015055922048800",
           "source": "金十数据",
@@ -853,6 +889,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "iPhone Air开启无SIM卡时代",
+          "url": "https://www.douyin.com/hot/2269405",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            20,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 11时04分]"
+        },
+        {
+          "title": "苹果CEO库克上海两日行：看LABUBU，首次“直播带货”，直言“太爱中国人和中国文化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779117",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时18分]"
+        },
+        {
+          "title": "工信部部长会见苹果公司CEO库克",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%93%E5%85%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
+          "url": "https://www.zhihu.com/question/1960660962592928224",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时18分]"
+        },
+        {
+          "title": "大量iPhone17新机无法激活 苹果回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8FiPhone17%E6%96%B0%E6%9C%BA%E6%97%A0%E6%B3%95%E6%BF%80%E6%B4%BB+%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时16分]"
+        },
+        {
+          "title": "工信部部长会见苹果CEO库克",
+          "url": "https://www.douyin.com/hot/2270610",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/2987918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "苹果华为OPPO将推出eSIM手机",
+          "url": "https://wallstreetcn.com/livenews/2987917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
@@ -878,7 +1015,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -953,8 +1090,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时18分]"
         },
         {
           "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
@@ -1005,8 +1142,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "中美一致发声,力促加沙战争终结",
@@ -1015,11 +1152,12 @@
           "ranks": [
             14,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
@@ -1027,11 +1165,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时18分]"
         },
         {
           "title": "中美昨天进行了工作层会谈",
@@ -1043,62 +1182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "iPhone Air开启无SIM卡时代",
-          "url": "https://www.douyin.com/hot/2269405",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            20,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 11时04分]"
-        },
-        {
-          "title": "苹果CEO库克上海两日行：看LABUBU，首次“直播带货”，直言“太爱中国人和中国文化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779117",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时22分]"
-        },
-        {
-          "title": "大量iPhone17新机无法激活 苹果回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8FiPhone17%E6%96%B0%E6%9C%BA%E6%97%A0%E6%B3%95%E6%BF%80%E6%B4%BB+%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
-          "url": "https://www.zhihu.com/question/1960660962592928224",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时22分]"
         }
       ]
     },
@@ -1158,11 +1241,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 13时18分]"
         }
       ]
     }
