@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T13:18:51.253655+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-10-15T14:28:53.950710+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时23分 ~ 06时18分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 14时28分]"
+        },
+        {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -29,6 +42,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时17分]"
+        },
+        {
+          "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时28分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -42,30 +66,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 11时04分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 13时18分]"
-        },
-        {
-          "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
-          "url": "https://wallstreetcn.com/articles/3757142",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时18分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -399,17 +399,6 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
-          "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
-          "url": "https://wallstreetcn.com/livenews/2987652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
           "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
           "url": "https://www.cls.cn/detail/2169533",
           "source": "财联社热门",
@@ -419,19 +408,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时28分]"
         },
         {
-          "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
-          "url": "https://wallstreetcn.com/livenews/2987934",
+          "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
+          "url": "https://wallstreetcn.com/livenews/2987652",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "01时16分"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -456,6 +445,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
+          "url": "https://wallstreetcn.com/livenews/2987934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
@@ -484,18 +485,6 @@
           "time_info": "[09时24分 ~ 13时18分]"
         },
         {
-          "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
-          "url": "https://www.zhihu.com/question/658385796",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时18分]"
-        },
-        {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
           "url": "https://www.cls.cn/detail/2169515",
           "source": "财联社热门",
@@ -503,6 +492,18 @@
             13,
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时28分]"
+        },
+        {
+          "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
+          "url": "https://www.zhihu.com/question/658385796",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -647,7 +648,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -688,7 +689,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄金白银飙涨原因",
@@ -727,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "A股黄金概念股震荡拉升，招金黄金涨停，衢州发展、紫金矿业、鹏欣资源、宁波中百、金诚信跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2987983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月15日（周三）早盘盘初上涨1.08%报952.0元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）早盘盘初上涨0.01%报11695.0元/千克。",
@@ -880,6 +892,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "现货白银日内涨幅扩大至2%，现报52.30美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2987940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.57吨，当前持仓量为1021.45吨。",
           "url": "https://flash.jin10.com/detail/20251015055922048800",
           "source": "金十数据",
@@ -889,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "现货黄金日内大涨50美元，现报4193.50美元/盎司，涨幅1.21%。",
+          "url": "https://flash.jin10.com/detail/20251015133119266800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -920,19 +954,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时28分]"
         },
         {
           "title": "工信部部长会见苹果公司CEO库克",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%93%E5%85%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
@@ -941,11 +976,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时28分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -965,9 +1001,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
@@ -976,7 +1012,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -987,7 +1023,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         }
@@ -1077,6 +1113,73 @@
       ]
     },
     {
+      "keyword_group": "中美",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "胡锡进：中美新较量打响",
+          "url": "https://news.ifeng.com/c/8nS3jnwei3V",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时18分]"
+        },
+        {
+          "title": "中美一致发声,力促加沙战争终结",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
+        },
+        {
+          "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779272",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时28分]"
+        },
+        {
+          "title": "中美昨天进行了工作层会谈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E6%98%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%B7%A5%E4%BD%9C%E5%B1%82%E4%BC%9A%E8%B0%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "中国驻美大使谢锋：起而行之，汇聚各界促进中美交流合作的磅礴力量",
+          "url": "https://wallstreetcn.com/livenews/2987959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 4,
       "titles": [
@@ -1087,11 +1190,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时28分]"
         },
         {
           "title": "周二（10月14日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.47%，至11.4万美元下方，亚太盘初以来持续走低，北京时间21:38刷新日低至接近11.0万美元的水平，随后逐步收复失地。 CME以太币期货DCR主力合约跌3.22%，报4138.50美元，也在逐步走低的行情中于18:32刷新日低至3910.50美元。",
@@ -1126,62 +1230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "胡锡进：中美新较量打响",
-          "url": "https://news.ifeng.com/c/8nS3jnwei3V",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时18分]"
-        },
-        {
-          "title": "中美一致发声,力促加沙战争终结",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时18分]"
-        },
-        {
-          "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779272",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时18分]"
-        },
-        {
-          "title": "中美昨天进行了工作层会谈",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E6%98%A8%E5%A4%A9%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%B7%A5%E4%BD%9C%E5%B1%82%E4%BC%9A%E8%B0%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     },
@@ -1232,6 +1280,23 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股机器人概念股震荡走强，征和工业午后涨停，股价创历史新高，中坚科技、远大智能此前封板，五洲新春、三花智控、信质集团、浙江荣泰等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2987943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 1,
       "titles": [
@@ -1242,11 +1307,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时28分]"
         }
       ]
     }
