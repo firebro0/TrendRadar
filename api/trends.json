@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T15:19:28.599312+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-10-15T16:27:06.700761+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 16时27分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 11时04分]"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -213,6 +224,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2988053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "标普：截至2025年6月的12个月内，新西兰实际GDP下降1.1%，且在过去五个季度中有三个季度出现经济收缩。",
           "url": "https://flash.jin10.com/detail/20251015103353489800",
           "source": "金十数据",
@@ -348,7 +370,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -571,6 +593,17 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
+          "url": "https://www.cls.cn/detail/2169939",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
           "url": "https://flash.jin10.com/detail/20251015120232496800",
           "source": "金十数据",
@@ -631,6 +664,17 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "英国AI数据中心开发商NSCALE与微软签订了约20万个英伟达GB300 GPU合同。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2988061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "OPPO发布AI全新战略",
           "url": "https://wallstreetcn.com/livenews/2987865",
           "source": "华尔街见闻-快讯",
@@ -689,7 +733,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "黄金白银飙涨原因",
@@ -801,6 +845,18 @@
           "time_info": "[14时28分 ~ 15时19分]"
         },
         {
+          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
+          "url": "https://www.cls.cn/detail/2169746",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时27分]"
+        },
+        {
           "title": "现货黄金涨破4190美元/盎司，再创历史新高，日内涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/2987905",
           "source": "华尔街见闻-快讯",
@@ -855,7 +911,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -866,7 +922,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -877,18 +933,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
-          "url": "https://www.cls.cn/detail/2169746",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -921,7 +966,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -946,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月15日（周三）收盘上涨1.76%报958.4元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）收盘上涨2.27%报11960.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251015153049560800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "现货白银日内涨幅扩大至2%，现报52.30美元/盎司。",
@@ -993,7 +1049,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1026,7 +1082,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1100,8 +1156,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 16时27分]"
+        },
+        {
+          "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
+          "url": "https://www.zhihu.com/question/1960660962592928224",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 16时27分]"
+        },
+        {
+          "title": "工信部部长会见苹果公司CEO库克",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%93%E5%85%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时27分]"
         },
         {
           "title": "iPhone Air开启无SIM卡时代",
@@ -1119,30 +1203,15 @@
           "time_info": "[01时16分 ~ 11时04分]"
         },
         {
-          "title": "工信部部长会见苹果公司CEO库克",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%93%E5%85%8B",
-          "source": "bilibili 热搜",
+          "title": "工信部部长会见苹果CEO库克",
+          "url": "https://www.douyin.com/hot/2270610",
+          "source": "抖音",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时19分]"
-        },
-        {
-          "title": "如何看待微星在新版 BIOS 内存设置中使用了「逆天香、爆香、真香、好香」这种模糊、不严谨的表述？",
-          "url": "https://www.zhihu.com/question/1960660962592928224",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时04分 ~ 15时19分]"
+          "time_info": "[13时18分 ~ 16时27分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -1154,17 +1223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "工信部部长会见苹果CEO库克",
-          "url": "https://www.douyin.com/hot/2270610",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时19分]"
         },
         {
           "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
@@ -1192,7 +1250,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "胡锡进：中美新较量打响",
@@ -1215,22 +1273,24 @@
             18,
             19,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 16时27分]"
         },
         {
           "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
           "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时27分]"
         },
         {
           "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
@@ -1242,8 +1302,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 16时27分]"
         },
         {
           "title": "中美昨天进行了工作层会谈",
@@ -1266,6 +1326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "【特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应】10月15日，外交部发言人林剑主持例行记者会。日本共同社记者提问，据报道，美国总统特朗普指责中方故意停止进口美国大豆，并表示作为报复措施，将停止从中国进口食用油。请问中方对此有何评论？林剑表示，中方在处理中美经贸问题上的立场是一贯的、明确的，贸易战、关税战没有赢家，不符合任何一方利益，双方应在平等、尊重、互惠的基础上协商解决有关问题。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/2988039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -1320,6 +1391,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 16时27分]"
+        },
+        {
+          "title": "9月新能源车企TOP10门槛飙升，小米同比暴涨2倍搭上“末班车”",
+          "url": "https://www.cls.cn/detail/2169657",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         }
       ]
     },
@@ -1383,26 +1485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 15时19分]"
         }
       ]
     }
