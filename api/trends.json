@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T13:18:54.633533+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-10-16T14:28:37.996773+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "黄金：配多少，何时抛？",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时21分 ~ 13时18分]"
+          "appearance_count": 11,
+          "time_info": "[04时21分 ~ 14时28分]"
         },
         {
           "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -87,6 +87,18 @@
           "time_info": "09时23分"
         },
         {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://www.toutiao.com/trending/7561655252278054438/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
           "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
           "url": "https://wallstreetcn.com/livenews/2988664",
           "source": "华尔街见闻-快讯",
@@ -106,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
         },
         {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
@@ -120,6 +132,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）白银ETF持仓报告",
@@ -199,17 +223,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "顾客卖出500克黄金1天赚近5万",
-          "url": "https://www.toutiao.com/trending/7560867597089439798/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
           "url": "https://flash.jin10.com/detail/20251016015840392800",
           "source": "金十数据",
@@ -254,6 +267,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "澳股创纪录收盘高位 金融、房地产和黄金股成主要推力",
+          "url": "https://flash.jin10.com/detail/20251016140440529800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "现货黄金突破4200美元",
           "url": "https://www.douyin.com/hot/2271171",
           "source": "抖音",
@@ -263,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://www.toutiao.com/trending/7561655252278054438/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "澳洲联储助理主席Kent：联储并没有考虑扩大黄金持有量。",
@@ -309,6 +322,28 @@
           "time_info": "12时22分"
         },
         {
+          "title": "现货黄金短线走低20美元，目前报4209美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2988711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "黄金涨幅52%专家称有短期回调可能",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%B6%A8%E5%B9%8552%25%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%89%E7%9F%AD%E6%9C%9F%E5%9B%9E%E8%B0%83%E5%8F%AF%E8%83%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D24%26realpos%3D24%26flag%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%25B6%25A8%25E5%25B9%258552%2525%25E4%25B8%2593%25E5%25AE%25B6%25E7%25A7%25B0%25E6%259C%2589%25E7%259F%25AD%25E6%259C%259F%25E5%259B%259E%25E8%25B0%2583%25E5%258F%25AF%25E8%2583%25BD%2523%26filter_type%3Drealtimehot%26dgr%3D0%26pos%3D25%26lcate%3D5001%26c_type%3D31%26display_time%3D1760595955%26pre_seqid%3D1760595955716016711589",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "深港通下的港股通标的证券名单调整，调入紫金黄金国际。",
           "url": "https://wallstreetcn.com/livenews/2988515",
           "source": "华尔街见闻-快讯",
@@ -333,8 +368,303 @@
       ]
     },
     {
+      "keyword_group": "ai 人工智能",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时28分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016120739164800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。 正在加快美国产能扩张步伐。",
+          "url": "https://wallstreetcn.com/livenews/2988742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
+          "url": "https://flash.jin10.com/detail/20251016084813725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "AI是否会取代人类？凯文·凯利：AI没有责任感，不会替代人类工作",
+          "url": "https://wallstreetcn.com/livenews/2988686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "凯文·凯利：五年内，中国或做出世界上最好的人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/2988685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            6,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
+        },
+        {
+          "title": "台积电(TSM.N)：人工智能市场发展非常积极。",
+          "url": "https://flash.jin10.com/detail/20251016141545683800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
+          "url": "https://flash.jin10.com/detail/20251016001441505800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时17分]"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
+          "url": "https://wallstreetcn.com/livenews/2988349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
+        },
+        {
+          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
+          "url": "https://wallstreetcn.com/livenews/2988357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
+          "url": "https://flash.jin10.com/detail/20251016004517339800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "台积电(TSM.N)：我们对人工智能这一大趋势的信心正在增强。",
+          "url": "https://flash.jin10.com/detail/20251016141525970800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
+          "url": "https://wallstreetcn.com/livenews/2988433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "台积电(TSM.N)：仍认为人工智能需求保持强劲。",
+          "url": "https://flash.jin10.com/detail/20251016141337892800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "网络热门AI诈骗鉴定",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：Arm(ARM.O)与公司宣布建立多年战略合作伙伴关系，以提升AI效率。",
+          "url": "https://flash.jin10.com/detail/20251016000714380800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：我们的基础AI软件技术，包括PyTorch，现已针对ARM进行优化。",
+          "url": "https://flash.jin10.com/detail/20251016000629837800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：将投资15亿美元在得克萨斯州建设一座数据中心，以支持人工智能工作负载。",
+          "url": "https://flash.jin10.com/detail/20251016000034568800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251016014130780800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "AI如何重塑社会未来",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%A4%BE%E4%BC%9A%E6%9C%AA%E6%9D%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26pos%3D28%26stream_entry_id%3D31%26band_rank%3D27%26q%3D%2523AI%25E5%25A6%2582%25E4%25BD%2595%25E9%2587%258D%25E5%25A1%2591%25E7%25A4%25BE%25E4%25BC%259A%25E6%259C%25AA%25E6%259D%25A5%2523%26flag%3D1%26dgr%3D0%26realpos%3D27%26display_time%3D1760591815%26pre_seqid%3D17605918159300065934",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "美联储理事沃勒：可能还需要再过几年，我们才能看到人工智能取代传统岗位所带来的新增就业。",
+          "url": "https://flash.jin10.com/detail/20251016013320437800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "汇丰：人工智能对劳动力市场造成巨大影响",
+          "url": "https://flash.jin10.com/detail/20251016122308329800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -362,6 +692,17 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时28分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
           "url": "https://www.cls.cn/detail/2170808",
           "source": "财联社热门",
@@ -373,17 +714,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时16分 ~ 13时18分]"
-        },
-        {
-          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "WTI原油期货跌幅收窄至不足0.3%，暂报58.12美元。 在美上市印度ETF收涨1.9%，美股盘后跌0.05%。 美国总统特朗普称，印度总理莫迪今天向他保证，印度不会（继续）购买俄罗斯石油。",
@@ -579,6 +909,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/2988706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "美股收盘 热门中概股多数收涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E7%83%AD%E9%97%A8%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%9A%E6%95%B0%E6%94%B6%E6%B6%A8",
           "source": "百度热搜",
@@ -603,257 +944,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
-          "url": "https://flash.jin10.com/detail/20251016120739164800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
-          "url": "https://flash.jin10.com/detail/20251016084813725800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "AI是否会取代人类？凯文·凯利：AI没有责任感，不会替代人类工作",
-          "url": "https://wallstreetcn.com/livenews/2988686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "凯文·凯利：五年内，中国或做出世界上最好的人工智能芯片",
-          "url": "https://wallstreetcn.com/livenews/2988685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时18分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
-          "url": "https://flash.jin10.com/detail/20251016001441505800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 13时18分]"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
-          "url": "https://wallstreetcn.com/livenews/2988349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
-          "url": "https://wallstreetcn.com/livenews/2988357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
-          "url": "https://flash.jin10.com/detail/20251016004517339800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
-          "url": "https://wallstreetcn.com/livenews/2988433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "网络热门AI诈骗鉴定",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：Arm(ARM.O)与公司宣布建立多年战略合作伙伴关系，以提升AI效率。",
-          "url": "https://flash.jin10.com/detail/20251016000714380800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：我们的基础AI软件技术，包括PyTorch，现已针对ARM进行优化。",
-          "url": "https://flash.jin10.com/detail/20251016000629837800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：将投资15亿美元在得克萨斯州建设一座数据中心，以支持人工智能工作负载。",
-          "url": "https://flash.jin10.com/detail/20251016000034568800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251016014130780800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "AI如何重塑社会未来",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%A4%BE%E4%BC%9A%E6%9C%AA%E6%9D%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26pos%3D28%26stream_entry_id%3D31%26band_rank%3D27%26q%3D%2523AI%25E5%25A6%2582%25E4%25BD%2595%25E9%2587%258D%25E5%25A1%2591%25E7%25A4%25BE%25E4%25BC%259A%25E6%259C%25AA%25E6%259D%25A5%2523%26flag%3D1%26dgr%3D0%26realpos%3D27%26display_time%3D1760591815%26pre_seqid%3D17605918159300065934",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "美联储理事沃勒：可能还需要再过几年，我们才能看到人工智能取代传统岗位所带来的新增就业。",
-          "url": "https://flash.jin10.com/detail/20251016013320437800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "汇丰：人工智能对劳动力市场造成巨大影响",
-          "url": "https://flash.jin10.com/detail/20251016122308329800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十图示：2025年10月15日（周三）全球股市指数-美洲市场（收盘）",
@@ -981,6 +1073,28 @@
           "time_info": "09时23分"
         },
         {
+          "title": "沪指、创业板指、沪深300指数翻红。",
+          "url": "https://wallstreetcn.com/livenews/2988717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "沪深两市成交额超1.5万亿元，较上日此时缩量846亿元。",
+          "url": "https://wallstreetcn.com/livenews/2988714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "创业板指涨超1%，沪指涨0.19%，深成指涨0.37%，保险、教育、创新药、存储芯片等方向领涨，沪深京三市上涨个股近1800只。",
           "url": "https://wallstreetcn.com/livenews/2988583",
           "source": "华尔街见闻-快讯",
@@ -995,7 +1109,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
@@ -1042,11 +1156,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 14时28分]"
         },
         {
           "title": "荣耀发布机器人手机",
@@ -1073,6 +1188,18 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "荣耀手机背面翻出一个机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E8%83%8C%E9%9D%A2%E7%BF%BB%E5%87%BA%E4%B8%80%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 14时28分]"
+        },
+        {
           "title": "千觉机器人再获亿元PreA轮融资",
           "url": "https://wallstreetcn.com/livenews/2988539",
           "source": "华尔街见闻-快讯",
@@ -1084,13 +1211,24 @@
           "time_info": "09时23分"
         },
         {
+          "title": "券商晨会精华：第四季度全面看多人形机器人板块行情",
+          "url": "https://www.cls.cn/detail/2170843",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "中国机器人“圈粉”全球采购商",
           "url": "https://wallstreetcn.com/livenews/2988672",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -1126,17 +1264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "荣耀手机背面翻出一个机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E8%83%8C%E9%9D%A2%E7%BF%BB%E5%87%BA%E4%B8%80%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
         }
       ]
     },
@@ -1152,8 +1279,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 14时28分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -1205,11 +1332,12 @@
             20,
             17,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时28分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -1293,11 +1421,12 @@
           "ranks": [
             8,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 14时28分]"
         },
         {
           "title": "固态电池新突破！新能源车续航或翻倍",
@@ -1308,8 +1437,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
         },
         {
           "title": "迪奥唇蜜含小米椒提取物 客服：丰唇",
@@ -1317,11 +1446,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
         },
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -1357,6 +1487,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
+          "url": "https://wallstreetcn.com/articles/3757182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时28分]"
+        },
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
+          "url": "https://wallstreetcn.com/livenews/2988383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
+          "url": "https://flash.jin10.com/detail/20251016043045817800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
@@ -1428,56 +1620,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
-          "url": "https://wallstreetcn.com/articles/3757182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时28分]"
-        },
-        {
-          "title": "硬刚sora2谷歌发布Veo3.1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
-          "url": "https://wallstreetcn.com/livenews/2988383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
-          "url": "https://flash.jin10.com/detail/20251016043045817800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
       "match_count": 2,
       "titles": [
@@ -1503,8 +1645,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时28分]"
         }
       ]
     },
