@@ -1,8 +1,557 @@
 {
-  "generated_at": "2025-10-16T19:16:48.446787+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2025-10-16T20:40:59.194428+08:00",
+  "total_titles_processed": 1929,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 47,
+      "titles": [
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            10,
+            8,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 20时40分]"
+        },
+        {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 19时16分]"
+        },
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            6,
+            7,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 15时19分]"
+        },
+        {
+          "title": "UP主用AI教库克说中文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时40分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016120739164800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。 正在加快美国产能扩张步伐。",
+          "url": "https://wallstreetcn.com/livenews/2988742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
+          "url": "https://flash.jin10.com/detail/20251016084813725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "美联储巴尔金：人工智能的应用似乎正在编码和呼叫中心等领域迅速普及。",
+          "url": "https://flash.jin10.com/detail/20251016203230002800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "AI是否会取代人类？凯文·凯利：AI没有责任感，不会替代人类工作",
+          "url": "https://wallstreetcn.com/livenews/2988686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "凯文·凯利：五年内，中国或做出世界上最好的人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/2988685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "三星与美国生命科学公司Grail宣布达成战略合作，将Grail的Galleri®多癌早筛检测引入亚洲。三星物产和三星电子将向Grail投资1.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2989001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：预计人工智能投资热潮将为全球经济增长贡献0.1%至0.8%。 人工智能有望提升生产率，但也可能加剧国家间的分化。 美国、日本、法国和意大利等部分G7国家财政问题较为突出，需要进行整顿。 加拿大和德国的财政空间更大。 加拿大正在以我们认为合适的方式推进预算公布。",
+          "url": "https://wallstreetcn.com/livenews/2989000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
+          "url": "https://flash.jin10.com/detail/20251016001441505800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时17分]"
+        },
+        {
+          "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
+          "url": "https://wallstreetcn.com/livenews/2988349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "台积电(TSM.N)：人工智能市场发展非常积极。",
+          "url": "https://flash.jin10.com/detail/20251016141545683800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时19分]"
+        },
+        {
+          "title": "台积电(TSM.N)：我们对人工智能这一大趋势的信心正在增强。",
+          "url": "https://flash.jin10.com/detail/20251016141525970800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时19分]"
+        },
+        {
+          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
+          "url": "https://wallstreetcn.com/livenews/2988357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
+          "url": "https://wallstreetcn.com/livenews/2988871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
+          "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
+          "url": "https://flash.jin10.com/detail/20251016004517339800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
+          "url": "https://wallstreetcn.com/livenews/2988433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
+          "url": "https://flash.jin10.com/detail/20251016165953170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "影目科技发布新款AI眼镜INMO GO3 聚焦原生内容生态建设",
+          "url": "https://wallstreetcn.com/livenews/2988997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "台积电(TSM.N)：我们正处于人工智能应用的早期阶段。",
+          "url": "https://flash.jin10.com/detail/20251016144125826800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "台积电(TSM.N)：仍认为人工智能需求保持强劲。",
+          "url": "https://flash.jin10.com/detail/20251016141337892800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "交通运输部部长刘伟：加快打造智能综合立体交通网 推动人工智能与交通运输深度融合发展",
+          "url": "https://wallstreetcn.com/livenews/2988994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "网络热门AI诈骗鉴定",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "台积电(TSM.N)：仍对AI增长前景保持乐观。",
+          "url": "https://flash.jin10.com/detail/20251016143535320800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "台积电(TSM.N)：AI产能非常紧张。",
+          "url": "https://flash.jin10.com/detail/20251016143058668800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：Arm(ARM.O)与公司宣布建立多年战略合作伙伴关系，以提升AI效率。",
+          "url": "https://flash.jin10.com/detail/20251016000714380800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：我们的基础AI软件技术，包括PyTorch，现已针对ARM进行优化。",
+          "url": "https://flash.jin10.com/detail/20251016000629837800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "台积电(TSM.N)：人工智能需求持续强劲，比我们3个月前预期的还要强劲。",
+          "url": "https://flash.jin10.com/detail/20251016142532888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
+          "url": "https://wallstreetcn.com/livenews/2988757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "雷军：AI大模型将给智能网联汽车无限的想象空间",
+          "url": "https://wallstreetcn.com/livenews/2988978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们看到人工智能可能带来生产力的提升，但同时也加剧了各国之间的分化。",
+          "url": "https://flash.jin10.com/detail/20251016201840222800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美联储理事沃勒：目前通胀率估计在2.5%左右，似乎没有什么迹象表明通胀会大幅上升。 褐皮书并未显示经济形势乐观和繁荣。 年底GDP可能走弱。 我认为关税问题最终会平息，不会有大碍。 对AI的担忧在于它是否会导致劳动力需求的结构性变化，而美联储的周期性工具无法解决这个问题。",
+          "url": "https://wallstreetcn.com/livenews/2988976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "百度搜索上线AI短剧平台，今日开启公测",
+          "url": "https://wallstreetcn.com/livenews/2988859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：人工智能投资热潮预计将为全球增长贡献0.1%至0.8%。",
+          "url": "https://flash.jin10.com/detail/20251016201700394800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美联储理事沃勒：关税不确定性以及对AI对生产力可能影响的疑问，使得企业CEO招聘意愿不强。 企业投资主要集中在AI领域，并未广泛分布。 一旦扣掉AI，企业固定投资是下降的。 大量AI相关支出实际上是行业间的资源重新分配。 美国抵押贷款和汽车贷款利率很高，条件并不宽松。 如果美联储继续下调政策利率，抵押贷款应会面临下行压力。 如果宽松的金融环境将引发景气繁荣，那么劳动力市场应该会出现这种现象。 但目前为止，情况并非如此。",
+          "url": "https://wallstreetcn.com/livenews/2988974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "台积电：关于CoWoS封装产能，仍努力在2026年提升产能。 AI相关产能非常紧张。",
+          "url": "https://wallstreetcn.com/livenews/2988749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "台积电CEO：2纳米制程预计本季度后期实现量产。 A16芯片预计明年下半年实现量产。 AI需求持续强劲，比我们三个月前预想的还要强劲。 资本支出规模在任何一年都不太可能突然下降。 明年整体展望良好。",
+          "url": "https://wallstreetcn.com/livenews/2988746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：将投资15亿美元在得克萨斯州建设一座数据中心，以支持人工智能工作负载。",
+          "url": "https://flash.jin10.com/detail/20251016000034568800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251016014130780800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "AI如何重塑社会未来",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%A4%BE%E4%BC%9A%E6%9C%AA%E6%9D%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26pos%3D28%26stream_entry_id%3D31%26band_rank%3D27%26q%3D%2523AI%25E5%25A6%2582%25E4%25BD%2595%25E9%2587%258D%25E5%25A1%2591%25E7%25A4%25BE%25E4%25BC%259A%25E6%259C%25AA%25E6%259D%25A5%2523%26flag%3D1%26dgr%3D0%26realpos%3D27%26display_time%3D1760591815%26pre_seqid%3D17605918159300065934",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。 正在加快美国产能扩张步伐。 日本第二座工厂已开始建设。 德国项目进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/2988742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "美联储理事沃勒：可能还需要再过几年，我们才能看到人工智能取代传统岗位所带来的新增就业。",
+          "url": "https://flash.jin10.com/detail/20251016013320437800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "汇丰：人工智能对劳动力市场造成巨大影响",
+          "url": "https://flash.jin10.com/detail/20251016122308329800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金 白银",
       "match_count": 39,
@@ -467,443 +1016,6 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 37,
-      "titles": [
-        {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 19时16分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11,
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 19时16分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            6,
-            7,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 15时19分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
-          "url": "https://flash.jin10.com/detail/20251016120739164800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。 正在加快美国产能扩张步伐。",
-          "url": "https://wallstreetcn.com/livenews/2988742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
-          "url": "https://flash.jin10.com/detail/20251016084813725800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "AI是否会取代人类？凯文·凯利：AI没有责任感，不会替代人类工作",
-          "url": "https://wallstreetcn.com/livenews/2988686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "凯文·凯利：五年内，中国或做出世界上最好的人工智能芯片",
-          "url": "https://wallstreetcn.com/livenews/2988685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 13时18分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
-          "url": "https://flash.jin10.com/detail/20251016001441505800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
-          "url": "https://wallstreetcn.com/livenews/2988349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "UP主用AI教库克说中文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时16分]"
-        },
-        {
-          "title": "台积电(TSM.N)：人工智能市场发展非常积极。",
-          "url": "https://flash.jin10.com/detail/20251016141545683800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时19分]"
-        },
-        {
-          "title": "台积电(TSM.N)：我们对人工智能这一大趋势的信心正在增强。",
-          "url": "https://flash.jin10.com/detail/20251016141525970800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时19分]"
-        },
-        {
-          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
-          "url": "https://wallstreetcn.com/livenews/2988357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
-          "url": "https://wallstreetcn.com/livenews/2988871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
-          "url": "https://flash.jin10.com/detail/20251016004517339800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "安永（EY，全球四大会计师事务所之一）2025年维持4%的增速，全球费用（收入）达到530亿美元。 安永报告限制，在关税支持和人工智能（AI）服务方面实现成长。",
-          "url": "https://wallstreetcn.com/livenews/2988433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
-          "url": "https://flash.jin10.com/detail/20251016165953170800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "台积电(TSM.N)：我们正处于人工智能应用的早期阶段。",
-          "url": "https://flash.jin10.com/detail/20251016144125826800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "台积电(TSM.N)：仍认为人工智能需求保持强劲。",
-          "url": "https://flash.jin10.com/detail/20251016141337892800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "网络热门AI诈骗鉴定",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BB%9C%E7%83%AD%E9%97%A8AI%E8%AF%88%E9%AA%97%E9%89%B4%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "台积电(TSM.N)：仍对AI增长前景保持乐观。",
-          "url": "https://flash.jin10.com/detail/20251016143535320800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "台积电(TSM.N)：AI产能非常紧张。",
-          "url": "https://flash.jin10.com/detail/20251016143058668800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：Arm(ARM.O)与公司宣布建立多年战略合作伙伴关系，以提升AI效率。",
-          "url": "https://flash.jin10.com/detail/20251016000714380800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：我们的基础AI软件技术，包括PyTorch，现已针对ARM进行优化。",
-          "url": "https://flash.jin10.com/detail/20251016000629837800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "台积电(TSM.N)：人工智能需求持续强劲，比我们3个月前预期的还要强劲。",
-          "url": "https://flash.jin10.com/detail/20251016142532888800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
-          "url": "https://wallstreetcn.com/livenews/2988757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "百度搜索上线AI短剧平台，今日开启公测",
-          "url": "https://wallstreetcn.com/livenews/2988859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "台积电：关于CoWoS封装产能，仍努力在2026年提升产能。 AI相关产能非常紧张。",
-          "url": "https://wallstreetcn.com/livenews/2988749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "台积电CEO：2纳米制程预计本季度后期实现量产。 A16芯片预计明年下半年实现量产。 AI需求持续强劲，比我们三个月前预想的还要强劲。 资本支出规模在任何一年都不太可能突然下降。 明年整体展望良好。",
-          "url": "https://wallstreetcn.com/livenews/2988746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：将投资15亿美元在得克萨斯州建设一座数据中心，以支持人工智能工作负载。",
-          "url": "https://flash.jin10.com/detail/20251016000034568800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251016014130780800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "AI如何重塑社会未来",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%A4%BE%E4%BC%9A%E6%9C%AA%E6%9D%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26pos%3D28%26stream_entry_id%3D31%26band_rank%3D27%26q%3D%2523AI%25E5%25A6%2582%25E4%25BD%2595%25E9%2587%258D%25E5%25A1%2591%25E7%25A4%25BE%25E4%25BC%259A%25E6%259C%25AA%25E6%259D%25A5%2523%26flag%3D1%26dgr%3D0%26realpos%3D27%26display_time%3D1760591815%26pre_seqid%3D17605918159300065934",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。 正在加快美国产能扩张步伐。 日本第二座工厂已开始建设。 德国项目进展顺利。",
-          "url": "https://wallstreetcn.com/livenews/2988742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "美联储理事沃勒：可能还需要再过几年，我们才能看到人工智能取代传统岗位所带来的新增就业。",
-          "url": "https://flash.jin10.com/detail/20251016013320437800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "汇丰：人工智能对劳动力市场造成巨大影响",
-          "url": "https://flash.jin10.com/detail/20251016122308329800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 28,
       "titles": [
@@ -915,8 +1027,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时23分 ~ 20时40分]"
         },
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -1134,7 +1246,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1449,7 +1561,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -1499,8 +1611,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "迪奥唇蜜含小米椒提取物 客服：丰唇",
@@ -1545,11 +1657,25 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 20时40分]"
+        },
+        {
+          "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791289",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时16分]"
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -1574,18 +1700,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791289",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
@@ -1622,13 +1736,24 @@
           "time_info": "11时03分"
         },
         {
+          "title": "工业和信息化部副部长辛国斌：下一步将组织编制“十五五”智能网联新能源汽车产业发展规划",
+          "url": "https://wallstreetcn.com/livenews/2988995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "港交所公告：小米集团(01810.HK)于10月16日以1.918亿港元回购400万股B类股份。",
           "url": "https://flash.jin10.com/detail/20251016182602200800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1780,7 +1905,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1998,8 +2123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时40分]"
         },
         {
           "title": "外媒：中美当前紧张局势本可避免",
@@ -2037,8 +2162,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 20时40分]"
         },
         {
           "title": "中美近期有新一轮会谈？商务部回应",
@@ -2080,7 +2205,7 @@
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "硬刚sora2谷歌发布Veo3.1",
@@ -2118,6 +2243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "Salesforce与谷歌扩大合作，将Gemini模型引入Agentforce 360平台。",
+          "url": "https://wallstreetcn.com/livenews/2988983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
@@ -2212,7 +2348,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克星链成缅甸电诈帮凶？美方调查",
@@ -2237,6 +2373,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 07时16分]"
+        },
+        {
+          "title": "巴克莱将特斯拉的目标价从275美元上调至350美元，维持“与大市持平”评级。",
+          "url": "https://wallstreetcn.com/livenews/2988999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -2260,11 +2407,12 @@
           "url": "https://www.cls.cn/detail/2171698",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时40分]"
         }
       ]
     },
