@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T09:23:27.555370+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2025-10-16T11:03:16.997840+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 11时03分]"
         },
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -51,9 +52,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "WTI原油期货跌幅收窄至不足0.3%，暂报58.12美元。 在美上市印度ETF收涨1.9%，美股盘后跌0.05%。 美国总统特朗普称，印度总理莫迪今天向他保证，印度不会（继续）购买俄罗斯石油。",
@@ -65,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "中证协通报2024年券商研究业务经营情况：大型券商加速推进A股、港股、美股研究一体化布局",
+          "url": "https://wallstreetcn.com/livenews/2988624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -243,7 +255,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -262,7 +274,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
@@ -298,11 +310,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时21分 ~ 09时23分]"
+          "appearance_count": 7,
+          "time_info": "[04时21分 ~ 11时03分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -326,7 +339,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -354,6 +367,28 @@
           "time_info": "07时16分"
         },
         {
+          "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
+          "url": "https://flash.jin10.com/detail/20251016095519384800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "首破4200美元，如何看黄金狂奔？多家公募亮观点",
+          "url": "https://www.cls.cn/detail/2170684",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "逾28亿元真金白银增持回购，券商提振投资者信心正忙",
           "url": "https://wallstreetcn.com/livenews/2988455",
           "source": "华尔街见闻-快讯",
@@ -363,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
@@ -393,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -437,7 +483,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -448,7 +494,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -459,7 +505,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
@@ -467,7 +513,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
@@ -476,7 +522,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -504,6 +550,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
@@ -540,15 +610,15 @@
           "time_info": "06时16分"
         },
         {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
+          "title": "央视主持人李梓萌遭AI仿冒带货",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
+          "source": "百度热搜",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "11时03分"
         },
         {
           "title": "网络热门AI诈骗鉴定",
@@ -560,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         },
         {
           "title": "Meta Platforms(META.O)：Arm(ARM.O)与公司宣布建立多年战略合作伙伴关系，以提升AI效率。",
@@ -631,7 +690,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2025年10月15日（周三）全球股市指数-美洲市场（收盘）",
@@ -645,6 +704,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "金十图示：2025年10月16日（周四）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20251016102735827800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "非洲股市收盘播报｜周三（10月15日），南非富时/JSE非洲领先40可交易指数收涨0.77%，至10.4万点上方，突破10月8日所创接近10.4万点的收盘历史最高位。 成分股MTN集团涨8.03%，瑞士历峰集团涨5.50%，哈莫尼黄金公司涨44.7%表现第三。",
           "url": "https://wallstreetcn.com/livenews/2988393",
           "source": "华尔街见闻-快讯",
@@ -655,6 +725,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "躲股市泡沫的人，正在吹出黄金泡沫？",
+          "url": "https://wallstreetcn.com/articles/3757234",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "美国总统特朗普谈及股市上涨。",
@@ -698,18 +779,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "躲股市泡沫的人，正在吹出黄金泡沫？",
-          "url": "https://wallstreetcn.com/articles/3757234",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -720,7 +790,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -731,15 +801,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.19%，深成指涨0.37%，保险、教育、创新药、存储芯片等方向领涨，沪深京三市上涨个股近1800只。",
+          "url": "https://wallstreetcn.com/livenews/2988583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果发布多款搭载M5芯片新品",
@@ -749,8 +830,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 11时03分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -775,20 +856,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "苹果公司正式推出M5芯片 首发3款新品",
           "url": "https://www.cls.cn/detail/2170735",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -802,6 +884,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时28分]"
+        },
+        {
+          "title": "苹果发布多款搭载M5芯片新品",
+          "url": "https://www.douyin.com/hot/2271270",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
@@ -826,21 +920,21 @@
           "time_info": "07时16分"
         },
         {
-          "title": "苹果发布多款搭载M5芯片新品",
-          "url": "https://www.douyin.com/hot/2271270",
-          "source": "抖音",
+          "title": "苹果华为OPPO将推出eSIM手机",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BAOPPO%E5%B0%86%E6%8E%A8%E5%87%BAeSIM%E6%89%8B%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%258D%258E%25E4%25B8%25BAOPPO%25E5%25B0%2586%25E6%258E%25A8%25E5%2587%25BAeSIM%25E6%2589%258B%25E6%259C%25BA%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D26%26band_rank%3D26%26pos%3D27%26cate%3D5001%26display_time%3D1760583775%26pre_seqid%3D17605837751850066229",
+          "source": "微博",
           "ranks": [
-            20
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "11时03分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
@@ -852,8 +946,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 11时03分]"
         },
         {
           "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
@@ -872,11 +966,12 @@
           "url": "https://www.toutiao.com/trending/7560732217845268526/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "千觉机器人再获亿元PreA轮融资",
@@ -885,9 +980,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "10月16日投资避雷针：三花智控连夜澄清 获得机器人大额订单传言不属实",
+          "url": "https://www.cls.cn/detail/2170900",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "中国机器人制造商云迹科技在香港上市首日走高，现涨逾40%。",
+          "url": "https://wallstreetcn.com/livenews/2988589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
@@ -907,9 +1024,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "荣耀手机背面翻出一个机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E8%83%8C%E9%9D%A2%E7%BF%BB%E5%87%BA%E4%B8%80%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     },
@@ -981,6 +1109,58 @@
       ]
     },
     {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
+          "url": "https://wallstreetcn.com/livenews/2988409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。小米集团、金山软件跌超3%，蔚来、金蝶国际跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "固态电池新突破：新能源车续航有望翻倍",
+          "url": "https://www.cls.cn/detail/2171079",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 3,
       "titles": [
@@ -1030,7 +1210,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -1046,36 +1226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
-          "url": "https://wallstreetcn.com/livenews/2988409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
         }
       ]
     },
