@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T05:16:35.145327+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-10-17T06:14:29.835177+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -15,30 +15,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 06时14分]"
         },
         {
-          "title": "周四（10月16日）纽约尾盘，标普500股指期货最终下跌0.77%，道指期货跌0.73%，纳斯达克100股指期货跌0.50%。 罗素2000股指期货跌2.22%。",
-          "url": "https://wallstreetcn.com/livenews/2989204",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2171914",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 06时14分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -74,19 +77,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2171914",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 05时16分]"
-        },
-        {
           "title": "标普500指数跌幅扩大至1%，11个板块全线溃败，金融板块重挫2.65%，能源和可选消费板块也至多跌1.6%。 费城银行指数跌3.4%，地区银行指数跌幅扩大至将近7%。 道指下跌436点跌幅0.94%，纳指跌234点跌幅1%，纳斯达克综100指数跌幅扩大至1%，半导体指数跌0.4%，罗素2000指数跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/2989152",
           "source": "华尔街见闻-快讯",
@@ -111,6 +101,18 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "周四（10月16日）纽约尾盘，标普500股指期货最终下跌0.77%，道指期货跌0.73%，纳斯达克100股指期货跌0.50%。 罗素2000股指期货跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/2989204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
           "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
           "url": "https://wallstreetcn.com/livenews/2989185",
           "source": "华尔街见闻-快讯",
@@ -133,6 +135,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "小盘股指ETF收跌2.1%，领跌美股大类资产类ETF，黄金ETF则涨超2.3%",
+          "url": "https://wallstreetcn.com/livenews/2989195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
+          "url": "https://wallstreetcn.com/livenews/2989194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "区域银行ETF暴跌6.2%，和银行业ETF领跌美股行业ETF，标普金融板块也收跌超2.7%",
+          "url": "https://wallstreetcn.com/livenews/2989192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 金龙指数跌近1%",
@@ -163,7 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -196,18 +234,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "小盘股指ETF收跌2.1%，领跌美股大类资产类ETF，黄金ETF则涨超2.3%",
-          "url": "https://wallstreetcn.com/livenews/2989195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -221,28 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
-          "url": "https://wallstreetcn.com/livenews/2989194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "区域银行ETF暴跌6.2%，和银行业ETF领跌美股行业ETF，标普金融板块也收跌超2.7%",
-          "url": "https://wallstreetcn.com/livenews/2989192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -273,9 +278,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美国总统特朗普宣称，与德国默沙东（Merck KGaA）围绕（在美国市场）降低生育药物价格达成一份协议，该公司将获得关税宽限。 礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/2989196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "美股地区银行指数收跌6.3%，华尔街银行指数跌超3.6%，英伟达“护盘”半导体指数涨约0.5%",
@@ -284,7 +300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -325,7 +341,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "顾客卖出500克黄金1天赚近5万",
@@ -335,11 +351,24 @@
             16,
             9,
             6,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
+        },
+        {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://www.toutiao.com/trending/7561655252278054438/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "time_info": "[01时17分 ~ 06时14分]"
         },
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -353,27 +382,62 @@
           "time_info": "00时24分"
         },
         {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://www.toutiao.com/trending/7561655252278054438/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时16分]"
-        },
-        {
-          "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
-          "url": "https://flash.jin10.com/detail/20251017045425711800",
+          "title": "现货黄金周五盘初涨势迅猛，升破4350美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017060940720800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时14分"
+        },
+        {
+          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
+          "url": "https://wallstreetcn.com/livenews/2989215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
+          "url": "https://flash.jin10.com/detail/20251017045425711800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "黄金再度创新高！瑞银：涨势还没结束 建议配置以对抗风险",
+          "url": "https://www.cls.cn/detail/2171680",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时14分]"
+        },
+        {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 06时14分]"
         },
         {
           "title": "黄金暴涨意味着什么",
@@ -412,17 +476,6 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
-          "title": "黄金再度创新高！瑞银：涨势还没结束 建议配置以对抗风险",
-          "url": "https://www.cls.cn/detail/2171680",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时16分]"
-        },
-        {
           "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
           "url": "https://wallstreetcn.com/livenews/2989124",
           "source": "华尔街见闻-快讯",
@@ -433,18 +486,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
-        },
-        {
-          "title": "顾客卖出500克黄金1天赚近5万",
-          "url": "https://www.toutiao.com/trending/7560867597089439798/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 04时21分]"
         },
         {
           "title": "是什么一直支持黄金价格一路飙升",
@@ -479,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "现货黄金盘初冲破4340美元/盎司，本周累涨近330美元。",
+          "url": "https://flash.jin10.com/detail/20251017060132293800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
@@ -560,6 +612,90 @@
       ]
     },
     {
+      "keyword_group": "沪深 股市",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2025年10月16日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251017040619821800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周四（10月16日），南非富时/JSE非洲领先40可交易指数收涨1.43%，逼近10.6万点，再创收盘历史新高。 成分股Sibanye Stillwater收涨8.03%，金田公司（GFI.SJ）涨7.59%，哈莫尼黄金涨6.24%，Northam Platinum涨6.01%，安格鲁阿山帝黄金（ANG）涨5.63%表现第五。 Prosus则收跌0.82%跌幅第五大，Naspers跌1.49%表现倒数第二，盟迪（NMP）跌1.74%。",
+          "url": "https://wallstreetcn.com/livenews/2989108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "美国股市延续跌势，道指下跌1%。",
+          "url": "https://flash.jin10.com/detail/20251017023430193800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美国信贷危机担忧升温 银行股市值蒸发逾1000亿美元",
+          "url": "https://flash.jin10.com/detail/20251017054104335800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "俄罗斯股市在普京与特朗普通话后上涨。",
+          "url": "https://flash.jin10.com/detail/20251017012858942800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "法国股市连续两天领跑欧洲主要股指",
+          "url": "https://wallstreetcn.com/livenews/2989098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251016234131758800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai 人工智能",
       "match_count": 7,
       "titles": [
@@ -573,8 +709,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -585,11 +721,12 @@
             25,
             23,
             24,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
         },
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
@@ -597,11 +734,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时14分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -644,88 +782,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2025年10月16日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251017040619821800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周四（10月16日），南非富时/JSE非洲领先40可交易指数收涨1.43%，逼近10.6万点，再创收盘历史新高。 成分股Sibanye Stillwater收涨8.03%，金田公司（GFI.SJ）涨7.59%，哈莫尼黄金涨6.24%，Northam Platinum涨6.01%，安格鲁阿山帝黄金（ANG）涨5.63%表现第五。 Prosus则收跌0.82%跌幅第五大，Naspers跌1.49%表现倒数第二，盟迪（NMP）跌1.74%。",
-          "url": "https://wallstreetcn.com/livenews/2989108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "美国股市延续跌势，道指下跌1%。",
-          "url": "https://flash.jin10.com/detail/20251017023430193800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "俄罗斯股市在普京与特朗普通话后上涨。",
-          "url": "https://flash.jin10.com/detail/20251017012858942800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "法国股市连续两天领跑欧洲主要股指",
-          "url": "https://wallstreetcn.com/livenews/2989098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "金十图示：2025年10月16日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251016234131758800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
@@ -738,6 +803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时21分]"
+        },
+        {
+          "title": "商务部部长王文涛会见美国苹果公司首席执行官库克",
+          "url": "https://news.ifeng.com/c/8nVWwd4gKH2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "苹果(AAPL.O)最新下跌1.2%。",
@@ -776,7 +852,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中美是否会举行新一轮经贸会谈？商务部回应",
@@ -796,11 +872,23 @@
           "ranks": [
             29,
             28,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 06时14分]"
+        },
+        {
+          "title": "事关中美会谈、稀土出口管制、稳外贸政策......商务部密集回应！",
+          "url": "https://wallstreetcn.com/articles/3757313",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
@@ -813,11 +901,12 @@
           "url": "https://wallstreetcn.com/articles/3757280",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
@@ -828,8 +917,25 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
+          "url": "https://wallstreetcn.com/livenews/2989213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
@@ -844,7 +950,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -863,8 +969,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时14分]"
         }
       ]
     }
