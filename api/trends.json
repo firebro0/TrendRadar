@@ -1,8 +1,411 @@
 {
-  "generated_at": "2025-10-16T15:19:18.747513+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-10-16T16:27:19.054038+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "黄金：配多少，何时抛？",
+          "url": "https://wallstreetcn.com/articles/3757235",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[04时21分 ~ 16时27分]"
+        },
+        {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时27分]"
+        },
+        {
+          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
+          "url": "https://www.cls.cn/detail/2170336",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "卖出500克黄金 日赚五万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8D%96%E5%87%BA500%E5%85%8B%E9%BB%84%E9%87%91+%E6%97%A5%E8%B5%9A%E4%BA%94%E4%B8%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D17%26dgr%3D0%26flag%3D0%26c_type%3D31%26stream_entry_id%3D31%26q%3D%25E5%258D%2596%25E5%2587%25BA500%25E5%2585%258B%25E9%25BB%2584%25E9%2587%2591%2520%25E6%2597%25A5%25E8%25B5%259A%25E4%25BA%2594%25E4%25B8%2587%26cate%3D5001%26band_rank%3D17%26pos%3D18%26display_time%3D1760545227%26pre_seqid%3D1760545227771014154478",
+          "source": "微博",
+          "ranks": [
+            17,
+            18,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "秋季是光子嫩肤黄金季节？勿轻信",
+          "url": "https://www.toutiao.com/trending/7561647515960606774/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时27分]"
+        },
+        {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://www.toutiao.com/trending/7561655252278054438/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时27分]"
+        },
+        {
+          "title": "金价暴涨 买黄金还是黄金股",
+          "url": "https://www.toutiao.com/trending/7561421312267439654/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            22,
+            9,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时21分]"
+        },
+        {
+          "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
+          "url": "https://flash.jin10.com/detail/20251016084128181800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 16时27分]"
+        },
+        {
+          "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
+          "url": "https://wallstreetcn.com/livenews/2988664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "黄金涨幅52%专家称有短期回调可能",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%B6%A8%E5%B9%8552%25%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%89%E7%9F%AD%E6%9C%9F%E5%9B%9E%E8%B0%83%E5%8F%AF%E8%83%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D24%26realpos%3D24%26flag%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%25B6%25A8%25E5%25B9%258552%2525%25E4%25B8%2593%25E5%25AE%25B6%25E7%25A7%25B0%25E6%259C%2589%25E7%259F%25AD%25E6%259C%259F%25E5%259B%259E%25E8%25B0%2583%25E5%258F%25AF%25E8%2583%25BD%2523%26filter_type%3Drealtimehot%26dgr%3D0%26pos%3D25%26lcate%3D5001%26c_type%3D31%26display_time%3D1760595955%26pre_seqid%3D1760595955716016711589",
+          "source": "微博",
+          "ranks": [
+            24,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时27分]"
+        },
+        {
+          "title": "现货黄金站上4240美元！又一大行“撕报告”：年底看向4400美元",
+          "url": "https://www.cls.cn/detail/2171161",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时27分]"
+        },
+        {
+          "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
+          "url": "https://wallstreetcn.com/livenews/2988417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "金价疯涨黄金回收商生意火爆",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E5%95%86%E7%94%9F%E6%84%8F%E7%81%AB%E7%88%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D21%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%2596%25AF%25E6%25B6%25A8%25E9%25BB%2584%25E9%2587%2591%25E5%259B%259E%25E6%2594%25B6%25E5%2595%2586%25E7%2594%259F%25E6%2584%258F%25E7%2581%25AB%25E7%2588%2586%2523%26pos%3D22%26filter_type%3Drealtimehot%26band_rank%3D21%26display_time%3D1760603215%26pre_seqid%3D176060321557400560125",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251016115344717800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251016115341458800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
+          "url": "https://flash.jin10.com/detail/20251016114935655800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.15吨，当前持仓量为1022.6吨。",
+          "url": "https://flash.jin10.com/detail/20251016061824816800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
+          "url": "https://flash.jin10.com/detail/20251016095519384800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "首破4200美元，如何看黄金狂奔？多家公募亮观点",
+          "url": "https://www.cls.cn/detail/2170684",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "逾28亿元真金白银增持回购，券商提振投资者信心正忙",
+          "url": "https://wallstreetcn.com/livenews/2988455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
+          "url": "https://flash.jin10.com/detail/20251016015840392800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月15日（周三）晚盘收盘上涨1.04%报960.2元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）晚盘收盘上涨2.8%报12088.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251016023523177800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
+          "url": "https://wallstreetcn.com/livenews/2988528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
+          "url": "https://wallstreetcn.com/livenews/2988450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "澳股创纪录收盘高位 金融、房地产和黄金股成主要推力",
+          "url": "https://flash.jin10.com/detail/20251016140440529800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "澳新银行：黄金本轮涨势更多受结构性因素支撑 高位价格可能会维持更久",
+          "url": "https://flash.jin10.com/detail/20251016160020734800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "现货黄金突破4200美元",
+          "url": "https://www.douyin.com/hot/2271171",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "澳洲联储助理主席Kent：联储并没有考虑扩大黄金持有量。",
+          "url": "https://wallstreetcn.com/livenews/2988446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "现货黄金再创新高 本周累涨200美元",
+          "url": "https://flash.jin10.com/detail/20251016082311268800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "现货黄金站上4240美元/盎司，再创历史新高，日内涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/2988635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "现货黄金短线走低20美元，目前报4209美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2988711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "深港通下的港股通标的证券名单调整，调入紫金黄金国际。",
+          "url": "https://wallstreetcn.com/livenews/2988515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "现货黄金站上每盎司4220美元，再创历史新高，日内涨约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2988510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "ai 人工智能",
       "match_count": 33,
@@ -17,8 +420,23 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
+        },
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时19分]"
+          "time_info": "[12时21分 ~ 16时27分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -103,20 +521,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时23分 ~ 13时18分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
@@ -208,7 +612,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -241,7 +645,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -252,7 +656,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -285,7 +689,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -296,7 +700,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -307,7 +711,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -318,7 +722,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -362,7 +766,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -391,385 +795,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "黄金：配多少，何时抛？",
-          "url": "https://wallstreetcn.com/articles/3757235",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时21分 ~ 15时19分]"
-        },
-        {
-          "title": "黄金突破4200美元！一图看懂哪些黄金概念股“金光闪闪”",
-          "url": "https://www.cls.cn/detail/2170336",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "卖出500克黄金 日赚五万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8D%96%E5%87%BA500%E5%85%8B%E9%BB%84%E9%87%91+%E6%97%A5%E8%B5%9A%E4%BA%94%E4%B8%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D17%26dgr%3D0%26flag%3D0%26c_type%3D31%26stream_entry_id%3D31%26q%3D%25E5%258D%2596%25E5%2587%25BA500%25E5%2585%258B%25E9%25BB%2584%25E9%2587%2591%2520%25E6%2597%25A5%25E8%25B5%259A%25E4%25BA%2594%25E4%25B8%2587%26cate%3D5001%26band_rank%3D17%26pos%3D18%26display_time%3D1760545227%26pre_seqid%3D1760545227771014154478",
-          "source": "微博",
-          "ranks": [
-            17,
-            18,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
-        },
-        {
-          "title": "金价暴涨 买黄金还是黄金股",
-          "url": "https://www.toutiao.com/trending/7561421312267439654/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            22,
-            9,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时21分]"
-        },
-        {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://www.toutiao.com/trending/7561655252278054438/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时19分]"
-        },
-        {
-          "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
-          "url": "https://flash.jin10.com/detail/20251016084128181800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "秋季是光子嫩肤黄金季节？勿轻信",
-          "url": "https://www.toutiao.com/trending/7561647515960606774/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
-        },
-        {
-          "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
-          "url": "https://wallstreetcn.com/livenews/2988664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "顾客卖出500克黄金1天赚近5万",
-          "url": "https://www.toutiao.com/trending/7560867597089439798/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 15时19分]"
-        },
-        {
-          "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
-          "url": "https://wallstreetcn.com/livenews/2988417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "黄金涨幅52%专家称有短期回调可能",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%B6%A8%E5%B9%8552%25%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%89%E7%9F%AD%E6%9C%9F%E5%9B%9E%E8%B0%83%E5%8F%AF%E8%83%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D24%26realpos%3D24%26flag%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%25B6%25A8%25E5%25B9%258552%2525%25E4%25B8%2593%25E5%25AE%25B6%25E7%25A7%25B0%25E6%259C%2589%25E7%259F%25AD%25E6%259C%259F%25E5%259B%259E%25E8%25B0%2583%25E5%258F%25AF%25E8%2583%25BD%2523%26filter_type%3Drealtimehot%26dgr%3D0%26pos%3D25%26lcate%3D5001%26c_type%3D31%26display_time%3D1760595955%26pre_seqid%3D1760595955716016711589",
-          "source": "微博",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时19分]"
-        },
-        {
-          "title": "金十图示：2025年10月16日（周四）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251016115344717800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十图示：2025年10月16日（周四）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251016115341458800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
-          "url": "https://flash.jin10.com/detail/20251016114935655800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.15吨，当前持仓量为1022.6吨。",
-          "url": "https://flash.jin10.com/detail/20251016061824816800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
-          "url": "https://flash.jin10.com/detail/20251016095519384800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "首破4200美元，如何看黄金狂奔？多家公募亮观点",
-          "url": "https://www.cls.cn/detail/2170684",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "现货黄金站上4240美元！又一大行“撕报告”：年底看向4400美元",
-          "url": "https://www.cls.cn/detail/2171161",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "逾28亿元真金白银增持回购，券商提振投资者信心正忙",
-          "url": "https://wallstreetcn.com/livenews/2988455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
-          "url": "https://flash.jin10.com/detail/20251016015840392800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月15日（周三）晚盘收盘上涨1.04%报960.2元/克；<br/>上海黄金交易所白银T+D 10月15日（周三）晚盘收盘上涨2.8%报12088.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251016023523177800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
-          "url": "https://wallstreetcn.com/livenews/2988528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
-          "url": "https://wallstreetcn.com/livenews/2988450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳股创纪录收盘高位 金融、房地产和黄金股成主要推力",
-          "url": "https://flash.jin10.com/detail/20251016140440529800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "现货黄金突破4200美元",
-          "url": "https://www.douyin.com/hot/2271171",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳洲联储助理主席Kent：联储并没有考虑扩大黄金持有量。",
-          "url": "https://wallstreetcn.com/livenews/2988446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "现货黄金再创新高 本周累涨200美元",
-          "url": "https://flash.jin10.com/detail/20251016082311268800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "现货黄金站上4240美元/盎司，再创历史新高，日内涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/2988635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "现货黄金短线走低20美元，目前报4209美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2988711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "深港通下的港股通标的证券名单调整，调入紫金黄金国际。",
-          "url": "https://wallstreetcn.com/livenews/2988515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "现货黄金站上每盎司4220美元，再创历史新高，日内涨约0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2988510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -804,8 +831,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
@@ -970,6 +997,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美股盘前，科技股走高，台积电涨超2%，公司Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元，阿斯麦涨1.5%，英伟达、博通均涨超1%。Salesforce盘前涨超4%，此前公司预测营收将超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "金十图示：2025年10月15日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251016004144753800",
           "source": "金十数据",
@@ -987,7 +1025,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1001,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "标普V形反转收涨0.4%，半导体指数涨约3%，小盘股指涨约1%",
@@ -1061,7 +1110,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "金十图示：2025年10月15日（周三）全球股市指数-美洲市场（收盘）",
@@ -1086,13 +1135,24 @@
           "time_info": "11时03分"
         },
         {
+          "title": "金十图示：2025年10月16日（周四）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251016161543294800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "沪深两市今日成交额合计19311.38亿元",
           "url": "https://wallstreetcn.com/livenews/2988779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1184,7 +1244,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1419,8 +1479,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 16时27分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -1521,7 +1581,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1551,7 +1611,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -1576,8 +1636,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时03分 ~ 16时27分]"
         },
         {
           "title": "固态电池新突破！新能源车续航或翻倍",
@@ -1589,8 +1649,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时27分]"
         },
         {
           "title": "迪奥唇蜜含小米椒提取物 客服：丰唇",
@@ -1605,6 +1665,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时21分 ~ 15时19分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2988836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -1631,6 +1702,17 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
+          "title": "你理想的老年生活是什么样",
+          "url": "https://www.toutiao.com/trending/7561419422410620947/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至1%。小米集团、金山软件跌超3%，蔚来、金蝶国际跌近3%。",
           "url": "https://wallstreetcn.com/livenews/2988614",
           "source": "华尔街见闻-快讯",
@@ -1648,9 +1730,85 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "外媒：中美当前紧张局势本可避免",
+          "url": "https://www.toutiao.com/trending/7560894841203785782/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时27分]"
+        },
+        {
+          "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779272",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "美学者：中美港口费不会持久，但供应链难以重建",
+          "url": "https://news.ifeng.com/c/8nUqwgoE8iA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时27分]"
+        },
+        {
+          "title": "中美近期有新一轮会谈？商务部回应",
+          "url": "https://www.toutiao.com/trending/7560887772761554985/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "【商务部：对于相互尊重基础上的平等磋商一直持开放态度】10月16日，在例行新闻发布会上，有记者提问：“中美双方是否会在近期举行新一轮的经贸会谈？”商务部新闻发言人何咏前回应表示，中方对于相互尊重基础上的平等磋商一直都持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/2988823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "【中国购买俄油问题是中美贸易谈判一部分？外交部：坚决反对美方动辄拿中方说事】法新社记者提问，美国总统特朗普昨天表示，他已收到印度总理莫迪的保证，印度将停止从俄罗斯购买石油。特朗普在讲话中补充说，现在是时候让中国也采取同样的行动了。请问，中国购买俄罗斯石油是否属于正在进行的中美贸易谈判的一部分？中方对此持何立场？ 林剑表示，中方已多次就该问题表明立场，中国同包括俄罗斯在内的世界各国开展正常的经贸能源合作，正当合法。美方的做法是典型的单边霸凌和经济胁迫，严重破坏国际经贸规则，威胁全球产业链供应链的安全稳定。 林剑强调，中方在乌克兰危机问题上，一贯秉持客观公正立场，光明磊落，有目共睹。“我们坚决反对美方动辄拿中方说事，坚决反对对中方滥施非法单边制裁和长臂管辖。如果中方的正当权益受到损害，中方必将坚决反制，坚定维护自身的主权发展和安全利益。”（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/2988797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -1658,6 +1816,20 @@
       "keyword_group": "谷歌 google pixel",
       "match_count": 5,
       "titles": [
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时27分]"
+        },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
           "url": "https://wallstreetcn.com/articles/3757182",
@@ -1668,19 +1840,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 02时28分]"
-        },
-        {
-          "title": "硬刚sora2谷歌发布Veo3.1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时19分]"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -1785,48 +1944,6 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779272",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "外媒：中美当前紧张局势本可避免",
-          "url": "https://www.toutiao.com/trending/7560894841203785782/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
-        },
-        {
-          "title": "美学者：中美港口费不会持久，但供应链难以重建",
-          "url": "https://news.ifeng.com/c/8nUqwgoE8iA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 2,
       "titles": [
@@ -1870,6 +1987,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【权威人士：多晶硅收储平台已成立传闻不实】光伏行业多晶硅收储方案进展是业内关注的焦点话题，10月16日，有传闻显示，多晶硅收储平台已经成立，其中，平台公司工商注册完成（名称“中硅产能整合有限公司”），共管账号也已开立。针对这一情况，记者从业内权威人士处获悉，该传闻消息不实。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/2988794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     }
