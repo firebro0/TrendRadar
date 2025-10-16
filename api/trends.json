@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:27:19.054038+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-10-16T17:21:19.030043+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "黄金：配多少，何时抛？",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时21分 ~ 16时27分]"
+          "appearance_count": 15,
+          "time_info": "[04时21分 ~ 17时21分]"
         },
         {
           "title": "黄金暴涨意味着什么",
@@ -69,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时21分]"
         },
         {
           "title": "黄金暴涨意味着什么",
@@ -79,11 +79,12 @@
           "ranks": [
             21,
             2,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 17时21分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 04时21分]"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251016170053448800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -155,11 +167,12 @@
           "url": "https://www.cls.cn/detail/2171161",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时21分]"
         },
         {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
@@ -194,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "男孩偷卖姥姥13克黄金仅换4200元",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%A7%A5%E5%A7%A513%E5%85%8B%E9%BB%84%E9%87%91%E4%BB%85%E6%8D%A24200%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2594%25B7%25E5%25AD%25A9%25E5%2581%25B7%25E5%258D%2596%25E5%25A7%25A5%25E5%25A7%25A513%25E5%2585%258B%25E9%25BB%2584%25E9%2587%2591%25E4%25BB%2585%25E6%258D%25A24200%25E5%2585%2583%2523%26cate%3D5001%26realpos%3D6%26pos%3D6%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D6%26flag%3D0%26dgr%3D0%26display_time%3D1760606395%26pre_seqid%3D17606063958060055153",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）黄金ETF持仓报告",
@@ -323,7 +347,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -383,6 +407,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "世界黄金协会：从战略层面看，黄金的总体持仓依然处于低位",
+          "url": "https://wallstreetcn.com/livenews/2988857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "深港通下的港股通标的证券名单调整，调入紫金黄金国际。",
           "url": "https://wallstreetcn.com/livenews/2988515",
           "source": "华尔街见闻-快讯",
@@ -408,7 +443,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -420,8 +455,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 17时21分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -432,11 +467,12 @@
             13,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时21分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -606,6 +642,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
+          "url": "https://flash.jin10.com/detail/20251016165953170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "台积电(TSM.N)：我们正处于人工智能应用的早期阶段。",
           "url": "https://flash.jin10.com/detail/20251016144125826800",
           "source": "金十数据",
@@ -648,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
+          "url": "https://wallstreetcn.com/livenews/2988871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "台积电(TSM.N)：AI产能非常紧张。",
@@ -703,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "百度搜索上线AI短剧平台，今日开启公测",
+          "url": "https://wallstreetcn.com/livenews/2988859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "台积电：关于CoWoS封装产能，仍努力在2026年提升产能。 AI相关产能非常紧张。",
@@ -799,6 +868,17 @@
       "match_count": 27,
       "titles": [
         {
+          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 17时21分]"
+        },
+        {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
           "url": "https://wallstreetcn.com/articles/3757142",
           "source": "华尔街见闻",
@@ -822,17 +902,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 16时27分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
@@ -1003,7 +1072,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1047,7 +1116,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1141,7 +1210,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1468,6 +1537,156 @@
       ]
     },
     {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "固态电池新突破：新能源车续航有望翻倍",
+          "url": "https://www.cls.cn/detail/2171079",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时03分 ~ 17时21分]"
+        },
+        {
+          "title": "固态电池新突破！新能源车续航或翻倍",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E6%96%B0%E7%AA%81%E7%A0%B4%EF%BC%81%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%88%96%E7%BF%BB%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            4,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时21分]"
+        },
+        {
+          "title": "迪奥唇蜜含小米椒提取物 客服：丰唇",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E5%A5%A5%E5%94%87%E8%9C%9C%E5%90%AB%E5%B0%8F%E7%B1%B3%E6%A4%92%E6%8F%90%E5%8F%96%E7%89%A9+%E5%AE%A2%E6%9C%8D%EF%BC%9A%E4%B8%B0%E5%94%87",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            27,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时19分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2988836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
+          "url": "https://wallstreetcn.com/livenews/2988659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
+          "url": "https://wallstreetcn.com/livenews/2988409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "你理想的老年生活是什么样",
+          "url": "https://www.toutiao.com/trending/7561419422410620947/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。小米集团、金山软件跌超3%，蔚来、金蝶国际跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
+          "url": "https://wallstreetcn.com/articles/3757280",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "何小鹏：小鹏汽车明年计划真正量产飞行汽车",
+          "url": "https://wallstreetcn.com/livenews/2988873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "小米汽车转单市场转冷",
+          "url": "https://www.toutiao.com/trending/7560868022643310601/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 11,
       "titles": [
@@ -1479,8 +1698,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 17时21分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -1610,135 +1829,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "固态电池新突破：新能源车续航有望翻倍",
-          "url": "https://www.cls.cn/detail/2171079",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时03分 ~ 16时27分]"
-        },
-        {
-          "title": "固态电池新突破！新能源车续航或翻倍",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E6%96%B0%E7%AA%81%E7%A0%B4%EF%BC%81%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%88%96%E7%BF%BB%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时27分]"
-        },
-        {
-          "title": "迪奥唇蜜含小米椒提取物 客服：丰唇",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E5%A5%A5%E5%94%87%E8%9C%9C%E5%90%AB%E5%B0%8F%E7%B1%B3%E6%A4%92%E6%8F%90%E5%8F%96%E7%89%A9+%E5%AE%A2%E6%9C%8D%EF%BC%9A%E4%B8%B0%E5%94%87",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            27,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/2988836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
-          "url": "https://wallstreetcn.com/livenews/2988659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
-          "url": "https://wallstreetcn.com/livenews/2988409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "你理想的老年生活是什么样",
-          "url": "https://www.toutiao.com/trending/7561419422410620947/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%。小米集团、金山软件跌超3%，蔚来、金蝶国际跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/2988614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "小米汽车转单市场转冷",
-          "url": "https://www.toutiao.com/trending/7560868022643310601/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "外媒：中美当前紧张局势本可避免",
@@ -1747,11 +1839,12 @@
           "ranks": [
             2,
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时21分]"
         },
         {
           "title": "大外交｜中美贸易摩擦再次升温，中国精准反制掌握“规则制定权”",
@@ -1774,19 +1867,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时21分]"
         },
         {
           "title": "中美近期有新一轮会谈？商务部回应",
           "url": "https://www.toutiao.com/trending/7560887772761554985/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
+          "title": "中美是否会举行新一轮经贸会谈？商务部回应",
+          "url": "https://www.cls.cn/detail/2171513",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "【商务部：对于相互尊重基础上的平等磋商一直持开放态度】10月16日，在例行新闻发布会上，有记者提问：“中美双方是否会在近期举行新一轮的经贸会谈？”商务部新闻发言人何咏前回应表示，中方对于相互尊重基础上的平等磋商一直都持开放态度。",
@@ -1795,7 +1900,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1806,7 +1911,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
@@ -1827,8 +1932,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 17时21分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -2001,7 +2106,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
