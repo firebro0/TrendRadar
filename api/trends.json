@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T01:17:27.813499+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-10-17T02:27:44.079280+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -23,11 +23,48 @@
           "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%8D%96%E5%87%BA500%E5%85%8B%E9%BB%84%E9%87%911%E5%A4%A9%E8%B5%9A%E8%BF%915%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
+        },
+        {
+          "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
+          "url": "https://wallstreetcn.com/livenews/2989124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时27分]"
+        },
+        {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://www.toutiao.com/trending/7561655252278054438/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时27分]"
         },
         {
           "title": "是什么一直支持黄金价格一路飙升",
@@ -42,15 +79,15 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
-          "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
-          "url": "https://wallstreetcn.com/livenews/2989124",
+          "title": "现货黄金日内涨幅达2.0%，报4292.67美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2989144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时27分"
         },
         {
           "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
@@ -59,20 +96,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时17分"
         },
         {
           "title": "现货黄金延续跌势，较高位回落约30美元，一度跌至4261美元/盎司附近。",
@@ -81,7 +107,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -92,7 +118,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -108,15 +134,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://www.toutiao.com/trending/7561655252278054438/",
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
           "source": "今日头条",
           "ranks": [
-            27
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时27分"
         },
         {
           "title": "COMEX黄金期货日内涨幅达2.0%，报4286.3美元/盎司。 现货黄金5分钟内上涨5.25美元/盎司，报4269.7美元/盎司。",
@@ -128,12 +154,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "现货黄金日内大涨2.00%，现报4292.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251017011905349800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -143,8 +180,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，11个板块全线溃败，金融板块重挫2.65%，能源和可选消费板块也至多跌1.6%。 费城银行指数跌3.4%，地区银行指数跌幅扩大至将近7%。 道指下跌436点跌幅0.94%，纳指跌234点跌幅1%，纳斯达克综100指数跌幅扩大至1%，半导体指数跌0.4%，罗素2000指数跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2989152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%。",
@@ -153,9 +201,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -174,11 +233,67 @@
           "url": "https://wallstreetcn.com/livenews/2989128",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "标普500银行指数下跌2.1%。",
+          "url": "https://flash.jin10.com/detail/20251017020004594800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时27分"
+        },
+        {
+          "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售",
+          "url": "https://wallstreetcn.com/livenews/2989138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2171914",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251017013537198800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251017013531742800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "美国三大股指下跌，标普500指数下跌0.4%，纳指下跌0.2%，道指下跌0.3%。",
@@ -187,7 +302,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -195,18 +310,19 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
           "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -215,7 +331,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -225,11 +341,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            25
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
+        },
+        {
+          "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
+          "url": "https://wallstreetcn.com/articles/3757296",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "time_info": "[01时17分 ~ 02时27分]"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
@@ -243,21 +372,21 @@
           "time_info": "00时24分"
         },
         {
-          "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
-          "url": "https://wallstreetcn.com/articles/3757296",
-          "source": "华尔街见闻",
+          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/2989137",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "02时27分"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周四（10月16日），南非富时/JSE非洲领先40可交易指数收涨1.43%，逼近10.6万点，再创收盘历史新高。 成分股Sibanye Stillwater收涨8.03%，金田公司（GFI.SJ）涨7.59%，哈莫尼黄金涨6.24%，Northam Platinum涨6.01%，安格鲁阿山帝黄金（ANG）涨5.63%表现第五。 Prosus则收跌0.82%跌幅第五大，Naspers跌1.49%表现倒数第二，盟迪（NMP）跌1.74%。",
@@ -270,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "俄罗斯股市在普京与特朗普通话后上涨。",
+          "url": "https://flash.jin10.com/detail/20251017012858942800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "法国股市连续两天领跑欧洲主要股指",
@@ -307,8 +447,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
@@ -319,8 +459,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
         }
       ]
     },
@@ -336,8 +476,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
         }
       ]
     },
@@ -350,11 +490,12 @@
           "url": "https://www.cls.cn/detail/2171698",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
         }
       ]
     }
