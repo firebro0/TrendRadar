@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T21:31:11.366649+08:00",
-  "total_titles_processed": 2028,
+  "generated_at": "2025-10-16T22:19:42.345593+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             8,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 22时19分]"
         },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -46,11 +47,12 @@
           "ranks": [
             4,
             9,
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -207,6 +209,17 @@
           "time_info": "[14时28分 ~ 15时19分]"
         },
         {
+          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时19分]"
+        },
+        {
           "title": "台积电(TSM.N)：我们对人工智能这一大趋势的信心正在增强。",
           "url": "https://flash.jin10.com/detail/20251016141525970800",
           "source": "金十数据",
@@ -217,17 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时19分]"
-        },
-        {
-          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
@@ -381,7 +383,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -458,7 +460,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -587,7 +589,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "黄金：配多少，何时抛？",
@@ -696,6 +698,21 @@
           "time_info": "[00时20分 ~ 04时21分]"
         },
         {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.toutiao.com/trending/7560867597089439798/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 22时19分]"
+        },
+        {
           "title": "世界黄金协会研究负责人：黄金市场尚未饱和 长期宏观面支撑因素仍未消失",
           "url": "https://flash.jin10.com/detail/20251016175056271800",
           "source": "金十数据",
@@ -739,20 +756,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时19分 ~ 18时21分]"
-        },
-        {
-          "title": "顾客卖出500克黄金1天赚近5万",
-          "url": "https://www.toutiao.com/trending/7560867597089439798/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 16时27分]"
         },
         {
           "title": "上海黄金交易所发布关于做好近期市场风险控制工作的通知",
@@ -893,6 +896,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
           "url": "https://flash.jin10.com/detail/20251016015840392800",
           "source": "金十数据",
@@ -932,7 +946,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -954,7 +968,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -970,6 +984,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "顾客卖出500克黄金1天赚近5万",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%8D%96%E5%87%BA500%E5%85%8B%E9%BB%84%E9%87%911%E5%A4%A9%E8%B5%9A%E8%BF%915%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "澳新银行：黄金本轮涨势更多受结构性因素支撑 高位价格可能会维持更久",
           "url": "https://flash.jin10.com/detail/20251016160020734800",
           "source": "金十数据",
@@ -979,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "现货黄金日内大涨50.05美元，现报4258.37美元/盎司，涨幅1.19%。",
+          "url": "https://flash.jin10.com/detail/20251016214754251800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "现货黄金突破4200美元",
@@ -1036,6 +1072,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "黄金连创纪录高位 分析师：黄金走势取决于降息前景及贸易局势",
+          "url": "https://flash.jin10.com/detail/20251016214315325800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "世界黄金协会：从战略层面看，黄金的总体持仓依然处于低位",
           "url": "https://wallstreetcn.com/livenews/2988857",
           "source": "华尔街见闻-快讯",
@@ -1064,7 +1111,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1075,7 +1122,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1097,7 +1144,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
@@ -1105,7 +1152,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -1115,8 +1162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 22时19分]"
         },
         {
           "title": "贸易阴霾遇上鸽派鲍威尔，科技股拖累标普纳指转跌，黄金两日新高，银油铜加密货币回落",
@@ -1339,6 +1386,28 @@
           "time_info": "19时16分"
         },
         {
+          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；Salesforce开盘涨超8%，创4月9日以来最大涨幅，此前公司预测营收将超预期；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "标普500指数高开17.96点，涨幅0.27%，报6689.02点； 道琼斯工业平均指数高开35.78点，涨幅0.08%，报46289.09点； 纳斯达克综合指数高开94.32点，涨幅0.42%，报22764.40点。",
+          "url": "https://wallstreetcn.com/livenews/2989054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "纳斯达克100指数期货触及盘中高点，此前台积电业绩公布，Q3净利润创历史新高，超预期增长39%。",
           "url": "https://wallstreetcn.com/livenews/2988762",
           "source": "华尔街见闻-快讯",
@@ -1400,9 +1469,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251016214147715800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
@@ -1441,7 +1521,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金十图示：2025年10月15日（周三）全球股市指数-美洲市场（收盘）",
@@ -1486,6 +1566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "金十图示：2025年10月16日（周四）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251016220027968800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "沪深两市今日成交额合计19311.38亿元",
@@ -1725,8 +1816,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 22时19分]"
         },
         {
           "title": "迪奥唇蜜含小米椒提取物 客服：丰唇",
@@ -1741,6 +1832,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时21分 ~ 15时19分]"
+        },
+        {
+          "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791289",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
@@ -1765,19 +1869,6 @@
           "time_info": "18时21分"
         },
         {
-          "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791289",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时31分]"
-        },
-        {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
           "url": "https://wallstreetcn.com/livenews/2988659",
           "source": "华尔街见闻-快讯",
@@ -1800,6 +1891,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
+          "title": "京东物流与小鹏汽车深化战略合作",
+          "url": "https://wallstreetcn.com/livenews/2989040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时19分]"
         },
         {
           "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
@@ -1856,17 +1959,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "京东物流与小鹏汽车深化战略合作",
-          "url": "https://wallstreetcn.com/livenews/2989040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "小米汽车转单市场转冷",
@@ -2068,7 +2160,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "苹果发布多款搭载M5芯片新品",
@@ -2139,6 +2231,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时23分 ~ 18时21分]"
+        },
+        {
+          "title": "据AXIOS网站：在与泽连斯基会晤前一天，特朗普将于周四与普京通电话，讨论俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20251016220759681800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "在与乌克兰总统泽连斯基会晤前，美国总统特朗普周四将与俄罗斯总统普京通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2989074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -2238,6 +2352,19 @@
           "time_info": "[15时19分 ~ 20时40分]"
         },
         {
+          "title": "中美是否会举行新一轮经贸会谈？商务部回应",
+          "url": "https://www.cls.cn/detail/2171513",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 22时19分]"
+        },
+        {
           "title": "外媒：中美当前紧张局势本可避免",
           "url": "https://www.toutiao.com/trending/7560894841203785782/",
           "source": "今日头条",
@@ -2263,18 +2390,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "中美是否会举行新一轮经贸会谈？商务部回应",
-          "url": "https://www.cls.cn/detail/2171513",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 21时31分]"
         },
         {
           "title": "中美近期有新一轮会谈？商务部回应",
@@ -2391,6 +2506,69 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克星链成缅甸电诈帮凶？美方调查",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "车顶维权案当事人称特斯拉上诉了",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E8%AF%89%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 07时16分]"
+        },
+        {
+          "title": "巴克莱将特斯拉的目标价从275美元上调至350美元，维持“与大市持平”评级。",
+          "url": "https://wallstreetcn.com/livenews/2988999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "特斯拉欧洲监管机构表示，车门安全是“关键优先事项”。",
+          "url": "https://wallstreetcn.com/livenews/2989062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "特斯拉欧洲监管机构表示，车门安全是“首要优先事项”。",
+          "url": "https://flash.jin10.com/detail/20251016215047631800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 4,
       "titles": [
@@ -2458,47 +2636,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克星链成缅甸电诈帮凶？美方调查",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "车顶维权案当事人称特斯拉上诉了",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E6%A1%88%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E8%AF%89%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "巴克莱将特斯拉的目标价从275美元上调至350美元，维持“与大市持平”评级。",
-          "url": "https://wallstreetcn.com/livenews/2988999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "固态电池",
       "match_count": 2,
       "titles": [
@@ -2511,8 +2648,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时19分]"
         },
         {
           "title": "固态电池材料迎多项关键突破，产业化落地提速中",
