@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T20:39:11.875311+08:00",
-  "total_titles_processed": 1919,
+  "generated_at": "2025-10-17T21:27:59.708272+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "黄金的“疯狂上涨”预示着“更大的事情”正在发生",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 21时27分]"
         },
         {
           "title": "白银不够用了！投资者疯抢免税金银币，皇家铸币厂产能告急，伦敦贵金属市场陷入\"完美风暴\"",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 21时27分]"
         },
         {
           "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
@@ -124,6 +124,32 @@
           "time_info": "[12时22分 ~ 16时26分]"
         },
         {
+          "title": "金价暴涨时4万5黄金订单蒸发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26band_rank%3D4%26display_time%3D1760704127%26pre_seqid%3D176070412752302735355159",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时27分]"
+        },
+        {
+          "title": "油价创五个月新低！主要大宗商品“形同陌路”：黄金向北，石油向南",
+          "url": "https://www.cls.cn/detail/2172572",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时27分]"
+        },
+        {
           "title": "黄金的“疯狂上涨”预示着什么",
           "url": "https://www.toutiao.com/trending/7562003351156559403/",
           "source": "今日头条",
@@ -151,17 +177,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时23分 ~ 14时28分]"
-        },
-        {
-          "title": "金价暴涨时4万5黄金订单蒸发",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26band_rank%3D4%26display_time%3D1760704127%26pre_seqid%3D176070412752302735355159",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -200,20 +215,6 @@
           "time_info": "06时14分"
         },
         {
-          "title": "油价创五个月新低！主要大宗商品“形同陌路”：黄金向北，石油向南",
-          "url": "https://www.cls.cn/detail/2172572",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时39分]"
-        },
-        {
           "title": "日本交易所对黄金和铂金ETF交易发出警告",
           "url": "https://flash.jin10.com/detail/20251017163001755800",
           "source": "金十数据",
@@ -234,6 +235,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "不到1年，10万→16万！这波黄金牛市，你抓住了吗？",
+          "url": "https://www.cls.cn/detail/2172774",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时27分]"
         },
         {
           "title": "黄金再度创新高！瑞银：涨势还没结束 建议配置以对抗风险",
@@ -309,19 +323,6 @@
           "time_info": "[18时20分 ~ 19时15分]"
         },
         {
-          "title": "不到1年，10万→16万！这波黄金牛市，你抓住了吗？",
-          "url": "https://www.cls.cn/detail/2172774",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时39分]"
-        },
-        {
           "title": "男孩偷卖姥姥13克黄金仅换4200元",
           "url": "https://www.toutiao.com/trending/7560795346507513907/",
           "source": "今日头条",
@@ -395,6 +396,18 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
+          "title": "现货黄金跌破4300美元/盎司，日内跌近0.8%。 纽约期银向下触及52美元/盎司，日内跌2.44%。",
+          "url": "https://wallstreetcn.com/livenews/2989743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时27分]"
+        },
+        {
           "title": "是什么一直支持黄金价格一路飙升",
           "url": "https://www.toutiao.com/trending/7561799628442570266/",
           "source": "今日头条",
@@ -457,7 +470,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -495,6 +508,17 @@
           "time_info": "19时15分"
         },
         {
+          "title": "欧洲央行管委内格尔：黄金仍是信任的基石，欧洲央行定期检查我们的储备。",
+          "url": "https://flash.jin10.com/detail/20251017210213125800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "上海黄金交易所为何紧急发声",
           "url": "https://www.toutiao.com/trending/7562056519311691274/",
           "source": "今日头条",
@@ -506,15 +530,15 @@
           "time_info": "17时20分"
         },
         {
-          "title": "现货黄金跌破4300美元/盎司，日内跌近0.8%。 纽约期银向下触及52美元/盎司，日内跌2.44%。",
-          "url": "https://wallstreetcn.com/livenews/2989743",
+          "title": "纽约期银日内跌超3%，现报51.70美元/盎司。 现货白银失守53美元/盎司，日内跌幅2.01%。",
+          "url": "https://wallstreetcn.com/livenews/2989761",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时39分"
+          "time_info": "21时27分"
         },
         {
           "title": "金十图示：2025年10月17日（周五）上海黄金交易所市场行情",
@@ -526,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "金价暴涨时 4万5黄金订单蒸发",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
@@ -616,6 +651,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "白银价格破1980年创下的历史高点",
+          "url": "https://www.toutiao.com/trending/7562108894290382378/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "现货黄金一度触及4380美元/盎司",
           "url": "https://flash.jin10.com/detail/20251017062401508800",
           "source": "金十数据",
@@ -625,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "现货白银失守53美元/盎司，日内跌幅2.01%。",
+          "url": "https://flash.jin10.com/detail/20251017203025013800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "COMEX黄金期货日内涨幅达2.0%，报4286.3美元/盎司。 现货黄金5分钟内上涨5.25美元/盎司，报4269.7美元/盎司。",
@@ -685,7 +742,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -695,8 +752,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 21时27分]"
         },
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -748,6 +805,17 @@
           "time_info": "[02时27分 ~ 11时01分]"
         },
         {
+          "title": "贸易担忧缓解，美股三大期指短线拉升，富时中国A50涨超0.6%，美股区域银行股盘前走高，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时27分]"
+        },
+        {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -759,15 +827,15 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
-          "title": "贸易担忧缓解，美股三大期指短线拉升，富时中国A50涨超0.6%，美股区域银行股盘前走高，美债、金银强势",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989778",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -801,17 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/2989757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，11个板块全线溃败，金融板块重挫2.65%，能源和可选消费板块也至多跌1.6%。 费城银行指数跌3.4%，地区银行指数跌幅扩大至将近7%。 道指下跌436点跌幅0.94%，纳指跌234点跌幅1%，纳斯达克综100指数跌幅扩大至1%，半导体指数跌0.4%，罗素2000指数跌1.5%。",
@@ -848,6 +905,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/2989757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时27分]"
         },
         {
           "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
@@ -1020,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
@@ -1464,7 +1544,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
@@ -1547,8 +1627,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 20时39分]"
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 21时27分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -1654,6 +1734,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "最近你写的代码里，有多大比例是 AI 帮你搞定的？",
+          "url": "https://www.zhihu.com/question/1962231054061498522",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "聚焦第二届湾区半导体投融资战略发展论坛：产业投资结构持续优化，AI及自主可控成焦点",
           "url": "https://wallstreetcn.com/livenews/2989226",
           "source": "华尔街见闻-快讯",
@@ -1671,7 +1762,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -1739,8 +1830,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 21时27分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -1753,11 +1844,12 @@
             25,
             23,
             19,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时22分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[12时22分 ~ 21时27分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1770,11 +1862,12 @@
             18,
             10,
             21,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 21时27分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -1832,8 +1925,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时27分]"
         },
         {
           "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
@@ -1918,8 +2011,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时22分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[12时22分 ~ 21时27分]"
         },
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
@@ -1944,11 +2037,12 @@
             16,
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时27分 ~ 20时39分]"
+          "appearance_count": 11,
+          "time_info": "[14时27分 ~ 21时27分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
@@ -2157,8 +2251,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时15分 ~ 20时39分]"
+          "appearance_count": 18,
+          "time_info": "[07时15分 ~ 21时27分]"
         },
         {
           "title": "事关中美会谈、稀土出口管制、稳外贸政策......商务部密集回应！",
@@ -2366,7 +2460,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
