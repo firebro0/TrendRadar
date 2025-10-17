@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T12:22:55.815646+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-10-17T13:18:07.087778+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "顾客卖出500克黄金1天赚近5万",
@@ -46,19 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时22分]"
-        },
-        {
-          "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2989124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "杭州有人600元时囤150万黄金",
@@ -70,8 +59,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
+        },
+        {
+          "title": "黄金的“疯狂上涨”预示着“更大的事情”正在发生",
+          "url": "https://wallstreetcn.com/articles/3757353",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时18分]"
+        },
+        {
+          "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2989124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "黄金暴涨意味着什么",
@@ -99,17 +111,6 @@
           "time_info": "06时14分"
         },
         {
-          "title": "金十图示：2025年10月17日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251017115756731800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
           "url": "https://wallstreetcn.com/livenews/2989215",
           "source": "华尔街见闻-快讯",
@@ -132,16 +133,30 @@
           "time_info": "[04时21分 ~ 07时16分]"
         },
         {
+          "title": "黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26dgr%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D21%26flag%3D1%26cate%3D5001%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26stream_entry_id%3D31%26display_time%3D1760664157%26pre_seqid%3D176066415729100584122",
+          "source": "微博",
+          "ranks": [
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
+        },
+        {
           "title": "金十图示：2025年10月17日（周五）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251017083324167800",
           "source": "金十数据",
           "ranks": [
             6,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "黄金暴涨背后有何原因",
@@ -156,16 +171,30 @@
           "time_info": "[09时23分 ~ 11时01分]"
         },
         {
-          "title": "黄金的“疯狂上涨”预示着“更大的事情”正在发生",
-          "url": "https://wallstreetcn.com/articles/3757353",
-          "source": "华尔街见闻",
+          "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
+          "url": "https://www.cls.cn/detail/2172233",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时18分]"
+        },
+        {
+          "title": "黄金的“疯狂上涨”预示着什么",
+          "url": "https://www.toutiao.com/trending/7562003351156559403/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时18分]"
         },
         {
           "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
@@ -180,6 +209,42 @@
           "time_info": "[05时16分 ~ 06时14分]"
         },
         {
+          "title": "金十图示：2025年10月17日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251017115756731800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "杭州有人600元一克时囤了150万黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E4%B8%80%E5%85%8B%E6%97%B6%E5%9B%A4%E4%BA%86150%E4%B8%87%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
+          "url": "https://www.cls.cn/detail/2172319",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
           "title": "顾客卖出500克黄金1天赚近5万",
           "url": "https://www.toutiao.com/trending/7560867597089439798/",
           "source": "今日头条",
@@ -191,42 +256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 06时14分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26dgr%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D21%26flag%3D1%26cate%3D5001%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26stream_entry_id%3D31%26display_time%3D1760664157%26pre_seqid%3D176066415729100584122",
-          "source": "微博",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时22分]"
-        },
-        {
-          "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
-          "url": "https://www.cls.cn/detail/2172233",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时22分]"
-        },
-        {
-          "title": "黄金的“疯狂上涨”预示着什么",
-          "url": "https://www.toutiao.com/trending/7562003351156559403/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时22分]"
         },
         {
           "title": "现货黄金日内涨幅达2.0%，报4292.67美元/盎司。",
@@ -288,6 +317,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "金十整理：金价一度冲高至4380美元，对比历史暴涨纪录，黄金本轮牛市还能走多远？",
+          "url": "https://flash.jin10.com/detail/20251017121913899800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "4300！现货黄金再破整百关口",
           "url": "https://flash.jin10.com/detail/20251017035415231800",
           "source": "金十数据",
@@ -308,28 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
-          "url": "https://www.cls.cn/detail/2172319",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "杭州有人600元一克时囤了150万黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E4%B8%80%E5%85%8B%E6%97%B6%E5%9B%A4%E4%BA%86150%E4%B8%87%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
@@ -481,6 +499,17 @@
           "time_info": "[00时24分 ~ 07时16分]"
         },
         {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时18分]"
+        },
+        {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -491,6 +520,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时27分 ~ 06时14分]"
+        },
+        {
+          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -505,28 +545,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时27分 ~ 11时01分]"
-        },
-        {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时22分]"
-        },
-        {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时22分]"
         },
         {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
@@ -860,7 +878,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -904,8 +922,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 13时18分]"
         },
         {
           "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
@@ -916,8 +934,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -935,11 +953,24 @@
           "url": "https://www.cls.cn/detail/2172161",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时18分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
+          "url": "https://flash.jin10.com/detail/20251017113854837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
@@ -954,15 +985,16 @@
           "time_info": "[02时27分 ~ 03时14分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
-          "url": "https://flash.jin10.com/detail/20251017113854837800",
-          "source": "金十数据",
+          "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
+          "url": "https://wallstreetcn.com/livenews/2989420",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
@@ -976,24 +1008,24 @@
           "time_info": "00时24分"
         },
         {
+          "title": "IMF总裁警示人工智能或扩大发展差距",
+          "url": "https://wallstreetcn.com/livenews/2989452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
           "url": "https://flash.jin10.com/detail/20251017112205880800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
-          "url": "https://wallstreetcn.com/livenews/2989420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1056,7 +1088,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十图示：2025年10月16日（周四）全球股市指数-美洲市场（收盘）",
@@ -1068,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "印尼股市下跌2.3%，至7941.793点。",
+          "url": "https://flash.jin10.com/detail/20251017122908164800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-10-17）",
@@ -1085,11 +1128,24 @@
           "url": "https://flash.jin10.com/detail/20251017114051626800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "上证指数早盘收报3877.20点，跌1.00%。 深证成指早盘收报12825.85点，跌1.99%。 创业板指早盘收报2965.47点，跌2.37%。 沪深300早盘收报4559.93点，跌1.27%。 科创50早盘收报1379.46点，跌2.62%。 中证500早盘收报7100.73点，跌1.81%。 中证1000早盘收报7265.62点，跌1.84%。",
+          "url": "https://wallstreetcn.com/livenews/2989426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "非洲股市收盘播报｜周四（10月16日），南非富时/JSE非洲领先40可交易指数收涨1.43%，逼近10.6万点，再创收盘历史新高。 成分股Sibanye Stillwater收涨8.03%，金田公司（GFI.SJ）涨7.59%，哈莫尼黄金涨6.24%，Northam Platinum涨6.01%，安格鲁阿山帝黄金（ANG）涨5.63%表现第五。 Prosus则收跌0.82%跌幅第五大，Naspers跌1.49%表现倒数第二，盟迪（NMP）跌1.74%。",
@@ -1113,17 +1169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "上证指数早盘收报3877.20点，跌1.00%。 深证成指早盘收报12825.85点，跌1.99%。 创业板指早盘收报2965.47点，跌2.37%。 沪深300早盘收报4559.93点，跌1.27%。 科创50早盘收报1379.46点，跌2.62%。 中证500早盘收报7100.73点，跌1.81%。 中证1000早盘收报7265.62点，跌1.84%。",
-          "url": "https://wallstreetcn.com/livenews/2989426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "美国股市延续跌势，道指下跌1%。",
@@ -1214,22 +1259,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时22分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时18分]"
         },
         {
           "title": "开售火爆！iPhoneAir首批售罄",
@@ -1241,6 +1276,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "iPhoneAir正式开售",
@@ -1265,6 +1312,19 @@
           "time_info": "[06时14分 ~ 09时23分]"
         },
         {
+          "title": "国行iPhone Air测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时18分]"
+        },
+        {
           "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
           "url": "https://wallstreetcn.com/livenews/2989159",
           "source": "华尔街见闻-快讯",
@@ -1275,18 +1335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时21分]"
-        },
-        {
-          "title": "国行iPhone Air测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时22分]"
         },
         {
           "title": "苹果(AAPL.O)最新下跌1.2%。",
@@ -1336,8 +1384,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 13时18分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
@@ -1350,8 +1398,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 13时18分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -1360,9 +1408,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://www.douyin.com/hot/2272799",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "建立新能源车火灾事故企业报告制度",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E7%AB%8B%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "建立新能源汽车火灾事故企业报告制度",
@@ -1376,17 +1446,6 @@
           "time_info": "11时01分"
         },
         {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://www.douyin.com/hot/2272799",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "国家市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度",
           "url": "https://wallstreetcn.com/livenews/2989387",
           "source": "华尔街见闻-快讯",
@@ -1396,17 +1455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "建立新能源车火灾事故企业报告制度",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E7%AB%8B%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         }
       ]
     },
@@ -1434,8 +1482,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时18分]"
         },
         {
           "title": "事关中美会谈、稀土出口管制、稳外贸政策......商务部密集回应！",
@@ -1448,8 +1496,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时14分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[06时14分 ~ 13时18分]"
         },
         {
           "title": "外媒：中美当前紧张局势本可避免",
@@ -1477,11 +1525,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
@@ -1499,8 +1548,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "机器人怎样改变人类生活",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%8E%E6%A0%B7%E6%94%B9%E5%8F%98%E4%BA%BA%E7%B1%BB%E7%94%9F%E6%B4%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2580%258E%25E6%25A0%25B7%25E6%2594%25B9%25E5%258F%2598%25E4%25BA%25BA%25E7%25B1%25BB%25E7%2594%259F%25E6%25B4%25BB%2523%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D15%26cate%3D5001%26realpos%3D15%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D16%26display_time%3D1760678197%26pre_seqid%3D17606781971620054728",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
         {
           "title": "美联储理事米兰：在一个机器人做更多工作的世界里，我们可能需要重新思考什么是“充分就业”，但这并不是一个合理的风险。",
           "url": "https://flash.jin10.com/detail/20251017043049059800",
@@ -1544,7 +1604,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
