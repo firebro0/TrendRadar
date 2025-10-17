@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T07:16:04.835163+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2025-10-17T09:23:20.372405+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -41,8 +41,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时27分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时27分 ~ 09时23分]"
+        },
+        {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时23分]"
         },
         {
           "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
@@ -56,15 +67,15 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
-          "source": "财联社热门",
+          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -273,6 +284,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美股三大股指齐收跌 金龙指数跌近1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%BD%90%E6%94%B6%E8%B7%8C+%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E8%B7%8C%E8%BF%911%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251017013537198800",
           "source": "金十数据",
@@ -359,12 +381,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "标普：特朗普造成1.2万亿美元的关税成本，消费者承担大头",
+          "url": "https://flash.jin10.com/detail/20251017074723066800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "顾客卖出500克黄金1天赚近5万",
@@ -376,11 +409,12 @@
             6,
             10,
             7,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时23分]"
         },
         {
           "title": "黄金暴涨意味着什么",
@@ -388,11 +422,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 09时23分]"
         },
         {
           "title": "现货白银涨至54美元/盎司，继续创历史新高，日内涨幅达2%；COMEX白银期货日内大涨4.00%，现报53.46美元/盎司。",
@@ -406,6 +441,31 @@
           "time_info": "00时24分"
         },
         {
+          "title": "黄金暴涨背后有何原因",
+          "url": "https://www.douyin.com/hot/2272448",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "黄金暴涨意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            29,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 09时23分]"
+        },
+        {
           "title": "现货黄金周五盘初涨势迅猛，升破4350美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251017060940720800",
           "source": "金十数据",
@@ -415,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "白银不够用了！投资者疯抢免税金银币，皇家铸币厂产能告急，伦敦贵金属市场陷入\"完美风暴\"",
+          "url": "https://wallstreetcn.com/articles/3757321",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
@@ -437,19 +508,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 07时16分]"
-        },
-        {
-          "title": "黄金暴涨意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
@@ -525,6 +583,17 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "金十图示：2025年10月17日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251017083324167800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "现货黄金日内暴涨100.56美元，现报4308.88美元/盎司，涨幅2.39%。",
           "url": "https://flash.jin10.com/detail/20251017035548084800",
           "source": "金十数据",
@@ -534,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "杭州有人600元时囤150万黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26dgr%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D8%26flag%3D1%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E6%259D%25AD%25E5%25B7%259E%25E6%259C%2589%25E4%25BA%25BA600%25E5%2585%2583%25E6%2597%25B6%25E5%259B%25A4150%25E4%25B8%2587%25E9%25BB%2584%25E9%2587%2591%2523%26stream_entry_id%3D31%26display_time%3D1760664157%26pre_seqid%3D176066415729100584122",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "4300！现货黄金再破整百关口",
@@ -591,6 +671,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D21%26dgr%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D21%26flag%3D1%26cate%3D5001%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26stream_entry_id%3D31%26display_time%3D1760664157%26pre_seqid%3D176066415729100584122",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "现货黄金短线回落约20美元，最新报4271.10美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251017003733530800",
           "source": "金十数据",
@@ -600,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "4300美元！现货黄金再破整百关口",
+          "url": "https://www.baidu.com/s?wd=4300%E7%BE%8E%E5%85%83%EF%BC%81%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E7%A0%B4%E6%95%B4%E7%99%BE%E5%85%B3%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "WTI原油期货目前涨0.3%，暂报58美元。 现货黄金日内涨幅达1.5%，报4271.1美元/盎司。 美国总统特朗普称，其正与俄罗斯总统普京通电话。",
@@ -619,7 +721,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -641,7 +743,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -652,7 +754,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -671,7 +773,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -684,8 +786,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时23分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -698,11 +800,12 @@
             24,
             14,
             15,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时23分]"
         },
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
@@ -714,8 +817,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 09时23分]"
+        },
+        {
+          "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
+          "url": "https://www.zhihu.com/question/1961867297695166783",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -758,9 +872,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "AI for Science 行业目前进展如何？未来在哪些领域会有发展潜力？",
+          "url": "https://www.zhihu.com/question/9749353322",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "华泰证券：关注AI算力链业绩兑现 运营商预计稳健增长",
+          "url": "https://wallstreetcn.com/livenews/2989275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "Fulton Breakefield Broenniman研究主管Michael Bailey说：现在我更担心的是投资者情绪受到打击，而不是美国地区银行的资产负债表受到重创。",
@@ -769,7 +905,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -788,7 +924,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2025年10月16日（周四）全球股市指数-美洲市场（收盘）",
@@ -800,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-10-17）",
+          "url": "https://flash.jin10.com/detail/20251017083347892800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "非洲股市收盘播报｜周四（10月16日），南非富时/JSE非洲领先40可交易指数收涨1.43%，逼近10.6万点，再创收盘历史新高。 成分股Sibanye Stillwater收涨8.03%，金田公司（GFI.SJ）涨7.59%，哈莫尼黄金涨6.24%，Northam Platinum涨6.01%，安格鲁阿山帝黄金（ANG）涨5.63%表现第五。 Prosus则收跌0.82%跌幅第五大，Naspers跌1.49%表现倒数第二，盟迪（NMP）跌1.74%。",
@@ -872,8 +1019,19 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "开售火爆！iPhoneAir首批售罄",
+          "url": "https://wallstreetcn.com/livenews/2989311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
         {
           "title": "商务部部长王文涛会见美国苹果公司首席执行官库克",
           "url": "https://news.ifeng.com/c/8nVWwd4gKH2",
@@ -882,8 +1040,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 09时23分]"
         },
         {
           "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
@@ -948,6 +1106,18 @@
           "time_info": "[00时24分 ~ 03时14分]"
         },
         {
+          "title": "两银行信用危机触发抛售，盘中美地区银行指数跌近7%、Jefferies跌11%",
+          "url": "https://wallstreetcn.com/articles/3757334",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时23分]"
+        },
+        {
           "title": "外媒：中美当前紧张局势本可避免",
           "url": "https://www.toutiao.com/trending/7560894841203785782/",
           "source": "今日头条",
@@ -966,22 +1136,41 @@
           "url": "https://wallstreetcn.com/articles/3757313",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时14分 ~ 07时16分]"
-        },
-        {
-          "title": "两银行信用危机触发抛售，盘中美地区银行指数跌近7%、Jefferies跌11%",
-          "url": "https://wallstreetcn.com/articles/3757334",
-          "source": "华尔街见闻",
-          "ranks": [
+            9,
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时14分 ~ 09时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
+          "url": "https://wallstreetcn.com/livenews/2989213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
+          "title": "美国没收柬电诈头目150亿美元比特币",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%94%B6%E6%9F%AC%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE150%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -998,8 +1187,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时23分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
@@ -1010,26 +1199,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
-          "url": "https://wallstreetcn.com/livenews/2989213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时23分]"
         }
       ]
     },
@@ -1060,11 +1231,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时23分]"
         }
       ]
     }
