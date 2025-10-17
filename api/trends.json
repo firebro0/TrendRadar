@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-10-17T16:26:13.395629+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2025-10-17T17:20:50.480160+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
-        {
-          "title": "白银不够用了！投资者疯抢免税金银币，皇家铸币厂产能告急，伦敦贵金属市场陷入\"完美风暴\"",
-          "url": "https://wallstreetcn.com/articles/3757321",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 16时26分]"
-        },
         {
           "title": "黄金的“疯狂上涨”预示着“更大的事情”正在发生",
           "url": "https://wallstreetcn.com/articles/3757353",
@@ -29,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时20分]"
+        },
+        {
+          "title": "白银不够用了！投资者疯抢免税金银币，皇家铸币厂产能告急，伦敦贵金属市场陷入\"完美风暴\"",
+          "url": "https://wallstreetcn.com/articles/3757321",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 17时20分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
@@ -40,11 +41,27 @@
             9,
             6,
             7,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时20分]"
+        },
+        {
+          "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
+          "url": "https://www.cls.cn/detail/2172319",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时26分]"
+          "time_info": "[12时22分 ~ 17时20分]"
         },
         {
           "title": "顾客卖出500克黄金1天赚近5万",
@@ -75,20 +92,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时17分 ~ 09时23分]"
-        },
-        {
-          "title": "史诗级里程碑！黄金市值站上30万亿美元大关 遥遥领先全球资产",
-          "url": "https://www.cls.cn/detail/2172319",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 16时26分]"
         },
         {
           "title": "杭州有人600元时囤150万黄金",
@@ -184,6 +187,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "日本交易所对黄金和铂金ETF交易发出警告",
+          "url": "https://flash.jin10.com/detail/20251017163001755800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
           "url": "https://wallstreetcn.com/livenews/2989215",
           "source": "华尔街见闻-快讯",
@@ -224,11 +238,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 17时20分]"
         },
         {
           "title": "现货黄金突破4330美元/盎司，日内涨2.90%。",
@@ -255,6 +270,18 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "男孩偷卖姥姥13克黄金仅换4200元",
+          "url": "https://www.toutiao.com/trending/7560795346507513907/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
+        },
+        {
           "title": "顾客卖出500克黄金1天赚近5万",
           "url": "https://www.toutiao.com/trending/7560867597089439798/",
           "source": "今日头条",
@@ -266,6 +293,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 06时14分]"
+        },
+        {
+          "title": "黄金暴涨的真相是什么",
+          "url": "https://www.toutiao.com/trending/7562057580671929875/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "现货黄金日内涨幅达2.0%，报4292.67美元/盎司。",
@@ -292,17 +331,6 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
-          "title": "男孩偷卖姥姥13克黄金仅换4200元",
-          "url": "https://www.toutiao.com/trending/7560795346507513907/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
           "title": "纽约期金突破4300美元关口，现货白银涨至54美元，双双创历史新高",
           "url": "https://wallstreetcn.com/livenews/2989124",
           "source": "华尔街见闻-快讯",
@@ -315,17 +343,6 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
-          "title": "黄金暴涨的真相是什么",
-          "url": "https://www.toutiao.com/trending/7562057580671929875/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
           "title": "是什么一直支持黄金价格一路飙升",
           "url": "https://www.toutiao.com/trending/7561799628442570266/",
           "source": "今日头条",
@@ -336,6 +353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "上期所：调整黄金和白银期货交易保证金比例和涨跌停板幅度",
+          "url": "https://flash.jin10.com/detail/20251017162611700800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "现货黄金日内暴涨100.56美元，现报4308.88美元/盎司，涨幅2.39%。",
@@ -360,6 +388,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "澳新银行：地缘政治、经济和财政不确定性使黄金仍有上涨空间",
+          "url": "https://flash.jin10.com/detail/20251017162006964800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "4300！现货黄金再破整百关口",
           "url": "https://flash.jin10.com/detail/20251017035415231800",
           "source": "金十数据",
@@ -371,6 +410,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "油价创五个月新低！主要大宗商品“形同陌路”：黄金向北，石油向南",
+          "url": "https://www.cls.cn/detail/2172572",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "现货黄金盘初冲破4340美元/盎司，本周累涨近330美元。",
           "url": "https://flash.jin10.com/detail/20251017060132293800",
           "source": "金十数据",
@@ -380,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "上海黄金交易所为何紧急发声",
+          "url": "https://www.toutiao.com/trending/7562056519311691274/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "现货白银较高位回落约0.7美元，最新报53.44美元/盎司。",
@@ -435,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "上期所：调整黄金和白银期货交易保证金比例和涨跌停板幅度",
+          "url": "https://wallstreetcn.com/livenews/2989595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "4300美元！现货黄金再破整百关口",
@@ -538,8 +610,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 17时20分]"
         },
         {
           "title": "贸易消息引发市场剧烈波动，标普V形反转，银行股业绩超预期，黄金涨穿4200美元",
@@ -683,6 +755,18 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
+          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
+          "url": "https://www.cls.cn/detail/2172177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
+        },
+        {
           "title": "投资者关注美联储降息前景：两年期美债收益率跌约8个基点，逼近3.41%，日元走强，美股下跌，金价回落",
           "url": "https://wallstreetcn.com/livenews/2989128",
           "source": "华尔街见闻-快讯",
@@ -717,17 +801,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时14分]"
-        },
-        {
-          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
-          "url": "https://www.cls.cn/detail/2172177",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "区域银行ETF暴跌6.2%，和银行业ETF领跌美股行业ETF，标普金融板块也收跌超2.7%",
@@ -815,7 +888,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -826,7 +899,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -848,7 +921,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -870,7 +943,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -914,7 +987,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1030,7 +1103,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1239,7 +1312,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
@@ -1250,8 +1323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 17时20分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -1331,8 +1404,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
@@ -1392,6 +1465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "2025世界VR产业大会将开幕 AI眼镜有望站上市场风口",
+          "url": "https://www.cls.cn/detail/2172162",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
@@ -1477,22 +1561,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时26分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时20分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1506,8 +1576,36 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时01分 ~ 17时20分]"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21,
+            20,
+            25,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时01分 ~ 16时26分]"
+          "time_info": "[12时22分 ~ 17时20分]"
+        },
+        {
+          "title": "iPhone Air的eSIM办理教程",
+          "url": "https://www.douyin.com/hot/2272840",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时20分]"
         },
         {
           "title": "开售火爆！iPhoneAir首批售罄",
@@ -1530,18 +1628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "iPhone Air的eSIM办理教程",
-          "url": "https://www.douyin.com/hot/2272840",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 16时26分]"
         },
         {
           "title": "商务部部长王文涛会见美国苹果公司首席执行官库克",
@@ -1612,11 +1698,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 16时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 17时20分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
@@ -1641,8 +1728,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 17时20分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -1656,6 +1743,19 @@
           "time_info": "[12时22分 ~ 16时26分]"
         },
         {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时20分]"
+        },
+        {
           "title": "建立新能源车火灾事故企业报告制度",
           "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E7%AB%8B%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
           "source": "百度热搜",
@@ -1666,18 +1766,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时22分 ~ 14时28分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 16时26分]"
         },
         {
           "title": "建立新能源汽车火灾事故企业报告制度",
@@ -1716,7 +1804,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国没收柬电诈头目150亿美元比特币",
@@ -1740,7 +1828,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1788,6 +1876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "比特币回落至105000美元/枚下方，日内跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/2989594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -1804,8 +1903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时15分 ~ 16时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时15分 ~ 17时20分]"
         },
         {
           "title": "事关中美会谈、稀土出口管制、稳外贸政策......商务部密集回应！",
@@ -1818,8 +1917,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时14分 ~ 16时26分]"
+          "appearance_count": 14,
+          "time_info": "[06时14分 ~ 17时20分]"
         },
         {
           "title": "中美是否会举行新一轮经贸会谈？商务部回应",
@@ -1868,11 +1967,12 @@
           "url": "https://wallstreetcn.com/livenews/2989586",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时20分]"
         },
         {
           "title": "机器人怎样改变人类生活",
@@ -1892,7 +1992,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1903,7 +2003,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1955,7 +2055,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -1971,11 +2071,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 17时20分]"
         }
       ]
     }
