@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T05:15:31.421279+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-10-19T06:16:28.470299+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -41,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -66,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -83,6 +83,20 @@
           "time_info": "[00时21分 ~ 04时18分]"
         },
         {
+          "title": "为什么AI写的文章总有一股“AI味”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88AI%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0%E6%80%BB%E6%9C%89%E4%B8%80%E8%82%A1%E2%80%9CAI%E5%91%B3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时16分]"
+        },
+        {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
           "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
@@ -93,19 +107,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "为什么AI写的文章总有一股“AI味”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88AI%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0%E6%80%BB%E6%9C%89%E4%B8%80%E8%82%A1%E2%80%9CAI%E5%91%B3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时15分]"
         }
       ]
     },
@@ -121,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "“黄金旗手”达里欧“加大火力”：黄金是唯一“不靠他人”的“永恒、普世”货币",
@@ -132,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
@@ -143,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
@@ -155,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "黄金白银突然大跳水",
@@ -184,11 +185,12 @@
             4,
             17,
             27,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -197,11 +199,12 @@
           "ranks": [
             30,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "苑举正解读中美关税战再升级",
@@ -209,11 +212,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 06时16分]"
         },
         {
           "title": "中美“三大战役”谁将笑到最后",
@@ -241,8 +245,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -252,8 +256,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -264,8 +268,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -290,11 +294,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "iPhone 17 Pro Max被曝机身褪色",
@@ -319,11 +324,12 @@
           "ranks": [
             18,
             15,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 06时16分]"
         }
       ]
     },
@@ -342,8 +348,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
@@ -353,8 +359,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         }
       ]
     },
@@ -370,8 +376,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "专家：全固态电池并不是绝对安全",
