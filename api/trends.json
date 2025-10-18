@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:21:21.572011+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2025-10-18T13:17:15.699742+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 13时17分]"
+        },
+        {
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 13时17分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -55,21 +68,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 12时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             6,
-            2,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 13时17分]"
         },
         {
           "title": "标普：将马达加斯加评级列入负面观察名单。",
@@ -96,19 +109,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时16分 ~ 10时54分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 12时21分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -419,7 +419,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "黄金的“疯狂上涨”预示着“更大的事情”正在发生",
@@ -474,16 +474,29 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
+          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
+          "url": "https://www.cls.cn/detail/2173370",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 13时17分]"
+        },
+        {
           "title": "黄金白银大跳水",
           "url": "https://www.toutiao.com/trending/7561551906565259273/",
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 13时17分]"
         },
         {
           "title": "黄金还能涨成什么样",
@@ -516,18 +529,6 @@
           "time_info": "[02时24分 ~ 07时16分]"
         },
         {
-          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
-          "url": "https://www.cls.cn/detail/2173370",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 12时21分]"
-        },
-        {
           "title": "黄金系ETF领涨市场！商品型表现更优，融资客继续重仓，部分品种溢价急升",
           "url": "https://www.cls.cn/detail/2172948",
           "source": "财联社热门",
@@ -550,6 +551,20 @@
           "time_info": "01时16分"
         },
         {
+          "title": "西部证券：黄金的“黄金时代” 黄金有望开启长期牛市",
+          "url": "https://flash.jin10.com/detail/20251018091814387800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时17分]"
+        },
+        {
           "title": "现货白银一度跌超5%，创六个月来的最大跌幅。",
           "url": "https://flash.jin10.com/detail/20251018004156361800",
           "source": "金十数据",
@@ -559,19 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "西部证券：黄金的“黄金时代” 黄金有望开启长期牛市",
-          "url": "https://flash.jin10.com/detail/20251018091814387800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时21分]"
         },
         {
           "title": "现货白银跌超5%，创最近半年来最大盘中跌幅。",
@@ -696,6 +698,17 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "黄金为何屡创新高",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E5%B1%A1%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
+        },
+        {
           "title": "黄金暴涨背后有何原因",
           "url": "https://www.douyin.com/hot/2272448",
           "source": "抖音",
@@ -811,8 +824,21 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "iPhone天气你可能真的不会用",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%A4%A9%E6%B0%94%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E7%94%A8&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D2%26pos%3D1%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26lcate%3D5001%26q%3DiPhone%25E5%25A4%25A9%25E6%25B0%2594%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E7%259A%2584%25E4%25B8%258D%25E4%25BC%259A%25E7%2594%25A8%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 13时17分]"
+        },
         {
           "title": "国行iPhone Air测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
@@ -828,18 +854,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "iPhone天气你可能真的不会用",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%A4%A9%E6%B0%94%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E7%94%A8&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D2%26pos%3D1%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26lcate%3D5001%26q%3DiPhone%25E5%25A4%25A9%25E6%25B0%2594%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E7%259A%2584%25E4%25B8%258D%25E4%25BC%259A%25E7%2594%25A8%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 12时21分]"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -871,6 +885,19 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
+          "title": "iPhone17全系包揽销量榜前三",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone17%E5%85%A8%E7%B3%BB%E5%8C%85%E6%8F%BD%E9%94%80%E9%87%8F%E6%A6%9C%E5%89%8D%E4%B8%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D8%26flag%3D1%26lcate%3D5001%26band_rank%3D7%26stream_entry_id%3D31%26realpos%3D7%26dgr%3D0%26cate%3D5001%26q%3D%2523iPhone17%25E5%2585%25A8%25E7%25B3%25BB%25E5%258C%2585%25E6%258F%25BD%25E9%2594%2580%25E9%2587%258F%25E6%25A6%259C%25E5%2589%258D%25E4%25B8%2589%2523%26filter_type%3Drealtimehot%26display_time%3D1760757984%26pre_seqid%3D176075798466103583263151",
+          "source": "微博",
+          "ranks": [
+            7,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时17分]"
+        },
+        {
           "title": "AXIOS网站记者称，泽连斯基目前正在与几位欧洲领导人举行电话会议，向他们通报最新情况。",
           "url": "https://flash.jin10.com/detail/20251018042157134800",
           "source": "金十数据",
@@ -884,16 +911,27 @@
           "time_info": "[05时16分 ~ 10时54分]"
         },
         {
-          "title": "iPhone17全系包揽销量榜前三",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone17%E5%85%A8%E7%B3%BB%E5%8C%85%E6%8F%BD%E9%94%80%E9%87%8F%E6%A6%9C%E5%89%8D%E4%B8%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D8%26flag%3D1%26lcate%3D5001%26band_rank%3D7%26stream_entry_id%3D31%26realpos%3D7%26dgr%3D0%26cate%3D5001%26q%3D%2523iPhone17%25E5%2585%25A8%25E7%25B3%25BB%25E5%258C%2585%25E6%258F%25BD%25E9%2594%2580%25E9%2587%258F%25E6%25A6%259C%25E5%2589%258D%25E4%25B8%2589%2523%26filter_type%3Drealtimehot%26display_time%3D1760757984%26pre_seqid%3D176075798466103583263151",
-          "source": "微博",
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://wallstreetcn.com/livenews/2990011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "用户曝iPhone 17 Pro/Max机身褪色",
+          "url": "https://www.toutiao.com/trending/7561374134555410442/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 13时17分]"
         },
         {
           "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
@@ -905,6 +943,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时16分]"
+        },
+        {
+          "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
+          "url": "https://wallstreetcn.com/livenews/2989997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时17分]"
         },
         {
           "title": "加拿大央行行长Tiff Macklem：虽然9月份（就业人口）表现不错，但整体劳动力市场仍然“疲软”。 确认央行将在10月29日发布（最新版经济）预期。",
@@ -919,17 +969,6 @@
           "time_info": "[03时14分 ~ 04时21分]"
         },
         {
-          "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
-          "url": "https://wallstreetcn.com/livenews/2989997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "iPhone Air全颜色开箱",
           "url": "https://www.douyin.com/hot/2273469",
           "source": "抖音",
@@ -939,23 +978,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "用户曝iPhone 17 Pro/Max机身褪色",
-          "url": "https://www.toutiao.com/trending/7561374134555410442/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
@@ -968,8 +996,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时16分 ~ 12时21分]"
+          "appearance_count": 10,
+          "time_info": "[06时16分 ~ 13时17分]"
         },
         {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
@@ -983,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
+          "url": "https://wallstreetcn.com/livenews/2990007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "我国生成式人工智能用户规模超5亿",
@@ -1016,7 +1055,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -1083,6 +1122,20 @@
           "time_info": "[00时23分 ~ 01时16分]"
         },
         {
+          "title": "中信证券：对股市依旧可以保持乐观，配置方向上可以更加谨慎",
+          "url": "https://wallstreetcn.com/livenews/2989982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时17分]"
+        },
+        {
           "title": "金十图示：2025年10月17日（周五）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251018041141583800",
           "source": "金十数据",
@@ -1106,19 +1159,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 06时17分]"
-        },
-        {
-          "title": "中信证券：对股市依旧可以保持乐观，配置方向上可以更加谨慎",
-          "url": "https://wallstreetcn.com/livenews/2989982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时21分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
@@ -1206,6 +1246,17 @@
           "time_info": "[00时22分 ~ 11时28分]"
         },
         {
+          "title": "天津新能源车辆将限号？假的",
+          "url": "https://www.toutiao.com/trending/7562127046933970995/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 13时17分]"
+        },
+        {
           "title": "小米称收到480名车主被网暴证据",
           "url": "https://www.douyin.com/hot/2273119",
           "source": "抖音",
@@ -1231,15 +1282,16 @@
           "time_info": "[09时19分 ~ 11时28分]"
         },
         {
-          "title": "天津新能源车辆将限号？假的",
-          "url": "https://www.toutiao.com/trending/7562127046933970995/",
+          "title": "新能源车火灾事故报告制度有何考量",
+          "url": "https://www.toutiao.com/trending/7562100193659850290/",
           "source": "今日头条",
           "ranks": [
-            10
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时17分]"
         },
         {
           "title": "卢伟冰否认小米是一家营销公司",
@@ -1263,17 +1315,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "新能源车火灾事故报告制度有何考量",
-          "url": "https://www.toutiao.com/trending/7562100193659850290/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         }
       ]
     },
@@ -1300,8 +1341,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 13时17分]"
         },
         {
           "title": "中美同意尽快举行新一轮经贸磋商",
@@ -1310,11 +1351,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 13时17分]"
         },
         {
           "title": "中美经贸磋商",
@@ -1334,11 +1376,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%B0%BD%E5%BF%AB%E4%B8%BE%E8%A1%8C%E6%96%B0%E4%B8%80%E8%BD%AE%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时17分]"
         },
         {
           "title": "中美同意尽快举行新一轮经贸磋商",
@@ -1514,11 +1557,12 @@
           "ranks": [
             3,
             8,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 13时17分]"
         }
       ]
     }
