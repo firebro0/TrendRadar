@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T06:16:28.470299+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-10-19T07:16:23.624365+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -41,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -66,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时13分]"
+        },
+        {
+          "title": "英伟达退出 国产AI芯片要崛起了吗",
+          "url": "https://www.toutiao.com/trending/7562416129633701419/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -122,8 +133,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "“黄金旗手”达里欧“加大火力”：黄金是唯一“不靠他人”的“永恒、普世”货币",
@@ -133,19 +144,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
           "url": "https://www.cls.cn/detail/2173370",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
@@ -156,8 +168,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "黄金白银突然大跳水",
@@ -189,8 +201,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -245,19 +257,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -268,8 +281,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -279,8 +292,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -295,11 +308,12 @@
           "ranks": [
             4,
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "iPhone 17 Pro Max被曝机身褪色",
@@ -325,11 +339,12 @@
             18,
             15,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 07时16分]"
         }
       ]
     },
@@ -348,8 +363,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
@@ -359,8 +374,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         }
       ]
     },
@@ -373,11 +388,12 @@
           "url": "https://www.cls.cn/detail/2173508",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "专家：全固态电池并不是绝对安全",
@@ -403,11 +419,12 @@
           "ranks": [
             4,
             3,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     }
