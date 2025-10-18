@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T22:15:50.999608+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2025-10-18T23:16:34.602678+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[10时54分 ~ 16时22分]"
         },
         {
+          "title": "黄金白银突然大跳水",
+          "url": "https://www.douyin.com/hot/2274166",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 23时16分]"
+        },
+        {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
           "url": "https://www.cls.cn/detail/2173370",
           "source": "财联社热门",
@@ -57,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时19分 ~ 22时15分]"
+          "appearance_count": 21,
+          "time_info": "[09时19分 ~ 23时16分]"
         },
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
@@ -75,19 +88,6 @@
           "time_info": "[00时22分 ~ 09时19分]"
         },
         {
-          "title": "黄金白银突然大跳水",
-          "url": "https://www.douyin.com/hot/2274166",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时15分]"
-        },
-        {
           "title": "“黄金狂热”到逆转的时候了吗？",
           "url": "https://wallstreetcn.com/articles/3757420",
           "source": "华尔街见闻",
@@ -99,8 +99,22 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 23时16分]"
+        },
+        {
+          "title": "“黄金旗手”达里欧“加大火力”：黄金是唯一“不靠他人”的“永恒、普世”货币",
+          "url": "https://wallstreetcn.com/articles/3757425",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[16时22分 ~ 22时15分]"
+          "time_info": "[17时17分 ~ 23时16分]"
         },
         {
           "title": "黄金",
@@ -114,20 +128,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "“黄金旗手”达里欧“加大火力”：黄金是唯一“不靠他人”的“永恒、普世”货币",
-          "url": "https://wallstreetcn.com/articles/3757425",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时17分 ~ 22时15分]"
         },
         {
           "title": "黄金还能涨成什么样",
@@ -181,11 +181,12 @@
             9,
             15,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 23时16分]"
         },
         {
           "title": "黄金为何突然大跳水",
@@ -272,6 +273,17 @@
           "time_info": "[09时19分 ~ 12时21分]"
         },
         {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 23时16分]"
+        },
+        {
           "title": "黄金为何会跳水",
           "url": "https://www.toutiao.com/trending/7562362820096953919/",
           "source": "今日头条",
@@ -306,17 +318,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 22时15分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加12.59吨，当前持仓量为1047.21吨。",
@@ -523,11 +524,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时19分 ~ 22时15分]"
+          "appearance_count": 21,
+          "time_info": "[09时19分 ~ 23时16分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -565,8 +567,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时16分 ~ 22时15分]"
+          "appearance_count": 22,
+          "time_info": "[07时16分 ~ 23时16分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -604,8 +606,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -616,8 +618,24 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[18时17分 ~ 23时16分]"
+        },
+        {
+          "title": "法国评级意外遭标普下调 财长称此举无异于雪上加霜",
+          "url": "https://wallstreetcn.com/livenews/2990052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            17,
+            20,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时16分]"
         },
         {
           "title": "标普：将马达加斯加评级列入负面观察名单。",
@@ -644,21 +662,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时16分 ~ 10时54分]"
-        },
-        {
-          "title": "法国评级意外遭标普下调 财长称此举无异于雪上加霜",
-          "url": "https://wallstreetcn.com/livenews/2990052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时15分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -982,9 +985,254 @@
       ]
     },
     {
+      "keyword_group": "ai 人工智能",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
+          "url": "https://wallstreetcn.com/articles/3757376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时16分 ~ 13时17分]"
+        },
+        {
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时17分 ~ 23时16分]"
+        },
+        {
+          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
+          "url": "https://wallstreetcn.com/livenews/2990065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            10,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时16分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
+          "url": "https://flash.jin10.com/detail/20251018223232047800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
+          "url": "https://wallstreetcn.com/livenews/2990064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时16分]"
+        },
+        {
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
+          "url": "https://wallstreetcn.com/livenews/2990007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 16时22分]"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
+          "url": "https://flash.jin10.com/detail/20251018213151998800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
+          "url": "https://wallstreetcn.com/livenews/2990078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
+        },
+        {
+          "title": "陈天桥用AIGC亲诉脑科学科普",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A4%A9%E6%A1%A5%E7%94%A8AIGC%E4%BA%B2%E8%AF%89%E8%84%91%E7%A7%91%E5%AD%A6%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时26分]"
+        },
+        {
+          "title": "我国生成式人工智能用户规模超5亿",
+          "url": "https://wallstreetcn.com/livenews/2989973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时21分]"
+        },
+        {
+          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
+          "url": "https://wallstreetcn.com/livenews/2989856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "英伟达退出 国产AI芯片要崛起了吗",
+          "url": "https://www.toutiao.com/trending/7562416129633701419/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时22分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
+          "url": "https://flash.jin10.com/detail/20251018022938290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2989806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
+          "url": "https://flash.jin10.com/detail/20251018022647390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
+          "url": "https://flash.jin10.com/detail/20251018022512322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 17,
       "titles": [
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 23时16分]"
+        },
         {
           "title": "iPhone天气你可能真的不会用",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%A4%A9%E6%B0%94%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E7%94%A8&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D2%26pos%3D1%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26lcate%3D5001%26q%3DiPhone%25E5%25A4%25A9%25E6%25B0%2594%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E7%259A%2584%25E4%25B8%258D%25E4%25BC%259A%25E7%2594%25A8%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
@@ -997,19 +1245,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时19分 ~ 13时17分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 22时15分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1102,11 +1337,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 23时16分]"
         },
         {
           "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
@@ -1210,210 +1446,6 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时16分 ~ 13时17分]"
-        },
-        {
-          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
-          "url": "https://www.cls.cn/detail/2172757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 22时15分]"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
-          "url": "https://flash.jin10.com/detail/20251018213151998800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
-          "url": "https://wallstreetcn.com/livenews/2990078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
-          "url": "https://wallstreetcn.com/livenews/2990065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时15分]"
-        },
-        {
-          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
-          "url": "https://wallstreetcn.com/livenews/2990064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时15分]"
-        },
-        {
-          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
-          "url": "https://wallstreetcn.com/livenews/2990007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时22分]"
-        },
-        {
-          "title": "陈天桥用AIGC亲诉脑科学科普",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A4%A9%E6%A1%A5%E7%94%A8AIGC%E4%BA%B2%E8%AF%89%E8%84%91%E7%A7%91%E5%AD%A6%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时26分]"
-        },
-        {
-          "title": "我国生成式人工智能用户规模超5亿",
-          "url": "https://wallstreetcn.com/livenews/2989973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时21分]"
-        },
-        {
-          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
-          "url": "https://wallstreetcn.com/livenews/2989856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "英伟达退出 国产AI芯片要崛起了吗",
-          "url": "https://www.toutiao.com/trending/7562416129633701419/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时22分]"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
-          "url": "https://flash.jin10.com/detail/20251018022938290800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2989806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
-          "url": "https://flash.jin10.com/detail/20251018022647390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
-          "url": "https://flash.jin10.com/detail/20251018022512322800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
       "match_count": 12,
       "titles": [
@@ -1452,8 +1484,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时21分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[12时21分 ~ 23时16分]"
         },
         {
           "title": "中美同意尽快举行新一轮经贸磋商",
@@ -1479,6 +1511,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时16分 ~ 16时22分]"
+        },
+        {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时34分 ~ 23时16分]"
         },
         {
           "title": "中美经贸磋商",
@@ -1507,18 +1552,6 @@
           "time_info": "[18时17分 ~ 21时22分]"
         },
         {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 22时15分]"
-        },
-        {
           "title": "中美同意尽快举行新一轮经贸磋商",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%B0%BD%E5%BF%AB%E4%B8%BE%E8%A1%8C%E6%96%B0%E4%B8%80%E8%BD%AE%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D22%26flag%3D1%26lcate%3D5001%26band_rank%3D21%26stream_entry_id%3D31%26realpos%3D21%26dgr%3D0%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2590%258C%25E6%2584%258F%25E5%25B0%25BD%25E5%25BF%25AB%25E4%25B8%25BE%25E8%25A1%258C%25E6%2596%25B0%25E4%25B8%2580%25E8%25BD%25AE%25E7%25BB%258F%25E8%25B4%25B8%25E7%25A3%258B%25E5%2595%2586%2523%26filter_type%3Drealtimehot%26display_time%3D1760757984%26pre_seqid%3D176075798466103583263151",
           "source": "微博",
@@ -1529,6 +1562,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 12时21分]"
+        },
+        {
+          "title": "中美“三大战役”谁将笑到最后",
+          "url": "https://www.toutiao.com/trending/7562520415218699817/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
         },
         {
           "title": "谢锋谈中美关系",
@@ -1551,17 +1596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "中美“三大战役”谁将笑到最后",
-          "url": "https://www.toutiao.com/trending/7562520415218699817/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         }
       ]
     },
@@ -1643,11 +1677,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时16分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -1655,11 +1690,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时16分]"
         },
         {
           "title": "特斯拉：咨询公司Institutional Shareholders Services（ISS）完全错过投资的基本点。",
@@ -1711,8 +1747,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 23时16分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -1983,8 +2019,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[20时34分 ~ 23时16分]"
         },
         {
           "title": "专家：全固态电池并不是绝对安全",
