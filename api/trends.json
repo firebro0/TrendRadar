@@ -1,276 +1,127 @@
 {
-  "generated_at": "2025-10-18T23:16:34.602678+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-10-19T00:21:01.537517+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 41,
+      "keyword_group": "ai 人工智能",
+      "match_count": 7,
       "titles": [
         {
-          "title": "黄金的“疯狂上涨”预示着“更大的事情”正在发生",
-          "url": "https://wallstreetcn.com/articles/3757353",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时19分]"
-        },
-        {
-          "title": "黄金还能不能跌回 900?",
-          "url": "https://www.zhihu.com/question/1962162767436965331",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时16分]"
-        },
-        {
-          "title": "黄金白银大跳水",
-          "url": "https://www.toutiao.com/trending/7561551906565259273/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 16时22分]"
-        },
-        {
-          "title": "黄金白银突然大跳水",
-          "url": "https://www.douyin.com/hot/2274166",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 23时16分]"
-        },
-        {
-          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
-          "url": "https://www.cls.cn/detail/2173370",
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5,
-            6,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时19分 ~ 23时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "金价暴涨时4万5黄金订单蒸发",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26stream_entry_id%3D31%26flag%3D0%26realpos%3D9%26dgr%3D0%26band_rank%3D9%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
-          "source": "微博",
+          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
+          "url": "https://flash.jin10.com/detail/20251018223232047800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
+        {
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
+          "url": "https://flash.jin10.com/detail/20251018213151998800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
+          "url": "https://wallstreetcn.com/livenews/2990078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
+          "url": "https://wallstreetcn.com/livenews/2990065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
+          "url": "https://wallstreetcn.com/livenews/2990064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 5,
+      "titles": [
         {
           "title": "“黄金狂热”到逆转的时候了吗？",
           "url": "https://wallstreetcn.com/articles/3757420",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 23时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "“黄金旗手”达里欧“加大火力”：黄金是唯一“不靠他人”的“永恒、普世”货币",
           "url": "https://wallstreetcn.com/articles/3757425",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时17分 ~ 23时16分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D20%26stream_entry_id%3D31%26flag%3D0%26realpos%3D21%26dgr%3D0%26band_rank%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "黄金还能涨成什么样",
-          "url": "https://www.douyin.com/hot/2273212",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 07时16分]"
-        },
-        {
-          "title": "黄金为何屡创新高",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E5%B1%A1%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时22分]"
-        },
-        {
-          "title": "白银年内狂涨87% 比黄金还“疯”",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E5%B9%B4%E5%86%85%E7%8B%82%E6%B6%A887%25+%E6%AF%94%E9%BB%84%E9%87%91%E8%BF%98%E2%80%9C%E7%96%AF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            25,
-            19,
-            12,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时24分 ~ 07时16分]"
-        },
-        {
-          "title": "德银：黄金在全球储备中占比升至30%",
-          "url": "https://flash.jin10.com/detail/20251018163428322800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            9,
-            15,
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 23时16分]"
-        },
-        {
-          "title": "黄金为何突然大跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "黄金系ETF领涨市场！商品型表现更优，融资客继续重仓，部分品种溢价急升",
-          "url": "https://www.cls.cn/detail/2172948",
+          "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
+          "url": "https://www.cls.cn/detail/2173370",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 06时17分]"
-        },
-        {
-          "title": "COMEX白银期货日内跌幅达6.0%，报50.07美元/盎司。 COMEX黄金期货日内跌幅达2.0%，报4217.7美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2989841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "西部证券：黄金的“黄金时代” 黄金有望开启长期牛市",
-          "url": "https://flash.jin10.com/detail/20251018091814387800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时17分]"
-        },
-        {
-          "title": "现货白银一度跌超5%，创六个月来的最大跌幅。",
-          "url": "https://flash.jin10.com/detail/20251018004156361800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "现货白银跌超5%，创最近半年来最大盘中跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2989839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时24分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加74.79吨，当前持仓量为15497.4吨。欢迎点击查看数据中心",
-          "url": "https://flash.jin10.com/detail/20251018081505315800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时21分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
@@ -280,1817 +131,187 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时21分 ~ 23时16分]"
-        },
-        {
-          "title": "黄金为何会跳水",
-          "url": "https://www.toutiao.com/trending/7562362820096953919/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时21分]"
-        },
-        {
-          "title": "老铺黄金计划年内第三次提价，不足两月现货黄金累计涨幅近三成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31798141",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 05时16分]"
-        },
-        {
-          "title": "金价暴涨时 4万5黄金订单蒸发",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B6+4%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加12.59吨，当前持仓量为1047.21吨。",
-          "url": "https://flash.jin10.com/detail/20251018080811476800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 11时28分]"
-        },
-        {
-          "title": "贸易担忧有所缓解 现货黄金跌破4200美元 白银日内跌逾6%",
-          "url": "https://www.cls.cn/detail/2173337",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 11时28分]"
-        },
-        {
-          "title": "“老债王”格罗斯：黄金已成Meme资产，地区银行“蟑螂”将继续影响股债",
-          "url": "https://wallstreetcn.com/articles/3757408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时34分 ~ 20时35分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "“老债王”格罗斯：建议稍等再拥有“动量/迷因资产”黄金，地区银行是“蟑螂”",
-          "url": "https://wallstreetcn.com/livenews/2989818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "现货黄金日内跌幅达3.0%，报4195.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2989848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "现货黄金跌约1.8%，一度跌穿4200美元，本周仍然涨5.7%",
-          "url": "https://wallstreetcn.com/livenews/2989895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "黄金暴涨背后有何原因",
-          "url": "https://www.douyin.com/hot/2272448",
+          "title": "黄金白银突然大跳水",
+          "url": "https://www.douyin.com/hot/2274166",
           "source": "抖音",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 10时54分]"
-        },
-        {
-          "title": "黄金大跳水原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D24%26pos%3D25%26stream_entry_id%3D31%26realpos%3D24%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
-          "source": "微博",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 10时54分]"
-        },
-        {
-          "title": "金价暴涨男子买黄金反亏千元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%94%B7%E5%AD%90%E4%B9%B0%E9%BB%84%E9%87%91%E5%8F%8D%E4%BA%8F%E5%8D%83%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D26%26stream_entry_id%3D31%26flag%3D1%26realpos%3D27%26dgr%3D0%26band_rank%3D27%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E7%2594%25B7%25E5%25AD%2590%25E4%25B9%25B0%25E9%25BB%2584%25E9%2587%2591%25E5%258F%258D%25E4%25BA%258F%25E5%258D%2583%25E5%2585%2583%2523%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "男孩偷卖姥姥13克黄金仅换4200元",
-          "url": "https://www.toutiao.com/trending/7560795346507513907/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月17日（周五）晚盘收盘下跌1.85%报970.38元/克；<br/>上海黄金交易所白银T+D 10月17日（周五）晚盘收盘下跌3.82%报11725.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251018023252219800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "现货黄金向下触及4210美元/盎司，日内跌2.64%。",
-          "url": "https://flash.jin10.com/detail/20251018003421112800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "COMEX白银期货日内跌幅达6.5%，报49.83美元/盎司。 COMEX黄金期货日内跌幅达2.0%，报4217.7美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2989841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "黄金价格“抛物线式”上涨",
-          "url": "https://www.toutiao.com/trending/7562476629914553883/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "黄子韬给徐艺洋戴黄金皇冠",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%BB%99%E5%BE%90%E8%89%BA%E6%B4%8B%E6%88%B4%E9%BB%84%E9%87%91%E7%9A%87%E5%86%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D23%26pos%3D24%26stream_entry_id%3D31%26realpos%3D23%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%25BB%2584%25E5%25AD%2590%25E9%259F%25AC%25E7%25BB%2599%25E5%25BE%2590%25E8%2589%25BA%25E6%25B4%258B%25E6%2588%25B4%25E9%25BB%2584%25E9%2587%2591%25E7%259A%2587%25E5%2586%25A0%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "“债王”格罗斯：黄金已成为一种动量/模因资产。如果你想持有黄金，不妨再等等。",
-          "url": "https://flash.jin10.com/detail/20251017231008321800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "现货白银跌4%，现货黄金跌2%，投资者对美国地区银行的担忧情绪降温",
-          "url": "https://wallstreetcn.com/livenews/2989798",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 38,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时19分 ~ 23时16分]"
-        },
-        {
-          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            6,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时16分 ~ 23时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时17分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 23时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
           "url": "https://www.cls.cn/detail/2173450",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 23时16分]"
-        },
-        {
-          "title": "法国评级意外遭标普下调 财长称此举无异于雪上加霜",
-          "url": "https://wallstreetcn.com/livenews/2990052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            17,
-            20,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 23时16分]"
-        },
-        {
-          "title": "标普：将马达加斯加评级列入负面观察名单。",
-          "url": "https://flash.jin10.com/detail/20251018042100520800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时16分 ~ 10时54分]"
-        },
-        {
-          "title": "标普：确认希腊评级为“BBB/A-2”；前景稳定。",
-          "url": "https://flash.jin10.com/detail/20251018041722096800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时16分 ~ 10时54分]"
-        },
-        {
-          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2989895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "周五（10月17日）纽约尾盘，标普500股指期货最终上涨0.66%，道指期货涨0.61%，纳斯达克100股指期货涨0.84%。 罗素2000股指期货跌0.43%。",
-          "url": "https://wallstreetcn.com/livenews/2989912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "法国财长Lescure回应标普下调主权信用评级，称：政府实现2025年（预算）赤字目标的态度是坚决的。 政府坚决推进到2029年将赤字占GDP比重降低至3%。",
-          "url": "https://wallstreetcn.com/livenews/2989924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "标普500指数涨超0.3%，日内呈现出第三波反弹行情。 道指涨174点涨幅0.38%，纳指涨0.26%，银行指数涨0.29%，半导体指数则跌0.79%，罗素2000指数跌1%。",
-          "url": "https://wallstreetcn.com/livenews/2989863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时21分]"
-        },
-        {
-          "title": "标普：预计法国未来三年的赤字将保持高位。",
-          "url": "https://flash.jin10.com/detail/20251018041618651800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
-          "url": "https://wallstreetcn.com/livenews/2989930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时19分]"
-        },
-        {
-          "title": "法国财政部在：法国经济增长保持稳定。 2029年实现3%的财政赤字率是硬性目标。 标普降级是对我们严肃财政的警示。 需要继续说服市场。",
-          "url": "https://wallstreetcn.com/livenews/2990023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时18分]"
-        },
-        {
-          "title": "标普：若无重大额外的预算赤字削减措施，法国的财政整顿步伐可能将慢于此前预期。",
-          "url": "https://flash.jin10.com/detail/20251018041528700800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2989929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时19分]"
-        },
-        {
-          "title": "标普：预计政策不确定性将通过拖累投资活动、私人消费和经济增长，影响法国经济。",
-          "url": "https://flash.jin10.com/detail/20251018041503498800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "标普：尽管已向议会提交了2026年预算草案，但法国政府财政的不确定性依然较高。",
-          "url": "https://flash.jin10.com/detail/20251018041430458800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "标普：预计法国2028年一般政府债务将达到GDP的121%。",
-          "url": "https://flash.jin10.com/detail/20251018041422535800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "标普：将法国评级从“AA-/A-1+”下调至“A+/A-1”；展望稳定，因该国预算整合风险加大。",
-          "url": "https://flash.jin10.com/detail/20251018041355503800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "欧元兑美元刷新日低至1.1655，此前标普下调法国主权信用评级。",
-          "url": "https://wallstreetcn.com/livenews/2989906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040735282800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040725341800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251018040554537800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时19分]"
-        },
-        {
-          "title": "标普：下调法国评级至A+（之前为AA-），前景展望稳定。",
-          "url": "https://wallstreetcn.com/livenews/2989901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004100185800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004043733800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7562026461385834537/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "标普：下调法国信用评级",
-          "url": "https://wallstreetcn.com/livenews/2989901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai 人工智能",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时16分 ~ 13时17分]"
-        },
-        {
-          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
-          "url": "https://www.cls.cn/detail/2172757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 23时16分]"
-        },
-        {
-          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
-          "url": "https://wallstreetcn.com/livenews/2990065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            10,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 23时16分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
-          "url": "https://flash.jin10.com/detail/20251018223232047800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
-          "url": "https://wallstreetcn.com/livenews/2990064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 23时16分]"
-        },
-        {
-          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
-          "url": "https://wallstreetcn.com/livenews/2990084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
-          "url": "https://wallstreetcn.com/livenews/2990007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时22分]"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
-          "url": "https://flash.jin10.com/detail/20251018213151998800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时16分]"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
-          "url": "https://wallstreetcn.com/livenews/2990078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时16分]"
-        },
-        {
-          "title": "陈天桥用AIGC亲诉脑科学科普",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A4%A9%E6%A1%A5%E7%94%A8AIGC%E4%BA%B2%E8%AF%89%E8%84%91%E7%A7%91%E5%AD%A6%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时26分]"
-        },
-        {
-          "title": "我国生成式人工智能用户规模超5亿",
-          "url": "https://wallstreetcn.com/livenews/2989973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时21分]"
-        },
-        {
-          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
-          "url": "https://wallstreetcn.com/livenews/2989856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "英伟达退出 国产AI芯片要崛起了吗",
-          "url": "https://www.toutiao.com/trending/7562416129633701419/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时22分]"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
-          "url": "https://flash.jin10.com/detail/20251018022938290800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2989806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
-          "url": "https://flash.jin10.com/detail/20251018022647390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
-          "url": "https://flash.jin10.com/detail/20251018022512322800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 23时16分]"
-        },
-        {
-          "title": "iPhone天气你可能真的不会用",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%A4%A9%E6%B0%94%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E7%94%A8&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D2%26pos%3D1%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26lcate%3D5001%26q%3DiPhone%25E5%25A4%25A9%25E6%25B0%2594%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E7%259A%2584%25E4%25B8%258D%25E4%25BC%259A%25E7%2594%25A8%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 13时17分]"
-        },
-        {
-          "title": "国行iPhone Air测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            9,
-            25,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "国行iPhone Air上手体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时19分]"
-        },
-        {
-          "title": "iPhone17全系包揽销量榜前三",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone17%E5%85%A8%E7%B3%BB%E5%8C%85%E6%8F%BD%E9%94%80%E9%87%8F%E6%A6%9C%E5%89%8D%E4%B8%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D8%26flag%3D1%26lcate%3D5001%26band_rank%3D7%26stream_entry_id%3D31%26realpos%3D7%26dgr%3D0%26cate%3D5001%26q%3D%2523iPhone17%25E5%2585%25A8%25E7%25B3%25BB%25E5%258C%2585%25E6%258F%25BD%25E9%2594%2580%25E9%2587%258F%25E6%25A6%259C%25E5%2589%258D%25E4%25B8%2589%2523%26filter_type%3Drealtimehot%26display_time%3D1760757984%26pre_seqid%3D176075798466103583263151",
-          "source": "微博",
-          "ranks": [
-            7,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 14时26分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            18,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "AXIOS网站记者称，泽连斯基目前正在与几位欧洲领导人举行电话会议，向他们通报最新情况。",
-          "url": "https://flash.jin10.com/detail/20251018042157134800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时16分 ~ 10时54分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/livenews/2990011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时22分]"
-        },
-        {
-          "title": "iPhone 17 Pro Max被曝机身褪色",
-          "url": "https://www.baidu.com/s?wd=iPhone+17+Pro+Max%E8%A2%AB%E6%9B%9D%E6%9C%BA%E8%BA%AB%E8%A4%AA%E8%89%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            2,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时21分 ~ 23时16分]"
-        },
-        {
-          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
-          "url": "https://wallstreetcn.com/livenews/2990046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            17,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 21时22分]"
-        },
-        {
-          "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
-          "url": "https://wallstreetcn.com/livenews/2989997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 15时16分]"
-        },
-        {
-          "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
-          "url": "https://wallstreetcn.com/livenews/2990020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 17时17分]"
-        },
-        {
-          "title": "用户曝iPhone 17 Pro/Max机身褪色",
-          "url": "https://www.toutiao.com/trending/7561374134555410442/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时17分]"
-        },
-        {
-          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
-          "url": "https://flash.jin10.com/detail/20251018035857235800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时16分]"
-        },
-        {
-          "title": "加拿大央行行长Tiff Macklem：虽然9月份（就业人口）表现不错，但整体劳动力市场仍然“疲软”。 确认央行将在10月29日发布（最新版经济）预期。",
-          "url": "https://wallstreetcn.com/livenews/2989871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时21分]"
-        },
-        {
-          "title": "iPhone Air全颜色开箱",
-          "url": "https://www.douyin.com/hot/2273469",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "iPhone17被曝机身褪色",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone17%E8%A2%AB%E6%9B%9D%E6%9C%BA%E8%BA%AB%E8%A4%AA%E8%89%B2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523iPhone17%25E8%25A2%25AB%25E6%259B%259D%25E6%259C%25BA%25E8%25BA%25AB%25E8%25A4%25AA%25E8%2589%25B2%2523%26dgr%3D0%26pos%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D30%26realpos%3D30%26flag%3D0%26display_time%3D1760771293%26pre_seqid%3D176077129393003606941128",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "中美",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美财长：中美贸易磋商下周于马来西亚重启",
-          "url": "https://news.ifeng.com/c/8nXoNWTk2j6",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 16时22分]"
-        },
-        {
-          "title": "两银行信用危机触发抛售，盘中美地区银行指数跌近7%、Jefferies跌11%",
-          "url": "https://wallstreetcn.com/articles/3757334",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时16分]"
-        },
         {
           "title": "中美同意尽快举行新一轮经贸磋商",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%B0%BD%E5%BF%AB%E4%B8%BE%E8%A1%8C%E6%96%B0%E4%B8%80%E8%BD%AE%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            14,
-            1,
-            4,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时21分 ~ 23时16分]"
-        },
-        {
-          "title": "中美同意尽快举行新一轮经贸磋商",
-          "url": "https://www.toutiao.com/trending/7561757394015928330/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 13时17分]"
-        },
-        {
-          "title": "中美同意尽快举行新一轮经贸磋商",
-          "url": "https://www.douyin.com/hot/2274061",
-          "source": "抖音",
-          "ranks": [
-            1
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时22分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 23时16分]"
-        },
-        {
-          "title": "中美经贸磋商",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D5%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D6%26band_rank%3D6%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E7%25BB%258F%25E8%25B4%25B8%25E7%25A3%258B%25E5%2595%2586%2523%26dgr%3D0%26c_type%3D31%26display_time%3D1760755812%26pre_seqid%3D176075581251802734903113",
-          "source": "微博",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时21分]"
-        },
-        {
-          "title": "如何看待美财长称中美关系已“降温”",
-          "url": "https://www.toutiao.com/trending/7562477542532189734/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时22分]"
-        },
-        {
-          "title": "中美同意尽快举行新一轮经贸磋商",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%B0%BD%E5%BF%AB%E4%B8%BE%E8%A1%8C%E6%96%B0%E4%B8%80%E8%BD%AE%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D22%26flag%3D1%26lcate%3D5001%26band_rank%3D21%26stream_entry_id%3D31%26realpos%3D21%26dgr%3D0%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2590%258C%25E6%2584%258F%25E5%25B0%25BD%25E5%25BF%25AB%25E4%25B8%25BE%25E8%25A1%258C%25E6%2596%25B0%25E4%25B8%2580%25E8%25BD%25AE%25E7%25BB%258F%25E8%25B4%25B8%25E7%25A3%258B%25E5%2595%2586%2523%26filter_type%3Drealtimehot%26display_time%3D1760757984%26pre_seqid%3D176075798466103583263151",
-          "source": "微博",
-          "ranks": [
-            21,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时21分]"
-        },
-        {
-          "title": "中美“三大战役”谁将笑到最后",
-          "url": "https://www.toutiao.com/trending/7562520415218699817/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时16分]"
-        },
-        {
-          "title": "谢锋谈中美关系",
-          "url": "https://www.douyin.com/hot/2273190",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "苑举正解读中美关税战再升级",
-          "url": "https://www.douyin.com/hot/2273732",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
-          "url": "https://flash.jin10.com/detail/20251018151039587800",
-          "source": "金十数据",
+          "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
+          "url": "https://wallstreetcn.com/livenews/2990073",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            8,
-            11,
-            14,
-            20,
-            24,
-            29
+            14
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 22时15分]"
-        },
-        {
-          "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
-          "url": "https://flash.jin10.com/detail/20251018034706166800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时16分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：呼吁在所有议案上投出与公司立场一致的投票。",
-          "url": "https://flash.jin10.com/detail/20251018033314337800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "周五（10月17日），彭博电动汽车价格回报指数跌1.81%，报3372.36点，本周累计下跌1.05%，整体呈现出M形走势。 周五当天，成分股吉利汽车控股H股收跌4.52%，小鹏汽车H股收跌4.35%，MP材料跌超4%跌幅第三大。 保时捷P911欧股则收涨1.63%表现第四，蔚来集团H股收涨2.17%，特斯拉涨2.4%，印度Ola Electric Mobility Ltd.收涨3.07%。",
-          "url": "https://wallstreetcn.com/livenews/2989899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时16分]"
-        },
-        {
-          "title": "韩国特斯拉电池管理系统故障频现，涉多款车型",
-          "url": "https://wallstreetcn.com/livenews/2990029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时18分]"
+          "time_info": "00时21分"
         },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
           "url": "https://flash.jin10.com/detail/20251018203430382800",
           "source": "金十数据",
           "ranks": [
-            3,
-            8,
-            14
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 23时16分]"
-        },
-        {
-          "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
-          "url": "https://wallstreetcn.com/livenews/2990073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 23时16分]"
-        },
-        {
-          "title": "特斯拉：咨询公司Institutional Shareholders Services（ISS）完全错过投资的基本点。",
-          "url": "https://wallstreetcn.com/livenews/2989885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时16分]"
-        },
-        {
-          "title": "Institutional Shareholders Services（ISS）建议特斯拉股东们拒绝马斯克的薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2989881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时16分]"
-        },
-        {
-          "title": "特斯拉代理顾问机构股东服务公司（ISS）建议特斯拉(TSLA.O)投资者不要支持投资XAI的提案。",
-          "url": "https://flash.jin10.com/detail/20251018022010908800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "iPhone 17 Pro Max被曝机身褪色",
+          "url": "https://www.baidu.com/s?wd=iPhone+17+Pro+Max%E8%A2%AB%E6%9B%9D%E6%9C%BA%E8%BA%AB%E8%A4%AA%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "魏思琪接替王腾任小米中国区市场部总经理，怎样看待这一任命？对小米发展会有哪些影响？",
           "url": "https://www.zhihu.com/question/1962655382531961559",
           "source": "知乎",
           "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 23时16分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            4,
-            9,
-            10,
-            13,
-            15,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时28分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时28分]"
-        },
-        {
-          "title": "天津新能源车辆将限号？假的",
-          "url": "https://www.toutiao.com/trending/7562127046933970995/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时54分 ~ 18时18分]"
-        },
-        {
-          "title": "新能源车火灾事故报告制度有何考量",
-          "url": "https://www.toutiao.com/trending/7562100193659850290/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            26,
-            14,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时22分]"
-        },
-        {
-          "title": "小米称收到480名车主被网暴证据",
-          "url": "https://www.douyin.com/hot/2273119",
-          "source": "抖音",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时20分 ~ 07时16分]"
-        },
-        {
-          "title": "小米新任中国区市场部总经理，是魏思琪！王腾透露个人最新动态",
-          "url": "https://wallstreetcn.com/livenews/2989966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 11时28分]"
-        },
-        {
-          "title": "卢伟冰否认小米是一家营销公司",
-          "url": "https://www.douyin.com/hot/2273260",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时19分 ~ 10时54分]"
-        },
-        {
-          "title": "魏思琪出任小米中国区市场部总经理",
-          "url": "https://www.toutiao.com/trending/7562122923616780307/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中信证券：对股市依旧可以保持乐观，配置方向上可以更加谨慎",
-          "url": "https://wallstreetcn.com/livenews/2989982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            19,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 14时26分]"
-        },
-        {
-          "title": "欧洲央行Nagel警告：股市的高集中度可能引发回调",
-          "url": "https://wallstreetcn.com/livenews/2989826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251018041141583800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时19分]"
-        },
-        {
-          "title": "南亚股市收盘播报｜印度股市连续两天创收盘历史新高，本周涨约1.7%，卢比涨约0.8%",
-          "url": "https://wallstreetcn.com/livenews/2989890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时17分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
-          "url": "https://wallstreetcn.com/livenews/2989825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周五（10月17日），迪拜金融市场综合指数收跌0.62%，报5992.10点，本周累计上涨0.17%。 阿布扎比证券市场综合指数收跌0.19%，报10124.42点，本周累涨0.10%。 沙特证交所全股指数本周（至10月16日的连续五天）累计上涨1.76%，报11696.58点。 沙特阿美（ARAMCO.AB）累涨3.27%，报25.30沙特里亚尔。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF累跌1.67%，报12.38沙特里亚尔。 卡塔尔证交所指数累涨0.10%，报10850.91点。 科威特证交所超级市场价格回报指数累涨1.56%，报9425.57点。 埃及证交所EGX 30指数累涨0.80%，报37677.19点，连续多日创收盘历史新高。 以色列特拉维夫交易所35指数（四天）累跌2.01%，报3210.91点。",
-          "url": "https://wallstreetcn.com/livenews/2989815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
-        },
-        {
-          "title": "邓莎老公路行持股市值不足5000万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E8%B7%AF%E8%A1%8C%E6%8C%81%E8%82%A1%E5%B8%82%E5%80%BC%E4%B8%8D%E8%B6%B35000%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D22%26pos%3D23%26stream_entry_id%3D31%26realpos%3D22%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%2582%2593%25E8%258E%258E%25E8%2580%2581%25E5%2585%25AC%25E8%25B7%25AF%25E8%25A1%258C%25E6%258C%2581%25E8%2582%25A1%25E5%25B8%2582%25E5%2580%25BC%25E4%25B8%258D%25E8%25B6%25B35000%25E4%25B8%2587%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760750089%26pre_seqid%3D17607500891260357858699",
-          "source": "微博",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 10时54分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251017234031131800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "两大领先指标示警，比特币“人心惶惶”",
-          "url": "https://wallstreetcn.com/articles/3757355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时19分]"
-        },
-        {
-          "title": "工会组织IAM Union与波音公司就下周一重启军工部门薪资谈判达成共识。",
-          "url": "https://wallstreetcn.com/livenews/2989873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时21分]"
-        },
-        {
-          "title": "周五（10月17日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.07%，逼近10.7万美元，本周累计下跌8.33%，整体持续走低，从11.6万美元附近跌至10.4万美元下方。 CME以太币期货DCR主力合约跌0.44%，报3862.50美元，本周累跌4.10%。",
-          "url": "https://wallstreetcn.com/livenews/2989913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     },
     {
       "keyword_group": "固态电池",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "近一个月这些上市公司被“踏破门槛”！固态电池概念股获机构组团调研，机构来访接待量居前的个股名单一览",
           "url": "https://www.cls.cn/detail/2173508",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 23时16分]"
-        },
-        {
-          "title": "专家：全固态电池并不是绝对安全",
-          "url": "https://www.toutiao.com/trending/7562492029620620810/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时34分 ~ 20时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
-          "url": "https://wallstreetcn.com/livenews/2989800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "200多款前沿农机集中亮相农交会，智能机器人成焦点",
-          "url": "https://wallstreetcn.com/livenews/2989987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            15,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 14时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光伏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家管网集团首个地面集中式大型光伏发电项目在新疆并网",
-          "url": "https://wallstreetcn.com/livenews/2990043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            20,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 21时22分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         }
       ]
     }
