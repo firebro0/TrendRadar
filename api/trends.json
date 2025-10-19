@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T05:15:49.815997+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-10-20T06:16:47.565487+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -76,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "远景科技集团董事长张雷：未来能源企业核心竞争力，将是人工智能资产",
@@ -134,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "黄金回收人：看不懂现在涨势",
@@ -146,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "秦牧偷光黄金宫",
@@ -284,8 +284,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
@@ -295,11 +295,12 @@
             4,
             9,
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -314,11 +315,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时16分]"
         }
       ]
     },
@@ -335,8 +337,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -354,11 +356,12 @@
             10,
             14,
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         }
       ]
     },
@@ -376,8 +379,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     }
