@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T16:21:43.594965+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-10-19T17:17:29.250954+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“黄金狂热”到逆转的时候了吗？",
@@ -34,6 +34,19 @@
           "time_info": "[00时20分 ~ 11时15分]"
         },
         {
+          "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
+          "url": "https://wallstreetcn.com/articles/3757440",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时17分]"
+        },
+        {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
           "url": "https://wallstreetcn.com/articles/3757430",
           "source": "华尔街见闻",
@@ -49,19 +62,6 @@
           "time_info": "[00时20分 ~ 15时16分]"
         },
         {
-          "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
-          "url": "https://wallstreetcn.com/articles/3757440",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时21分]"
-        },
-        {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
           "url": "https://www.cls.cn/detail/2173370",
           "source": "财联社热门",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "用10万元的黄金吸管喝奶茶结果丢了",
@@ -79,11 +79,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时17分]"
         },
         {
           "title": "秦牧偷光黄金宫",
@@ -92,11 +93,12 @@
           "ranks": [
             7,
             3,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时17分]"
         },
         {
           "title": "“穷人的黄金”卖爆 商家：非常缺货",
@@ -135,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时17分]"
         },
         {
           "title": "杨振宁逝世 物理学的黄金时代落幕了",
@@ -144,23 +146,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 16时21分]"
-        },
-        {
-          "title": "白银价格屡创新高，韩国商业银行将暂停银条销售",
-          "url": "https://wallstreetcn.com/livenews/2990123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时17分]"
         },
         {
           "title": "14年等待，纸白银投资者终于“解套”",
@@ -169,11 +160,38 @@
           "ranks": [
             3,
             13,
-            17
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时17分]"
+        },
+        {
+          "title": "白银价格屡创新高，韩国商业银行将暂停银条销售",
+          "url": "https://wallstreetcn.com/livenews/2990123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时21分]"
+          "time_info": "[15时16分 ~ 17时17分]"
+        },
+        {
+          "title": "男子喝奶茶的黄金吸管骑车时丢失",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E9%BB%84%E9%87%91%E5%90%B8%E7%AE%A1%E9%AA%91%E8%BD%A6%E6%97%B6%E4%B8%A2%E5%A4%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2596%259D%25E5%25A5%25B6%25E8%258C%25B6%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2590%25B8%25E7%25AE%25A1%25E9%25AA%2591%25E8%25BD%25A6%25E6%2597%25B6%25E4%25B8%25A2%25E5%25A4%25B1%2523%26stream_entry_id%3D31%26band_rank%3D12%26realpos%3D12%26pos%3D11%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760857817%26pre_seqid%3D176085781714302733365159",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 17时17分]"
         },
         {
           "title": "黄金回收人：看不懂行情担心砸手里",
@@ -185,18 +203,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时26分 ~ 15时16分]"
-        },
-        {
-          "title": "男子喝奶茶的黄金吸管骑车时丢失",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E9%BB%84%E9%87%91%E5%90%B8%E7%AE%A1%E9%AA%91%E8%BD%A6%E6%97%B6%E4%B8%A2%E5%A4%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2596%259D%25E5%25A5%25B6%25E8%258C%25B6%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2590%25B8%25E7%25AE%25A1%25E9%25AA%2591%25E8%25BD%25A6%25E6%2597%25B6%25E4%25B8%25A2%25E5%25A4%25B1%2523%26stream_entry_id%3D31%26band_rank%3D12%26realpos%3D12%26pos%3D11%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760857817%26pre_seqid%3D176085781714302733365159",
-          "source": "微博",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "黄金白银突然大跳水",
@@ -219,6 +225,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
+          "url": "https://www.zhihu.com/question/1962971368476901383",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "黄金回收人：看不懂现在涨势",
+          "url": "https://www.douyin.com/hot/2275199",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -235,8 +263,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
+        },
+        {
+          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
+          "url": "https://v.ifeng.com/c/8nZizwGdefr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时17分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -250,17 +289,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 11时15分]"
-        },
-        {
-          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
-          "url": "https://v.ifeng.com/c/8nZizwGdefr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时21分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -279,6 +307,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 13时18分]"
+        },
+        {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时17分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -309,18 +350,6 @@
           "time_info": "[00时21分 ~ 09时40分]"
         },
         {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 16时21分]"
-        },
-        {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
@@ -330,8 +359,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 17时17分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
@@ -483,11 +512,12 @@
           "url": "https://www.toutiao.com/trending/7561963723372380214/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时17分]"
         },
         {
           "title": "中美“三大战役”谁将笑到最后",
@@ -516,8 +546,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -622,6 +652,22 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
+          "title": "iPhone 17 “牙膏挤爆”引发换机潮，苹果智能机销售重回增长",
+          "url": "https://flash.jin10.com/detail/20251019121128875800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            10,
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 17时17分]"
+        },
+        {
           "title": "苹果 iPhone 大量新机无法激活，客服称服务器正在修复，具体是怎么回事？你遇到这个情况了吗？",
           "url": "https://www.zhihu.com/question/1961379012464047778",
           "source": "知乎",
@@ -635,21 +681,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时16分]"
-        },
-        {
-          "title": "iPhone 17 “牙膏挤爆”引发换机潮，苹果智能机销售重回增长",
-          "url": "https://flash.jin10.com/detail/20251019121128875800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            10,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 16时21分]"
         }
       ]
     },
@@ -681,11 +712,12 @@
             4,
             7,
             10,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 17时17分]"
         },
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
@@ -697,8 +729,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 17时17分]"
         },
         {
           "title": "胡锡进谈小米呼吁抵制黑公关和水军",
@@ -711,6 +743,49 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时15分 ~ 16时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "以太坊突破3900美元/枚，日内涨0.28%。",
+          "url": "https://flash.jin10.com/detail/20251019114157038800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            13,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 16时21分]"
+        },
+        {
+          "title": "柬埔寨杀猪盘大佬的 12 万个比特币：如何被美国政府没收？",
+          "url": "https://wallstreetcn.com/articles/3757418",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -751,9 +826,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时17分]"
         }
       ]
     },
@@ -769,11 +844,12 @@
             11,
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "固态电池突破",
@@ -801,38 +877,6 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "以太坊突破3900美元/枚，日内涨0.28%。",
-          "url": "https://flash.jin10.com/detail/20251019114157038800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            13,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 16时21分]"
-        },
-        {
-          "title": "柬埔寨杀猪盘大佬的 12 万个比特币：如何被美国政府没收？",
-          "url": "https://wallstreetcn.com/articles/3757418",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
       "match_count": 2,
       "titles": [
@@ -854,7 +898,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
@@ -869,11 +913,12 @@
           "url": "https://wallstreetcn.com/livenews/2990125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时17分]"
         }
       ]
     }
