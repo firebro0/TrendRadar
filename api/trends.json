@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T04:20:02.565113+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-10-20T05:15:49.815997+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -49,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -61,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -75,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "远景科技集团董事长张雷：未来能源企业核心竞争力，将是人工智能资产",
@@ -87,11 +88,12 @@
             19,
             20,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -132,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "黄金回收人：看不懂现在涨势",
@@ -144,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "秦牧偷光黄金宫",
@@ -249,11 +251,12 @@
           "ranks": [
             18,
             19,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "据AXIOS援引美以消息人士称，以色列已提前通知美国政府，告知其对加沙地带实施的空袭。",
@@ -281,8 +284,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
@@ -295,8 +298,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     },
@@ -310,11 +313,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时15分]"
         }
       ]
     },
@@ -331,8 +335,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     },
@@ -349,11 +353,12 @@
             9,
             10,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     },
@@ -371,8 +376,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     }
