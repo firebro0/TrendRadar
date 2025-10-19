@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T18:17:57.325888+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2025-10-19T19:13:51.634503+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 19时13分]"
         },
         {
           "title": "“黄金旗手”达里欧“加大火力”：黄金是唯一“不靠他人”的“永恒、普世”货币",
@@ -62,6 +62,22 @@
           "time_info": "[00时20分 ~ 15时16分]"
         },
         {
+          "title": "秦牧偷光黄金宫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7%E5%81%B7%E5%85%89%E9%BB%84%E9%87%91%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3,
+            8,
+            21,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 19时13分]"
+        },
+        {
           "title": "【早报】证监会：规范控股股东、实际控制人行为；COMEX白银期货收跌5.01%",
           "url": "https://www.cls.cn/detail/2173370",
           "source": "财联社热门",
@@ -71,23 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 18时17分]"
-        },
-        {
-          "title": "秦牧偷光黄金宫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%A6%E7%89%A7%E5%81%B7%E5%85%89%E9%BB%84%E9%87%91%E5%AE%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            3,
-            8,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 19时13分]"
         },
         {
           "title": "用10万元的黄金吸管喝奶茶结果丢了",
@@ -114,6 +115,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时22分 ~ 16时21分]"
+        },
+        {
+          "title": "白银价格屡创新高，韩国商业银行将暂停银条销售",
+          "url": "https://wallstreetcn.com/livenews/2990123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            10,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 19时13分]"
         },
         {
           "title": "印度需求飙升引爆白银危机",
@@ -143,6 +159,21 @@
           "time_info": "[14时26分 ~ 17时17分]"
         },
         {
+          "title": "男子喝奶茶的黄金吸管骑车时丢失",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E9%BB%84%E9%87%91%E5%90%B8%E7%AE%A1%E9%AA%91%E8%BD%A6%E6%97%B6%E4%B8%A2%E5%A4%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2596%259D%25E5%25A5%25B6%25E8%258C%25B6%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2590%25B8%25E7%25AE%25A1%25E9%25AA%2591%25E8%25BD%25A6%25E6%2597%25B6%25E4%25B8%25A2%25E5%25A4%25B1%2523%26stream_entry_id%3D31%26band_rank%3D12%26realpos%3D12%26pos%3D11%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760857817%26pre_seqid%3D176085781714302733365159",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            17,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 19时13分]"
+        },
+        {
           "title": "杨振宁逝世 物理学的黄金时代落幕了",
           "url": "https://www.toutiao.com/trending/7562797720319036970/",
           "source": "今日头条",
@@ -154,20 +185,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时26分 ~ 17时17分]"
-        },
-        {
-          "title": "白银价格屡创新高，韩国商业银行将暂停银条销售",
-          "url": "https://wallstreetcn.com/livenews/2990123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 18时17分]"
         },
         {
           "title": "14年等待，纸白银投资者终于“解套”",
@@ -182,20 +199,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时27分 ~ 17时17分]"
-        },
-        {
-          "title": "男子喝奶茶的黄金吸管骑车时丢失",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%96%9D%E5%A5%B6%E8%8C%B6%E7%9A%84%E9%BB%84%E9%87%91%E5%90%B8%E7%AE%A1%E9%AA%91%E8%BD%A6%E6%97%B6%E4%B8%A2%E5%A4%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2596%259D%25E5%25A5%25B6%25E8%258C%25B6%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E5%2590%25B8%25E7%25AE%25A1%25E9%25AA%2591%25E8%25BD%25A6%25E6%2597%25B6%25E4%25B8%25A2%25E5%25A4%25B1%2523%26stream_entry_id%3D31%26band_rank%3D12%26realpos%3D12%26pos%3D11%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760857817%26pre_seqid%3D176085781714302733365159",
-          "source": "微博",
-          "ranks": [
-            12,
-            13,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 18时17分]"
         },
         {
           "title": "黄金回收人：看不懂行情担心砸手里",
@@ -216,8 +219,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "黄金回收人：看不懂现在涨势",
@@ -225,11 +228,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "黄金白银突然大跳水",
@@ -268,8 +272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 19时13分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -283,6 +287,19 @@
           "time_info": "[12时22分 ~ 17时17分]"
         },
         {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时13分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
           "url": "https://flash.jin10.com/detail/20251018223232047800",
           "source": "金十数据",
@@ -294,19 +311,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 11时15分]"
-        },
-        {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 18时17分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -353,8 +357,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时15分 ~ 19时13分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -375,9 +379,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
@@ -462,6 +466,18 @@
           "time_info": "[00时21分 ~ 03时13分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
+        },
+        {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
           "url": "https://www.toutiao.com/trending/7562416129633701419/",
           "source": "今日头条",
@@ -471,17 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         }
       ]
     },
@@ -499,8 +504,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 19时13分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -540,6 +545,17 @@
           "time_info": "[00时20分 ~ 14时27分]"
         },
         {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
+        },
+        {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
           "url": "https://flash.jin10.com/detail/20251019091747896800",
           "source": "金十数据",
@@ -553,17 +569,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 14时27分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         }
       ]
     },
@@ -591,33 +596,36 @@
           "url": "https://flash.jin10.com/detail/20251019175019434800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "比特币短线飙升约1000美元，现报107006美元/枚。",
           "url": "https://flash.jin10.com/detail/20251019174525480800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
           "url": "https://wallstreetcn.com/articles/3757443",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "柬埔寨杀猪盘大佬的 12 万个比特币：如何被美国政府没收？",
@@ -791,8 +799,27 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "乘联分会秘书长崔东树：9月新能源车促销力度维持在中高位水平，部分中段企业有逐步崛起迹象",
+          "url": "https://wallstreetcn.com/livenews/2990115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            4,
+            7,
+            10,
+            14,
+            18,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时15分 ~ 19时13分]"
+        },
         {
           "title": "魏思琪接替王腾任小米中国区市场部总经理，怎样看待这一任命？对小米发展会有哪些影响？",
           "url": "https://www.zhihu.com/question/1962655382531961559",
@@ -808,24 +835,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "乘联分会秘书长崔东树：9月新能源车促销力度维持在中高位水平，部分中段企业有逐步崛起迹象",
-          "url": "https://wallstreetcn.com/livenews/2990115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            4,
-            7,
-            10,
-            14,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 18时17分]"
-        },
-        {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
           "url": "https://www.zhihu.com/question/1962152103913944419",
           "source": "知乎",
@@ -836,8 +845,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 19时13分]"
+        },
+        {
+          "title": "媒体炮轰雷军,小米口碑崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "胡锡进谈小米呼吁抵制黑公关和水军",
@@ -892,8 +912,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时13分]"
         }
       ]
     },
@@ -913,8 +933,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 19时13分]"
         },
         {
           "title": "固态电池突破",
@@ -980,11 +1000,12 @@
           "ranks": [
             4,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时13分]"
         }
       ]
     }
