@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:29:16.442708+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-10-21T03:16:10.739151+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "标普500指数短线走低，日内整体涨幅收窄至约0.9%。",
@@ -36,11 +36,12 @@
           "ranks": [
             3,
             11,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨幅扩大至2%。 热门中概股里，阿里巴巴涨3.8%，蔚来涨3.2%，台积电涨2.6%，腾讯涨1.8%。 ETF中，YINN涨2.98%，KWEB涨1.84%，CQQQ和MCHI涨1.1%。 富时A50夜期目前涨0.1%。",
@@ -107,7 +108,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -126,7 +127,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -136,8 +137,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "55名中国iPhone用户联合投诉苹果",
@@ -148,20 +149,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
-        },
-        {
-          "title": "iPhone17 播放《孤勇者》闪退什么原因？",
-          "url": "https://www.zhihu.com/question/1962703846389293137",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "iPhone 17系列首次降价",
@@ -169,11 +158,25 @@
           "source": "今日头条",
           "ranks": [
             16,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "iPhone17 播放《孤勇者》闪退什么原因？",
+          "url": "https://www.zhihu.com/question/1962703846389293137",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "给iPhone17Pro纹了个身",
@@ -181,11 +184,23 @@
           "source": "微博",
           "ranks": [
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "分析师：苹果Siri 2.0与iPhone等产品布局将提振长期增长",
+          "url": "https://flash.jin10.com/detail/20251021023534367800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "天猫双11开卖首小时80个品牌成交破亿，iPhone系列成交额超去年全天",
@@ -193,11 +208,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "天猫双11开卖首小时80个品牌成交破亿，iPhone系列成交额超去年全天",
@@ -206,7 +222,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -235,8 +251,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -246,8 +262,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -255,11 +271,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -271,8 +288,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -280,11 +297,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -311,19 +329,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "中方回应中美将重返谈判桌",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%B0%86%E9%87%8D%E8%BF%94%E8%B0%88%E5%88%A4%E6%A1%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题，外交部回应",
@@ -333,8 +352,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "如何看中美大豆贸易博弈",
@@ -343,11 +362,12 @@
           "ranks": [
             24,
             17,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "学者：美态度大变 中美博弈现转机",
@@ -363,49 +383,8 @@
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3757496",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
-        },
-        {
-          "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
-          "url": "https://flash.jin10.com/detail/20251021004644052800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（10月20日），南非富时/JSE非洲领先40可交易指数收盘反弹0.57%，至10.4万点上方，全天呈现出V形反转。",
-          "url": "https://wallstreetcn.com/livenews/2990763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 白银",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金连涨9周后高台跳水",
@@ -415,8 +394,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -427,8 +406,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月20日（周一）晚盘收盘上涨2.35%报996.36元/克；<br/>上海黄金交易所白银T+D 10月20日（周一）晚盘收盘上涨1.55%报11966.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251021023111561800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "现货黄金向上触及4360美元/盎司，日内涨2.66%。",
+          "url": "https://flash.jin10.com/detail/20251021023055663800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "现货黄金涨2%，纽约期金涨3%，金银矿业股普涨",
@@ -444,6 +445,101 @@
       ]
     },
     {
+      "keyword_group": "沪深 股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3757496",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
+          "url": "https://flash.jin10.com/detail/20251021004644052800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美银：信贷紧张或引发被动抛售 股市面临熊市信号",
+          "url": "https://flash.jin10.com/detail/20251021024242097800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（10月20日），南非富时/JSE非洲领先40可交易指数收盘反弹0.57%，至10.4万点上方，全天呈现出V形反转。",
+          "url": "https://wallstreetcn.com/livenews/2990763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克转发浏阳无人机烟花秀",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "马斯克：Grokipedia v0.1的发布被推迟至本周末。还需要进一步清理其中的宣传性内容。",
+          "url": "https://flash.jin10.com/detail/20251021022911910800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "马斯克：（谈及亚马逊创始人贝佐斯的蓝色起源）它从未将有效载荷送入轨道，更不用说月球了。",
+          "url": "https://flash.jin10.com/detail/20251021010604960800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 3,
       "titles": [
@@ -453,11 +549,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -467,8 +564,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
@@ -495,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "媒体报道周杰伦好友蔡威泽代其投资比特币后人间蒸发，涉及金额高达上亿新台币，具体情况如何？",
@@ -506,38 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克转发浏阳无人机烟花秀",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
-        },
-        {
-          "title": "马斯克：（谈及亚马逊创始人贝佐斯的蓝色起源）它从未将有效载荷送入轨道，更不用说月球了。",
-          "url": "https://flash.jin10.com/detail/20251021010604960800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         }
       ]
     },
@@ -550,11 +617,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83H2%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
