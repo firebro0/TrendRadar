@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T14:30:00.425257+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2025-10-20T15:19:36.072755+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
@@ -46,6 +46,29 @@
           "time_info": "[00时20分 ~ 11时15分]"
         },
         {
+          "title": "关键一周开启！日经225指数升至历史新高，日元显著走软，黄金一度跌至4220美元下方",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 15时19分]"
+        },
+        {
+          "title": "港股贵金属板块持续走低，珠峰黄金跌超9%，赤峰黄金、中国白银集团跌超6%，紫金矿业、招金矿业等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/2990492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "现货黄金日内转跌，回落至4250美元/盎司下方。",
           "url": "https://flash.jin10.com/detail/20251020063442508800",
           "source": "金十数据",
@@ -55,18 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "关键一周开启！日经225指数升至历史新高，日元显著走软，黄金一度跌至4220美元下方",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 14时30分]"
         },
         {
           "title": "多因素推动资金持续涌入，黄金类ETF“吸金”又“吸睛”",
@@ -117,6 +128,19 @@
           "time_info": "[07时16分 ~ 12时25分]"
         },
         {
+          "title": "黄金大涨带来辐射效应！“含金量”十足的新兴市场正在躺赢？",
+          "url": "https://www.cls.cn/detail/2174164",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 15时19分]"
+        },
+        {
           "title": "黄金",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26q%3D%25E9%25BB%2584%25E9%2587%2591%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D22%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D21%26flag%3D1%26dgr%3D0%26display_time%3D1760929985%26pre_seqid%3D176092998505303586448158",
           "source": "微博",
@@ -127,18 +151,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时15分 ~ 13时19分]"
-        },
-        {
-          "title": "黄金大涨带来辐射效应！“含金量”十足的新兴市场正在躺赢？",
-          "url": "https://www.cls.cn/detail/2174164",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 14时30分]"
         },
         {
           "title": "辛纳获赠重达3公斤的黄金球拍",
@@ -285,13 +297,24 @@
           "time_info": "12时25分"
         },
         {
+          "title": "澳新银行：黄金仍受经济乌云支撑",
+          "url": "https://flash.jin10.com/detail/20251020145824767800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "澳大利亚资管公司：黄金牛市有很大的运行空间",
           "url": "https://flash.jin10.com/detail/20251020132211971800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -309,8 +332,187 @@
       ]
     },
     {
+      "keyword_group": "沪深 股市",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中东股市收盘播报｜埃及股指涨超0.6%，创收盘历史新高，最近约三周涨超10%",
+          "url": "https://wallstreetcn.com/livenews/2990205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            10,
+            14,
+            17,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20251020151209699800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "沪深两市今日成交额合计17376.05亿元",
+          "url": "https://wallstreetcn.com/livenews/2990488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "前三季GDP5.2%正面影响股市",
+          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3GDP5.2%25%E6%AD%A3%E9%9D%A2%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 15时19分]"
+        },
+        {
+          "title": "沪深两市成交额突破1万亿元。",
+          "url": "https://wallstreetcn.com/livenews/2990383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时25分]"
+        },
+        {
+          "title": "瑞银上调全球股市评级 尤其看好中国科技股",
+          "url": "https://www.cls.cn/detail/2173633",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "上证指数开盘报3865.55点，涨0.67%。 深证成指开盘报12877.70点，涨1.49%。 创业板指开盘报3007.21点，涨2.45%。 沪深300开盘报4558.24点，涨0.97%。 科创50开盘报1390.71点，涨2.02%。 中证500开盘报7092.88点，涨1.09%。 中证1000开盘报7259.49点，涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/2990302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "上证指数收报3863.89点，涨0.63%。 深证成指收报12813.21点，涨0.98%。 创业板指收报2993.45点，涨1.98%。 沪深300收报4538.22点，涨0.53%。 科创50收报1367.90点，涨0.35%。 中证500收报7069.64点，涨0.76%。 中证1000收报7239.18点，涨0.75%。",
+          "url": "https://wallstreetcn.com/livenews/2990485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出125.35亿元，占比0.72%；大单资金净流出152.36亿元，占比0.88%；小单资金净流入271.72亿元，占比1.56%。",
+          "url": "https://flash.jin10.com/detail/20251020150634578800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-10-20）",
+          "url": "https://flash.jin10.com/detail/20251020091105006800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20251020102808201800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "国家统计局：前三季度沪深两市股票成交额同比增长106.8%",
+          "url": "https://wallstreetcn.com/livenews/2990366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "上证指数早盘收报3866.09点，涨0.69%。 深证成指早盘收报12863.53点，涨1.38%。 创业板指早盘收报3008.56点，涨2.49%。 沪深300早盘收报4550.33点，涨0.80%。 科创50早盘收报1382.17点，涨1.39%。 中证500早盘收报7092.74点，涨1.09%。 中证1000早盘收报7260.26点，涨1.04%。",
+          "url": "https://wallstreetcn.com/livenews/2990397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "沪深两市成交额突破1万亿",
+          "url": "https://www.toutiao.com/trending/7563113325475790867/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "日韩股市收涨 日经225指数创新高",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E6%94%B6%E6%B6%A8+%E6%97%A5%E7%BB%8F225%E6%8C%87%E6%95%B0%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -355,11 +557,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 14时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 15时19分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -372,11 +575,12 @@
             16,
             17,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时19分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -465,135 +669,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "中东股市收盘播报｜埃及股指涨超0.6%，创收盘历史新高，最近约三周涨超10%",
-          "url": "https://wallstreetcn.com/livenews/2990205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            10,
-            14,
-            17,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
-          "title": "前三季GDP5.2%正面影响股市",
-          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3GDP5.2%25%E6%AD%A3%E9%9D%A2%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
+          "title": "美国女子AI生成号码中10万美元彩票",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
+          "source": "百度热搜",
           "ranks": [
-            5
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "沪深两市成交额突破1万亿元。",
-          "url": "https://wallstreetcn.com/livenews/2990383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时25分]"
-        },
-        {
-          "title": "瑞银上调全球股市评级 尤其看好中国科技股",
-          "url": "https://www.cls.cn/detail/2173633",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        },
-        {
-          "title": "上证指数开盘报3865.55点，涨0.67%。 深证成指开盘报12877.70点，涨1.49%。 创业板指开盘报3007.21点，涨2.45%。 沪深300开盘报4558.24点，涨0.97%。 科创50开盘报1390.71点，涨2.02%。 中证500开盘报7092.88点，涨1.09%。 中证1000开盘报7259.49点，涨1.03%。",
-          "url": "https://wallstreetcn.com/livenews/2990302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-10-20）",
-          "url": "https://flash.jin10.com/detail/20251020091105006800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "金十图示：2025年10月20日（周一）亚太市场股市指数",
-          "url": "https://flash.jin10.com/detail/20251020102808201800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "国家统计局：前三季度沪深两市股票成交额同比增长106.8%",
-          "url": "https://wallstreetcn.com/livenews/2990366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "上证指数早盘收报3866.09点，涨0.69%。 深证成指早盘收报12863.53点，涨1.38%。 创业板指早盘收报3008.56点，涨2.49%。 沪深300早盘收报4550.33点，涨0.80%。 科创50早盘收报1382.17点，涨1.39%。 中证500早盘收报7092.74点，涨1.09%。 中证1000早盘收报7260.26点，涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/2990397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "沪深两市成交额突破1万亿",
-          "url": "https://www.toutiao.com/trending/7563113325475790867/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "iPhone17 播放《孤勇者》闪退什么原因？",
@@ -604,8 +696,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 15时19分]"
         },
         {
           "title": "iPhone17pro天猫官旗首次降价",
@@ -657,6 +749,18 @@
           "time_info": "[00时21分 ~ 03时14分]"
         },
         {
+          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
+          "url": "https://wallstreetcn.com/articles/3757463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
           "title": "iphone17 播放《孤勇者》闪退什么原因？",
           "url": "https://www.zhihu.com/question/1962703846389293137",
           "source": "知乎",
@@ -668,15 +772,26 @@
           "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
-          "url": "https://wallstreetcn.com/articles/3757463",
-          "source": "华尔街见闻",
+          "title": "商品期货收盘，沪银主力合约跌近4%，多晶硅跌超3%，玻璃、苯乙烯、纯苯跌超2%，鸡蛋、沪金、对二甲苯跌超1%。生猪、焦煤、苹果涨超2%，焦炭、集运欧线、豆一涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2990483",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "平台回应骑手取走苹果手机后失联",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%90%8E%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。生猪涨超3%，焦煤涨超2%，焦炭、苹果、国际铜、沪铜、工业硅涨超1%。跌幅方面，沪银跌超3%，多晶硅、纯苯、苯乙烯跌近2%。",
@@ -715,11 +830,12 @@
           "url": "https://wallstreetcn.com/livenews/2990459",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
@@ -739,7 +855,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -757,99 +873,8 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宇树科技发布H2人形机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83H2%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
-          "title": "宇树科技发布H2仿生人形机器人",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83H2%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
-          "title": "宇树科技发布H2仿生人形机器人",
-          "url": "https://wallstreetcn.com/livenews/2990446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "国家统计局：前三季度工业机器人、服务机器人等产品产量分别增长29.8%、16.3%",
-          "url": "https://wallstreetcn.com/livenews/2990355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】中美同意尽快举行新一轮经贸磋商；芯片领域现200亿大手笔投资",
-          "url": "https://www.cls.cn/detail/2173889",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 14时30分]"
-        },
-        {
-          "title": "中美再次回到谈判桌 接下来怎么走",
-          "url": "https://www.toutiao.com/trending/7563094865609756214/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 12时25分]"
-        },
-        {
-          "title": "中美博弈暗线：资产定价权的争夺",
-          "url": "https://www.toutiao.com/trending/7563166400873762331/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -876,15 +901,118 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
+          "url": "https://wallstreetcn.com/articles/3757469",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "丹斯克银行：标普下调法国评级可能会加大法国国债的压力",
           "url": "https://flash.jin10.com/detail/20251020140027978800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "宇树科技发布H2人形机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83H2%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
+          "title": "宇树科技发布H2仿生人形机器人",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83H2%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
+          "title": "宇树科技发布H2仿生人形机器人",
+          "url": "https://wallstreetcn.com/livenews/2990446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "国家统计局：前三季度工业机器人、服务机器人等产品产量分别增长29.8%、16.3%",
+          "url": "https://wallstreetcn.com/livenews/2990355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】中美同意尽快举行新一轮经贸磋商；芯片领域现200亿大手笔投资",
+          "url": "https://www.cls.cn/detail/2173889",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 15时19分]"
+        },
+        {
+          "title": "中美再次回到谈判桌 接下来怎么走",
+          "url": "https://www.toutiao.com/trending/7563094865609756214/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时25分]"
+        },
+        {
+          "title": "中美博弈暗线：资产定价权的争夺",
+          "url": "https://www.toutiao.com/trending/7563166400873762331/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
         }
       ]
     },
@@ -942,8 +1070,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时19分]"
         },
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
@@ -977,7 +1105,7 @@
     },
     {
       "keyword_group": "固态电池",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "近一个月这些上市公司被“踏破门槛”！固态电池概念股获机构组团调研，机构来访接待量居前的个股名单一览",
@@ -992,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "奇瑞扔出“王炸”、国轩高科推进产线建设 固态电池早盘走强",
+          "url": "https://www.cls.cn/detail/2174240",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "国轩高科：金石全固态电池处于中试量产阶段",
