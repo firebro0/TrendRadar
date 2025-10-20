@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-10-21T06:17:36.807125+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-10-21T07:16:58.118430+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2174932",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
@@ -79,6 +81,19 @@
           "time_info": "[04时21分 ~ 06时17分]"
         },
         {
+          "title": "周一（10月20日）纽约尾盘，标普500股指期货最终上涨1.17%，道指期货涨1.22%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨2.06%。",
+          "url": "https://wallstreetcn.com/livenews/2990841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时16分]"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251021040644917800",
           "source": "金十数据",
@@ -90,18 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 06时17分]"
-        },
-        {
-          "title": "周一（10月20日）纽约尾盘，标普500股指期货最终上涨1.17%，道指期货涨1.22%，纳斯达克100股指期货涨1.37%。 罗素2000股指期货涨2.06%。",
-          "url": "https://wallstreetcn.com/livenews/2990841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -127,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/2990843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
@@ -213,6 +228,17 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251021003251038800",
           "source": "金十数据",
@@ -233,17 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
-          "url": "https://wallstreetcn.com/livenews/2990843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "美国股市延续涨势，道指上涨1%，标普500指数现涨1.09%，纳指涨1.47%。",
@@ -271,7 +286,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "黄金连涨9周后高台跳水",
@@ -281,8 +296,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -293,8 +308,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加11.45吨，当前持仓量为1058.66吨。",
+          "url": "https://flash.jin10.com/detail/20251021063726720800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "现货黄金触及新高后快速回调20美元，现报4365美元/盎司。",
@@ -335,6 +361,19 @@
           "time_info": "[04时21分 ~ 06时17分]"
         },
         {
+          "title": "周一（10月20日）纽约尾盘，现货黄金涨2.48%，报4357.36美元/盎司，北京时间20:00之前大致持稳于（4200美元下方的）平盘附近，之后持续上涨，03:59涨至4381.52美元，突破10月17日所创历史最高位4379.93美元。",
+          "url": "https://wallstreetcn.com/livenews/2990836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时16分]"
+        },
+        {
           "title": "现货黄金再创历史新高",
           "url": "https://flash.jin10.com/detail/20251021035758049800",
           "source": "金十数据",
@@ -373,18 +412,6 @@
           "time_info": "[03时16分 ~ 04时21分]"
         },
         {
-          "title": "周一（10月20日）纽约尾盘，现货黄金涨2.48%，报4357.36美元/盎司，北京时间20:00之前大致持稳于（4200美元下方的）平盘附近，之后持续上涨，03:59涨至4381.52美元，突破10月17日所创历史最高位4379.93美元。",
-          "url": "https://wallstreetcn.com/livenews/2990836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
           "title": "COMEX黄金期货日内涨幅达4.0%，报4383美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2990813",
           "source": "华尔街见闻-快讯",
@@ -397,6 +424,17 @@
           "time_info": "[04时21分 ~ 05时17分]"
         },
         {
+          "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20251021060348633800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "现货黄金向上触及4360美元/盎司，日内涨2.66%。",
           "url": "https://flash.jin10.com/detail/20251021023055663800",
           "source": "金十数据",
@@ -406,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "全球储备资产大变局：央行“买买买”，若黄金突破5790美元，将超越美元地位",
+          "url": "https://wallstreetcn.com/articles/3757509",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "现货黄金涨2%，纽约期金涨3%，金银矿业股普涨",
@@ -444,11 +493,12 @@
             14,
             7,
             5,
-            27
+            27,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -459,8 +509,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "55名中国iPhone用户联合投诉苹果",
@@ -471,8 +521,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "iPhone17 播放《孤勇者》闪退什么原因？",
@@ -486,8 +536,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "给iPhone17Pro纹了个身",
@@ -577,170 +627,8 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题 外交部回应",
-          "url": "https://www.cls.cn/detail/2174459",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "中方回应中美将重返谈判桌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%B0%86%E9%87%8D%E8%BF%94%E8%B0%88%E5%88%A4%E6%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "如何看中美大豆贸易博弈",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%A4%A7%E8%B1%86%E8%B4%B8%E6%98%93%E5%8D%9A%E5%BC%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            17,
-            8,
-            16,
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31811779",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "学者：美态度大变 中美博弈现转机",
-          "url": "https://www.toutiao.com/trending/7563246943896358454/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "美国贸易代表办公室提出对尼加拉瓜加征最高可达100%关税的提议，还提议限制尼加拉瓜享受中美洲和加勒比自由贸易协定优惠。",
-          "url": "https://flash.jin10.com/detail/20251021054011675800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai 人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
-          "url": "https://wallstreetcn.com/articles/3757473",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "Blg大变天,功勋教练Bail卸任离队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "JKAI锐评王力宏单依纯爱错",
-          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            24,
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "“今年双11 我的AI比我还忙”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 03时16分]"
-        },
-        {
-          "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
-          "url": "https://www.cls.cn/detail/2174661",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
@@ -771,20 +659,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
         {
-          "title": "比特币跌0.4%，一度跌穿11.1万美元。 美国贸易代表办公司（USTR）提议，对尼加拉瓜加征高达100%的关税。",
-          "url": "https://wallstreetcn.com/livenews/2990849",
-          "source": "华尔街见闻-快讯",
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时16分"
         },
         {
           "title": "周一（10月20日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨4.36%，至11.10万美元上方，北京时间08:00-14:00持续走高，之后持续高位窄幅震荡。 CME以太币期货DCR主力合约涨4.38%，报4005美元，日内大致呈现出W形走势。",
@@ -792,11 +680,191 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时16分]"
+        },
+        {
+          "title": "比特币跌0.4%，一度跌穿11.1万美元。 美国贸易代表办公司（USTR）提议，对尼加拉瓜加征高达100%的关税。",
+          "url": "https://wallstreetcn.com/livenews/2990849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题 外交部回应",
+          "url": "https://www.cls.cn/detail/2174459",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "中方回应中美将重返谈判桌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%B0%86%E9%87%8D%E8%BF%94%E8%B0%88%E5%88%A4%E6%A1%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "如何看中美大豆贸易博弈",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%A4%A7%E8%B1%86%E8%B4%B8%E6%98%93%E5%8D%9A%E5%BC%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            17,
+            8,
+            16,
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31811779",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "学者：美态度大变 中美博弈现转机",
+          "url": "https://www.toutiao.com/trending/7563246943896358454/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "美国贸易代表办公室提出对尼加拉瓜加征最高可达100%关税的提议，还提议限制尼加拉瓜享受中美洲和加勒比自由贸易协定优惠。",
+          "url": "https://flash.jin10.com/detail/20251021054011675800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "JKAI锐评王力宏单依纯爱错",
+          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            24,
+            20,
+            17,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "“今年双11 我的AI比我还忙”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
+          "url": "https://www.cls.cn/detail/2174661",
+          "source": "财联社热门",
+          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
+          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     },
@@ -809,11 +877,12 @@
           "url": "https://wallstreetcn.com/articles/3757496",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
@@ -882,11 +951,12 @@
             13,
             19,
             22,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "马斯克：Grokipedia v0.1的发布被推迟至本周末。还需要进一步清理其中的宣传性内容。",
@@ -927,19 +997,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
@@ -947,11 +1018,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 07时16分]"
         }
       ]
     },
@@ -965,11 +1037,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时16分]"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云宣布加速推动企业级人工智能和工业数字化进程。搭载NVIDIA RTX Pro 6000 Blackwell GPU的Google Cloud G4虚拟机现已全面上线。",
@@ -996,11 +1069,12 @@
           "ranks": [
             4,
             3,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
