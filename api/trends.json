@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T09:38:16.315433+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-10-20T11:15:24.427497+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "2025年这场白银逼空大戏：印度大V，中国假期与伦敦挤兑",
@@ -38,11 +38,12 @@
             29,
             30,
             27,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 09时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 11时15分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）白银ETF持仓报告",
@@ -158,6 +159,28 @@
           "time_info": "07时16分"
         },
         {
+          "title": "越南总理：黄金与房地产市场正经历复杂的发展态势。",
+          "url": "https://flash.jin10.com/detail/20251020104037458800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "现货黄金上周五创5月份以来最大单日跌幅，目前多头情绪明显降温。高市早苗成为日本新首相在望，日经225指数买入信号临近，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251020103753528800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "亚市开盘，现货黄金基本平开。WTI高开0.3%。",
           "url": "https://wallstreetcn.com/livenews/2990233",
           "source": "华尔街见闻-快讯",
@@ -167,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "谁为金狂？一周内184亿涌入黄金ETF，怕错过，又怕接最后一棒",
+          "url": "https://www.cls.cn/detail/2173728",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "现货黄金周一开盘基本平开，报4249美元/盎司。",
@@ -180,15 +214,37 @@
           "time_info": "07时16分"
         },
         {
+          "title": "现货白银日内涨幅扩大至1.00%，现报52.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251020103234596800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月20日（周一）早盘盘初下跌1.89%报970.0元/克；<br/>上海黄金交易所白银T+D 10月20日（周一）早盘盘初下跌3.9%报11715.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251020090102095800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26q%3D%25E9%25BB%2584%25E9%2587%2591%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D22%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D21%26flag%3D1%26dgr%3D0%26display_time%3D1760929985%26pre_seqid%3D176092998505303586448158",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "紫金黄金国际：前三季度归母净利润9.05亿美元",
@@ -248,23 +304,12 @@
           "url": "https://wallstreetcn.com/articles/3757451",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
-          "url": "https://www.cls.cn/detail/2173607",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 11时15分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -275,7 +320,20 @@
             14,
             15,
             16,
-            17
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 11时15分]"
+        },
+        {
+          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
+          "url": "https://www.cls.cn/detail/2173607",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -312,6 +370,18 @@
           "time_info": "[00时21分 ~ 03时14分]"
         },
         {
+          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
+          "url": "https://www.cls.cn/detail/2173698",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时15分]"
+        },
+        {
           "title": "特朗普发布辣眼AI视频引争议",
           "url": "https://www.douyin.com/hot/2275568",
           "source": "抖音",
@@ -321,23 +391,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
-          "url": "https://www.cls.cn/detail/2173698",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股指涨超0.6%，创收盘历史新高，最近约三周涨超10%",
@@ -357,6 +416,17 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
+          "title": "沪深两市成交额突破1万亿元。",
+          "url": "https://wallstreetcn.com/livenews/2990383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
           "title": "瑞银上调全球股市评级 尤其看好中国科技股",
           "url": "https://www.cls.cn/detail/2173633",
           "source": "财联社热门",
@@ -374,7 +444,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         },
@@ -385,15 +455,37 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20251020102808201800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "国家统计局：前三季度沪深两市股票成交额同比增长106.8%",
+          "url": "https://wallstreetcn.com/livenews/2990366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "AXIOS援引美国官员的话称，美国方面敦促以色列“采取相称的回应，同时保持克制”。",
@@ -408,6 +500,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时15分]"
+        },
+        {
+          "title": "根据Counterpoint Research的数据，iPhone 17系列在美国和中国的销量，在其上市的头10天内，比iPhone 16系列高出14%。",
+          "url": "https://wallstreetcn.com/livenews/2990386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "据AXIOS援引美以消息人士称，以色列已提前通知美国政府，告知其对加沙地带实施的空袭。",
@@ -431,42 +534,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 09时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时38分]"
         },
         {
-          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
-          "url": "https://flash.jin10.com/detail/20251020060149187800",
-          "source": "金十数据",
+          "title": "iPhone17 播放《孤勇者》闪退什么原因？",
+          "url": "https://www.zhihu.com/question/1962703846389293137",
+          "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "11时15分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
@@ -491,6 +575,107 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "马斯克 SPACEX 的星链卫星在轨数量超 10000 颗，对此，你有何评价和想法？",
+          "url": "https://www.zhihu.com/question/1963524355679056543",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
+          "url": "https://wallstreetcn.com/livenews/2990221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            5,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时16分]"
+        },
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】中美同意尽快举行新一轮经贸磋商；芯片领域现200亿大手笔投资",
+          "url": "https://www.cls.cn/detail/2173889",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 11时15分]"
+        },
+        {
+          "title": "中美再次回到谈判桌 接下来怎么走",
+          "url": "https://www.toutiao.com/trending/7563094865609756214/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 11时15分]"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20251020060149187800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -503,11 +688,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 09时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 11时15分]"
         },
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
@@ -552,47 +738,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         }
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "keyword_group": "机器人",
       "match_count": 1,
       "titles": [
         {
-          "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
-          "url": "https://wallstreetcn.com/livenews/2990221",
+          "title": "国家统计局：前三季度工业机器人、服务机器人等产品产量分别增长29.8%、16.3%",
+          "url": "https://wallstreetcn.com/livenews/2990355",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            5,
-            9,
-            19
+            20
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】中美同意尽快举行新一轮经贸磋商；芯片领域现200亿大手笔投资",
-          "url": "https://www.cls.cn/detail/2173889",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     }
