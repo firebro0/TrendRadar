@@ -1,249 +1,11 @@
 {
-  "generated_at": "2025-10-22T00:25:47.741071+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-22T01:17:58.307470+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
-          "url": "https://flash.jin10.com/detail/20251021235915002800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金失守4100美元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金跌6.3%，创2013年4月份以来最大日内跌幅。 现货白银跌8.7%，创2021年以来最大日内跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2991321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金跌穿4100美元",
-          "url": "https://wallstreetcn.com/livenews/2991319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "黄金价格坐过山车 后续怎么走",
-          "url": "https://www.toutiao.com/trending/7563613729208667702/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金创4年来最大跌幅",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%88%9B4%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26cate%3D5001%26flag%3D2%26pos%3D22%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "花旗：预计美国政府停摆的结束等因素，可能将在未来2到3周内推动黄金市场实现盘整。",
-          "url": "https://flash.jin10.com/detail/20251021233127128800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金大跌",
-          "url": "https://www.douyin.com/hot/2278030",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "iPad Pro M5体验",
-          "url": "https://search.bilibili.com/all?keyword=iPad%20Pro%20M5%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "苹果生态真的让用户离不开吗？",
-          "url": "https://www.zhihu.com/question/1962119480399331830",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
-          "url": "https://wallstreetcn.com/articles/3757523",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "iPhone频繁打错字不是你手残",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D11%26cate%3D5001%26flag%3D0%26pos%3D12%26lcate%3D5001%26q%3D%2523iPhone%25E9%25A2%2591%25E7%25B9%2581%25E6%2589%2593%25E9%2594%2599%25E5%25AD%2597%25E4%25B8%258D%25E6%2598%25AF%25E4%25BD%25A0%25E6%2589%258B%25E6%25AE%258B%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D11%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "iPhone Air评测",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "苹果翻大车,iOS26离谱Bug频出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI时代需要什么样的程序员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
-          "url": "https://wallstreetcn.com/articles/3757557",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "DeepSeek暂列AI炒币大赛榜首",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
-          "url": "https://wallstreetcn.com/livenews/2991310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -253,8 +15,41 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "标普500指数转跌，纳指现跌0.2%，道指涨幅缩窄至不足0.6%。",
+          "url": "https://flash.jin10.com/detail/20251022010624865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "标普500指数短线走低，日内整体涨幅收窄至不足0.1%，纳指转跌。 半导体指数跌0.5%，罗素2000指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2991355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美股短线下挫，纳指跌0.13%。",
+          "url": "https://flash.jin10.com/detail/20251022005553210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "纳斯达克100指数抹去跌幅后触及盘中高点。",
@@ -288,6 +83,367 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251022003625123800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251022003020254800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "现货黄金失守4100美元",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "现货黄金创4年来最大跌幅",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%88%9B4%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26cate%3D5001%26flag%3D2%26pos%3D22%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "现货黄金大跌",
+          "url": "https://www.douyin.com/hot/2278030",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
+          "url": "https://flash.jin10.com/detail/20251021235915002800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金跌6.3%，创2013年4月份以来最大日内跌幅。 现货白银跌8.7%，创2021年以来最大日内跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2991321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金跌穿4100美元",
+          "url": "https://wallstreetcn.com/livenews/2991319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "花旗：预计美国政府停摆的结束等因素，可能将在未来2到3周内推动黄金市场实现盘整。",
+          "url": "https://flash.jin10.com/detail/20251021233127128800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
+          "url": "https://flash.jin10.com/detail/20251022010254471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
+          "url": "https://wallstreetcn.com/articles/3757557",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "如何评价「AI 就是美国的城投」的观点？",
+          "url": "https://www.zhihu.com/question/1963543399295579410",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
+          "url": "https://wallstreetcn.com/livenews/2991350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
+          "url": "https://wallstreetcn.com/livenews/2991310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
+          "url": "https://flash.jin10.com/detail/20251022003437397800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "iPad Pro M5体验",
+          "url": "https://search.bilibili.com/all?keyword=iPad%20Pro%20M5%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "苹果生态真的让用户离不开吗？",
+          "url": "https://www.zhihu.com/question/1962119480399331830",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
+          "url": "https://wallstreetcn.com/articles/3757523",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "iPhone频繁打错字不是你手残",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D11%26cate%3D5001%26flag%3D0%26pos%3D12%26lcate%3D5001%26q%3D%2523iPhone%25E9%25A2%2591%25E7%25B9%2581%25E6%2589%2593%25E9%2594%2599%25E5%25AD%2597%25E4%25B8%258D%25E6%2598%25AF%25E4%25BD%25A0%25E6%2589%258B%25E6%25AE%258B%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D11%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "iPhone Air评测",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "苹果大卖谁受益",
+          "url": "https://www.toutiao.com/trending/7563647078199463466/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
+          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
+          "url": "https://flash.jin10.com/detail/20251022003719507800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     },
@@ -300,11 +456,12 @@
           "url": "https://wallstreetcn.com/livenews/2991339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
         },
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -314,8 +471,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）全球股市指数-欧洲市场（收盘）",
@@ -331,30 +488,58 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "keyword_group": "特斯拉 马斯克",
       "match_count": 2,
       "titles": [
         {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
         },
         {
-          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
-          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
-          "source": "凤凰网",
+          "title": "马斯克转发浏阳无人机烟花秀新闻",
+          "url": "https://www.toutiao.com/trending/7563531261148168255/",
+          "source": "今日头条",
           "ranks": [
-            9
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20251022010530861800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "01时17分"
         }
       ]
     },
@@ -370,8 +555,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
         },
         {
           "title": "坦克为什么要新能源",
@@ -379,40 +564,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -429,11 +580,12 @@
           "url": "https://www.cls.cn/detail/2175766",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
         }
       ]
     }
