@@ -1,428 +1,11 @@
 {
-  "generated_at": "2025-10-22T03:16:27.830004+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2025-10-22T04:22:17.704563+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
-          "url": "https://flash.jin10.com/detail/20251022010254471800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "AI时代需要什么样的程序员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
-          "url": "https://wallstreetcn.com/articles/3757557",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "DeepSeek暂列AI炒币大赛榜首",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            24,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "如何评价「AI 就是美国的城投」的观点？",
-          "url": "https://www.zhihu.com/question/1963543399295579410",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时16分]"
-        },
-        {
-          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
-          "url": "https://wallstreetcn.com/livenews/2991350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
-        },
-        {
-          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
-          "url": "https://wallstreetcn.com/livenews/2991379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
-          "url": "https://flash.jin10.com/detail/20251022012656788800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
-          "url": "https://wallstreetcn.com/livenews/2991310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "英伟达最强AI芯片“美国造”背后",
-          "url": "https://www.toutiao.com/trending/7562742844079882276/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
-          "url": "https://flash.jin10.com/detail/20251022003437397800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "现货黄金失守4100美元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            16,
-            18,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "黄金价格坐过山车 后续怎么走",
-          "url": "https://www.toutiao.com/trending/7563613729208667702/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "现货黄金创4年来最大跌幅",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%88%9B4%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26cate%3D5001%26flag%3D2%26pos%3D22%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "现货黄金大跌",
-          "url": "https://www.douyin.com/hot/2278030",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
-          "url": "https://flash.jin10.com/detail/20251021235915002800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2176123",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月21日（周二）晚盘收盘下跌4.55%报944.47元/克；<br/>上海黄金交易所白银T+D 10月21日（周二）晚盘收盘下跌4.86%报11261.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251022023033592800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "现货黄金跌6.3%，创2013年4月份以来最大日内跌幅。 现货白银跌8.7%，创2021年以来最大日内跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2991321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金跌穿4100美元",
-          "url": "https://wallstreetcn.com/livenews/2991319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "花旗：预计美国政府停摆的结束等因素，可能将在未来2到3周内推动黄金市场实现盘整。",
-          "url": "https://flash.jin10.com/detail/20251021233127128800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "iPad Pro M5体验",
-          "url": "https://search.bilibili.com/all?keyword=iPad%20Pro%20M5%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果生态真的让用户离不开吗？",
-          "url": "https://www.zhihu.com/question/1962119480399331830",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
-          "url": "https://wallstreetcn.com/articles/3757523",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "iPhone频繁打错字不是你手残",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D11%26cate%3D5001%26flag%3D0%26pos%3D12%26lcate%3D5001%26q%3D%2523iPhone%25E9%25A2%2591%25E7%25B9%2581%25E6%2589%2593%25E9%2594%2599%25E5%25AD%2597%25E4%25B8%258D%25E6%2598%25AF%25E4%25BD%25A0%25E6%2589%258B%25E6%25AE%258B%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D11%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "iPhone Air评测",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果翻大车,iOS26离谱Bug频出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "苹果大卖谁受益",
-          "url": "https://www.toutiao.com/trending/7563647078199463466/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时16分]"
-        },
-        {
-          "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
-          "url": "https://wallstreetcn.com/livenews/2991380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "苹果折叠屏iPad项目遇阻 或推迟至2029年或更晚上市",
-          "url": "https://flash.jin10.com/detail/20251022023029765800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "市场消息：苹果因遇到阻碍推迟了巨型折叠iPad的计划。苹果的可折叠iPad本预计将于2028年上市，目前预计上市时间推迟到2029年或更晚。苹果正与三星显示合作，为iPad开发18英寸面板。",
-          "url": "https://flash.jin10.com/detail/20251022022450130800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "据AXIOS网站援引美以官员：美国国务卿鲁比奥计划于本周晚些时候或万圣节期间前往以色列。",
-          "url": "https://flash.jin10.com/detail/20251022011518530800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -432,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "标普500指数转跌，纳指现跌0.2%，道指涨幅缩窄至不足0.6%。",
@@ -447,6 +30,39 @@
           "time_info": "01时17分"
         },
         {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040658696800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040655122800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2991405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
           "title": "标普500指数短线走低，日内整体涨幅收窄至不足0.1%，纳指转跌。 半导体指数跌0.5%，罗素2000指数跌0.1%。",
           "url": "https://wallstreetcn.com/livenews/2991355",
           "source": "华尔街见闻-快讯",
@@ -457,6 +73,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20251022040513760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/2991403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美股短线下挫，纳指跌0.13%。",
@@ -479,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
+          "url": "https://flash.jin10.com/detail/20251022040119950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -527,48 +176,444 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 4,
+      "keyword_group": "黄金 白银",
+      "match_count": 12,
       "titles": [
         {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
+          "title": "现货黄金失守4100美元",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
           "ranks": [
-            4
+            16,
+            18,
+            19,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "现货黄金创4年来最大跌幅",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%88%9B4%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26cate%3D5001%26flag%3D2%26pos%3D22%26lcate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "现货黄金大跌",
+          "url": "https://www.douyin.com/hot/2278030",
+          "source": "抖音",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 03时16分]"
         },
         {
-          "title": "贝莱德集团旗下多只ETF从Meta Platforms的Hyperion买入超过30亿美元债券。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2991393",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2176123",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
+          "url": "https://flash.jin10.com/detail/20251021235915002800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月21日（周二）晚盘收盘下跌4.55%报944.47元/克；<br/>上海黄金交易所白银T+D 10月21日（周二）晚盘收盘下跌4.86%报11261.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251022023033592800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
         {
-          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
-          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
-          "source": "凤凰网",
+          "title": "现货黄金跌6.3%，创2013年4月份以来最大日内跌幅。 现货白银跌8.7%，创2021年以来最大日内跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2991321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金跌穿4100美元",
+          "url": "https://wallstreetcn.com/livenews/2991319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金向下跌破4200美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44200%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "花旗：预计美国政府停摆的结束等因素，可能将在未来2到3周内推动黄金市场实现盘整。",
+          "url": "https://flash.jin10.com/detail/20251021233127128800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "iPad Pro M5体验",
+          "url": "https://search.bilibili.com/all?keyword=iPad%20Pro%20M5%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "苹果生态真的让用户离不开吗？",
+          "url": "https://www.zhihu.com/question/1962119480399331830",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
+          "url": "https://wallstreetcn.com/articles/3757523",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "iPhone频繁打错字不是你手残",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D11%26cate%3D5001%26flag%3D0%26pos%3D12%26lcate%3D5001%26q%3D%2523iPhone%25E9%25A2%2591%25E7%25B9%2581%25E6%2589%2593%25E9%2594%2599%25E5%25AD%2597%25E4%25B8%258D%25E6%2598%25AF%25E4%25BD%25A0%25E6%2589%258B%25E6%25AE%258B%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D11%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            15,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "iPhone Air评测",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "苹果大卖谁受益",
+          "url": "https://www.toutiao.com/trending/7563647078199463466/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时16分]"
+        },
+        {
+          "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
+          "url": "https://wallstreetcn.com/livenews/2991380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "苹果折叠屏iPad项目遇阻 或推迟至2029年或更晚上市",
+          "url": "https://flash.jin10.com/detail/20251022023029765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "市场消息：苹果因遇到阻碍推迟了巨型折叠iPad的计划。苹果的可折叠iPad本预计将于2028年上市，目前预计上市时间推迟到2029年或更晚。苹果正与三星显示合作，为iPad开发18英寸面板。",
+          "url": "https://flash.jin10.com/detail/20251022022450130800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "报道：苹果巨屏可折叠式iPad遭遇工程难题，发布时间至少被推后至2029年",
+          "url": "https://wallstreetcn.com/livenews/2991380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据AXIOS网站援引美以官员：美国国务卿鲁比奥计划于本周晚些时候或万圣节期间前往以色列。",
+          "url": "https://flash.jin10.com/detail/20251022011518530800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
+          "url": "https://flash.jin10.com/detail/20251022010254471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
+          "url": "https://wallstreetcn.com/articles/3757557",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
-          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
-          "url": "https://flash.jin10.com/detail/20251022003719507800",
+          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            24,
+            25,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "如何评价「AI 就是美国的城投」的观点？",
+          "url": "https://www.zhihu.com/question/1963543399295579410",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时22分]"
+        },
+        {
+          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
+          "url": "https://wallstreetcn.com/livenews/2991350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
+          "url": "https://wallstreetcn.com/livenews/2991379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "英伟达最强AI芯片“美国造”背后",
+          "url": "https://www.toutiao.com/trending/7562742844079882276/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 04时22分]"
+        },
+        {
+          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
+          "url": "https://flash.jin10.com/detail/20251022012656788800",
           "source": "金十数据",
           "ranks": [
-            24
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
+          "url": "https://wallstreetcn.com/livenews/2991310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
+          "url": "https://flash.jin10.com/detail/20251022003437397800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -578,8 +623,19 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十图示：2025年10月21日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040708059800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
           "url": "https://wallstreetcn.com/articles/3757540",
@@ -588,8 +644,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收跌2.3%，兰特跌超0.8%，追随金银价格重挫的表现",
@@ -629,6 +685,119 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "马斯克转发浏阳无人机烟花秀新闻",
+          "url": "https://www.toutiao.com/trending/7563531261148168255/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
+          "url": "https://wallstreetcn.com/livenews/2991400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "反对马斯克万亿美元薪酬方案 工会与机构发起“夺回特斯拉”行动",
+          "url": "https://flash.jin10.com/detail/20251022034124189800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据CNBC：在特斯拉(TSLA.O)周三发布财报之前，一群工会和企业监管机构推出网站Take Back Tesla，反对马斯克的新薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251022033630953800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
+          "url": "https://finance.ifeng.com/c/8ndLK052oFH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "贝莱德集团旗下多只ETF从Meta Platforms的Hyperion买入超过30亿美元债券。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2991393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
+          "url": "https://flash.jin10.com/detail/20251022003719507800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 3,
       "titles": [
@@ -640,8 +809,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -659,11 +828,12 @@
           "url": "https://wallstreetcn.com/livenews/2991386",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
         }
       ]
     },
@@ -680,8 +850,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "坦克为什么要新能源",
@@ -709,35 +879,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "马斯克转发浏阳无人机烟花秀新闻",
-          "url": "https://www.toutiao.com/trending/7563531261148168255/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
       "match_count": 2,
       "titles": [
@@ -751,8 +892,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "广州机器人企业在广交会上意向成交超千万美元",
@@ -761,7 +902,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
