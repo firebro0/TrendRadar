@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T14:29:13.660976+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-10-21T15:19:45.096960+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时19分]"
+        },
+        {
+          "title": "全球储备资产大变局：央行“买买买”，若黄金突破5790美元，将超越美元地位",
+          "url": "https://wallstreetcn.com/articles/3757509",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时19分]"
         },
         {
           "title": "黄金连涨9周后高台跳水",
@@ -36,20 +51,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时23分 ~ 14时29分]"
-        },
-        {
-          "title": "全球储备资产大变局：央行“买买买”，若黄金突破5790美元，将超越美元地位",
-          "url": "https://wallstreetcn.com/articles/3757509",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时29分]"
         },
         {
           "title": "印度人全球爆买白银",
@@ -88,17 +89,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "瑞士9月份黄金出口环比增长37%。",
-          "url": "https://wallstreetcn.com/livenews/2991062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 10月21日（周二）早盘盘初上涨2.48%报997.6元/克；<br/>上海黄金交易所白银T+D 10月21日（周二）早盘盘初上涨1.35%报11942.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251021090032325800",
           "source": "金十数据",
@@ -123,6 +113,18 @@
           "time_info": "[04时21分 ~ 06时17分]"
         },
         {
+          "title": "瑞士9月份黄金出口环比增长37%。",
+          "url": "https://wallstreetcn.com/livenews/2991062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
           "title": "现货黄金创下新高后持续回调，跌破4350美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251021041746711800",
           "source": "金十数据",
@@ -133,6 +135,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "印度人全球爆买白银",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时19分]"
         },
         {
           "title": "现货黄金日内涨幅达3.0%，报4375.23美元/盎司。",
@@ -187,18 +202,6 @@
           "time_info": "[04时21分 ~ 06时17分]"
         },
         {
-          "title": "印度人全球爆买白银",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 10月20日（周一）晚盘收盘上涨2.35%报996.36元/克；<br/>上海黄金交易所白银T+D 10月20日（周一）晚盘收盘上涨1.55%报11966.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251021023111561800",
           "source": "金十数据",
@@ -209,6 +212,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时21分]"
+        },
+        {
+          "title": "瑞士9月份黄金出口环比增长37%。",
+          "url": "https://flash.jin10.com/detail/20251021141139990800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "COMEX黄金期货日内涨幅达4.0%，报4383美元/盎司。",
@@ -245,17 +260,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "瑞士9月份黄金出口环比增长37%。",
-          "url": "https://flash.jin10.com/detail/20251021141139990800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251021103630837800",
           "source": "金十数据",
@@ -284,7 +288,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -306,7 +310,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -339,6 +343,19 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时19分]"
+        },
+        {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
@@ -350,19 +367,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 09时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
-          "url": "https://www.cls.cn/detail/2175088",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时29分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -620,7 +624,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -630,8 +634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 15时19分]"
         },
         {
           "title": "iPhone 17系列首次降价",
@@ -698,8 +702,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时19分]"
         },
         {
           "title": "给iPhone17Pro纹了个身",
@@ -741,6 +745,18 @@
           "time_info": "[03时16分 ~ 04时21分]"
         },
         {
+          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
+          "url": "https://wallstreetcn.com/articles/3757523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时19分]"
+        },
+        {
           "title": "沉睡巨头苏醒！苹果股价暴涨创新高 iPhone热销扫阴霾",
           "url": "https://www.cls.cn/detail/2175031",
           "source": "财联社热门",
@@ -767,18 +783,6 @@
           "time_info": "[01时17分 ~ 03时16分]"
         },
         {
-          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
-          "url": "https://wallstreetcn.com/articles/3757523",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
-        },
-        {
           "title": "据AXIOS网站：两名以色列官员和一名美国官员透露，以色列总理内塔尼亚胡任命Michael Eisenberg担任其驻美指挥中心代表，该中心负责监督加沙协议的执行。",
           "url": "https://flash.jin10.com/detail/20251021034146086800",
           "source": "金十数据",
@@ -790,6 +794,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时21分 ~ 06时17分]"
+        },
+        {
+          "title": "“股神”也卖飞？苹果股价创新高 巴菲特错失500亿美元收益",
+          "url": "https://www.cls.cn/detail/2175446",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "A股苹果概念股持续走高，福立旺涨超12%，环旭电子涨停，安泰科技、立讯精密、珠海冠宇等涨超8%。",
@@ -804,15 +820,15 @@
           "time_info": "[11时05分 ~ 12时22分]"
         },
         {
-          "title": "“股神”也卖飞？苹果股价创新高 巴菲特错失500亿美元收益",
-          "url": "https://www.cls.cn/detail/2175446",
-          "source": "财联社热门",
+          "title": "史上最贵iPhone Air发布",
+          "url": "https://www.toutiao.com/trending/7563542530688552489/",
+          "source": "今日头条",
           "ranks": [
-            13
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "15时19分"
         },
         {
           "title": "苹果股价创历史新高",
@@ -862,7 +878,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "越南再爆“数万亿”地产大雷，股市重挫5%，创六个月来最大单日跌幅",
@@ -874,8 +890,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "学习时报：努力稳股市让老百姓的消费底气更足",
@@ -887,8 +903,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 15时19分]"
         },
         {
           "title": "加拿大丰业银行：加企盈利或再创新高 支撑多伦多股市延续涨势",
@@ -911,6 +927,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
+          "url": "https://wallstreetcn.com/articles/3757540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时19分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）全球股市指数-美洲市场（收盘）",
@@ -937,18 +965,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时17分]"
-        },
-        {
-          "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
-          "url": "https://wallstreetcn.com/articles/3757540",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时29分]"
         },
         {
           "title": "创业板指涨超3%，沪指涨近1%，深成指涨近2%，超硬材料、深海科技、CPO、存储芯片等方向领涨，沪深京三市上涨个股超4200只。",
@@ -999,6 +1015,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
+        },
+        {
+          "title": "沪深两市今日成交额合计18738.94亿元",
+          "url": "https://wallstreetcn.com/livenews/2991079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "上证指数收报3916.33点，涨1.36%。 深证成指收报13077.32点，涨2.06%。 创业板指收报3083.72点，涨3.02%。 沪深300收报4607.87点，涨1.53%。 科创50收报1406.32点，涨2.81%。 中证500收报7185.62点，涨1.64%。 中证1000收报7344.05点，涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/2991076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）亚太市场股市指数",
@@ -1085,11 +1123,12 @@
             17,
             21,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -1148,8 +1187,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 15时19分]"
         },
         {
           "title": "特朗普发辣眼AI视频引争议",
@@ -1172,8 +1211,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时19分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -1269,7 +1308,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题 外交部回应",
@@ -1293,8 +1332,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "中方回应中美将重返谈判桌",
@@ -1322,11 +1361,12 @@
             3,
             1,
             5,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
@@ -1338,8 +1378,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 15时19分]"
         },
         {
           "title": "外交部回应 “中美即将重返谈判桌”",
@@ -1415,6 +1455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 11时05分]"
+        },
+        {
+          "title": "中美一旦和解 印度将如何自处",
+          "url": "https://www.toutiao.com/trending/7562446339776233513/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -1452,8 +1503,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时19分]"
         },
         {
           "title": "“万物齐涨”，三大股指全线走高，黄金重拾涨势，比特币涨回11万美元",
@@ -1565,7 +1616,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1584,7 +1635,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新能源车成酒店 「圈外对手」，国庆服务区睡车游客激增，千元酒店房间遇冷，这会颠覆传统旅游住宿格局吗？",
@@ -1614,11 +1665,12 @@
             15,
             19,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "【恒指高开1.17%，恒生科技指数涨1.84%】京东健康、小米、中芯国际等涨超2%。",
@@ -1643,6 +1695,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时28分 ~ 07时16分]"
+        },
+        {
+          "title": "坦克为什么要新能源",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9D%A6%E5%85%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%96%B0%E8%83%BD%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "小米SU7借朋友开10分钟被撞烂",
@@ -1712,11 +1775,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时19分]"
         },
         {
           "title": "谷歌云任命Narain为首席产品兼商业官。",
