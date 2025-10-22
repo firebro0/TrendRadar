@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T21:33:20.057186+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2025-10-22T22:20:50.630345+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，“所有目光聚焦沪金开盘”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 22时20分]"
         },
         {
           "title": "高台跳水！现货黄金一度跌超3.8%、现货白银大跌逾6%，什么原因？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 22时20分]"
         },
         {
           "title": "教授每年强制自己定投100克黄金",
@@ -57,8 +57,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时22分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 22时20分]"
         },
         {
           "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
@@ -108,8 +108,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -174,6 +174,31 @@
           "time_info": "[11时10分 ~ 15时19分]"
         },
         {
+          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
+          "url": "https://wallstreetcn.com/articles/3757615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "日本警方从女子内衣中搜出黄金8公斤",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E4%BB%8E%E5%A5%B3%E5%AD%90%E5%86%85%E8%A1%A3%E4%B8%AD%E6%90%9C%E5%87%BA%E9%BB%84%E9%87%918%E5%85%AC%E6%96%A4",
           "source": "百度热搜",
@@ -222,6 +247,17 @@
           "time_info": "[09时26分 ~ 11时10分]"
         },
         {
+          "title": "人造肉妖股本周已涨超10倍 黄金连续第二日调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2177456",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "中国女子被指盗走法博物馆6公斤黄金",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8C%87%E7%9B%97%E8%B5%B0%E6%B3%95%E5%8D%9A%E7%89%A9%E9%A6%866%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -234,31 +270,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 19时17分]"
-        },
-        {
-          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
-          "url": "https://wallstreetcn.com/articles/3757615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "现货黄金失守4100美元",
@@ -336,6 +347,18 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "黄金惊现高台跳水，300亿追涨资金短线被套，基金经理火线心理按摩",
+          "url": "https://www.cls.cn/detail/2177416",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
           "title": "现货黄金回落至4120美元/盎司下方，日内跌0.14%。",
           "url": "https://flash.jin10.com/detail/20251022060512308800",
           "source": "金十数据",
@@ -384,6 +407,18 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
+          "title": "黄金创12年来最大单日跌幅 金饰热卖",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%9B12%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85+%E9%87%91%E9%A5%B0%E7%83%AD%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
           "title": "现货黄金向下跌破4200美元",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44200%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -406,18 +441,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "黄金创12年来最大单日跌幅 金饰热卖",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%9B12%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85+%E9%87%91%E9%A5%B0%E7%83%AD%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "黄金白银市场经历“惊魂一夜”",
@@ -545,17 +568,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "黄金惊现高台跳水，300亿追涨资金短线被套，基金经理火线心理按摩",
-          "url": "https://www.cls.cn/detail/2177416",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1058.66吨，较前一个交易日维持不变。",
           "url": "https://flash.jin10.com/detail/20251022063736700800",
           "source": "金十数据",
@@ -653,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "黄金大跌背后的原因",
+          "url": "https://www.douyin.com/hot/2278565",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月21日（周二）晚盘收盘下跌4.55%报944.47元/克；<br/>上海黄金交易所白银T+D 10月21日（周二）晚盘收盘下跌4.86%报11261.0元/千克。",
@@ -864,6 +887,17 @@
           "time_info": "19时17分"
         },
         {
+          "title": "黄金高台跳水到底什么原因",
+          "url": "https://www.toutiao.com/trending/7563988065727811118/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "黄金连续飙涨后大跌6.3%释放啥信号",
           "url": "https://www.toutiao.com/trending/7563961820885552681/",
           "source": "今日头条",
@@ -961,6 +995,462 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时19分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
+          "url": "https://www.cls.cn/detail/2176345",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 12时22分]"
+        },
+        {
+          "title": "标普500指数转跌，纳指现跌0.2%，道指涨幅缩窄至不足0.6%。",
+          "url": "https://flash.jin10.com/detail/20251022010624865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "Beyond Meat(BYND.O)延续涨势，美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
+          "url": "https://flash.jin10.com/detail/20251022190108707800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040658696800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF跌超1%，黄金ETF持续走低。",
+          "url": "https://wallstreetcn.com/livenews/2991972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251022040655122800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2991405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2991953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
+          "title": "摩根大通策略师预计标普500指数成分股第三季度盈利增长约12%",
+          "url": "https://wallstreetcn.com/livenews/2991952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
+          "title": "标普500指数短线走低，日内整体涨幅收窄至不足0.1%，纳指转跌。 半导体指数跌0.5%，罗素2000指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2991355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，标普500股指期货最终持平，道指期货涨0.52%，纳斯达克100股指期货跌0.16%。 罗素2000股指期货跌0.52%。",
+          "url": "https://wallstreetcn.com/livenews/2991433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "纳斯达克100指数期货触及盘中低点，下跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2991923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
+          "url": "https://wallstreetcn.com/livenews/2991410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
+          "url": "https://wallstreetcn.com/livenews/2991409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20251022040513760800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/2991403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股短线下挫，纳指跌0.13%。",
+          "url": "https://flash.jin10.com/detail/20251022005553210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "纳斯达克100指数抹去跌幅后触及盘中高点。",
+          "url": "https://flash.jin10.com/detail/20251021235629556800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
+          "url": "https://flash.jin10.com/detail/20251022040119950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股盘前，贵金属概念股小幅回暖，泛美白银(PAAS.O)涨超1.6%，金罗斯黄金(KGC.N)、金田(GFI.N)涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251022160653226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，道指跌0.03%，纳指跌0.1%，标普500指数涨0.07%。苹果跌0.3%，公司削减了iPhone Air的生产订单；“人造肉第一股”Beyond Meat大涨71%；奈飞跌超7%，Q3盈利远逊预期，下调全年指引。德州仪器跌9.8%，至5月以来最低水平，Q4业绩展望不及预期，暗示芯片行业复苏缓慢。",
+          "url": "https://wallstreetcn.com/livenews/2991966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美股期指盘前集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "标普500指数高开5.99点，涨幅0.09%，报6741.34点； 道琼斯工业平均指数高开16.82点，涨幅0.04%，报46941.56点； 纳斯达克综合指数低开12.88点，跌幅0.06%，报22940.79点。",
+          "url": "https://wallstreetcn.com/livenews/2991965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "财报公布后，赛默飞世尔(TMO.N)美股盘前涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251022180729183800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
+          "url": "https://wallstreetcn.com/livenews/2991788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
+          "url": "https://flash.jin10.com/detail/20251021233843377800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
+          "url": "https://wallstreetcn.com/livenews/2991320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金高位暴跌险守4000美元，多头情绪仍浓；美股股指再创新高，道指买进信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251022104029255800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘前跌约0.7%。",
+          "url": "https://flash.jin10.com/detail/20251022200006334800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
+          "url": "https://wallstreetcn.com/livenews/2991405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "标普500指数收涨0.22点，涨幅0.00%，报6735.35点。 道琼斯工业平均指数收涨218.16点，涨幅0.47%，报46924.74点。 纳斯达克综合指数（纳指）收跌36.877点，跌幅0.16%，报22953.666点。 纳斯达克100指数收跌13.887点，跌幅0.06%，报25127.131点。",
+          "url": "https://wallstreetcn.com/livenews/2991403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251022003625123800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "Beyond Meat美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
+          "url": "https://wallstreetcn.com/livenews/2991904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "AT&T(T.N)股价美股盘前上涨2.8%。",
+          "url": "https://flash.jin10.com/detail/20251022184052154800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251022003020254800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     },
@@ -1075,6 +1565,18 @@
           "time_info": "[01时17分 ~ 07时18分]"
         },
         {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
           "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
@@ -1110,18 +1612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "上海前三季度三大先导产业制造业产值同比增长8.5% 其中人工智能制造业增长12.8%",
@@ -1189,11 +1679,12 @@
           "url": "https://www.cls.cn/detail/2177003",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时33分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "王鹤棣担任GAI演唱会嘉宾",
@@ -1439,418 +1930,8 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 36,
-      "titles": [
-        {
-          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
-          "url": "https://www.cls.cn/detail/2176345",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 12时22分]"
-        },
-        {
-          "title": "标普500指数转跌，纳指现跌0.2%，道指涨幅缩窄至不足0.6%。",
-          "url": "https://flash.jin10.com/detail/20251022010624865800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "Beyond Meat(BYND.O)延续涨势，美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
-          "url": "https://flash.jin10.com/detail/20251022190108707800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2991953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "摩根大通策略师预计标普500指数成分股第三季度盈利增长约12%",
-          "url": "https://wallstreetcn.com/livenews/2991952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040658696800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251022040655122800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
-          "url": "https://wallstreetcn.com/livenews/2991405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "标普500指数短线走低，日内整体涨幅收窄至不足0.1%，纳指转跌。 半导体指数跌0.5%，罗素2000指数跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/2991355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
-        },
-        {
-          "title": "周二（10月21日）纽约尾盘，标普500股指期货最终持平，道指期货涨0.52%，纳斯达克100股指期货跌0.16%。 罗素2000股指期货跌0.52%。",
-          "url": "https://wallstreetcn.com/livenews/2991433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/2991418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时19分]"
-        },
-        {
-          "title": "纳斯达克100指数期货触及盘中低点，下跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2991923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时33分]"
-        },
-        {
-          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
-          "url": "https://wallstreetcn.com/livenews/2991414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时19分]"
-        },
-        {
-          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
-          "url": "https://wallstreetcn.com/livenews/2991410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时19分]"
-        },
-        {
-          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
-          "url": "https://wallstreetcn.com/livenews/2991409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时19分]"
-        },
-        {
-          "title": "奈飞(NFLX.O)美股盘后跌超6%。",
-          "url": "https://flash.jin10.com/detail/20251022040513760800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "标普500指数初步收涨约0.1%，可选消费板块涨1.6%，工业板块涨1%，科技板块持平，电信板块跌0.7%，公用事业板块跌1.1%。 纳斯达克100指数初步大致收平，成分股中，核电概念股Constellation Energy跌3.5%，CSX跌2.2%，谷歌A跌2.2%，Applovin跌2%，博通、美光科技、阿斯麦ADR等跌超1%，亚马逊则涨2.6%，Adobe涨4.3%，露露柠檬涨5.6%，TEAM涨6.3%，华纳兄弟探索公司涨10.9%。 3M初步收涨7.3%，可口可乐和Salesforce涨3.8%，与亚马逊领跑道指成分股，卡特彼勒、VZ、摩根大通则至少跌约1%。",
-          "url": "https://wallstreetcn.com/livenews/2991403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美股短线下挫，纳指跌0.13%。",
-          "url": "https://flash.jin10.com/detail/20251022005553210800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "纳斯达克100指数抹去跌幅后触及盘中高点。",
-          "url": "https://flash.jin10.com/detail/20251021235629556800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
-          "url": "https://wallstreetcn.com/articles/3757528",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 贵金属概念领跌",
-          "url": "https://flash.jin10.com/detail/20251022040119950800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美股盘前，贵金属概念股小幅回暖，泛美白银(PAAS.O)涨超1.6%，金罗斯黄金(KGC.N)、金田(GFI.N)涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20251022160653226800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "美股期指盘前集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "财报公布后，赛默飞世尔(TMO.N)美股盘前涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251022180729183800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
-          "url": "https://wallstreetcn.com/livenews/2991788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
-          "url": "https://flash.jin10.com/detail/20251021233843377800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
-          "url": "https://wallstreetcn.com/livenews/2991320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金高位暴跌险守4000美元，多头情绪仍浓；美股股指再创新高，道指买进信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251022104029255800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘前跌约0.7%。",
-          "url": "https://flash.jin10.com/detail/20251022200006334800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
-          "url": "https://wallstreetcn.com/livenews/2991405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "标普500指数收涨0.22点，涨幅0.00%，报6735.35点。 道琼斯工业平均指数收涨218.16点，涨幅0.47%，报46924.74点。 纳斯达克综合指数（纳指）收跌36.877点，跌幅0.16%，报22953.666点。 纳斯达克100指数收跌13.887点，跌幅0.06%，报25127.131点。",
-          "url": "https://wallstreetcn.com/livenews/2991403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251022003625123800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "Beyond Meat美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
-          "url": "https://wallstreetcn.com/livenews/2991904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "AT&T(T.N)股价美股盘前上涨2.8%。",
-          "url": "https://flash.jin10.com/detail/20251022184052154800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251022003020254800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "iPad Pro M5体验",
@@ -1885,11 +1966,12 @@
             23,
             10,
             17,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时22分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 22时20分]"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -1941,8 +2023,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 21时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时25分 ~ 22时20分]"
         },
         {
           "title": "曝iPhoneAir暂停生产",
@@ -2023,7 +2105,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2121,6 +2203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
+          "title": "苹果与谷歌移动系统面临英国更严格反垄断审查",
+          "url": "https://flash.jin10.com/detail/20251022215710144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
@@ -2247,7 +2340,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "学习时报刊文：努力稳股市让老百姓的消费底气更足",
@@ -2271,8 +2364,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 21时33分]"
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）沪深港通南向资金流向",
@@ -2366,6 +2459,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251022220034317800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "乘股市回暖东风，逾九成保险资管产品年内实现正收益",
@@ -2514,7 +2618,7 @@
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -2538,8 +2642,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时10分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时10分 ~ 22时20分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -2570,7 +2674,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2581,7 +2685,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2632,12 +2736,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "谷歌：英国竞争与市场管理局（CMA）的举措“令人失望、不成比例、没有依据”。",
+          "url": "https://wallstreetcn.com/livenews/2991956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -2647,8 +2762,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 22时20分]"
         },
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -2720,6 +2835,17 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "比特币突破109000美元/枚，日内涨0.65%。",
+          "url": "https://flash.jin10.com/detail/20251022215908386800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
           "url": "https://flash.jin10.com/detail/20251022003719507800",
           "source": "金十数据",
@@ -2768,8 +2894,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 22时20分]"
         },
         {
           "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
@@ -2900,6 +3026,32 @@
           "time_info": "[11时10分 ~ 16时27分]"
         },
         {
+          "title": "一图看懂 | 人形机器人企业IPO提速，哪些大咖排队入场？",
+          "url": "https://www.cls.cn/detail/2177191",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
+          "title": "机器人做的菜好吃吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E7%9A%84%E8%8F%9C%E5%A5%BD%E5%90%83%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
           "title": "国产机器人大跳迈克尔杰克逊舞蹈",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B7%B3%E8%BF%88%E5%85%8B%E5%B0%94%E6%9D%B0%E5%85%8B%E9%80%8A%E8%88%9E%E8%B9%88",
           "source": "百度热搜",
@@ -2911,30 +3063,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时22分 ~ 15时19分]"
-        },
-        {
-          "title": "一图看懂 | 人形机器人企业IPO提速，哪些大咖排队入场？",
-          "url": "https://www.cls.cn/detail/2177191",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时33分]"
-        },
-        {
-          "title": "机器人做的菜好吃吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E7%9A%84%E8%8F%9C%E5%A5%BD%E5%90%83%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "宁波12岁小孩哥设计制作朋克机器人",
@@ -2983,8 +3111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -2995,19 +3123,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
           "url": "https://www.douyin.com/hot/2278821",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 21时33分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -3055,7 +3184,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -3116,6 +3245,19 @@
           "time_info": "[00时25分 ~ 06时19分]"
         },
         {
+          "title": "车主买小米汽车被另一品牌销售诅咒",
+          "url": "https://www.toutiao.com/trending/7563446421257650222/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
           "url": "https://wallstreetcn.com/livenews/2991417",
           "source": "华尔街见闻-快讯",
@@ -3126,18 +3268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时19分]"
-        },
-        {
-          "title": "车主买小米汽车被另一品牌销售诅咒",
-          "url": "https://www.toutiao.com/trending/7563446421257650222/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "赛力斯和小米有多赚钱",
