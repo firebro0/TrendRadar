@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T20:41:12.263597+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-10-22T21:33:20.057186+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，“所有目光聚焦沪金开盘”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 21时33分]"
         },
         {
           "title": "高台跳水！现货黄金一度跌超3.8%、现货白银大跌逾6%，什么原因？",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 21时33分]"
         },
         {
           "title": "教授每年强制自己定投100克黄金",
@@ -53,11 +53,12 @@
             6,
             20,
             22,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 21时33分]"
         },
         {
           "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
@@ -79,8 +80,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 21时33分]"
         },
         {
           "title": "现货黄金创4年来最大跌幅",
@@ -93,6 +94,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 11时10分]"
+        },
+        {
+          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
+          "url": "https://wallstreetcn.com/articles/3757632",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -116,21 +133,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时10分 ~ 17时22分]"
-        },
-        {
-          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
-          "url": "https://wallstreetcn.com/articles/3757632",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
@@ -234,6 +236,31 @@
           "time_info": "[16时27分 ~ 19时17分]"
         },
         {
+          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
+          "url": "https://wallstreetcn.com/articles/3757615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时33分]"
+        },
+        {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时33分]"
+        },
+        {
           "title": "现货黄金失守4100美元",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884100%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D16%26cate%3D5001%26flag%3D1%26pos%3D17%26lcate%3D5001%26q%3D%2523%25E7%258E%25B0%25E8%25B4%25A7%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25B1%25E5%25AE%25884100%25E7%25BE%258E%25E5%2585%2583%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D16%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761062369%26pre_seqid%3D17610623695860229641768",
           "source": "微博",
@@ -333,6 +360,18 @@
           "time_info": "[05时17分 ~ 06时19分]"
         },
         {
+          "title": "黄金为何大跌",
+          "url": "https://www.toutiao.com/trending/7563975650453753380/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 21时33分]"
+        },
+        {
           "title": "现货黄金日内转涨，目前报4132美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2991641",
           "source": "华尔街见闻-快讯",
@@ -343,30 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时41分]"
-        },
-        {
-          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
-          "url": "https://wallstreetcn.com/articles/3757615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "现货黄金向下跌破4200美元",
@@ -393,16 +408,16 @@
           "time_info": "[00时25分 ~ 03时16分]"
         },
         {
-          "title": "黄金为何大跌",
-          "url": "https://www.toutiao.com/trending/7563975650453753380/",
-          "source": "今日头条",
+          "title": "黄金创12年来最大单日跌幅 金饰热卖",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%9B12%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85+%E9%87%91%E9%A5%B0%E7%83%AD%E5%8D%96",
+          "source": "百度热搜",
           "ranks": [
-            8,
+            23,
             21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时17分 ~ 20时41分]"
+          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "黄金白银市场经历“惊魂一夜”",
@@ -475,17 +490,6 @@
           "time_info": "[16时27分 ~ 17时22分]"
         },
         {
-          "title": "黄金创12年来最大单日跌幅 金饰热卖",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%9B12%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85+%E9%87%91%E9%A5%B0%E7%83%AD%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
-        },
-        {
           "title": "黄金创4年来最大单日跌幅",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E5%88%9B4%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26cate%3D5001%26realpos%3D27%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E5%2588%259B4%25E5%25B9%25B4%25E6%259D%25A5%25E6%259C%2580%25E5%25A4%25A7%25E5%258D%2595%25E6%2597%25A5%25E8%25B7%258C%25E5%25B9%2585%2523%26pos%3D27%26dgr%3D0%26c_type%3D31%26display_time%3D1761096369%26pre_seqid%3D176109636974803133243137",
           "source": "微博",
@@ -539,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "黄金惊现高台跳水，300亿追涨资金短线被套，基金经理火线心理按摩",
+          "url": "https://www.cls.cn/detail/2177416",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1058.66吨，较前一个交易日维持不变。",
@@ -602,7 +617,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -756,7 +771,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -899,7 +914,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1028,6 +1043,22 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
+        },
+        {
           "title": "如何评价「AI 就是美国的城投」的观点？",
           "url": "https://www.zhihu.com/question/1963543399295579410",
           "source": "知乎",
@@ -1044,32 +1075,6 @@
           "time_info": "[01时17分 ~ 07时18分]"
         },
         {
-          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
-          "url": "https://www.zhihu.com/question/1954568431539036226",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
-        },
-        {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
-        },
-        {
           "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
@@ -1083,17 +1088,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时19分 ~ 17时22分]"
-        },
-        {
-          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
-          "url": "https://flash.jin10.com/detail/20251022203204664800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "深圳：在集成电路、人工智能、新能源等战略性新兴产业领域，支持龙头上市公司等开展上下游并购重组",
@@ -1116,6 +1110,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "上海前三季度三大先导产业制造业产值同比增长8.5% 其中人工智能制造业增长12.8%",
@@ -1143,6 +1149,18 @@
           "time_info": "[09时26分 ~ 13时19分]"
         },
         {
+          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
+          "url": "https://flash.jin10.com/detail/20251022203204664800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "国内首款AI辅助新药MTS-004完成三期临床",
           "url": "https://wallstreetcn.com/livenews/2991669",
           "source": "华尔街见闻-快讯",
@@ -1165,6 +1183,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
+          "url": "https://www.cls.cn/detail/2177003",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时33分]"
+        },
+        {
+          "title": "王鹤棣担任GAI演唱会嘉宾",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26cate%3D5001%26pos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761136210%26pre_seqid%3D1761136210873031824814",
+          "source": "微博",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
@@ -1200,17 +1241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-22）",
@@ -1271,17 +1301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "王鹤棣担任GAI演唱会嘉宾",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D15%26cate%3D5001%26pos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26band_rank%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761136210%26pre_seqid%3D1761136210873031824814",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
@@ -1421,7 +1440,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -1467,6 +1486,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2991953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "摩根大通策略师预计标普500指数成分股第三季度盈利增长约12%",
+          "url": "https://wallstreetcn.com/livenews/2991952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -1536,6 +1577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时19分]"
+        },
+        {
+          "title": "纳斯达克100指数期货触及盘中低点，下跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2991923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
         },
         {
           "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
@@ -1651,6 +1704,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "美股期指盘前集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "财报公布后，赛默飞世尔(TMO.N)美股盘前涨超1%。",
           "url": "https://flash.jin10.com/detail/20251022180729183800",
           "source": "金十数据",
@@ -1671,17 +1735,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "纳斯达克100指数期货触及盘中低点，下跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2991923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -1723,7 +1776,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1767,7 +1820,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1797,25 +1850,8 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "MacBook Pro M5性能测试",
-          "url": "https://search.bilibili.com/all?keyword=MacBook%20Pro%20M5%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            8,
-            19,
-            23,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时22分 ~ 20时41分]"
-        },
         {
           "title": "iPad Pro M5体验",
           "url": "https://search.bilibili.com/all?keyword=iPad%20Pro%20M5%E4%BD%93%E9%AA%8C",
@@ -1836,6 +1872,24 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时25分 ~ 15时19分]"
+        },
+        {
+          "title": "MacBook Pro M5性能测试",
+          "url": "https://search.bilibili.com/all?keyword=MacBook%20Pro%20M5%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            8,
+            19,
+            23,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 21时33分]"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -1883,11 +1937,12 @@
             23,
             25,
             27,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 20时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 21时33分]"
         },
         {
           "title": "曝iPhoneAir暂停生产",
@@ -1901,6 +1956,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时10分 ~ 15时19分]"
+        },
+        {
+          "title": "iPhone17Pro的受害者出现了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone17Pro%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D1%26q%3DiPhone17Pro%25E7%259A%2584%25E5%258F%2597%25E5%25AE%25B3%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D0%26band_rank%3D1%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1761121629%26pre_seqid%3D176112162936301144435116",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
         },
         {
           "title": "苹果生态真的让用户离不开吗？",
@@ -1917,20 +1987,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "iPhone17Pro的受害者出现了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone17Pro%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D1%26q%3DiPhone17Pro%25E7%259A%2584%25E5%258F%2597%25E5%25AE%25B3%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D0%26band_rank%3D1%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1761121629%26pre_seqid%3D176112162936301144435116",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "iPhone频繁打错字不是你手残",
@@ -1959,6 +2015,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时19分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们已经看到了欧盟法规对苹果用户的影响，我们敦促英国不要走同样的道路。",
+          "url": "https://flash.jin10.com/detail/20251022210251287800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "苹果削减iPhone Air生产计划，同时增加了其他iPhone 17型号的订单量。（日经新闻）",
@@ -1997,6 +2064,30 @@
           "time_info": "[14时29分 ~ 15时19分]"
         },
         {
+          "title": "Meta Platforms将从其AI部门裁减数百个职位。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/2991930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
+          "title": "苹果盘前跌约0.7%，据路透，苹果因App Store条款遭遇欧盟反垄断投诉。",
+          "url": "https://wallstreetcn.com/livenews/2991926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "苹果大卖谁受益",
           "url": "https://www.toutiao.com/trending/7563647078199463466/",
           "source": "今日头条",
@@ -2032,28 +2123,6 @@
           "time_info": "[18时21分 ~ 19时17分]"
         },
         {
-          "title": "Meta Platforms将从其AI部门裁减数百个职位。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/2991930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "苹果盘前跌约0.7%，据路透，苹果因App Store条款遭遇欧盟反垄断投诉。",
-          "url": "https://wallstreetcn.com/livenews/2991926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
           "url": "https://wallstreetcn.com/livenews/2991380",
           "source": "华尔街见闻-快讯",
@@ -2071,7 +2140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2082,7 +2151,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2104,7 +2173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2137,7 +2206,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -2202,8 +2271,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 21时33分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）沪深港通南向资金流向",
@@ -2444,6 +2513,129 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 21时33分]"
+        },
+        {
+          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20251022010530861800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251022161302634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：如果英国数字市场监管制度要实现其促进增长和创新的承诺，下一步措施将至关重要。",
+          "url": "https://flash.jin10.com/detail/20251022210215322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（就英国竞争和市场管理局的决定）这是令人失望的、不成比例的、毫无根据的。",
+          "url": "https://flash.jin10.com/detail/20251022210144301800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 12时22分]"
+        },
+        {
+          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
+          "url": "https://wallstreetcn.com/livenews/2991440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
+          "url": "https://wallstreetcn.com/livenews/2991386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
+          "url": "https://flash.jin10.com/detail/20251022054430700800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 9,
       "titles": [
@@ -2455,8 +2647,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时26分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 21时33分]"
         },
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -2504,6 +2696,18 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
+          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
+          "url": "https://wallstreetcn.com/livenews/2991928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "周二（10月21日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨0.25%，至11.1万美元上方。 CME以太币期货DCR主力合约跌0.71%，报3966.50美元。",
           "url": "https://wallstreetcn.com/livenews/2991431",
           "source": "华尔街见闻-快讯",
@@ -2514,17 +2718,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
-          "url": "https://wallstreetcn.com/livenews/2991928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
@@ -2544,7 +2737,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -2571,11 +2764,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时33分]"
         },
         {
           "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
@@ -2723,22 +2917,24 @@
           "url": "https://www.cls.cn/detail/2177191",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "机器人做的菜好吃吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E7%9A%84%E8%8F%9C%E5%A5%BD%E5%90%83%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "宁波12岁小孩哥设计制作朋克机器人",
@@ -2776,121 +2972,9 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
+      "keyword_group": "中美",
       "match_count": 8,
       "titles": [
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 20时41分]"
-        },
-        {
-          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
-          "url": "https://flash.jin10.com/detail/20251022010530861800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251022161302634800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
-          "url": "https://www.cls.cn/detail/2176315",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 12时22分]"
-        },
-        {
-          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
-          "url": "https://wallstreetcn.com/livenews/2991440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
-          "url": "https://wallstreetcn.com/livenews/2991386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
-          "url": "https://flash.jin10.com/detail/20251022054430700800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中方回应特朗普称中美将达成贸易协议",
-          "url": "https://www.toutiao.com/trending/7563496326190022665/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
-        },
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
           "url": "https://news.ifeng.com/c/8nezfC6pmYF",
@@ -2899,8 +2983,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成贸易协议",
+          "url": "https://www.toutiao.com/trending/7563496326190022665/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -2910,8 +3006,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -2921,11 +3017,12 @@
             5,
             6,
             8,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
         },
         {
           "title": "半导体产业的中美荷三国博弈",
@@ -2950,6 +3047,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
+          "title": "贸易战中的中美大豆贸易博弈",
+          "url": "https://www.douyin.com/hot/2277028",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "特朗普称中美会在APEC峰会上达成贸易协议，但中美元首未必见面，外交部回应",
