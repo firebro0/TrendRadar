@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:31:44.459119+08:00",
-  "total_titles_processed": 1987,
+  "generated_at": "2025-10-23T22:20:23.656359+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时18分 ~ 21时31分]"
+          "appearance_count": 15,
+          "time_info": "[13时18分 ~ 22时20分]"
         },
         {
           "title": "特斯拉为何取消卡片钥匙",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 22时20分]"
         },
         {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
+          "url": "https://wallstreetcn.com/livenews/2992649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
@@ -598,6 +609,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20251023213312019800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特斯拉在法兰克福上市的股票开盘下跌近4%。",
           "url": "https://flash.jin10.com/detail/20251023140312841800",
           "source": "金十数据",
@@ -612,7 +634,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "黄金惊现高台跳水，300亿追涨资金短线被套，基金经理火线心理按摩",
@@ -787,17 +809,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "现货黄金突破4140美元/盎司，日内涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2992622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "老板回应10元1克收小孩72克黄金",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%9410%E5%85%831%E5%85%8B%E6%94%B6%E5%B0%8F%E5%AD%A972%E5%85%8B%E9%BB%84%E9%87%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D20%26stream_entry_id%3D31%26band_rank%3D19%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D19%26q%3D%2523%25E8%2580%2581%25E6%259D%25BF%25E5%259B%259E%25E5%25BA%259410%25E5%2585%25831%25E5%2585%258B%25E6%2594%25B6%25E5%25B0%258F%25E5%25AD%25A972%25E5%2585%258B%25E9%25BB%2584%25E9%2587%2591%2523%26flag%3D1%26display_time%3D1761207909%26pre_seqid%3D1761207909393031824708",
           "source": "微博",
@@ -818,7 +829,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -837,6 +848,18 @@
           "time_info": "[00时25分 ~ 04时23分]"
         },
         {
+          "title": "现货黄金突破4140美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时20分]"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日减少6.29吨，当前持仓量为1052.37吨。",
           "url": "https://flash.jin10.com/detail/20251023060135087800",
           "source": "金十数据",
@@ -847,6 +870,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时16分]"
+        },
+        {
+          "title": "金店老板10元1克收孩子黄金还给家长",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF10%E5%85%831%E5%85%8B%E6%94%B6%E5%AD%A9%E5%AD%90%E9%BB%84%E9%87%91%E8%BF%98%E7%BB%99%E5%AE%B6%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -860,18 +896,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时29分]"
-        },
-        {
-          "title": "金店老板10元1克收孩子黄金还给家长",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF10%E5%85%831%E5%85%8B%E6%94%B6%E5%AD%A9%E5%AD%90%E9%BB%84%E9%87%91%E8%BF%98%E7%BB%99%E5%AE%B6%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时31分]"
         },
         {
           "title": "中国女子被指盗走法博物馆6公斤黄金",
@@ -960,7 +984,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1042,6 +1066,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "现货黄金向上触及4150美元/盎司，日内涨近1.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "现货黄金向下触及4070美元/盎司，日内跌0.77%。",
           "url": "https://flash.jin10.com/detail/20251023082214854800",
           "source": "金十数据",
@@ -1097,6 +1132,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "现货黄金向上触及4150美元/盎司，日内涨1.27%。",
+          "url": "https://flash.jin10.com/detail/20251023214530716800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "现货金银短线走高，现货黄金跌幅收窄至1%以内。",
           "url": "https://flash.jin10.com/detail/20251023030435339800",
           "source": "金十数据",
@@ -1136,7 +1182,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1188,7 +1234,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "UP主手搓AI眼镜",
@@ -1202,11 +1248,12 @@
             6,
             8,
             13,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 22时20分]"
         },
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -1218,8 +1265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 21时31分]"
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 22时20分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -1239,8 +1286,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时25分 ~ 21时31分]"
+          "appearance_count": 28,
+          "time_info": "[00时25分 ~ 22时20分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -1468,7 +1515,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1490,7 +1537,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1572,6 +1619,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "阿里巴巴(BABA.US)涨超2%，阿里旗下夸克AI眼镜据悉将于24号零点开启预售，预售起价4699元。",
+          "url": "https://flash.jin10.com/detail/20251023214104282800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "成龙谈人工智能",
           "url": "https://www.toutiao.com/trending/7563810946825912359/",
           "source": "今日头条",
@@ -1600,7 +1658,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1652,7 +1710,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1662,8 +1720,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时24分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时24分 ~ 22时20分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1863,7 +1921,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1929,9 +1987,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
@@ -1943,6 +2023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -1989,6 +2080,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美股短线跳水，标普500指数跌超1%。",
           "url": "https://flash.jin10.com/detail/20251023003249960800",
           "source": "金十数据",
@@ -2006,7 +2108,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -2025,7 +2127,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
@@ -2039,6 +2141,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时24分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251023220055992800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "韩国央行行长李昌镛：与其他国家相比，韩国股市价格并不算高。",
@@ -2058,11 +2171,12 @@
           "ranks": [
             12,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（10月22日），南非富时/JSE非洲领先40可交易指数收跌0.13%，至10.1万点，全天呈现出U形走势。 日内迄今，现货黄金维持大约2.2%的跌幅。",
@@ -2372,7 +2486,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -2469,8 +2583,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 21时31分]"
+          "appearance_count": 11,
+          "time_info": "[15时18分 ~ 22时20分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -2525,8 +2639,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时20分]"
+        },
+        {
+          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
+          "url": "https://wallstreetcn.com/articles/3757717",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时20分]"
         },
         {
           "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
@@ -2538,17 +2663,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时18分 ~ 15时19分]"
-        },
-        {
-          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
-          "url": "https://wallstreetcn.com/articles/3757717",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
@@ -2586,133 +2700,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 17时21分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时24分 ~ 21时31分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
-          "url": "https://wallstreetcn.com/livenews/2992002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
-        },
-        {
-          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌发布了Willow芯片的量子计算突破",
-          "url": "https://wallstreetcn.com/livenews/2991999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时17分]"
-        },
-        {
-          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
-          "url": "https://flash.jin10.com/detail/20251023004153523800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
-          "url": "https://flash.jin10.com/detail/20251022230757813800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
-          "url": "https://flash.jin10.com/detail/20251022230602930800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
-          "url": "https://flash.jin10.com/detail/20251022230157213800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一图看懂 | 人形机器人企业IPO提速，哪些大咖排队入场？",
@@ -2823,9 +2812,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "宇树机器人在韩国穿衬衫跳街舞",
+          "url": "https://www.toutiao.com/trending/7564336987147075622/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "王兴兴：公司第三款人形机器人R1目前已准备量产，今年年底至明年年初发货",
@@ -2837,6 +2837,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 17时21分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时24分 ~ 22时20分]"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
+          "url": "https://wallstreetcn.com/livenews/2992002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时29分]"
+        },
+        {
+          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "谷歌发布了Willow芯片的量子计算突破",
+          "url": "https://wallstreetcn.com/livenews/2991999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
+          "url": "https://flash.jin10.com/detail/20251023004153523800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
+          "url": "https://flash.jin10.com/detail/20251022230757813800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
+          "url": "https://flash.jin10.com/detail/20251022230602930800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
+          "url": "https://flash.jin10.com/detail/20251022230157213800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
