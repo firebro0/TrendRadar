@@ -1,8 +1,92 @@
 {
-  "generated_at": "2025-10-24T01:17:14.892191+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-10-24T02:28:24.114585+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251024003206062800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2178825",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251024003023348800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251024014719432800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251024013951334800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数短线拉升，日内涨幅扩大至将近1.9%，刷新日高。",
+          "url": "https://flash.jin10.com/detail/20251024013845548800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "ai 人工智能",
       "match_count": 6,
@@ -15,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -27,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -38,8 +122,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "微软(MSFT.O)：取消秋季版Copilot发布计划；推出12项新功能，让人工智能更具个性化、实用性与人性化。",
@@ -89,19 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "特斯拉股价转涨，此前一度跌5.7%。",
-          "url": "https://wallstreetcn.com/livenews/2992705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -111,8 +184,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
+        },
+        {
+          "title": "特斯拉股价转涨，此前一度跌5.7%。",
+          "url": "https://wallstreetcn.com/livenews/2992705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时28分]"
         },
         {
           "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
@@ -120,11 +205,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
@@ -141,71 +227,9 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251024003206062800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2178825",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251024003023348800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
       "match_count": 4,
       "titles": [
-        {
-          "title": "中东股市收盘播报｜沙特阿美本周累计上涨2.2%",
-          "url": "https://wallstreetcn.com/livenews/2992704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
         {
           "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
           "url": "https://www.cls.cn/detail/2178501",
@@ -215,8 +239,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
+        },
+        {
+          "title": "中东股市收盘播报｜沙特阿美本周累计上涨2.2%",
+          "url": "https://wallstreetcn.com/livenews/2992704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时28分]"
         },
         {
           "title": "英国股市创收盘历史新高",
@@ -254,7 +290,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -266,8 +302,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "iPhone 17评测测评",
@@ -275,11 +311,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     },
@@ -295,8 +332,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
@@ -307,8 +344,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     },
@@ -322,11 +359,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         },
         {
           "title": "暴跌后的黄金值得买入吗",
@@ -371,6 +409,23 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币突破111000美元/枚，日内涨3.19%。",
+          "url": "https://flash.jin10.com/detail/20251024014826237800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
       "match_count": 1,
       "titles": [
@@ -379,11 +434,12 @@
           "url": "https://www.toutiao.com/trending/7564336987147075622/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     },
@@ -414,11 +470,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时28分]"
         }
       ]
     }
