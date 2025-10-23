@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T09:24:47.231252+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-10-23T11:03:26.878883+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -260,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "马斯克：汽车产能将在24个月内达到每年300万辆。",
@@ -518,11 +529,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -544,8 +556,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 11时03分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -559,6 +571,17 @@
           "time_info": "[04时23分 ~ 06时15分]"
         },
         {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时03分]"
+        },
+        {
           "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -568,17 +591,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 07时16分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
@@ -805,7 +817,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -813,7 +825,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "黄金惊现高台跳水，300亿追涨资金短线被套，基金经理火线心理按摩",
@@ -835,8 +847,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
         },
         {
           "title": "人造肉妖股本周已涨超10倍 黄金连续第二日调整 | 今夜看点",
@@ -848,8 +860,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
         },
         {
           "title": "付鹏：黄金暴跌！白银逼仓！贵金属剧烈波动下策略如何应对？【付鹏说9】",
@@ -864,8 +876,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
         },
         {
           "title": "黄金大跌背后的原因",
@@ -876,8 +888,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
         },
         {
           "title": "黄金创12年来最大单日跌幅 金饰热卖",
@@ -898,11 +910,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346052&amp;topic_name=%E4%BF%84%E4%B9%8C%E5%A4%A7%E5%8F%98%E6%95%B0%2C%E9%BB%84%E9%87%91%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4%E5%B4%A9%E7%9B%98",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
         },
         {
           "title": "黄金9周连涨后历史复盘：未来一年通常回调20%-40%，仅1970年例外",
@@ -911,11 +924,23 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时29分 ~ 09时24分]"
+          "appearance_count": 9,
+          "time_info": "[02时29分 ~ 11时03分]"
+        },
+        {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月23日（周四）早盘盘初下跌1.53%报932.51元/克；<br/>上海黄金交易所白银T+D 10月23日（周四）早盘盘初上涨0.11%报11320.0元/千克。",
@@ -924,7 +949,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -941,6 +966,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 04时23分]"
+        },
+        {
+          "title": "无惧黄金“大跳水”？分析师们坚定看涨：长期牛市尚未结束！",
+          "url": "https://www.cls.cn/detail/2177730",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时03分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日减少6.29吨，当前持仓量为1052.37吨。",
@@ -1002,17 +1039,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "无惧黄金“大跳水”？分析师们坚定看涨：长期牛市尚未结束！",
-          "url": "https://www.cls.cn/detail/2177730",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 10月22日（周三）晚盘收盘下跌1.59%报931.99元/克；<br/>上海黄金交易所白银T+D 10月22日（周三）晚盘收盘上涨0.15%报11324.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251023023053606800",
           "source": "金十数据",
@@ -1052,7 +1078,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1063,7 +1089,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1093,18 +1119,30 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI写文狂,原创路变凉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
+        },
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
@@ -1183,6 +1221,18 @@
           "time_info": "[02时29分 ~ 03时15分]"
         },
         {
+          "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
+          "url": "https://www.cls.cn/detail/2177557",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时03分]"
+        },
+        {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
           "url": "https://wallstreetcn.com/livenews/2992039",
           "source": "华尔街见闻-快讯",
@@ -1195,15 +1245,26 @@
           "time_info": "[03时15分 ~ 04时23分]"
         },
         {
-          "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
-          "url": "https://www.cls.cn/detail/2177557",
-          "source": "财联社热门",
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "11时03分"
+        },
+        {
+          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
+          "url": "https://wallstreetcn.com/livenews/2992261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "经济日报：用好AI这个科研超级助手",
@@ -1212,7 +1273,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1228,13 +1289,24 @@
           "time_info": "01时17分"
         },
         {
+          "title": "韩国央行行长李昌镛：全球人工智能行业泡沫可能出现回调。",
+          "url": "https://wallstreetcn.com/livenews/2992249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "成龙谈人工智能",
           "url": "https://www.toutiao.com/trending/7563810946825912359/",
           "source": "今日头条",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -1285,117 +1357,118 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
+      "keyword_group": "沪深 股市",
       "match_count": 9,
       "titles": [
         {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
+          "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
+          "url": "https://wallstreetcn.com/articles/3757609",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时24分]"
         },
         {
-          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
-          "url": "https://wallstreetcn.com/livenews/2992002",
+          "title": "韩国央行行长李昌镛：与其他国家相比，韩国股市价格并不算高。",
+          "url": "https://flash.jin10.com/detail/20251023102922034800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（10月22日），南非富时/JSE非洲领先40可交易指数收跌0.13%，至10.1万点，全天呈现出U形走势。 日内迄今，现货黄金维持大约2.2%的跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            25,
-            30
+            8,
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时29分]"
         },
         {
-          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
+          "title": "英国股市收涨超1%",
+          "url": "https://wallstreetcn.com/livenews/2992008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            26
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时17分]"
         },
         {
-          "title": "谷歌发布了Willow芯片的量子计算突破",
-          "url": "https://wallstreetcn.com/livenews/2991999",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年10月23日（周四）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20251023102558365800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            7
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023083908936800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
         {
-          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
-          "url": "https://flash.jin10.com/detail/20251023004153523800",
-          "source": "金十数据",
+          "title": "韩国央行行长李昌镛：首尔房价过高。 与其他国家相比，韩国股市价格不算过高。",
+          "url": "https://wallstreetcn.com/livenews/2992248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "荷宝高管：中国股市走牛有三大驱动力",
+          "url": "https://www.toutiao.com/trending/7564012221617946643/",
+          "source": "今日头条",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "09时24分"
         },
         {
-          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
-          "url": "https://flash.jin10.com/detail/20251022230757813800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
-          "url": "https://flash.jin10.com/detail/20251022230602930800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
-          "url": "https://flash.jin10.com/detail/20251022230157213800",
+          "title": "金十图示：2025年10月22日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251023040645521800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "05时14分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "MacBook Pro M5性能测试",
@@ -1451,6 +1524,17 @@
           "time_info": "[00时25分 ~ 07时16分]"
         },
         {
+          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
+          "url": "https://www.zhihu.com/question/1963899052065293121",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "苹果公司全新iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
           "url": "https://wallstreetcn.com/livenews/2992003",
           "source": "华尔街见闻-快讯",
@@ -1501,85 +1585,118 @@
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 6,
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 9,
       "titles": [
         {
-          "title": "高盛：中国股市“慢慢牛”正在形成 A/H关键指数到2027年底有望上涨30%",
-          "url": "https://wallstreetcn.com/articles/3757609",
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时17分]"
         },
         {
-          "title": "非洲股市收盘播报｜周三（10月22日），南非富时/JSE非洲领先40可交易指数收跌0.13%，至10.1万点，全天呈现出U形走势。 日内迄今，现货黄金维持大约2.2%的跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2992011",
+          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
+          "url": "https://wallstreetcn.com/livenews/2992002",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            16,
-            21
+            17,
+            25,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时29分]"
         },
         {
-          "title": "英国股市收涨超1%",
-          "url": "https://wallstreetcn.com/livenews/2992008",
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时03分]"
+        },
+        {
+          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            19
+            18,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时17分]"
         },
         {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-10-23）",
-          "url": "https://flash.jin10.com/detail/20251023083908936800",
+          "title": "谷歌发布了Willow芯片的量子计算突破",
+          "url": "https://wallstreetcn.com/livenews/2991999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
+          "url": "https://flash.jin10.com/detail/20251023004153523800",
           "source": "金十数据",
           "ranks": [
-            11
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "01时17分"
         },
         {
-          "title": "荷宝高管：中国股市走牛有三大驱动力",
-          "url": "https://www.toutiao.com/trending/7564012221617946643/",
-          "source": "今日头条",
+          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
+          "url": "https://flash.jin10.com/detail/20251022230757813800",
+          "source": "金十数据",
           "ranks": [
-            26
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "00时26分"
         },
         {
-          "title": "金十图示：2025年10月22日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251023040645521800",
+          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
+          "url": "https://flash.jin10.com/detail/20251022230602930800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
+          "url": "https://flash.jin10.com/detail/20251022230157213800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时14分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1629,13 +1746,24 @@
           "time_info": "[04时23分 ~ 05时14分]"
         },
         {
+          "title": "渣打银行：比特币可能短暂跌破10万美元 随后继续冲击新高",
+          "url": "https://www.cls.cn/detail/2177616",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
           "title": "渣打银行数字资产研究全球主管Geoffrey Kendrick预计，比特币到本周末将“不可避免地”跌穿10万美元整数位心理关口。 但任何下跌都将是暂时的，也可能是这个市场历史上最后一次跌穿该点位。",
           "url": "https://wallstreetcn.com/livenews/2992170",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -1643,7 +1771,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图看懂 | 人形机器人企业IPO提速，哪些大咖排队入场？",
@@ -1696,6 +1824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "机器人cos能有多逼真",
+          "url": "https://www.douyin.com/hot/2279473",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     },
@@ -1740,11 +1879,46 @@
             13,
             15,
             12,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
+          "url": "https://www.cls.cn/detail/2177770",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部柳新岩：系统布局全固态电池、金属空气电池等新一代电池研发工作",
+          "url": "https://wallstreetcn.com/livenews/2992256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     }
