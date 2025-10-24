@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T12:22:47.403793+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-10-24T13:18:49.650566+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 13时18分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -346,8 +346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 13时18分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -385,6 +385,18 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
+          "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/articles/3757789",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
           "title": "美法官承认使用人工智能导致法院裁决出错",
           "url": "https://flash.jin10.com/detail/20251024042842055800",
           "source": "金十数据",
@@ -395,6 +407,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
+          "url": "https://wallstreetcn.com/livenews/2993035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-24）",
+          "url": "https://flash.jin10.com/detail/20251024115316832800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
@@ -419,39 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
-          "url": "https://wallstreetcn.com/livenews/2993035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/articles/3757789",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-24）",
-          "url": "https://flash.jin10.com/detail/20251024115316832800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "美法官承认：使用人工智能导致法院裁决出错",
@@ -644,6 +647,30 @@
           "time_info": "[10时59分 ~ 12时22分]"
         },
         {
+          "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251024115357812800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251024115356079800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月23日（周四）晚盘收盘上涨1.11%报946.19元/克；<br/>上海黄金交易所白银T+D 10月23日（周四）晚盘收盘上涨1.18%报11495.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251024023049208800",
           "source": "金十数据",
@@ -668,6 +695,17 @@
           "time_info": "[11时00分 ~ 11时37分]"
         },
         {
+          "title": "公司给优秀员工奖黄金键帽 最贵4万",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%99%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%A5%96%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD+%E6%9C%80%E8%B4%B54%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月24日（周五）早盘盘初上涨1.0%报945.14元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）早盘盘初上涨0.92%报11465.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251024090058555800",
           "source": "金十数据",
@@ -679,28 +717,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251024115357812800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十图示：2025年10月24日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251024115356079800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少128.41吨，当前持仓量为15469.2吨。",
           "url": "https://flash.jin10.com/detail/20251024060325956800",
           "source": "金十数据",
@@ -710,17 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "公司给优秀员工奖黄金键帽 最贵4万",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%99%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%A5%96%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD+%E6%9C%80%E8%B4%B54%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "现货白银日内下跌1.00%，现报48.39美元/盎司。",
@@ -936,7 +941,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "小米汽车都卖到哪去了",
@@ -965,6 +970,28 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "加拿大官员：加总理想和中方见面，建立战略关系",
+          "url": "https://news.ifeng.com/c/8ni5xlkmHQR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "小米汽车购置税补贴方案",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26dgr%3D0%26pos%3D1%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26flag%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D2%26display_time%3D1761283085%26pre_seqid%3D1761283085030032636496",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "新能源车占位94分钟被收438元超时占用费，车主起诉，法院判了",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826105",
           "source": "澎湃新闻",
@@ -982,11 +1009,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 13时18分]"
         },
         {
           "title": "理想mega",
@@ -1000,13 +1028,24 @@
           "time_info": "[10时59分 ~ 11时00分]"
         },
         {
+          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
+          "url": "https://www.cls.cn/detail/2179365",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "理想汽车回应MEGA起火事故",
           "url": "https://www.douyin.com/hot/2280942",
           "source": "抖音",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1020,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "小米汽车推出购置税补贴方案",
+          "url": "https://wallstreetcn.com/livenews/2993051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
@@ -1037,8 +1087,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
@@ -1048,22 +1098,24 @@
             9,
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
           "url": "https://wallstreetcn.com/livenews/2993037",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "中美第五次贸易谈判是博弈新起点吗",
@@ -1083,7 +1135,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1209,8 +1261,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "苹果彻查iPhone17Pro褪色",
@@ -1251,6 +1303,57 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "比特币站上111000美元/枚，日内涨0.86%。",
+          "url": "https://flash.jin10.com/detail/20251024122728539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
+          "url": "https://wallstreetcn.com/livenews/2992758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "以太坊突破3900美元/枚，日内涨1.21%。",
+          "url": "https://flash.jin10.com/detail/20251024121744870800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "比特币突破111000美元/枚，日内涨3.19%。",
+          "url": "https://flash.jin10.com/detail/20251024014826237800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 4,
       "titles": [
@@ -1264,8 +1367,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 13时18分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -1318,11 +1421,12 @@
             17,
             26,
             30,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时18分]"
         },
         {
           "title": "王兴兴回应新款机器人长得吓人",
@@ -1343,38 +1447,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
-          "url": "https://wallstreetcn.com/livenews/2992758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "比特币突破111000美元/枚，日内涨3.19%。",
-          "url": "https://flash.jin10.com/detail/20251024014826237800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         }
       ]
     },
