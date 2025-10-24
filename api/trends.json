@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T15:18:21.233501+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-10-24T16:25:58.874984+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "金店老板10元1克收孩子黄金还给家长",
@@ -48,6 +48,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "现货黄金失守4060美元/盎司，日内跌幅1.63%。",
+          "url": "https://flash.jin10.com/detail/20251024161111096800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "黄金美元旗鼓相当，全球储备资产加速多元化",
           "url": "https://wallstreetcn.com/livenews/2992813",
           "source": "华尔街见闻-快讯",
@@ -76,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -103,6 +114,18 @@
           "time_info": "07时16分"
         },
         {
+          "title": "公司给优秀员工奖黄金键帽 最贵4万",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%99%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%A5%96%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD+%E6%9C%80%E8%B4%B54%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 16时25分]"
+        },
+        {
           "title": "摩根大通继续看涨黄金：预计2026年底将达到5055美元",
           "url": "https://www.cls.cn/detail/2178927",
           "source": "财联社热门",
@@ -115,26 +138,16 @@
           "time_info": "[10时59分 ~ 12时22分]"
         },
         {
-          "title": "公司给优秀员工奖黄金键帽 最贵4万",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%99%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%A5%96%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD+%E6%9C%80%E8%B4%B54%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时18分]"
-        },
-        {
           "title": "拼多多给员工发黄金",
           "url": "https://www.toutiao.com/trending/7564374778371457065/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
@@ -185,6 +198,18 @@
           "time_info": "[11时00分 ~ 11时37分]"
         },
         {
+          "title": "公司奖励员工的黄金键帽价值4万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5%E7%9A%84%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD%E4%BB%B7%E5%80%BC4%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E5%2585%25AC%25E5%258F%25B8%25E5%25A5%2596%25E5%258A%25B1%25E5%2591%2598%25E5%25B7%25A5%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E9%2594%25AE%25E5%25B8%25BD%25E4%25BB%25B7%25E5%2580%25BC4%25E4%25B8%2587%2523%26dgr%3D0%26realpos%3D27%26filter_type%3Drealtimehot%26pos%3D28%26c_type%3D31%26flag%3D1%26display_time%3D1761290168%26pre_seqid%3D176129016837003673497144",
+          "source": "微博",
+          "ranks": [
+            27,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时25分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月24日（周五）早盘盘初上涨1.0%报945.14元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）早盘盘初上涨0.92%报11465.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251024090058555800",
           "source": "金十数据",
@@ -207,6 +232,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "现货白银向下触及48美元/盎司，日内跌1.81%。",
+          "url": "https://flash.jin10.com/detail/20251024160455606800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "现货黄金回落至4100美元/盎司下方，日内跌0.64%。",
           "url": "https://flash.jin10.com/detail/20251024140305760800",
           "source": "金十数据",
@@ -218,6 +254,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "现货白银向下触及48美元/盎司，日内跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/2993204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少128.41吨，当前持仓量为15469.2吨。",
           "url": "https://flash.jin10.com/detail/20251024060325956800",
           "source": "金十数据",
@@ -227,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "现货白银日内下跌1.00%，现报48.39美元/盎司。",
@@ -246,7 +304,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -279,9 +337,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "现货黄金回落至4070美元/盎司下方，短线跌幅近20美元，日内跌1.36%。",
+          "url": "https://flash.jin10.com/detail/20251024155544739800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "达利欧：制裁战正在削弱法定货币 黄金将因秩序瓦解而上涨",
@@ -306,21 +375,32 @@
           "time_info": "09时21分"
         },
         {
-          "title": "公司奖励员工的黄金键帽价值4万",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%AC%E5%8F%B8%E5%A5%96%E5%8A%B1%E5%91%98%E5%B7%A5%E7%9A%84%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD%E4%BB%B7%E5%80%BC4%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E5%2585%25AC%25E5%258F%25B8%25E5%25A5%2596%25E5%258A%25B1%25E5%2591%2598%25E5%25B7%25A5%25E7%259A%2584%25E9%25BB%2584%25E9%2587%2591%25E9%2594%25AE%25E5%25B8%25BD%25E4%25BB%25B7%25E5%2580%25BC4%25E4%25B8%2587%2523%26dgr%3D0%26realpos%3D27%26filter_type%3Drealtimehot%26pos%3D28%26c_type%3D31%26flag%3D1%26display_time%3D1761290168%26pre_seqid%3D176129016837003673497144",
-          "source": "微博",
+          "title": "现货黄金向下触及4080美元/盎司，日内跌1.16%。",
+          "url": "https://flash.jin10.com/detail/20251024155145373800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时25分"
+        },
+        {
+          "title": "赤峰黄金：第三季度净利润9.5亿元，同比增长140.98%",
+          "url": "https://wallstreetcn.com/livenews/2993176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -344,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时16分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -383,6 +463,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20251024161101799800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
@@ -626,6 +728,21 @@
           "time_info": "[00时23分 ~ 09时21分]"
         },
         {
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            10,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时59分 ~ 16时25分]"
+        },
+        {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
           "source": "bilibili 热搜",
@@ -653,20 +770,6 @@
           "time_info": "[00时23分 ~ 09时21分]"
         },
         {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 15时18分]"
-        },
-        {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
           "url": "https://flash.jin10.com/detail/20251024065310008800",
           "source": "金十数据",
@@ -684,7 +787,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -930,7 +1033,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -941,7 +1044,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1045,7 +1148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1107,6 +1210,175 @@
       ]
     },
     {
+      "keyword_group": "中美",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826904",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时18分]"
+        },
+        {
+          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
+          "url": "https://wallstreetcn.com/articles/3757717",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 14时27分]"
+        },
+        {
+          "title": "中方回应中美元首是否在APEC会晤",
+          "url": "https://www.toutiao.com/trending/7564070464381894719/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://www.douyin.com/hot/2281351",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
+          "url": "https://wallstreetcn.com/livenews/2993037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "中美可以找到解决彼此关切的办法",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时25分]"
+        },
+        {
+          "title": "中美第五次贸易谈判是博弈新起点吗",
+          "url": "https://www.toutiao.com/trending/7564557308953366079/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中美可以找到解决彼此关切的办法",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26pos%3D10%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%258F%25AF%25E4%25BB%25A5%25E6%2589%25BE%25E5%2588%25B0%25E8%25A7%25A3%25E5%2586%25B3%25E5%25BD%25BC%25E6%25AD%25A4%25E5%2585%25B3%25E5%2588%2587%25E7%259A%2584%25E5%258A%259E%25E6%25B3%2595%2523%26cate%3D5001%26flag%3D1%26realpos%3D10%26dgr%3D0%26display_time%3D1761279668%26pre_seqid%3D17612796680800368314765",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "中美元首是否将会晤",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D11%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%2598%25AF%25E5%2590%25A6%25E5%25B0%2586%25E4%25BC%259A%25E6%2599%25A4%2523%26dgr%3D0%26flag%3D1%26display_time%3D1761294251%26pre_seqid%3D17612942511650367759921",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://www.cls.cn/detail/2179617",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中美将举行新一轮经贸磋商",
+          "url": "https://www.douyin.com/hot/2279980",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "中美第五轮磋商为何选在马来西亚",
+          "url": "https://www.toutiao.com/trending/7564683505221766710/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 12,
       "titles": [
@@ -1115,11 +1387,12 @@
           "url": "https://news.ifeng.com/c/8ni5xlkmHQR",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时25分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -1148,6 +1421,20 @@
           "time_info": "[13时18分 ~ 15时18分]"
         },
         {
+          "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
+          "url": "https://www.zhihu.com/question/1964977532433572573",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 16时25分]"
+        },
+        {
           "title": "市监局介入处理小米YU7不明零件",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B8%82%E7%9B%91%E5%B1%80%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%B0%8F%E7%B1%B3YU7%E4%B8%8D%E6%98%8E%E9%9B%B6%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25B8%2582%25E7%259B%2591%25E5%25B1%2580%25E4%25BB%258B%25E5%2585%25A5%25E5%25A4%2584%25E7%2590%2586%25E5%25B0%258F%25E7%25B1%25B3YU7%25E4%25B8%258D%25E6%2598%258E%25E9%259B%25B6%25E4%25BB%25B6%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D1%26c_type%3D31%26band_rank%3D30%26pos%3D30%26cate%3D5001%26dgr%3D0%26realpos%3D30%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
           "source": "微博",
@@ -1161,17 +1448,18 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
-          "url": "https://www.zhihu.com/question/1964977532433572573",
-          "source": "知乎",
+          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
+          "url": "https://www.cls.cn/detail/2179365",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            13,
-            14
+            9,
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时25分]"
         },
         {
           "title": "新能源车占位94分钟被收438元超时占用费，车主起诉，法院判了",
@@ -1186,29 +1474,17 @@
           "time_info": "[09时20分 ~ 11时00分]"
         },
         {
-          "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
-          "url": "https://www.cls.cn/detail/2179365",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时25分]"
         },
         {
           "title": "理想mega",
@@ -1253,97 +1529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826904",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时18分]"
-        },
-        {
-          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
-          "url": "https://wallstreetcn.com/articles/3757717",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时27分]"
-        },
-        {
-          "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
-          "url": "https://wallstreetcn.com/livenews/2993037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "中美可以找到解决彼此关切的办法",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时18分]"
-        },
-        {
-          "title": "中美第五次贸易谈判是博弈新起点吗",
-          "url": "https://www.toutiao.com/trending/7564557308953366079/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "中美可以找到解决彼此关切的办法",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26pos%3D10%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%258F%25AF%25E4%25BB%25A5%25E6%2589%25BE%25E5%2588%25B0%25E8%25A7%25A3%25E5%2586%25B3%25E5%25BD%25BC%25E6%25AD%25A4%25E5%2585%25B3%25E5%2588%2587%25E7%259A%2584%25E5%258A%259E%25E6%25B3%2595%2523%26cate%3D5001%26flag%3D1%26realpos%3D10%26dgr%3D0%26display_time%3D1761279668%26pre_seqid%3D17612796680800368314765",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "中美将举行新一轮经贸磋商",
-          "url": "https://www.douyin.com/hot/2279980",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
         }
       ]
     },
@@ -1453,11 +1638,12 @@
             18,
             27,
             23,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 16时25分]"
         },
         {
           "title": "苹果彻查iPhone17Pro褪色",
@@ -1485,6 +1671,18 @@
           "time_info": "01时17分"
         },
         {
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时25分]"
+        },
+        {
           "title": "M5 MacBook Pro首发评测",
           "url": "https://www.douyin.com/hot/2278450",
           "source": "抖音",
@@ -1494,17 +1692,141 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
+          "url": "https://www.cls.cn/detail/2179066",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 15时18分]"
         },
         {
-          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
-          "url": "https://www.zhihu.com/question/1964293577816408687",
-          "source": "知乎",
+          "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251024160713714800",
+          "source": "金十数据",
           "ranks": [
-            16
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时25分"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
+          "url": "https://wallstreetcn.com/livenews/2992760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
+          "url": "https://flash.jin10.com/detail/20251024000146520800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宇树机器人在韩国穿衬衫跳街舞",
+          "url": "https://www.toutiao.com/trending/7564336987147075622/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16,
+            17,
+            26,
+            30,
+            20,
+            27,
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时25分]"
+        },
+        {
+          "title": "王兴兴回应新款机器人长得吓人",
+          "url": "https://www.toutiao.com/trending/7563218744776867894/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "智元发布「灵创」平台，0 代码、0 门槛训练机器人",
+          "url": "https://wallstreetcn.com/livenews/2993206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "宇树机器人翻跳权志龙POWER",
+          "url": "https://www.douyin.com/hot/2280704",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -1556,107 +1878,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
-          "url": "https://www.cls.cn/detail/2179066",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 15时18分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
-          "url": "https://wallstreetcn.com/livenews/2992760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
-          "url": "https://flash.jin10.com/detail/20251024000146520800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "宇树机器人在韩国穿衬衫跳街舞",
-          "url": "https://www.toutiao.com/trending/7564336987147075622/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16,
-            17,
-            26,
-            30,
-            20,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时18分]"
-        },
-        {
-          "title": "王兴兴回应新款机器人长得吓人",
-          "url": "https://www.toutiao.com/trending/7563218744776867894/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "宇树机器人翻跳权志龙POWER",
-          "url": "https://www.douyin.com/hot/2280704",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         }
       ]
     },
