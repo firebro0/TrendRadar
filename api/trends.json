@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T18:21:35.195677+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2025-10-24T19:16:56.414569+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,21 @@
           "time_info": "[00时23分 ~ 09时21分]"
         },
         {
+          "title": "拼多多给员工发黄金",
+          "url": "https://www.toutiao.com/trending/7564374778371457065/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            10,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时16分]"
+        },
+        {
           "title": "暴跌后的黄金值得买入吗",
           "url": "https://www.douyin.com/hot/2279987",
           "source": "抖音",
@@ -47,20 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时22分 ~ 17时21分]"
-        },
-        {
-          "title": "拼多多给员工发黄金",
-          "url": "https://www.toutiao.com/trending/7564374778371457065/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时21分]"
         },
         {
           "title": "现货黄金站上4140美元/盎司，日内涨0.35%。",
@@ -151,6 +152,20 @@
           "time_info": "17时21分"
         },
         {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
           "title": "摩根大通继续看涨黄金：预计2026年底将达到5055美元",
           "url": "https://www.cls.cn/detail/2178927",
           "source": "财联社热门",
@@ -174,19 +189,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时18分 ~ 17时21分]"
-        },
-        {
-          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
@@ -427,7 +429,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -591,6 +593,17 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-24）",
           "url": "https://flash.jin10.com/detail/20251024115316832800",
           "source": "金十数据",
@@ -627,24 +640,13 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "腾讯AI智能工作台ima发布2.0版本，月活增长突破80倍",
           "url": "https://wallstreetcn.com/livenews/2993280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -748,6 +750,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "协鑫能科总裁：AI赋能下公司电力现货市场交易收益提升12%以上",
+          "url": "https://wallstreetcn.com/livenews/2993334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "专家：人工智能或驱动新一轮产业繁荣",
           "url": "https://www.toutiao.com/trending/7564444098019524649/",
           "source": "今日头条",
@@ -797,8 +810,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 18时21分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -1086,7 +1099,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
@@ -1121,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "中国央行：维护股市、债市、汇市等金融市场平稳运行",
+          "url": "https://wallstreetcn.com/livenews/2993371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "中东股市收盘播报｜沙特阿美本周累计上涨2.2%",
@@ -1317,17 +1341,6 @@
           "time_info": "[00时23分 ~ 14时27分]"
         },
         {
-          "title": "中方回应中美元首是否在APEC会晤",
-          "url": "https://www.toutiao.com/trending/7564070464381894719/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
-        },
-        {
           "title": "中美元首是否将会晤？外交部回应",
           "url": "https://news.ifeng.com/c/8niJoi5kGW2",
           "source": "凤凰网",
@@ -1335,8 +1348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -1346,8 +1359,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "中方回应中美元首是否在APEC会晤",
+          "url": "https://www.toutiao.com/trending/7564070464381894719/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "中美可以找到解决彼此关切的办法",
@@ -1360,8 +1385,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "中美元首是否将会晤？外交部回应",
@@ -1369,11 +1394,39 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
@@ -1388,19 +1441,6 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
-        },
-        {
           "title": "中美第五轮磋商为何选在马来西亚",
           "url": "https://www.toutiao.com/trending/7564683505221766710/",
           "source": "今日头条",
@@ -1412,18 +1452,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时25分 ~ 18时21分]"
-        },
-        {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "中美第五次贸易谈判是博弈新起点吗",
@@ -1485,8 +1513,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
@@ -1500,8 +1528,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -1516,8 +1544,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时37分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[11时37分 ~ 19时16分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
@@ -1527,8 +1555,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -1557,21 +1601,6 @@
           "time_info": "[13时18分 ~ 15时18分]"
         },
         {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时21分]"
-        },
-        {
           "title": "市监局介入处理小米YU7不明零件",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B8%82%E7%9B%91%E5%B1%80%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%B0%8F%E7%B1%B3YU7%E4%B8%8D%E6%98%8E%E9%9B%B6%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25B8%2582%25E7%259B%2591%25E5%25B1%2580%25E4%25BB%258B%25E5%2585%25A5%25E5%25A4%2584%25E7%2590%2586%25E5%25B0%258F%25E7%25B1%25B3YU7%25E4%25B8%258D%25E6%2598%258E%25E9%259B%25B6%25E4%25BB%25B6%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D1%26c_type%3D31%26band_rank%3D30%26pos%3D30%26cate%3D5001%26dgr%3D0%26realpos%3D30%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
           "source": "微博",
@@ -1585,6 +1614,17 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "MEGA行驶时起火被烧成空架 理想回应",
+          "url": "https://www.baidu.com/s?wd=MEGA%E8%A1%8C%E9%A9%B6%E6%97%B6%E8%B5%B7%E7%81%AB%E8%A2%AB%E7%83%A7%E6%88%90%E7%A9%BA%E6%9E%B6+%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "新能源车占位94分钟被收438元超时占用费，车主起诉，法院判了",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826105",
           "source": "澎湃新闻",
@@ -1595,17 +1635,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时20分 ~ 11时00分]"
-        },
-        {
-          "title": "MEGA行驶时起火被烧成空架 理想回应",
-          "url": "https://www.baidu.com/s?wd=MEGA%E8%A1%8C%E9%A9%B6%E6%97%B6%E8%B5%B7%E7%81%AB%E8%A2%AB%E7%83%A7%E6%88%90%E7%A9%BA%E6%9E%B6+%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "格林美：与厦钨新能源签署先进电池原料和材料供应的战略合作框架协议，2026年-2028年，公司预计每年向厦钨新能源供应各类电池原料与材料产品15万吨，三年合计供应45万吨。",
@@ -1846,11 +1875,12 @@
             20,
             27,
             28,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 17时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "京东独家首发万元机器人",
