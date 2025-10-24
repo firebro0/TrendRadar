@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T20:40:45.398662+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2025-10-24T21:30:58.160351+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "金店老板10元1克收孩子黄金还给家长",
@@ -64,6 +64,21 @@
           "time_info": "[12时22分 ~ 17时21分]"
         },
         {
+          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
+        },
+        {
           "title": "现货黄金站上4140美元/盎司，日内涨0.35%。",
           "url": "https://flash.jin10.com/detail/20251024090833482800",
           "source": "金十数据",
@@ -95,21 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "现货黄金大跌后日内涨逾1%，摩根大通预计金价明年底冲上5055美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时40分]"
         },
         {
           "title": "现货黄金日内走低1.00%，现报4083.27美元/盎司。",
@@ -240,6 +240,18 @@
           "time_info": "[11时00分 ~ 11时37分]"
         },
         {
+          "title": "公司给员工发黄金你羡慕吗",
+          "url": "https://www.toutiao.com/trending/7564659762193989668/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时30分]"
+        },
+        {
           "title": "金价大跌有人一次买了1斤黄金",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%9C%89%E4%BA%BA%E4%B8%80%E6%AC%A1%E4%B9%B0%E4%BA%861%E6%96%A4%E9%BB%84%E9%87%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D25%26pos%3D25%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E6%259C%2589%25E4%25BA%25BA%25E4%25B8%2580%25E6%25AC%25A1%25E4%25B9%25B0%25E4%25BA%25861%25E6%2596%25A4%25E9%25BB%2584%25E9%2587%2591%2523%26band_rank%3D25%26display_time%3D1761297551%26pre_seqid%3D1761297550985032710853",
           "source": "微博",
@@ -249,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "现货黄金延续涨势，上破4110美元/盎司，最高报4115.94美元/盎司，短线上涨超30美元。",
+          "url": "https://flash.jin10.com/detail/20251024211521552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月24日（周五）早盘盘初上涨1.0%报945.14元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）早盘盘初上涨0.92%报11465.0元/千克。",
@@ -317,15 +340,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "公司给员工发黄金你羡慕吗",
-          "url": "https://www.toutiao.com/trending/7564659762193989668/",
-          "source": "今日头条",
+          "title": "CPI黄金竞猜中奖名单公布",
+          "url": "https://flash.jin10.com/detail/20251024210417651800",
+          "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "21时30分"
         },
         {
           "title": "黄金和债券基金今年吸金规模势创纪录",
@@ -334,7 +357,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -422,7 +445,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -462,6 +485,374 @@
       ]
     },
     {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时16分]"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[07时16分 ~ 21时30分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
+          "url": "https://www.cls.cn/detail/2179010",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 15时18分]"
+        },
+        {
+          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2178825",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时21分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251024003206062800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
+          "url": "https://flash.jin10.com/detail/20251024161101799800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "美国9月CPI数据公布后，美股三大股指期货短线拉升，纳指期货日内涨近1%；美国国债收益率短线下挫，10年期国债收益率下行逾3bp，现报3.97%。美元指数跳水，日内跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2993445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/2993213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
+          "url": "https://wallstreetcn.com/livenews/2992763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%，半导体指数涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/2992736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
+          "url": "https://wallstreetcn.com/livenews/2992993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时22分]"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251024003023348800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "标普500指数初步收涨0.5%，能源、工业、原材料、科技板块至少涨约1%，电信板块大致持平。 纳斯达克100指数初步收涨0.9%，成分股中，霍尼韦尔涨6.6%，CEG、ISRG、拉姆研究等涨超4%，Booking、ORLY、T-Mobile、ODFL、ROP则至多跌3.6%。 3M涨2.5%，卡特彼勒、亚马逊、英伟达至少涨约1%，与霍尼韦尔领跑道指成分股，可口可乐、麦当劳、IBM则跌超1%，VZ跌3.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，YINN涨4.8%，KWEB涨2.1%，CAAA涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/2992746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2180240",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "标普全球：随着风险偏好降低，土耳其银行业将受益。",
+          "url": "https://flash.jin10.com/detail/20251024201127119800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，标普500股指期货最终涨0.63%，道指期货涨0.23%，纳斯达克100股指期货涨0.97%。 罗素2000股指期货涨1.25%。",
+          "url": "https://wallstreetcn.com/livenews/2992770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2993462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "标普500指数收涨39.04点，涨幅0.58%，报6738.44点。 道琼斯工业平均指数收涨144.20点，涨幅0.31%，报46734.61点。 纳斯达克综合指数（纳指）收涨201.402点，涨幅0.89%，报22941.798点。 纳斯达克100指数收涨218.41点，涨幅0.88%，报25097.415点。",
+          "url": "https://wallstreetcn.com/livenews/2992748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
+          "url": "https://wallstreetcn.com/livenews/2992746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251024040817775800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251024040815232800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "英特尔美股盘后涨7.31%。 纳斯达克100股指期货在亚太盘初涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2992796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "澳大利亚10月标普全球综合PMI初值 52.6，前值52.4。",
+          "url": "https://flash.jin10.com/detail/20251024060002212800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "澳大利亚10月标普全球制造业PMI初值 49.7，前值51.4。",
+          "url": "https://flash.jin10.com/detail/20251024060002189800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "澳大利亚10月标普全球服务业PMI初值 53.1，前值52.4。",
+          "url": "https://flash.jin10.com/detail/20251024060002165800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后涨4%。",
+          "url": "https://flash.jin10.com/detail/20251024040224304800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 金龙指数涨1.6%",
+          "url": "https://flash.jin10.com/detail/20251024040110038800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251024014719432800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251024013951334800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数短线拉升，日内涨幅扩大至将近1.9%，刷新日高。",
+          "url": "https://flash.jin10.com/detail/20251024013845548800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-24）",
+          "url": "https://flash.jin10.com/detail/20251024205708119800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai 人工智能",
       "match_count": 30,
       "titles": [
@@ -488,11 +879,12 @@
             16,
             6,
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时59分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 21时30分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -591,6 +983,18 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 21时30分]"
+        },
+        {
           "title": "美法官承认使用人工智能导致法院裁决出错",
           "url": "https://flash.jin10.com/detail/20251024042842055800",
           "source": "金十数据",
@@ -601,18 +1005,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "AirPods Pro3值得买吗",
@@ -816,341 +1208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时16分 ~ 20时40分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
-          "url": "https://www.cls.cn/detail/2179010",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 15时18分]"
-        },
-        {
-          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2178825",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251024003206062800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美股黄金概念股盘前下挫，纽蒙特矿业(NEM.N)跌6.8%，科尔黛伦矿业(CDE.N)跌4.5%，金罗斯黄金(KGC.N)、金田(GFI.N)、哈莫尼黄金(HMY.N)和巴里克黄金(GOLD.N)跌逾2%。",
-          "url": "https://flash.jin10.com/detail/20251024161101799800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "美国9月CPI数据公布后，美股三大股指期货短线拉升，纳指期货日内涨近1%；美国国债收益率短线下挫，10年期国债收益率下行逾3bp，现报3.97%。美元指数跳水，日内跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2993445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "美股黄金股盘前下挫，科尔黛伦矿业跌超4%，金田、哈莫尼黄金跌逾2%。 现货黄金失守4060美元/盎司，日内跌超1.6%。",
-          "url": "https://wallstreetcn.com/livenews/2993213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
-          "url": "https://wallstreetcn.com/livenews/2992763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%，半导体指数涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/2992736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
-          "url": "https://wallstreetcn.com/livenews/2992993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时22分]"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251024003023348800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "标普500指数初步收涨0.5%，能源、工业、原材料、科技板块至少涨约1%，电信板块大致持平。 纳斯达克100指数初步收涨0.9%，成分股中，霍尼韦尔涨6.6%，CEG、ISRG、拉姆研究等涨超4%，Booking、ORLY、T-Mobile、ODFL、ROP则至多跌3.6%。 3M涨2.5%，卡特彼勒、亚马逊、英伟达至少涨约1%，与霍尼韦尔领跑道指成分股，可口可乐、麦当劳、IBM则跌超1%，VZ跌3.4%。",
-          "url": "https://wallstreetcn.com/livenews/2992748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.6%。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，YINN涨4.8%，KWEB涨2.1%，CAAA涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/2992746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "标普全球：随着风险偏好降低，土耳其银行业将受益。",
-          "url": "https://flash.jin10.com/detail/20251024201127119800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "周四（10月23日）纽约尾盘，标普500股指期货最终涨0.63%，道指期货涨0.23%，纳斯达克100股指期货涨0.97%。 罗素2000股指期货涨1.25%。",
-          "url": "https://wallstreetcn.com/livenews/2992770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "标普500指数收涨39.04点，涨幅0.58%，报6738.44点。 道琼斯工业平均指数收涨144.20点，涨幅0.31%，报46734.61点。 纳斯达克综合指数（纳指）收涨201.402点，涨幅0.89%，报22941.798点。 纳斯达克100指数收涨218.41点，涨幅0.88%，报25097.415点。",
-          "url": "https://wallstreetcn.com/livenews/2992748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/2992746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251024040817775800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251024040815232800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "英特尔美股盘后涨7.31%。 纳斯达克100股指期货在亚太盘初涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2992796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳大利亚10月标普全球综合PMI初值 52.6，前值52.4。",
-          "url": "https://flash.jin10.com/detail/20251024060002212800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳大利亚10月标普全球制造业PMI初值 49.7，前值51.4。",
-          "url": "https://flash.jin10.com/detail/20251024060002189800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳大利亚10月标普全球服务业PMI初值 53.1，前值52.4。",
-          "url": "https://flash.jin10.com/detail/20251024060002165800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251024040224304800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美股收盘：三大股指齐涨 金龙指数涨1.6%",
-          "url": "https://flash.jin10.com/detail/20251024040110038800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美股涨幅扩大，纳斯达克中国金龙指数涨超2%，纳指上涨1%，标普500指数上涨0.6%，道指涨0.3%。",
-          "url": "https://flash.jin10.com/detail/20251024014719432800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "美股三大股指走高，纳指涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251024013951334800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "纳斯达克中国金龙指数短线拉升，日内涨幅扩大至将近1.9%，刷新日高。",
-          "url": "https://flash.jin10.com/detail/20251024013845548800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         }
       ]
     },
@@ -1409,8 +1466,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时37分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[11时37分 ~ 21时30分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -1426,8 +1483,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 20时40分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 21时30分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
@@ -1438,8 +1495,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -1468,6 +1525,19 @@
           "time_info": "[13时18分 ~ 15时18分]"
         },
         {
+          "title": "MEGA行驶时起火被烧成空架 理想回应",
+          "url": "https://www.baidu.com/s?wd=MEGA%E8%A1%8C%E9%A9%B6%E6%97%B6%E8%B5%B7%E7%81%AB%E8%A2%AB%E7%83%A7%E6%88%90%E7%A9%BA%E6%9E%B6+%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
+        },
+        {
           "title": "市监局介入处理小米YU7不明零件",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B8%82%E7%9B%91%E5%B1%80%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%B0%8F%E7%B1%B3YU7%E4%B8%8D%E6%98%8E%E9%9B%B6%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25B8%2582%25E7%259B%2591%25E5%25B1%2580%25E4%25BB%258B%25E5%2585%25A5%25E5%25A4%2584%25E7%2590%2586%25E5%25B0%258F%25E7%25B1%25B3YU7%25E4%25B8%258D%25E6%2598%258E%25E9%259B%25B6%25E4%25BB%25B6%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D1%26c_type%3D31%26band_rank%3D30%26pos%3D30%26cate%3D5001%26dgr%3D0%26realpos%3D30%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
           "source": "微博",
@@ -1479,18 +1549,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "MEGA行驶时起火被烧成空架 理想回应",
-          "url": "https://www.baidu.com/s?wd=MEGA%E8%A1%8C%E9%A9%B6%E6%97%B6%E8%B5%B7%E7%81%AB%E8%A2%AB%E7%83%A7%E6%88%90%E7%A9%BA%E6%9E%B6+%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时40分]"
         },
         {
           "title": "新能源车占位94分钟被收438元超时占用费，车主起诉，法院判了",
@@ -1528,6 +1586,18 @@
           "time_info": "[10时59分 ~ 11时00分]"
         },
         {
+          "title": "小米新车有多处瑕疵车主拒绝提车",
+          "url": "https://www.toutiao.com/trending/7564170935826202670/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时30分]"
+        },
+        {
           "title": "理想汽车回应MEGA起火事故",
           "url": "https://www.douyin.com/hot/2280942",
           "source": "抖音",
@@ -1559,17 +1629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "小米新车有多处瑕疵车主拒绝提车",
-          "url": "https://www.toutiao.com/trending/7564170935826202670/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         }
       ]
     },
@@ -1599,8 +1658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -1635,11 +1694,12 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
         },
         {
           "title": "中美可以找到解决彼此关切的办法",
@@ -1653,8 +1713,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 20时40分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 21时30分]"
         },
         {
           "title": "中美元首是否将会晤？外交部回应",
@@ -1667,8 +1727,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -1679,11 +1739,12 @@
             9,
             16,
             14,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -1692,11 +1753,12 @@
           "ranks": [
             9,
             7,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
         },
         {
           "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
@@ -1860,7 +1922,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1871,9 +1933,83 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "比特币站上111000美元/枚，日内涨0.86%。",
+          "url": "https://flash.jin10.com/detail/20251024122728539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "摩根大通将在加密货币领域推进中，允许比特币和以太坊作为抵押品。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
+          "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
+          "url": "https://wallstreetcn.com/livenews/2992758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "以太坊突破3900美元/枚，日内涨1.21%。",
+          "url": "https://flash.jin10.com/detail/20251024121744870800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "美国9月CPI数据公布后，美股三大股指期货短线拉升，纳指期货日内涨近1%；美国国债收益率短线下挫，10年期国债收益率下行逾3bp，现报3.97%；美元指数跳水，日内跌0.2%。以太坊突破4000美元/枚，日内涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2993445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "比特币突破111000美元/枚，日内涨3.19%。",
+          "url": "https://flash.jin10.com/detail/20251024014826237800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -2034,69 +2170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "比特币站上111000美元/枚，日内涨0.86%。",
-          "url": "https://flash.jin10.com/detail/20251024122728539800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "摩根大通将在加密货币领域推进中，允许比特币和以太坊作为抵押品。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2993263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
-          "url": "https://wallstreetcn.com/livenews/2992758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "以太坊突破3900美元/枚，日内涨1.21%。",
-          "url": "https://flash.jin10.com/detail/20251024121744870800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "比特币突破111000美元/枚，日内涨3.19%。",
-          "url": "https://flash.jin10.com/detail/20251024014826237800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         }
       ]
     },
