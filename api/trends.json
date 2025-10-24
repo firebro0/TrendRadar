@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T22:19:44.359525+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2025-10-24T23:20:11.955456+08:00",
+  "total_titles_processed": 2146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "金店老板10元1克收孩子黄金还给家长",
@@ -36,8 +36,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 22时19分]"
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 23时20分]"
         },
         {
           "title": "拼多多给员工发黄金",
@@ -167,6 +167,19 @@
           "time_info": "17时21分"
         },
         {
+          "title": "公司给员工发黄金你羡慕吗",
+          "url": "https://www.toutiao.com/trending/7564659762193989668/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 23时20分]"
+        },
+        {
           "title": "摩根大通继续看涨黄金：预计2026年底将达到5055美元",
           "url": "https://www.cls.cn/detail/2178927",
           "source": "财联社热门",
@@ -190,19 +203,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时18分 ~ 17时21分]"
-        },
-        {
-          "title": "公司给员工发黄金你羡慕吗",
-          "url": "https://www.toutiao.com/trending/7564659762193989668/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
@@ -473,6 +473,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "现货黄金上破4130美元，最高至4134.96美元/盎司，日内转涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20251024221738779800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "赤峰黄金：第三季度净利润9.5亿元，同比增长140.98%",
           "url": "https://wallstreetcn.com/livenews/2993176",
           "source": "华尔街见闻-快讯",
@@ -511,8 +522,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时16分 ~ 22时19分]"
+          "appearance_count": 20,
+          "time_info": "[07时16分 ~ 23时20分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -602,11 +613,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时30分 ~ 23时20分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，半导体指数涨2.7%",
@@ -804,7 +816,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -837,7 +849,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -939,15 +951,17 @@
           "time_info": "[00时23分 ~ 09时21分]"
         },
         {
-          "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
-          "url": "https://wallstreetcn.com/livenews/2993513",
-          "source": "华尔街见闻-快讯",
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时20分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -959,17 +973,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "英国央行调查数据中心贷款 警惕AI泡沫风险",
-          "url": "https://flash.jin10.com/detail/20251024221602118800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
@@ -1005,18 +1008,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 22时19分]"
-        },
-        {
           "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
           "url": "https://wallstreetcn.com/articles/3757789",
           "source": "华尔街见闻",
@@ -1027,6 +1018,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时22分 ~ 14时27分]"
+        },
+        {
+          "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
+          "url": "https://wallstreetcn.com/livenews/2993513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
@@ -1042,6 +1045,18 @@
           "time_info": "[04时20分 ~ 06时17分]"
         },
         {
+          "title": "英国央行调查数据中心贷款 警惕AI泡沫风险",
+          "url": "https://flash.jin10.com/detail/20251024221602118800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "美法官承认使用人工智能导致法院裁决出错",
           "url": "https://flash.jin10.com/detail/20251024042842055800",
           "source": "金十数据",
@@ -1052,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
+          "url": "https://wallstreetcn.com/articles/3757786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "AirPods Pro3值得买吗",
@@ -1120,7 +1146,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1134,17 +1160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        },
-        {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "美法官承认：使用人工智能导致法院裁决出错",
@@ -1282,7 +1297,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "一图看懂 | QFII三季度“逛股市”：不挤热门赛道，偏爱“小而美”",
@@ -1306,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "美国股市延续涨势，道指涨幅扩大至1.00%。",
+          "url": "https://flash.jin10.com/detail/20251024231625591800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入158.43亿元，占比0.8%；大单资金净流出73.96亿元，占比0.37%；小单资金净流入3.43亿元，占比0.02%。",
@@ -1473,7 +1499,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1502,220 +1528,8 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "中美元首是否将会晤？外交部回应",
-          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 22时19分]"
-        },
-        {
-          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31826904",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时18分]"
-        },
-        {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://www.douyin.com/hot/2281351",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时40分]"
-        },
-        {
-          "title": "中美可以找到解决彼此关切的办法",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            13,
-            12,
-            15,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时27分 ~ 22时19分]"
-        },
-        {
-          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
-          "url": "https://wallstreetcn.com/articles/3757717",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时27分]"
-        },
-        {
-          "title": "中方回应中美元首是否在APEC会晤",
-          "url": "https://www.toutiao.com/trending/7564070464381894719/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            8,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 22时19分]"
-        },
-        {
-          "title": "中美元首是否将会晤？外交部回应",
-          "url": "https://www.cls.cn/detail/2179617",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 21时30分]"
-        },
-        {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 22时19分]"
-        },
-        {
-          "title": "外交部回应中美元首是否将会晤",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            16,
-            14,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 21时30分]"
-        },
-        {
-          "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
-          "url": "https://wallstreetcn.com/livenews/2993037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "中美第五轮磋商为何选在马来西亚",
-          "url": "https://www.toutiao.com/trending/7564683505221766710/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
-        },
-        {
-          "title": "中美第五次贸易谈判是博弈新起点吗",
-          "url": "https://www.toutiao.com/trending/7564557308953366079/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "中美可以找到解决彼此关切的办法",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26pos%3D10%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%258F%25AF%25E4%25BB%25A5%25E6%2589%25BE%25E5%2588%25B0%25E8%25A7%25A3%25E5%2586%25B3%25E5%25BD%25BC%25E6%25AD%25A4%25E5%2585%25B3%25E5%2588%2587%25E7%259A%2584%25E5%258A%259E%25E6%25B3%2595%2523%26cate%3D5001%26flag%3D1%26realpos%3D10%26dgr%3D0%26display_time%3D1761279668%26pre_seqid%3D17612796680800368314765",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "中美元首是否将会晤",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D11%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%2598%25AF%25E5%2590%25A6%25E5%25B0%2586%25E4%25BC%259A%25E6%2599%25A4%2523%26dgr%3D0%26flag%3D1%26display_time%3D1761294251%26pre_seqid%3D17612942511650367759921",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中美领导人会在APEC期间会面吗？外交部：将及时发布消息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31831134",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "中美将举行新一轮经贸磋商",
-          "url": "https://www.douyin.com/hot/2279980",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "加拿大官员：加总理想和中方见面，建立战略关系",
@@ -1742,11 +1556,25 @@
             10,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时27分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[14时27分 ~ 23时20分]"
+        },
+        {
+          "title": "理想Mega未碰撞自燃,10秒成灰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346193&amp;topic_name=%E7%90%86%E6%83%B3Mega%E6%9C%AA%E7%A2%B0%E6%92%9E%E8%87%AA%E7%87%83%2C10%E7%A7%92%E6%88%90%E7%81%B0",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时20分]"
         },
         {
           "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
@@ -1774,23 +1602,12 @@
             15,
             11,
             16,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时37分 ~ 22时19分]"
-        },
-        {
-          "title": "理想Mega未碰撞自燃,10秒成灰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346193&amp;topic_name=%E7%90%86%E6%83%B3Mega%E6%9C%AA%E7%A2%B0%E6%92%9E%E8%87%AA%E7%87%83%2C10%E7%A7%92%E6%88%90%E7%81%B0",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时37分 ~ 23时20分]"
         },
         {
           "title": "MEGA行驶时起火被烧成空架 理想回应",
@@ -1855,6 +1672,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时20分 ~ 11时00分]"
+        },
+        {
+          "title": "如何看待上海理想 MEGA 爆燃事件车主通过律师发声明称，网传「电池磕碰过」等均为不实言论?",
+          "url": "https://www.zhihu.com/question/1965099849197282203",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "格林美：与厦钨新能源签署先进电池原料和材料供应的战略合作框架协议，2026年-2028年，公司预计每年向厦钨新能源供应各类电池原料与材料产品15万吨，三年合计供应45万吨。",
@@ -1923,6 +1751,319 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://news.ifeng.com/c/8niJoi5kGW2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 23时20分]"
+        },
+        {
+          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826904",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时18分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://www.douyin.com/hot/2281351",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时40分]"
+        },
+        {
+          "title": "中美可以找到解决彼此关切的办法",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            13,
+            12,
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时27分 ~ 23时20分]"
+        },
+        {
+          "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
+          "url": "https://wallstreetcn.com/articles/3757717",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 14时27分]"
+        },
+        {
+          "title": "中方回应中美元首是否在APEC会晤",
+          "url": "https://www.toutiao.com/trending/7564070464381894719/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5,
+            8,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 22时19分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时20分]"
+        },
+        {
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://www.cls.cn/detail/2179617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
+        },
+        {
+          "title": "外交部回应中美元首是否将会晤",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            16,
+            14,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时30分]"
+        },
+        {
+          "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
+          "url": "https://wallstreetcn.com/livenews/2993037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "中美第五轮磋商为何选在马来西亚",
+          "url": "https://www.toutiao.com/trending/7564683505221766710/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
+        },
+        {
+          "title": "中美领导人会在APEC期间会面吗？外交部：将及时发布消息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31831134",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
+          "title": "中美第五次贸易谈判是博弈新起点吗",
+          "url": "https://www.toutiao.com/trending/7564557308953366079/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "中美可以找到解决彼此关切的办法",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E8%A7%A3%E5%86%B3%E5%BD%BC%E6%AD%A4%E5%85%B3%E5%88%87%E7%9A%84%E5%8A%9E%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D10%26c_type%3D31%26pos%3D10%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%258F%25AF%25E4%25BB%25A5%25E6%2589%25BE%25E5%2588%25B0%25E8%25A7%25A3%25E5%2586%25B3%25E5%25BD%25BC%25E6%25AD%25A4%25E5%2585%25B3%25E5%2588%2587%25E7%259A%2584%25E5%258A%259E%25E6%25B3%2595%2523%26cate%3D5001%26flag%3D1%26realpos%3D10%26dgr%3D0%26display_time%3D1761279668%26pre_seqid%3D17612796680800368314765",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "中美元首是否将会晤",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D11%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%2598%25AF%25E5%2590%25A6%25E5%25B0%2586%25E4%25BC%259A%25E6%2599%25A4%2523%26dgr%3D0%26flag%3D1%26display_time%3D1761294251%26pre_seqid%3D17612942511650367759921",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中美将举行新一轮经贸磋商",
+          "url": "https://www.douyin.com/hot/2279980",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
+          "url": "https://wallstreetcn.com/articles/3757692",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时21分]"
+        },
+        {
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将继续减少非必要支出。 日本不能效仿马斯克的DOGE计划。",
+          "url": "https://wallstreetcn.com/livenews/2992871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20251024230909986800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "特斯拉股价转涨，此前一度跌5.7%。",
+          "url": "https://wallstreetcn.com/livenews/2992705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/2992687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
+        },
+        {
+          "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
+          "url": "https://flash.jin10.com/detail/20251023235226911800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "美国汽车安全监管机构表示，已就 “疯狂麦克斯”（Mad Max）版全自动驾驶（FSD）辅助模式向特斯拉(TSLA.O)提出问询。",
+          "url": "https://flash.jin10.com/detail/20251024224620862800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -2035,101 +2176,8 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "宇树机器人在韩国穿衬衫跳街舞",
-          "url": "https://www.toutiao.com/trending/7564336987147075622/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16,
-            17,
-            26,
-            30,
-            20,
-            27,
-            28,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时23分 ~ 19时16分]"
-        },
-        {
-          "title": "京东独家首发万元机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D30%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26band_rank%3D30%26display_time%3D1761297551%26pre_seqid%3D1761297550985032710853",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
-        },
-        {
-          "title": "王兴兴回应新款机器人长得吓人",
-          "url": "https://www.toutiao.com/trending/7563218744776867894/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2993207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "智元发布「灵创」平台，0 代码、0 门槛训练机器人",
-          "url": "https://wallstreetcn.com/livenews/2993206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
-          "url": "https://www.cls.cn/detail/2180237",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "宇树机器人翻跳权志龙POWER",
-          "url": "https://www.douyin.com/hot/2280704",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比特币站上111000美元/枚，日内涨0.86%。",
@@ -2198,84 +2246,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "比特币向下触及110000美元/枚，日内跌0.11%。",
+          "url": "https://flash.jin10.com/detail/20251024222129129800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 6,
+      "keyword_group": "机器人",
+      "match_count": 7,
       "titles": [
         {
-          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
-          "url": "https://wallstreetcn.com/articles/3757692",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
-        },
-        {
-          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757681",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将继续减少非必要支出。 日本不能效仿马斯克的DOGE计划。",
-          "url": "https://wallstreetcn.com/livenews/2992871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "特斯拉股价转涨，此前一度跌5.7%。",
-          "url": "https://wallstreetcn.com/livenews/2992705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/2992687",
-          "source": "华尔街见闻-快讯",
+          "title": "宇树机器人在韩国穿衬衫跳街舞",
+          "url": "https://www.toutiao.com/trending/7564336987147075622/",
+          "source": "今日头条",
           "ranks": [
             10,
+            16,
             17,
+            26,
+            30,
+            20,
+            27,
+            28,
+            15,
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
-          "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
-          "url": "https://flash.jin10.com/detail/20251023235226911800",
-          "source": "金十数据",
+          "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
+          "url": "https://www.cls.cn/detail/2180237",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            27
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
+          "title": "京东独家首发万元机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D30%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26band_rank%3D30%26display_time%3D1761297551%26pre_seqid%3D1761297550985032710853",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
+          "title": "王兴兴回应新款机器人长得吓人",
+          "url": "https://www.toutiao.com/trending/7563218744776867894/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "智元发布「灵创」平台，0 代码、0 门槛训练机器人",
+          "url": "https://wallstreetcn.com/livenews/2993206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "宇树机器人翻跳权志龙POWER",
+          "url": "https://www.douyin.com/hot/2280704",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -2369,9 +2444,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "固态电池产业向好趋势明显，主题基金水涨船高",
@@ -2391,7 +2466,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         }
