@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T17:21:00.800880+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2025-10-24T18:21:35.195677+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时22分 ~ 17时21分]"
+        },
+        {
+          "title": "拼多多给员工发黄金",
+          "url": "https://www.toutiao.com/trending/7564374778371457065/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 18时21分]"
         },
         {
           "title": "现货黄金站上4140美元/盎司，日内涨0.35%。",
@@ -132,22 +146,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        },
-        {
-          "title": "拼多多给员工发黄金",
-          "url": "https://www.toutiao.com/trending/7564374778371457065/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时21分]"
         },
         {
           "title": "摩根大通继续看涨黄金：预计2026年底将达到5055美元",
@@ -180,11 +181,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
@@ -424,6 +426,352 @@
       ]
     },
     {
+      "keyword_group": "ai 人工智能",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时21分]"
+        },
+        {
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            10,
+            16,
+            6,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时59分 ~ 18时21分]"
+        },
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            10,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时21分]"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时21分]"
+        },
+        {
+          "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
+          "url": "https://flash.jin10.com/detail/20251024065310008800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/articles/3757789",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "据日经新闻：日本与美国将就人工智能和下一代电信标准达成合作共识。",
+          "url": "https://flash.jin10.com/detail/20251024170315281800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "摩根大通：韩国Kospi股指在牛市行情下“更有可能”达到5000点。 AI和企业改革措施有望为这样的预期带来尾部风险。",
+          "url": "https://wallstreetcn.com/livenews/2992810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
+          "url": "https://wallstreetcn.com/articles/3757789",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时27分]"
+        },
+        {
+          "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
+          "url": "https://wallstreetcn.com/livenews/2992753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时17分]"
+        },
+        {
+          "title": "美法官承认使用人工智能导致法院裁决出错",
+          "url": "https://flash.jin10.com/detail/20251024042842055800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "AirPods Pro3值得买吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%20Pro3%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
+          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
+          "url": "https://wallstreetcn.com/livenews/2993035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-24）",
+          "url": "https://flash.jin10.com/detail/20251024115316832800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时18分]"
+        },
+        {
+          "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
+          "url": "https://wallstreetcn.com/livenews/2992741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "微软(MSFT.O)：取消秋季版Copilot发布计划；推出12项新功能，让人工智能更具个性化、实用性与人性化。",
+          "url": "https://flash.jin10.com/detail/20251024000041225800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "腾讯AI智能工作台ima发布2.0版本，月活增长突破80倍",
+          "url": "https://wallstreetcn.com/livenews/2993280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "美法官承认：使用人工智能导致法院裁决出错",
+          "url": "https://wallstreetcn.com/livenews/2992773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "吉利联合中国汽车工程学会发布行业首个《AI CAR白皮书》",
+          "url": "https://wallstreetcn.com/livenews/2993095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "夸克AI眼镜开售，最低3329元，上线仅7个小时便成双11智能眼镜行业top2",
+          "url": "https://wallstreetcn.com/livenews/2992965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "韩国防务企业现代罗特姆（Hyundai Rotem）表示，已与美国人工智能解决方案提供商Shield AI签署谅解备忘录，以开发基于人工智能的国防技术。",
+          "url": "https://flash.jin10.com/detail/20251024103324178800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "英特尔(INTC.O)Q3数据中心与人工智能营收41亿美元，同比下降1%。",
+          "url": "https://flash.jin10.com/detail/20251024040706619800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "张艺兴京东AI舞台",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26dgr%3D0%26realpos%3D20%26filter_type%3Drealtimehot%26pos%3D20%26c_type%3D31%26flag%3D1%26display_time%3D1761276908%26pre_seqid%3D17612769081050367349294",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "科技部部长阴和俊：全面实施人工智能+行动",
+          "url": "https://wallstreetcn.com/livenews/2992984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "华泰证券：大促周期拉长，闪购与AI+电商或成为新变量",
+          "url": "https://wallstreetcn.com/livenews/2992847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "据知情人士透露，沙特主权财富基金PIF考虑在NEOM试点人工智能（AI）和高科技（项目）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "专家：人工智能或驱动新一轮产业繁荣",
+          "url": "https://www.toutiao.com/trending/7564444098019524649/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
+          "url": "https://wallstreetcn.com/livenews/2992672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 27,
       "titles": [
@@ -449,8 +797,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时16分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[07时16分 ~ 18时21分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -737,328 +1085,6 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
-          "url": "https://wallstreetcn.com/articles/3757698",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
-        },
-        {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            10,
-            16,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时59分 ~ 17时21分]"
-        },
-        {
-          "title": "UP主手搓AI眼镜",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            10,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
-        },
-        {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时21分]"
-        },
-        {
-          "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
-          "url": "https://flash.jin10.com/detail/20251024065310008800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/articles/3757789",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "据日经新闻：日本与美国将就人工智能和下一代电信标准达成合作共识。",
-          "url": "https://flash.jin10.com/detail/20251024170315281800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "摩根大通：韩国Kospi股指在牛市行情下“更有可能”达到5000点。 AI和企业改革措施有望为这样的预期带来尾部风险。",
-          "url": "https://wallstreetcn.com/livenews/2992810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/articles/3757789",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时27分]"
-        },
-        {
-          "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
-          "url": "https://wallstreetcn.com/livenews/2992753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时17分]"
-        },
-        {
-          "title": "美法官承认使用人工智能导致法院裁决出错",
-          "url": "https://flash.jin10.com/detail/20251024042842055800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
-          "url": "https://wallstreetcn.com/livenews/2993035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-24）",
-          "url": "https://flash.jin10.com/detail/20251024115316832800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时18分]"
-        },
-        {
-          "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
-          "url": "https://wallstreetcn.com/livenews/2992741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "微软(MSFT.O)：取消秋季版Copilot发布计划；推出12项新功能，让人工智能更具个性化、实用性与人性化。",
-          "url": "https://flash.jin10.com/detail/20251024000041225800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "AirPods Pro3值得买吗",
-          "url": "https://search.bilibili.com/all?keyword=AirPods%20Pro3%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
-          "title": "美法官承认：使用人工智能导致法院裁决出错",
-          "url": "https://wallstreetcn.com/livenews/2992773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "吉利联合中国汽车工程学会发布行业首个《AI CAR白皮书》",
-          "url": "https://wallstreetcn.com/livenews/2993095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "夸克AI眼镜开售，最低3329元，上线仅7个小时便成双11智能眼镜行业top2",
-          "url": "https://wallstreetcn.com/livenews/2992965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "韩国防务企业现代罗特姆（Hyundai Rotem）表示，已与美国人工智能解决方案提供商Shield AI签署谅解备忘录，以开发基于人工智能的国防技术。",
-          "url": "https://flash.jin10.com/detail/20251024103324178800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "英特尔(INTC.O)Q3数据中心与人工智能营收41亿美元，同比下降1%。",
-          "url": "https://flash.jin10.com/detail/20251024040706619800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "张艺兴京东AI舞台",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26dgr%3D0%26realpos%3D20%26filter_type%3Drealtimehot%26pos%3D20%26c_type%3D31%26flag%3D1%26display_time%3D1761276908%26pre_seqid%3D17612769081050367349294",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "科技部部长阴和俊：全面实施人工智能+行动",
-          "url": "https://wallstreetcn.com/livenews/2992984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "华泰证券：大促周期拉长，闪购与AI+电商或成为新变量",
-          "url": "https://wallstreetcn.com/livenews/2992847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "据知情人士透露，沙特主权财富基金PIF考虑在NEOM试点人工智能（AI）和高科技（项目）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "专家：人工智能或驱动新一轮产业繁荣",
-          "url": "https://www.toutiao.com/trending/7564444098019524649/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
-          "url": "https://wallstreetcn.com/livenews/2992672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
       "match_count": 17,
       "titles": [
@@ -1298,8 +1324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "中美元首是否将会晤？外交部回应",
@@ -1309,8 +1335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -1320,8 +1346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "中美可以找到解决彼此关切的办法",
@@ -1330,11 +1356,24 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 18时21分]"
+        },
+        {
+          "title": "中美元首是否将会晤？外交部回应",
+          "url": "https://www.cls.cn/detail/2179617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "中共中央新闻发布会丨商务部：前四轮经贸磋商充分证明中美可以找到解决彼此关切的办法",
@@ -1349,28 +1388,17 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
-          "title": "中美元首是否将会晤？外交部回应",
-          "url": "https://www.cls.cn/detail/2179617",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
-        },
-        {
           "title": "外交部回应中美元首是否将会晤",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
           "ranks": [
             10,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "中美第五轮磋商为何选在马来西亚",
@@ -1378,22 +1406,24 @@
           "source": "今日头条",
           "ranks": [
             29,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%98%AF%E5%90%A6%E5%B0%86%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "中美第五次贸易谈判是博弈新起点吗",
@@ -1451,11 +1481,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时21分]"
         },
         {
           "title": "独家丨筹备期满，法巴天星保险揭牌在即：小米旗下公司持股 外方股东委派董事长",
@@ -1469,8 +1500,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时21分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -1481,11 +1512,23 @@
             13,
             14,
             15,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 18时21分]"
+        },
+        {
+          "title": "理想Mega未碰撞自燃,10秒成灰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346193&amp;topic_name=%E7%90%86%E6%83%B3Mega%E6%9C%AA%E7%A2%B0%E6%92%9E%E8%87%AA%E7%87%83%2C10%E7%A7%92%E6%88%90%E7%81%B0",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -1501,17 +1544,6 @@
           "time_info": "[09时20分 ~ 11时37分]"
         },
         {
-          "title": "理想Mega未碰撞自燃,10秒成灰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346193&amp;topic_name=%E7%90%86%E6%83%B3Mega%E6%9C%AA%E7%A2%B0%E6%92%9E%E8%87%AA%E7%87%83%2C10%E7%A7%92%E6%88%90%E7%81%B0",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
           "title": "小米汽车购置税补贴方案",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26dgr%3D0%26pos%3D1%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26flag%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D2%26display_time%3D1761283085%26pre_seqid%3D1761283085030032636496",
           "source": "微博",
@@ -1525,6 +1557,21 @@
           "time_info": "[13时18分 ~ 15时18分]"
         },
         {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 18时21分]"
+        },
+        {
           "title": "市监局介入处理小米YU7不明零件",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B8%82%E7%9B%91%E5%B1%80%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%B0%8F%E7%B1%B3YU7%E4%B8%8D%E6%98%8E%E9%9B%B6%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%25B8%2582%25E7%259B%2591%25E5%25B1%2580%25E4%25BB%258B%25E5%2585%25A5%25E5%25A4%2584%25E7%2590%2586%25E5%25B0%258F%25E7%25B1%25B3YU7%25E4%25B8%258D%25E6%2598%258E%25E9%259B%25B6%25E4%25BB%25B6%2523%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D1%26c_type%3D31%26band_rank%3D30%26pos%3D30%26cate%3D5001%26dgr%3D0%26realpos%3D30%26display_time%3D1761236215%26pre_seqid%3D17612362152590115382682",
           "source": "微博",
@@ -1536,20 +1583,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时21分]"
         },
         {
           "title": "新能源车占位94分钟被收438元超时占用费，车主起诉，法院判了",
@@ -1571,8 +1604,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
+          "title": "格林美：与厦钨新能源签署先进电池原料和材料供应的战略合作框架协议，2026年-2028年，公司预计每年向厦钨新能源供应各类电池原料与材料产品15万吨，三年合计供应45万吨。",
+          "url": "https://wallstreetcn.com/livenews/2993240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "理想mega",
@@ -1617,17 +1662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "格林美：与厦钨新能源签署先进电池原料和材料供应的战略合作框架协议，2026年-2028年，公司预计每年向厦钨新能源供应各类电池原料与材料产品15万吨，三年合计供应45万吨。",
-          "url": "https://wallstreetcn.com/livenews/2993240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         }
       ]
     },
@@ -1779,8 +1813,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时21分]"
         },
         {
           "title": "M5 MacBook Pro首发评测",
@@ -1819,6 +1853,17 @@
           "time_info": "[00时23分 ~ 17时21分]"
         },
         {
+          "title": "京东独家首发万元机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D30%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26band_rank%3D30%26display_time%3D1761297551%26pre_seqid%3D1761297550985032710853",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
           "title": "王兴兴回应新款机器人长得吓人",
           "url": "https://www.toutiao.com/trending/7563218744776867894/",
           "source": "今日头条",
@@ -1829,17 +1874,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "京东独家首发万元机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D30%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26band_rank%3D30%26display_time%3D1761297551%26pre_seqid%3D1761297550985032710853",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
@@ -1896,11 +1930,12 @@
           "url": "https://wallstreetcn.com/livenews/2993263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "周四（10月23日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨2%，至11.0万美元上方，全天持续震荡上行，北京时间14:00和01:30先后出现相对显著的上涨。 CME以太币期货DCR主力合约涨1.65%，报3851美元。",
