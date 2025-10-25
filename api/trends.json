@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T07:17:30.822834+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-10-25T09:22:33.583228+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -26,23 +26,12 @@
           "ranks": [
             6,
             5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
-        },
-        {
-          "title": "周五（10月24日）纽约尾盘，标普500股指期货最终涨0.79%，道指期货涨0.99%，纳斯达克100股指期货涨1.05%。 罗素2000股指期货涨1.09%。",
-          "url": "https://wallstreetcn.com/livenews/2993609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%，本周累涨约2.4%。 热门中概股里，文远知行涨4.6%，小马智行涨3.5%，百度、台积电、阿里巴巴涨超1.4%。",
@@ -54,6 +43,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "周五（10月24日）纽约尾盘，标普500股指期货最终涨0.79%，道指期货涨0.99%，纳斯达克100股指期货涨1.05%。 罗素2000股指期货涨1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2993609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时22分]"
+        },
+        {
+          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "本周，标普500指数累计上涨大约2%，道指累涨约2.2%，纳指累涨约2.4%，纳斯达克100指数累涨约2.2%，七巨头指数涨2.5%，迷因股指数涨6%。 周五发布美国CPI当天，标普500指数初步收 %，科技、电信、公用事业、金融板块至少涨约1%，能源板块跌0.9%。 纳斯达克100指数初步收 %，成分股中，AMD涨7.6%，核电股CEG涨6.3%，美光科技涨6%，霍尼韦尔、ADI、微芯科技、贝克休斯、特斯拉、TTD则至多跌3.7%。 IBM涨8%，高盛涨4.4%，英伟达、摩根大通、亚马逊至少涨1.5%，领跑道指成分股。",
@@ -89,6 +102,18 @@
           "time_info": "[04时21分 ~ 07时17分]"
         },
         {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
+        },
+        {
           "title": "美股收盘：三大股指齐创新高",
           "url": "https://flash.jin10.com/detail/20251025040102680800",
           "source": "金十数据",
@@ -106,11 +131,25 @@
           "ranks": [
             7,
             14,
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 09时22分]"
+        },
+        {
+          "title": "巴克莱策略主管Alexander Altman：预计标普500指数今年年底将达到7250点。",
+          "url": "https://wallstreetcn.com/livenews/2993607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "time_info": "[06时18分 ~ 09时22分]"
         },
         {
           "title": "标普500指数涨1%，道指涨511点涨幅1.09%，纳指涨293点涨幅1.28%，纳斯达克100指数涨292点涨幅1.17%，半导体指数涨2.2%，银行指数涨2.3%，小盘股指涨1.5%，特斯拉跌1.8%。",
@@ -126,29 +165,6 @@
           "time_info": "[00时24分 ~ 02时26分]"
         },
         {
-          "title": "巴克莱策略主管Alexander Altman：预计标普500指数今年年底将达到7250点。",
-          "url": "https://wallstreetcn.com/livenews/2993607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251025003135342800",
           "source": "金十数据",
@@ -160,13 +176,24 @@
           "time_info": "01时17分"
         },
         {
+          "title": "美股收盘：特斯拉市值蒸发超3600亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%853600%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "美通胀低于预期，美股三大股指高开，美债收益率下挫，美元跳水，金银回落，油价反弹",
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -202,34 +229,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "纳斯达克：截至10月15日，所有纳斯达克证券的空头持仓总计为169.1亿股。",
+          "url": "https://flash.jin10.com/detail/20251025040933277800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "纽蒙特矿业(NEM.N)：未来五年内，阿哈福北矿区的运营预计每年生产介于275,000到325,000盎司黄金，矿区的总生命周期为13年。",
           "url": "https://flash.jin10.com/detail/20251025040642098800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 09时22分]"
         },
         {
           "title": "纽蒙特矿业(NEM.N)：位于加纳的阿哈福北矿区（Ahafo North）已开始商业生产，将在2025年生产约50,000盎司黄金。",
           "url": "https://flash.jin10.com/detail/20251025040616522800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 09时22分]"
         },
         {
           "title": "纽蒙特矿业考虑就巴里克矿业在美国内华达的黄金资产达成一份协议。（彭博）",
@@ -264,11 +304,12 @@
           "ranks": [
             2,
             9,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 09时22分]"
         },
         {
           "title": "公司给员工发黄金你羡慕吗",
@@ -291,12 +332,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "拼多多给员工发黄金",
+          "url": "https://www.toutiao.com/trending/7564374778371457065/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上一交易日减少49.39吨，当前持仓量为15419.81吨。",
+          "url": "https://flash.jin10.com/detail/20251025080422795800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1046.93吨，较前一个交易日减少5.44吨。",
+          "url": "https://flash.jin10.com/detail/20251025080227861800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -309,8 +383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
@@ -321,8 +395,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "如何看待上海理想 MEGA 爆燃事件车主通过律师发声明称，网传「电池磕碰过」等均为不实言论?",
@@ -333,8 +407,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "乘联分会：我国10月新能源零售量预计为132万左右，渗透率有望提升至60%左右，或创历史新高",
@@ -368,28 +442,41 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时22分]"
         },
         {
           "title": "理想回应MEGA行驶中突然起火被烧成空架：车内人员安全离车，会配合调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830438",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
+        },
+        {
+          "title": "前三季度新能源商业车险保费收入超千亿元 同比增长36.6%",
+          "url": "https://flash.jin10.com/detail/20251025080413968800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "中美",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中美元首是否将会晤？外交部回应",
@@ -399,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -414,11 +501,12 @@
             5,
             4,
             14,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "中美可以找到解决彼此关切的办法",
@@ -430,11 +518,12 @@
             9,
             7,
             13,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         },
         {
           "title": "中美领导人会在APEC期间会面吗？外交部：将及时发布消息",
@@ -472,16 +561,39 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
+        },
+        {
+          "title": "APEC会议期间中美元首是否举行会晤？外交部回应",
+          "url": "https://wallstreetcn.com/articles/3757814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
+          "url": "https://wallstreetcn.com/articles/3757786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时22分]"
+        },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
           "url": "https://wallstreetcn.com/articles/3757782",
@@ -494,15 +606,17 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            29,
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 09时22分]"
         },
         {
           "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
@@ -510,23 +624,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时22分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
@@ -538,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
+          "url": "https://flash.jin10.com/detail/20251025085423303800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
@@ -561,11 +675,12 @@
           "url": "https://flash.jin10.com/detail/20251025040626413800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 09时22分]"
         },
         {
           "title": "中东股市收盘播报｜土耳其股市周五收涨超3.1%，银行板块本周涨超12.5%",
@@ -618,7 +733,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "涉及无人机飞行员设计和制造超低延迟视频护目镜的Unusual Machines Inc./US（UMAC）股价上涨16%，据英国金融时报报道，该公司赢得自家历史上最大的五角大楼承包合同。",
@@ -665,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "iPhone18系列迎史上最大革新",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18%E7%B3%BB%E5%88%97%E8%BF%8E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%9D%A9%E6%96%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D12%26c_type%3D31%26flag%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D13%26q%3D%2523iPhone18%25E7%25B3%25BB%25E5%2588%2597%25E8%25BF%258E%25E5%258F%25B2%25E4%25B8%258A%25E6%259C%2580%25E5%25A4%25A7%25E9%259D%25A9%25E6%2596%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D12%26display_time%3D1761355159%26pre_seqid%3D1761355159364031782883",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -717,11 +843,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时22分]"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -748,11 +875,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         }
       ]
     },
@@ -766,11 +894,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时22分]"
         }
       ]
     }
