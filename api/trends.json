@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T12:20:59.151767+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2025-10-26T13:18:15.382914+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
@@ -19,17 +19,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
-          "url": "https://wallstreetcn.com/livenews/2993677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
           "url": "https://wallstreetcn.com/articles/3757907",
           "source": "华尔街见闻",
@@ -40,8 +29,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时18分]"
+        },
+        {
+          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
+          "url": "https://wallstreetcn.com/livenews/2993677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
@@ -68,13 +68,24 @@
           "time_info": "[09时37分 ~ 11时09分]"
         },
         {
+          "title": "华为Mate 70 Air超薄设计曝光",
+          "url": "https://www.toutiao.com/trending/7564629715139543094/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
           "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
           "url": "https://wallstreetcn.com/articles/3757909",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -82,7 +93,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中美经贸磋商首日举行两场会谈",
@@ -110,6 +121,28 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "中美关键谈判第一天，美方用“非常建设性”安抚舆论",
+          "url": "https://news.ifeng.com/c/8nkVY0aaFyZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时18分]"
+        },
+        {
+          "title": "中美经贸会谈首日磋商超5小时，美方称非常有建设性",
+          "url": "https://news.ifeng.com/c/8nl5gRMzMJY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 13时18分]"
+        },
+        {
           "title": "中美经贸磋商首日两轮会谈结束",
           "url": "https://www.toutiao.com/trending/7565113849976835635/",
           "source": "今日头条",
@@ -122,32 +155,21 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "中美关键谈判第一天，美方用“非常建设性”安抚舆论",
-          "url": "https://news.ifeng.com/c/8nkVY0aaFyZ",
-          "source": "凤凰网",
+          "title": "详解第五次中美经贸磋商",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时20分]"
-        },
-        {
-          "title": "中美经贸会谈首日磋商超5小时，美方称非常有建设性",
-          "url": "https://news.ifeng.com/c/8nl5gRMzMJY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 12时20分]"
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄金暴跌背后的规律是什么",
@@ -188,19 +210,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时18分]"
         },
         {
           "title": "父亲囤40多件黄金给女儿当嫁妆",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%88%B6%E4%BA%B2%E5%9B%A440%E5%A4%9A%E4%BB%B6%E9%BB%84%E9%87%91%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BD%93%E5%AB%81%E5%A6%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D19%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D19%26stream_entry_id%3D31%26band_rank%3D19%26flag%3D1%26q%3D%2523%25E7%2588%25B6%25E4%25BA%25B2%25E5%259B%25A440%25E5%25A4%259A%25E4%25BB%25B6%25E9%25BB%2584%25E9%2587%2591%25E7%25BB%2599%25E5%25A5%25B3%25E5%2584%25BF%25E5%25BD%2593%25E5%25AB%2581%25E5%25A6%2586%2523%26display_time%3D1761452405%26pre_seqid%3D176145240513303667899125",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 13时18分]"
+        },
+        {
+          "title": "外媒：黄金创纪录涨势落幕",
+          "url": "https://www.toutiao.com/trending/7564394450001231908/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "女生称卖黄金被套路杀价200元1克",
@@ -259,8 +293,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -299,11 +333,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "中国机器人把老外看呆了",
@@ -343,8 +378,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
@@ -357,8 +392,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "西安一辆保时捷新能源车突发自燃，起火原因调查中",
@@ -370,8 +405,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
@@ -383,8 +418,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时18分]"
         }
       ]
     },
@@ -417,8 +452,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 13时18分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
@@ -426,18 +461,30 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时18分]"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "iPhone Air刚上市就卖不动了",
+          "url": "https://www.toutiao.com/trending/7565363497312194084/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
         {
           "title": "iPhone 18 或迎史上最大革新，灵动岛可能缩小甚至移除，将成首款折叠屏苹果手机，你还有哪些期待？",
           "url": "https://www.zhihu.com/question/1965364096309356462",
