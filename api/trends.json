@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T14:26:59.674074+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-10-26T15:16:54.179191+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "url": "https://news.ifeng.com/c/8nkYawaHiIt",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 15时16分]"
         },
         {
           "title": "父亲囤40多件黄金给女儿当嫁妆",
@@ -63,6 +64,18 @@
           "time_info": "[12时20分 ~ 14时26分]"
         },
         {
+          "title": "“人人都预期”的黄金崩盘发生了，现在人人都等着抄底？",
+          "url": "https://wallstreetcn.com/articles/3757916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时16分]"
+        },
+        {
           "title": "外媒：黄金创纪录涨势落幕",
           "url": "https://www.toutiao.com/trending/7564394450001231908/",
           "source": "今日头条",
@@ -72,17 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "“人人都预期”的黄金崩盘发生了，现在人人都等着抄底？",
-          "url": "https://wallstreetcn.com/articles/3757916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "女生称卖黄金被套路杀价200元1克",
@@ -102,7 +104,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
@@ -110,8 +112,23 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
+          "url": "https://wallstreetcn.com/articles/3757907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 15时16分]"
+        },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
           "url": "https://www.cls.cn/detail/2180505",
@@ -122,20 +139,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
-          "url": "https://wallstreetcn.com/articles/3757907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时26分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -192,14 +195,25 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 15时16分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：预计发达经济体60%的就业机会受到人工智能的影响。",
+          "url": "https://flash.jin10.com/detail/20251026144100728800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "15时16分"
         }
       ]
     },
     {
       "keyword_group": "中美",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中美经贸磋商首日举行两场会谈",
@@ -242,11 +256,12 @@
           "url": "https://news.ifeng.com/c/8nl5gRMzMJY",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 15时16分]"
         },
         {
           "title": "中美经贸磋商首日两轮会谈结束",
@@ -259,6 +274,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "中美新一轮经贸磋商进入第二天",
+          "url": "https://news.ifeng.com/c/8nlPpzSWtu2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "详解第五次中美经贸磋商",
@@ -317,8 +343,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时16分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -361,8 +387,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时16分]"
         },
         {
           "title": "中国机器人把老外看呆了",
@@ -403,8 +429,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时16分]"
         },
         {
           "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
@@ -418,8 +444,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时16分]"
         },
         {
           "title": "西安一辆保时捷新能源车突发自燃，起火原因调查中",
@@ -445,8 +471,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 15时16分]"
         }
       ]
     },
@@ -480,8 +506,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 15时16分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
@@ -507,11 +533,12 @@
           "url": "https://www.toutiao.com/trending/7565363497312194084/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时16分]"
         },
         {
           "title": "iPhone 18 或迎史上最大革新，灵动岛可能缩小甚至移除，将成首款折叠屏苹果手机，你还有哪些期待？",
@@ -542,6 +569,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "12万枚比特币为何如此轻松被美国没收",
+          "url": "https://www.toutiao.com/trending/7565370523170016774/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时16分]"
+        },
+        {
           "title": "今年利润预计150亿美元，利润率高达99%，用户数超5亿，估值5000亿美元！“稳定币老大”Tether“春风得意”",
           "url": "https://wallstreetcn.com/articles/3757888",
           "source": "华尔街见闻",
@@ -551,17 +590,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时15分 ~ 09时37分]"
-        },
-        {
-          "title": "12万枚比特币为何如此轻松被美国没收",
-          "url": "https://www.toutiao.com/trending/7565370523170016774/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         }
       ]
     },
