@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T16:22:32.167454+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-10-26T17:17:17.538938+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[07时15分 ~ 17时17分]"
         },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
@@ -57,6 +58,18 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
+          "url": "https://wallstreetcn.com/articles/3757909",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 17时17分]"
+        },
+        {
           "title": "华为Mate 70 Air超薄设计曝光",
           "url": "https://www.toutiao.com/trending/7564629715139543094/",
           "source": "今日头条",
@@ -70,16 +83,15 @@
           "time_info": "[13时17分 ~ 16时22分]"
         },
         {
-          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
-          "url": "https://wallstreetcn.com/articles/3757909",
-          "source": "华尔街见闻",
+          "title": "图灵奖得主聊AI变革图景",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 16时22分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：预计发达经济体60%的就业机会受到人工智能的影响。",
@@ -106,24 +118,13 @@
           "time_info": "[09时37分 ~ 11时09分]"
         },
         {
-          "title": "图灵奖得主聊AI变革图景",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "巴克莱首席执行官：人工智能领域存在资本，因为人们看到了从中获得的回报，虽然会出现资源配置不当的情况，但这种情况在每个周期都会发生。",
           "url": "https://flash.jin10.com/detail/20251026152903060800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -134,9 +135,119 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中美经贸磋商首日举行两场会谈",
+          "url": "https://news.ifeng.com/c/8nkBAoD8nZ0",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "中美经贸会谈首日磋商超5小时，美方称非常有建设性",
+          "url": "https://news.ifeng.com/c/8nl5gRMzMJY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 17时17分]"
+        },
+        {
+          "title": "中美经贸磋商在马来西亚开始举行，有哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/1965378734564532772",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "中美关键谈判第一天，美方用“非常建设性”安抚舆论",
+          "url": "https://news.ifeng.com/c/8nkVY0aaFyZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时26分]"
+        },
+        {
+          "title": "中美经贸磋商首日两轮会谈结束",
+          "url": "https://www.toutiao.com/trending/7565113849976835635/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "中美新一轮经贸磋商进入第二天",
+          "url": "https://news.ifeng.com/c/8nlPpzSWtu2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 17时17分]"
+        },
+        {
+          "title": "中国商务部国际贸易谈判代表兼副部长李成钢26日说，中美经贸团队就双方关注的经贸议题进行了深入、坦诚的讨论和交流。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2993761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "中美新一轮经贸会谈哪些细节可关注",
+          "url": "https://www.toutiao.com/trending/7565419770854510123/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "详解第五次中美经贸磋商",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时26分]"
         }
       ]
     },
@@ -210,8 +321,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时17分]"
         },
         {
           "title": "外媒：黄金创纪录涨势落幕",
@@ -225,6 +336,17 @@
           "time_info": "[13时17分 ~ 13时18分]"
         },
         {
+          "title": "男子囤40多件黄金给女儿当嫁妆",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A440%E5%A4%9A%E4%BB%B6%E9%BB%84%E9%87%91%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BD%93%E5%AB%81%E5%A6%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时17分]"
+        },
+        {
           "title": "女生称卖黄金被套路杀价200元1克",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%8D%96%E9%BB%84%E9%87%91%E8%A2%AB%E5%A5%97%E8%B7%AF%E6%9D%80%E4%BB%B7200%E5%85%831%E5%85%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A5%25B3%25E7%2594%259F%25E7%25A7%25B0%25E5%258D%2596%25E9%25BB%2584%25E9%2587%2591%25E8%25A2%25AB%25E5%25A5%2597%25E8%25B7%25AF%25E6%259D%2580%25E4%25BB%25B7200%25E5%2585%25831%25E5%2585%258B%2523%26dgr%3D0%26flag%3D1%26pos%3D23%26lcate%3D5001%26c_type%3D31%26realpos%3D23%26band_rank%3D23%26filter_type%3Drealtimehot%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761447004%26pre_seqid%3D17614470043550367091387",
           "source": "微博",
@@ -236,17 +358,6 @@
           "time_info": "11时09分"
         },
         {
-          "title": "男子囤40多件黄金给女儿当嫁妆",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%A440%E5%A4%9A%E4%BB%B6%E9%BB%84%E9%87%91%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BD%93%E5%AB%81%E5%A6%86",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "黄金十周以来首现周度跌幅",
           "url": "https://www.toutiao.com/trending/7564394450001231908/",
           "source": "今日头条",
@@ -256,105 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中美经贸磋商首日举行两场会谈",
-          "url": "https://news.ifeng.com/c/8nkBAoD8nZ0",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "中美经贸磋商在马来西亚开始举行，有哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/1965378734564532772",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "中美经贸会谈首日磋商超5小时，美方称非常有建设性",
-          "url": "https://news.ifeng.com/c/8nl5gRMzMJY",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 16时22分]"
-        },
-        {
-          "title": "中美关键谈判第一天，美方用“非常建设性”安抚舆论",
-          "url": "https://news.ifeng.com/c/8nkVY0aaFyZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时26分]"
-        },
-        {
-          "title": "中美经贸磋商首日两轮会谈结束",
-          "url": "https://www.toutiao.com/trending/7565113849976835635/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
-          "title": "中美新一轮经贸磋商进入第二天",
-          "url": "https://news.ifeng.com/c/8nlPpzSWtu2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时22分]"
-        },
-        {
-          "title": "中美新一轮经贸会谈哪些细节可关注",
-          "url": "https://www.toutiao.com/trending/7565419770854510123/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "详解第五次中美经贸磋商",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时26分]"
         }
       ]
     },
@@ -375,8 +387,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "买车送惊喜,小米宠粉有一手",
@@ -389,8 +401,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "西安一辆保时捷新能源车突发自燃，起火原因调查中",
@@ -416,8 +428,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "沙特投资大臣：数十年来，沙特阿拉伯在传统能源领域占据主导地位，如今同样致力于发展风能、太阳能和绿色氢能等新能源。",
@@ -426,7 +438,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
@@ -521,8 +533,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "中国机器人把老外看呆了",
@@ -562,8 +574,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时09分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时09分 ~ 17时17分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -647,11 +659,12 @@
           "ranks": [
             20,
             2,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时17分]"
         },
         {
           "title": "今年利润预计150亿美元，利润率高达99%，用户数超5亿，估值5000亿美元！“稳定币老大”Tether“春风得意”",
@@ -668,7 +681,7 @@
     },
     {
       "keyword_group": "固态电池",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "固态电池三巨头三季报含金量如何",
@@ -681,6 +694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 11时09分]"
+        },
+        {
+          "title": "固态电池“三巨头”三季报出炉",
+          "url": "https://www.toutiao.com/trending/7565407861153467910/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     }
