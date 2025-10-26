@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T01:15:31.817023+08:00",
-  "total_titles_processed": 330,
+  "generated_at": "2025-10-27T02:25:34.133207+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "何立峰谈中美经贸磋商：成果来之不易",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美双方就关税等多个议题形成了初步共识，哪些信息值得关注？",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美吉隆坡经贸磋商：就解决各自关切的安排达成基本共识",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美在马来西亚吉隆坡举行经贸磋商",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "凤凰在现场：中方代表就中美经贸磋商成果会见记者",
@@ -70,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "人民日报钟声：共同维护好来之不易的中美经贸磋商成果",
@@ -81,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢：中美双方就有关议题形成了初步共识",
@@ -92,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美就多项议题形成初步共识",
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美经贸磋商两天共举行约10小时会谈",
@@ -127,19 +127,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美在马来西亚吉隆坡举行经贸磋商",
           "url": "https://m.thepaper.cn/newsDetail_forward_31839690",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
@@ -149,19 +150,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢 中美进行深入坦诚交流",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E6%88%90%E9%92%A2%20%E4%B8%AD%E7%BE%8E%E8%BF%9B%E8%A1%8C%E6%B7%B1%E5%85%A5%E5%9D%A6%E8%AF%9A%E4%BA%A4%E6%B5%81",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "中美就多个议题形成初步共识",
+          "url": "https://www.toutiao.com/trending/7564610674442260022/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢：中美双方形成初步共识",
@@ -172,19 +186,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "中美就多个议题形成初步共识",
-          "url": "https://www.toutiao.com/trending/7564610674442260022/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢：中美经贸团队就双方关注的经贸议题进行了深入、坦诚的讨论和交流",
@@ -194,8 +197,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美就多个议题形成初步共识",
@@ -205,8 +208,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美在马来西亚吉隆坡举行经贸磋商",
@@ -216,8 +219,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢：中美双方就众多议题建设性地探讨了一些妥善处理双方关注的方案，形成了初步共识",
@@ -227,8 +230,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "李成钢：中美经贸团队就双方关注的经贸议题进行了深入、坦诚的讨论和交流",
@@ -238,8 +241,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中美马来西亚经贸磋商谈了啥",
@@ -247,11 +250,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -268,8 +272,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -279,8 +283,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
@@ -290,8 +294,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -301,8 +305,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -313,8 +317,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
@@ -341,8 +345,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "打造黄金舰队,懂王和“金”杠上了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346238&amp;topic_name=%E6%89%93%E9%80%A0%E9%BB%84%E9%87%91%E8%88%B0%E9%98%9F%2C%E6%87%82%E7%8E%8B%E5%92%8C%E2%80%9C%E9%87%91%E2%80%9D%E6%9D%A0%E4%B8%8A%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "time_info": "[01时15分 ~ 02时25分]"
         },
         {
           "title": "周大福老铺黄金们为何逆势涨价",
@@ -354,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "打造黄金舰队,懂王和“金”杠上了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346238&amp;topic_name=%E6%89%93%E9%80%A0%E9%BB%84%E9%87%91%E8%88%B0%E9%98%9F%2C%E6%87%82%E7%8E%8B%E5%92%8C%E2%80%9C%E9%87%91%E2%80%9D%E6%9D%A0%E4%B8%8A%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
         }
       ]
     },
@@ -380,8 +384,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "比特币小幅走高，一度涨至112725美元/枚；以太坊一度涨超4000美元/枚，日内涨逾1%。",
@@ -391,8 +395,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -408,8 +412,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -425,8 +429,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -443,8 +447,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -458,11 +462,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            26
+            26,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
