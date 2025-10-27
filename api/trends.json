@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T06:17:57.832287+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-10-28T07:17:16.934982+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -19,26 +19,26 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
-          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
-          "url": "https://wallstreetcn.com/livenews/2994556",
-          "source": "华尔街见闻-快讯",
+          "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
-          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
-          "url": "https://wallstreetcn.com/livenews/2994554",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -63,6 +63,30 @@
           "time_info": "04时19分"
         },
         {
+          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
+          "url": "https://wallstreetcn.com/livenews/2994556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
+          "url": "https://wallstreetcn.com/livenews/2994554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
           "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
@@ -75,6 +99,32 @@
           "time_info": "[00时26分 ~ 01时17分]"
         },
         {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251028003902797800",
           "source": "金十数据",
@@ -85,18 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时28分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
         },
         {
           "title": "标普：给予Strategy Inc.垃圾级信用评级B-。",
@@ -121,18 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时28分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
         },
         {
           "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
@@ -186,7 +212,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -200,8 +226,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -211,8 +237,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "打造黄金舰队,懂王和“金”杠上了",
@@ -242,11 +268,12 @@
           "url": "https://flash.jin10.com/detail/20251028060140000800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -309,6 +336,28 @@
           "time_info": "[01时16分 ~ 01时17分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少8.01吨，当前持仓量为1038.92吨。",
+          "url": "https://flash.jin10.com/detail/20251028060809381800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少79.02吨，当前持仓量为15340.79吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20251028060526313800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "南非股指下跌大约1.7%，追随现货黄金+纽约期金一度双双跌穿4000美元的表现。",
           "url": "https://wallstreetcn.com/livenews/2994427",
           "source": "华尔街见闻-快讯",
@@ -345,7 +394,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI大电影葫芦兄弟",
@@ -356,11 +405,12 @@
             13,
             9,
             14,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -382,11 +432,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -412,6 +463,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
@@ -460,6 +522,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时16分]"
+        },
+        {
+          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
+          "url": "https://www.cls.cn/detail/2182582",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -520,8 +593,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
@@ -534,8 +607,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "央行：继续打击境内虚拟货币经营炒作",
@@ -552,6 +625,30 @@
           "time_info": "[02时28分 ~ 06时17分]"
         },
         {
+          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
+          "url": "https://flash.jin10.com/detail/20251028052428627800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
+          "url": "https://wallstreetcn.com/livenews/2994547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
           "title": "脑机接口公司Neuralink：很高兴宣布我们在英国的首位参与者。",
           "url": "https://flash.jin10.com/detail/20251028000428137800",
           "source": "金十数据",
@@ -564,43 +661,22 @@
           "time_info": "[00时26分 ~ 01时17分]"
         },
         {
-          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
-          "url": "https://flash.jin10.com/detail/20251028052428627800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
-          "url": "https://wallstreetcn.com/livenews/2994547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/2994543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周一（10月27日），南非富时/JSE非洲领先40可交易指数收跌1.70%，至10.15万点下方。",
@@ -628,6 +704,19 @@
           "time_info": "[03时15分 ~ 04时19分]"
         },
         {
+          "title": "金十图示：2025年10月27日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040612030800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
           "title": "英国拟取消股市做空者身份披露制度",
           "url": "https://flash.jin10.com/detail/20251028030924035800",
           "source": "金十数据",
@@ -653,16 +742,15 @@
           "time_info": "[01时17分 ~ 02时28分]"
         },
         {
-          "title": "金十图示：2025年10月27日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040612030800",
-          "source": "金十数据",
+          "title": "QFII三季度持股市值已超212亿元",
+          "url": "https://wallstreetcn.com/livenews/2994573",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "德国股指收涨将近0.3%，意大利银行板块涨2%，英国股市继续创收盘历史新高",
@@ -678,74 +766,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
-        },
-        {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
-          "url": "https://flash.jin10.com/detail/20251028033138017800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "马斯克如何评价中国可重复使用火箭",
-          "url": "https://www.toutiao.com/trending/7565856789887979054/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20251027233346891800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
@@ -807,12 +829,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
+          "url": "https://wallstreetcn.com/livenews/2994570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
     {
       "keyword_group": "中美",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美方称中美将就TikTok达成最终协议，外交部回应",
@@ -836,19 +869,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "中美磋商大交锋,硬气护益换共识",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346242&amp;topic_name=%E4%B8%AD%E7%BE%8E%E7%A3%8B%E5%95%86%E5%A4%A7%E4%BA%A4%E9%94%8B%2C%E7%A1%AC%E6%B0%94%E6%8A%A4%E7%9B%8A%E6%8D%A2%E5%85%B1%E8%AF%86",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "中美为何不学俄装备核动力导弹",
@@ -861,6 +895,85 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "中美关税谈判谈了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%A8%8E%E8%B0%88%E5%88%A4%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
+          "url": "https://www.cls.cn/detail/2182542",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
+          "url": "https://flash.jin10.com/detail/20251028033138017800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "马斯克如何评价中国可重复使用火箭",
+          "url": "https://www.toutiao.com/trending/7565856789887979054/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20251027233346891800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -878,8 +991,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "明年或将出最便宜iPhone",
@@ -888,11 +1001,12 @@
           "ranks": [
             19,
             23,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "据报道，美国法官驳回了针对苹果公司因iPhone应用程序反垄断市场控制而提起的集体诉讼。",
@@ -900,11 +1014,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
         },
         {
           "title": "报道：苹果因iPhone营销问题被法国罚款4800万欧元",
@@ -934,8 +1049,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
@@ -949,8 +1064,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
@@ -963,8 +1078,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
         }
       ]
     }
