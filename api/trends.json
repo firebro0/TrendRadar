@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T02:28:42.340165+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-10-28T03:15:20.635061+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "现货黄金、白银双双大跌",
@@ -29,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时15分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "打造黄金舰队,懂王和“金”杠上了",
@@ -51,8 +52,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -60,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "国内黄金饰品克价跌回1211元",
@@ -76,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘收盘下跌1.79%报917.9元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘收盘下跌2.3%报11122.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251028023058504800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "南非股指下跌大约1.7%，追随现货黄金+纽约期金一度双双跌穿4000美元的表现。",
@@ -117,27 +130,29 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
-          "url": "https://flash.jin10.com/detail/20251028015303563800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
+        },
+        {
+          "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
+          "url": "https://flash.jin10.com/detail/20251028015303563800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -148,8 +163,32 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时15分]"
+        },
+        {
+          "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
+          "url": "https://flash.jin10.com/detail/20251028013708523800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -162,28 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时28分]"
-        },
-        {
-          "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
-          "url": "https://flash.jin10.com/detail/20251028013708523800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2994482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         },
         {
           "title": "路孚特宣布与Anthropic开展合作，并称这是路孚特人工智能战略中的最大里程碑。",
@@ -232,19 +249,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
           "url": "https://www.douyin.com/hot/2285152",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "脑机接口公司Neuralink：很高兴宣布我们在英国的首位参与者。",
@@ -263,11 +281,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E7%BB%A7%E7%BB%AD%E6%89%93%E5%87%BB%E5%A2%83%E5%86%85%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E7%BB%8F%E8%90%A5%E7%82%92%E4%BD%9C",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
         }
       ]
     },
@@ -283,8 +302,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "美国财长称美方不再考虑对中国加征 100％的关税，如何评价？此举会为中美经贸关系带来多长的「休战期」？",
@@ -293,11 +312,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "中美磋商大交锋,硬气护益换共识",
@@ -307,8 +327,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "中美为何不学俄装备核动力导弹",
@@ -336,8 +356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -378,61 +398,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
+      "keyword_group": "沪深 股市",
       "match_count": 4,
       "titles": [
         {
-          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
-          "url": "https://flash.jin10.com/detail/20251028015838753800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/2994485",
+          "title": "英国将停止披露股市卖空者的身份。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994503",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "03时15分"
         },
-        {
-          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
-          "url": "https://flash.jin10.com/detail/20251028000607598800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
-          "url": "https://flash.jin10.com/detail/20251028000516556800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 3,
-      "titles": [
         {
           "title": "非洲股市收盘播报｜周一（10月27日），南非富时/JSE非洲领先40可交易指数收跌1.70%，至10.15万点下方。",
           "url": "https://wallstreetcn.com/livenews/2994455",
@@ -465,9 +444,63 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
+          "url": "https://flash.jin10.com/detail/20251028015838753800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/2994485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
+          "url": "https://flash.jin10.com/detail/20251028000607598800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
+          "url": "https://flash.jin10.com/detail/20251028000516556800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         }
       ]
     },
@@ -484,8 +517,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -496,8 +529,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%。",
@@ -522,11 +555,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "明年或将出最便宜iPhone",
@@ -538,8 +572,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "报道：苹果因iPhone营销问题被法国罚款4800万欧元",
@@ -568,8 +602,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
@@ -578,11 +612,12 @@
           "ranks": [
             9,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
@@ -595,8 +630,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 03时15分]"
         }
       ]
     }
