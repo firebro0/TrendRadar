@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T19:17:30.886711+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2025-10-27T20:41:24.887722+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 20时41分]"
         },
         {
           "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
@@ -61,11 +61,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 20时41分]"
         },
         {
           "title": "何立峰谈中美经贸磋商：成果来之不易",
@@ -141,6 +142,17 @@
           "time_info": "[00时21分 ~ 18时22分]"
         },
         {
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时41分]"
+        },
+        {
           "title": "中美吉隆坡磋商达成基本共识",
           "url": "https://news.ifeng.com/c/8nmig8GdjW1",
           "source": "凤凰网",
@@ -189,19 +201,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 19时17分]"
-        },
-        {
-          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
-          "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 20时41分]"
         },
         {
           "title": "李成钢：中美经贸团队就双方关注的经贸议题进行了深入、坦诚的讨论和交流",
@@ -258,6 +259,18 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "围绕多项重要经贸问题，双方进行“建设性的”探讨，中美吉隆坡磋商达成基本共识",
+          "url": "https://wallstreetcn.com/articles/3757934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 20时41分]"
+        },
+        {
           "title": "中美就多个议题形成初步共识",
           "url": "https://www.toutiao.com/trending/7564610674442260022/",
           "source": "今日头条",
@@ -284,17 +297,6 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "围绕多项重要经贸问题，双方进行“建设性的”探讨，中美吉隆坡磋商达成基本共识",
-          "url": "https://wallstreetcn.com/articles/3757934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 19时17分]"
-        },
-        {
           "title": "外媒称中美元首将在韩国举行会晤，外交部回应",
           "url": "https://www.cls.cn/detail/2181806",
           "source": "财联社热门",
@@ -303,8 +305,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时41分]"
         },
         {
           "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
@@ -417,8 +419,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时41分]"
+        },
+        {
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://www.cls.cn/detail/2181819",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时41分]"
         },
         {
           "title": "港媒：会谈后中美紧张局势有所缓和",
@@ -432,19 +447,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时29分 ~ 15时19分]"
-        },
-        {
-          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
-          "url": "https://www.cls.cn/detail/2181819",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时17分]"
         },
         {
           "title": "外交部：中美元首之间保持着密切的沟通与交往",
@@ -540,7 +542,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "真急眼了？美军要打造“黄金舰队”",
@@ -585,8 +587,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时15分 ~ 19时17分]"
+          "appearance_count": 20,
+          "time_info": "[01时15分 ~ 20时41分]"
         },
         {
           "title": "黄金开盘后突然跳水",
@@ -684,6 +686,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘盘初下跌1.51%报920.5元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘盘初下跌1.89%报11169.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251027200427283800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "菲律宾央行官员：现在是时候在黄金上获利了结。菲律宾央行应出售部分“过多”的黄金储备，因为随着避险需求减弱，金价预计将从创纪录高位进一步回落。",
           "url": "https://flash.jin10.com/detail/20251027174948964800",
           "source": "金十数据",
@@ -761,6 +774,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "现货黄金失守4020美元/盎司，日内跌幅2.26%。",
+          "url": "https://flash.jin10.com/detail/20251027193819949800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "沪市“中期红包”密集派发，真金白银回馈投资者",
           "url": "https://wallstreetcn.com/livenews/2993808",
           "source": "华尔街见闻-快讯",
@@ -786,7 +810,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -812,11 +836,12 @@
             16,
             24,
             9,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 20时41分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -921,7 +946,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -972,6 +997,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "为什么现在计算机所有专业的研究生基本都搞机器学习和深度学习，国内真的需要这么多会人工智能的人才吗？",
+          "url": "https://www.zhihu.com/question/553637124",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "王鹤棣帅成AI了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B8%85%E6%88%90AI%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E5%25B8%2585%25E6%2588%2590AI%25E4%25BA%2586%2523%26band_rank%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
           "source": "微博",
@@ -997,7 +1033,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金十图示：2025年10月27日（周一）沪深港通南向资金流向",
@@ -1068,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 13时20分]"
+        },
+        {
+          "title": "股市又站在4000点的门口",
+          "url": "https://www.toutiao.com/trending/7565863458227359273/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-27）",
@@ -1161,7 +1208,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -1172,8 +1219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时41分]"
         },
         {
           "title": "比特币突破113000美元/枚，日内涨1.22%。",
@@ -1200,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "潘功胜：央行将恢复公开市场国债买卖，持续打击虚拟货币炒作",
+          "url": "https://wallstreetcn.com/articles/3757974",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "比特币突破116000美元/枚，创10月10日以来新高，日内涨1.27%。",
@@ -1240,6 +1298,17 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "Strategy(MSTR.O)在10月20日至10月26日以总价4340万美元购买了390个比特币。",
+          "url": "https://flash.jin10.com/detail/20251027200126467800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "加密货币短线拉升，比特币短线涨幅一度扩大至约2000美元，现报115011美元/枚。",
           "url": "https://flash.jin10.com/detail/20251027060518967800",
           "source": "金十数据",
@@ -1249,101 +1318,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 16时27分]"
         },
         {
-          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
-          "url": "https://flash.jin10.com/detail/20251027190236928800",
-          "source": "金十数据",
+          "title": "央行：继续打击境内虚拟货币经营炒作",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E7%BB%A7%E7%BB%AD%E6%89%93%E5%87%BB%E5%A2%83%E5%86%85%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E7%BB%8F%E8%90%A5%E7%82%92%E4%BD%9C",
+          "source": "百度热搜",
           "ranks": [
-            1
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时17分]"
-        },
-        {
-          "title": "凯登斯银行美股盘前上涨3.2%。",
-          "url": "https://flash.jin10.com/detail/20251027185322298800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时41分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "瑞士制药公司诺华（Novartis）接近以每股70美元以上的价格收购美国生物技术公司Avidity Biosciences，协议最早将在周日宣布。（彭博）",
@@ -1404,6 +1395,28 @@
           "time_info": "18时22分"
         },
         {
+          "title": "iPhone 18发布或推迟",
+          "url": "https://www.douyin.com/hot/2284876",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "明年或将出最便宜iPhone",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E6%88%96%E5%B0%86%E5%87%BA%E6%9C%80%E4%BE%BF%E5%AE%9CiPhone",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "iPhone芯片全家桶深度解析",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E8%8A%AF%E7%89%87%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -1417,76 +1430,97 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 5,
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 7,
       "titles": [
         {
-          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
-          "url": "https://www.zhihu.com/question/1965388455073777331",
-          "source": "知乎",
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            3
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时27分]"
         },
         {
-          "title": "买车送惊喜,小米宠粉有一手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
-          "source": "贴吧",
+          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
+          "url": "https://flash.jin10.com/detail/20251027190236928800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
-          "url": "https://www.cls.cn/detail/2181633",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时17分]"
-        },
-        {
-          "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
-          "url": "https://www.zhihu.com/question/1965097544062296892",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时17分]"
-        },
-        {
-          "title": "小鹏汽车新进入欧亚四国市场",
-          "url": "https://wallstreetcn.com/livenews/2993881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "19时17分"
+        },
+        {
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
+          "url": "https://wallstreetcn.com/livenews/2993801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时41分]"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时23分]"
+        },
+        {
+          "title": "凯登斯银行美股盘前上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20251027185322298800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -1502,6 +1536,28 @@
           "time_info": "[00时21分 ~ 13时20分]"
         },
         {
+          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251027203231598800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2994338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
           "url": "https://flash.jin10.com/detail/20251027141650104800",
           "source": "金十数据",
@@ -1512,6 +1568,109 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时19分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "据CNBC：特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉(TSLA.O)可能面临失去首席执行官马斯克的风险。",
+          "url": "https://flash.jin10.com/detail/20251027201010562800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
+          "url": "https://www.zhihu.com/question/1965388455073777331",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 20时41分]"
+        },
+        {
+          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
+          "url": "https://www.cls.cn/detail/2181633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时41分]"
+        },
+        {
+          "title": "买车送惊喜,小米宠粉有一手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
+          "url": "https://www.zhihu.com/question/1965097544062296892",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时41分]"
+        },
+        {
+          "title": "小鹏汽车新进入欧亚四国市场",
+          "url": "https://wallstreetcn.com/livenews/2993881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "长安汽车：与京东联合开发新能源无人智能车型",
+          "url": "https://wallstreetcn.com/livenews/2994306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -1576,7 +1735,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
