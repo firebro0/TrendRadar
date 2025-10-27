@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:19:32.957195+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-10-27T16:27:14.793853+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中美",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "李成钢：中美双方就此进行了建设性的探讨，美方表达立场是强硬的，中方维护利益是坚定的",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "中美吉隆坡经贸磋商：就解决各自关切的安排达成基本共识",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "中美在马来西亚吉隆坡举行经贸磋商",
@@ -91,6 +91,30 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
+          "title": "美国财长称美方不再考虑对中国加征 100％的关税，如何评价？此举会为中美经贸关系带来多长的「休战期」？",
+          "url": "https://www.zhihu.com/question/1966050264432731382",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 16时27分]"
+        },
+        {
+          "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31840048",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 16时27分]"
+        },
+        {
           "title": "中美双方就关税等多个议题形成了初步共识，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965831118151444171",
           "source": "知乎",
@@ -113,8 +137,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "中美就多项议题形成初步共识",
@@ -127,11 +151,12 @@
             8,
             15,
             17,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "中美吉隆坡磋商达成基本共识",
@@ -139,30 +164,6 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时19分]"
-        },
-        {
-          "title": "美国财长称美方不再考虑对中国加征 100％的关税，如何评价？此举会为中美经贸关系带来多长的「休战期」？",
-          "url": "https://www.zhihu.com/question/1966050264432731382",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时19分]"
-        },
-        {
-          "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31840048",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
@@ -181,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "李成钢 中美进行深入坦诚交流",
@@ -194,8 +195,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "中美就多个议题形成初步共识",
@@ -208,8 +209,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时27分]"
         },
         {
           "title": "人民日报钟声：共同维护好来之不易的中美经贸磋商成果",
@@ -248,6 +249,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "中美磋商大交锋,硬气护益换共识",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346242&amp;topic_name=%E4%B8%AD%E7%BE%8E%E7%A3%8B%E5%95%86%E5%A4%A7%E4%BA%A4%E9%94%8B%2C%E7%A1%AC%E6%B0%94%E6%8A%A4%E7%9B%8A%E6%8D%A2%E5%85%B1%E8%AF%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9,
+            11,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 16时27分]"
+        },
+        {
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://news.ifeng.com/c/8nnJWZJAi7g",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
@@ -326,22 +355,6 @@
           "time_info": "[09时40分 ~ 11时19分]"
         },
         {
-          "title": "中美磋商大交锋,硬气护益换共识",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346242&amp;topic_name=%E4%B8%AD%E7%BE%8E%E7%A3%8B%E5%95%86%E5%A4%A7%E4%BA%A4%E9%94%8B%2C%E7%A1%AC%E6%B0%94%E6%8A%A4%E7%9B%8A%E6%8D%A2%E5%85%B1%E8%AF%86",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时19分]"
-        },
-        {
           "title": "中美经贸磋商两天共举行约10小时会谈",
           "url": "https://www.toutiao.com/trending/7565391375085404203/",
           "source": "今日头条",
@@ -351,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "围绕多项重要经贸问题，双方进行“建设性的”探讨，中美吉隆坡磋商达成基本共识",
+          "url": "https://wallstreetcn.com/articles/3757934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 16时27分]"
         },
         {
           "title": "港媒：会谈后中美紧张局势有所缓和",
@@ -366,17 +390,6 @@
           "time_info": "[12时29分 ~ 15时19分]"
         },
         {
-          "title": "围绕多项重要经贸问题，双方进行“建设性的”探讨，中美吉隆坡磋商达成基本共识",
-          "url": "https://wallstreetcn.com/articles/3757934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 15时19分]"
-        },
-        {
           "title": "中美经贸磋商如何影响股市",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%82%A1%E5%B8%82",
           "source": "bilibili 热搜",
@@ -389,6 +402,17 @@
           "time_info": "[09时40分 ~ 11时19分]"
         },
         {
+          "title": "中方回应中美经贸磋商",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "中美关税谈判谈了什么",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%A8%8E%E8%B0%88%E5%88%A4%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -399,6 +423,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时19分]"
+        },
+        {
+          "title": "外交部回应中美经贸磋商",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E4%25B8%25AD%25E7%25BE%258E%25E7%25BB%258F%25E8%25B4%25B8%25E7%25A3%258B%25E5%2595%2586%2523%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D25%26pos%3D26%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D25%26dgr%3D0%26display_time%3D1761553426%26pre_seqid%3D17615534262670284980857",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "外交部：中美元首之间保持着密切的沟通与交往",
+          "url": "https://wallstreetcn.com/livenews/2994099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美方称中美将就TikTok达成最终协议，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2994097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "外媒称中美元首将在韩国举行会晤，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2994094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "外交部回应中美经贸磋商",
+          "url": "https://wallstreetcn.com/livenews/2994090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "环球时报社评：世界期待听到来自中美的更多好消息",
@@ -415,8 +494,20 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "真急眼了？美军要打造“黄金舰队”",
+          "url": "https://news.ifeng.com/c/8nmpQw0lr1v",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 16时27分]"
+        },
         {
           "title": "“人人都预期”的黄金崩盘发生了，现在人人都等着抄底？",
           "url": "https://wallstreetcn.com/articles/3757916",
@@ -431,18 +522,6 @@
           "time_info": "[00时21分 ~ 11时19分]"
         },
         {
-          "title": "真急眼了？美军要打造“黄金舰队”",
-          "url": "https://news.ifeng.com/c/8nmpQw0lr1v",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 15时19分]"
-        },
-        {
           "title": "打造黄金舰队,懂王和“金”杠上了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346238&amp;topic_name=%E6%89%93%E9%80%A0%E9%BB%84%E9%87%91%E8%88%B0%E9%98%9F%2C%E6%87%82%E7%8E%8B%E5%92%8C%E2%80%9C%E9%87%91%E2%80%9D%E6%9D%A0%E4%B8%8A%E4%BA%86",
           "source": "贴吧",
@@ -453,11 +532,12 @@
             17,
             19,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时15分 ~ 15时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时15分 ~ 16时27分]"
         },
         {
           "title": "黄金开盘后突然跳水",
@@ -566,6 +646,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "白银市场流动性不足局面缓解 租赁利率大幅回落",
+          "url": "https://wallstreetcn.com/livenews/2994088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
           "url": "https://www.toutiao.com/trending/7565700779416227391/",
           "source": "今日头条",
@@ -613,7 +704,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -682,13 +773,26 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时27分]"
+        },
+        {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
           "url": "https://flash.jin10.com/detail/20251027145436636800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -726,19 +830,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时19分]"
-        },
-        {
           "title": "报告：2025年上半年，百度智能云市场份额位居中国AI云市场第二",
           "url": "https://wallstreetcn.com/livenews/2994000",
           "source": "华尔街见闻-快讯",
@@ -761,6 +852,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 13时20分]"
+        },
+        {
+          "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
+          "url": "https://www.cls.cn/detail/2181052",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
@@ -788,18 +890,29 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
-          "title": "上证指数收报3996.94点，涨1.18%。 深证成指收报13489.40点，涨1.51%。 创业板指收报3234.45点，涨1.98%。 沪深300收报4716.02点，涨1.19%。 科创50收报1484.21点，涨1.50%。 中证500收报7379.39点，涨1.67%。 中证1000收报7495.38点，涨1.03%。",
-          "url": "https://wallstreetcn.com/livenews/2994071",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年10月27日（周一）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251027161541748800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20251027161358056800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "16时27分"
         },
         {
           "title": "沪深京三市成交额超2万亿元，较上日此时放量3593亿元。",
@@ -812,6 +925,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时19分]"
+        },
+        {
+          "title": "上证指数收报3996.94点，涨1.18%。 深证成指收报13489.40点，涨1.51%。 创业板指收报3234.45点，涨1.98%。 沪深300收报4716.02点，涨1.19%。 科创50收报1484.21点，涨1.50%。 中证500收报7379.39点，涨1.67%。 中证1000收报7495.38点，涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/2994071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时27分]"
         },
         {
           "title": "印尼基准股市日内跌2%。",
@@ -866,7 +991,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -893,6 +1018,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "印尼股市大跌 MSCI可能重新调整股票权重引发担忧",
+          "url": "https://wallstreetcn.com/livenews/2994082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "A股、港股市场全线爆发",
           "url": "https://www.toutiao.com/trending/7564645627653799955/",
           "source": "今日头条",
@@ -902,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "沪深两市今日成交额合计23401.32亿元",
+          "url": "https://wallstreetcn.com/livenews/2994076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -942,7 +1089,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1004,17 +1151,6 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "商品期货收盘，红枣、原木主力合约跌超5%，集运欧线跌超2%，BR橡胶、沪金、玉米跌超1%。多晶硅涨超3%，鸡蛋、碳酸锂涨超2%，国际铜、铁矿石、沪铜、生猪、螺纹钢、热卷、苹果、纯碱、燃料油、沪锡涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2994070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "据悉苹果地图正计划引入广告",
           "url": "https://flash.jin10.com/detail/20251027124547447800",
           "source": "金十数据",
@@ -1024,6 +1160,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "商品期货收盘，红枣、原木主力合约跌超5%，集运欧线跌超2%，BR橡胶、沪金、玉米跌超1%。多晶硅涨超3%，鸡蛋、碳酸锂涨超2%，国际铜、铁矿石、沪铜、生猪、螺纹钢、热卷、苹果、纯碱、燃料油、沪锡涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2994070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时27分]"
         },
         {
           "title": "经济日报：苹果市值新高离不开中国市场热销",
@@ -1050,61 +1198,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "买车送惊喜,小米宠粉有一手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
-          "url": "https://www.zhihu.com/question/1965388455073777331",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时19分]"
-        },
-        {
-          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
-          "url": "https://www.cls.cn/detail/2181633",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "小鹏汽车新进入欧亚四国市场",
-          "url": "https://wallstreetcn.com/livenews/2993881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1116,8 +1211,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时27分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -1142,6 +1237,71 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
+          "url": "https://www.zhihu.com/question/1965388455073777331",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时27分]"
+        },
+        {
+          "title": "买车送惊喜,小米宠粉有一手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
+          "url": "https://www.cls.cn/detail/2181633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时27分]"
+        },
+        {
+          "title": "小鹏汽车新进入欧亚四国市场",
+          "url": "https://wallstreetcn.com/livenews/2993881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     },
