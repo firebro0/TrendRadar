@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T06:18:51.438178+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-10-29T07:18:02.679001+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -37,11 +37,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -64,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
-          "url": "https://wallstreetcn.com/livenews/2995394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
@@ -108,6 +98,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 07时18分]"
         },
         {
           "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
@@ -165,6 +168,18 @@
           "time_info": "02时30分"
         },
         {
+          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
+          "url": "https://wallstreetcn.com/livenews/2995394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
           "url": "https://wallstreetcn.com/livenews/2995333",
           "source": "华尔街见闻-快讯",
@@ -187,18 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时30分]"
-        },
-        {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -234,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "SK海力士利润创纪录，AI繁荣提振芯片需求，准备供应HBM4",
+          "url": "https://wallstreetcn.com/livenews/2995404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
@@ -568,8 +582,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -577,11 +591,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -590,11 +605,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[03时15分 ~ 07时18分]"
+        },
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -615,11 +643,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时18分]"
         },
         {
           "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
@@ -632,6 +661,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/2995384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
@@ -703,17 +744,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251029005055544800",
           "source": "金十数据",
@@ -723,17 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "标普500指数涨幅重新扩大至超过0.2%。",
@@ -827,7 +846,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
@@ -837,8 +856,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "黄金史诗级暴跌后还会涨吗",
@@ -850,8 +869,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -862,8 +881,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "那些买黄金被套路的故事",
@@ -879,22 +898,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "山姆黄金蟹被指侵权 多方回应",
-          "url": "https://www.douyin.com/hot/2286045",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "炒黄金期货赚14亿辞职？当事人否认",
@@ -905,22 +910,50 @@
             9,
             7,
             10,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
-          "title": "现货黄金上触3960美元/盎司，日内涨0.20%。",
-          "url": "https://flash.jin10.com/detail/20251029060255777800",
+          "title": "山姆黄金蟹被指侵权 多方回应",
+          "url": "https://www.douyin.com/hot/2286045",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1038.92吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20251029065017625800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时18分"
+        },
+        {
+          "title": "现货黄金上触3960美元/盎司，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20251029060255777800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "山姆“黄金大闸蟹”系水贝供货",
@@ -971,6 +1004,28 @@
           "time_info": "[01时18分 ~ 06时18分]"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少131.22吨，当前持仓量为15209.57吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20251029062409413800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "现货黄金短线跳水40美元，一度向下触及3920美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251029060847792800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月28日（周二）晚盘收盘下跌0.75%报903.49元/克；<br/>上海黄金交易所白银T+D 10月28日（周二）晚盘收盘上涨0.69%报11146.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251029023019196800",
           "source": "金十数据",
@@ -993,11 +1048,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时18分]"
         },
         {
           "title": "以太坊跌破4000美元/枚，日内跌2.97%。",
@@ -1070,7 +1126,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉(TSLA.O)董事长罗宾·丹霍尔姆：如果监管机构有要求，CyberCab将重新设计并加装方向盘与踏板。",
@@ -1097,6 +1153,18 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
+          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
+          "url": "https://wallstreetcn.com/livenews/2995385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "特斯拉为Model 2准备备选方案：保留方向盘应对监管",
           "url": "https://flash.jin10.com/detail/20251029033207602800",
           "source": "金十数据",
@@ -1121,15 +1189,15 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
-          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
-          "url": "https://wallstreetcn.com/livenews/2995385",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
+          "url": "https://www.cls.cn/detail/2184079",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
@@ -1212,20 +1280,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "小米自研自产家电你会买吗",
-          "url": "https://www.toutiao.com/trending/7566103520548225065/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
           "title": "新能源“烂尾车”困扰百万车主",
           "url": "https://www.toutiao.com/trending/7566108709256957483/",
           "source": "今日头条",
@@ -1238,8 +1292,22 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "小米自研自产家电你会买吗",
+          "url": "https://www.toutiao.com/trending/7566103520548225065/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "有多少人被新能源车甩晕在通勤路上",
@@ -1247,11 +1315,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            30
+            30,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "小米汽车送6万配置是诚意还是营销",
@@ -1315,11 +1384,12 @@
           "source": "微博",
           "ranks": [
             29,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 07时18分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -1338,11 +1408,12 @@
           "url": "https://flash.jin10.com/detail/20251029050455312800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         }
       ]
     },
