@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T02:30:09.809862+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2025-10-29T03:16:00.569386+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -39,8 +39,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -49,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -60,9 +71,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
+          "url": "https://wallstreetcn.com/livenews/2995333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
@@ -82,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -104,7 +126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -126,20 +148,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
@@ -165,6 +176,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
+          "url": "https://flash.jin10.com/detail/20251029024236289800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
           "url": "https://wallstreetcn.com/livenews/2995232",
           "source": "华尔街见闻-快讯",
@@ -187,6 +209,39 @@
           "time_info": "01时18分"
         },
         {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
+          "url": "https://flash.jin10.com/detail/20251029024018931800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
+          "url": "https://flash.jin10.com/detail/20251029023925864800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)：扩大与英伟达(NVDA.O)的合作，并加强合规性、数据完整性以及面向政府应用优化的人工智能基础设施解决方案的美国本土制造质量。",
+          "url": "https://flash.jin10.com/detail/20251029023907703800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：与美国能源部构建AI超算合作伙伴关系。 将帮助打造七台超算。",
           "url": "https://wallstreetcn.com/livenews/2995262",
           "source": "华尔街见闻-快讯",
@@ -204,9 +259,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "微软(MSFT.O)和英伟达(NVDA.O)在GTC大会上宣布人工智能领域的最新进展，微软表示将率先在Azure云平台上提供英伟达RTX Pro 6000 Blackwell服务器版GPU。",
+          "url": "https://flash.jin10.com/detail/20251029023844070800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
@@ -215,9 +281,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
+          "url": "https://wallstreetcn.com/livenews/2995318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
@@ -248,9 +325,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "礼来制药与英伟达合作，将针对药品发现与研发打造AI超算、AI工厂。",
+          "url": "https://wallstreetcn.com/livenews/2995315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
@@ -270,7 +358,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -281,7 +369,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -292,7 +380,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -336,7 +424,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -383,12 +471,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2995307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
@@ -398,8 +497,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "黄金史诗级暴跌后还会涨吗",
@@ -410,8 +509,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -421,8 +520,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "炒黄金期货赚14亿辞职？当事人否认",
@@ -434,8 +533,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "山姆黄金蟹被指侵权 多方回应",
@@ -447,8 +546,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "那些买黄金被套路的故事",
@@ -461,8 +560,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "山姆“黄金大闸蟹”系水贝供货",
@@ -475,6 +574,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "哥伦比亚政府计划直接从小型生产商购买黄金，从而控制非法交易活动。",
+          "url": "https://wallstreetcn.com/livenews/2995317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月28日（周二）晚盘收盘下跌0.75%报903.49元/克；<br/>上海黄金交易所白银T+D 10月28日（周二）晚盘收盘上涨0.69%报11146.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251029023019196800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "黄金下跌要持续多久",
@@ -491,7 +612,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -501,8 +622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -513,8 +634,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 03时16分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
@@ -559,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "标普500指数突破6900点，日内当前涨幅0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2995325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -573,7 +716,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -625,7 +768,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "宇树机器人拖动1.4吨汽车",
@@ -647,7 +790,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -658,7 +801,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         },
@@ -669,9 +812,70 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "强生(JNJ.N)将借助英伟达(NVDA.O) Isaa平台推进医疗机器人开发。",
+          "url": "https://flash.jin10.com/detail/20251029023311843800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)董事长罗宾·丹霍尔姆：如果监管机构有要求，CyberCab将重新设计并加装方向盘与踏板。",
+          "url": "https://flash.jin10.com/detail/20251029025036471800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美媒：特斯拉物色内部CEO继任者 以应对马斯克离职的可能性",
+          "url": "https://flash.jin10.com/detail/20251029024823119800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "特斯拉董事会主席Robyn Denholm：如果监管要求，公司将重新设计Cybercab。 如果监管要求，特斯拉将增配方向盘。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2995321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
+          "url": "https://wallstreetcn.com/livenews/2995225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -685,11 +889,25 @@
           "source": "今日头条",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "新能源“烂尾车”困扰百万车主",
+          "url": "https://www.toutiao.com/trending/7566108709256957483/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "有多少人被新能源车甩晕在通勤路上",
@@ -698,18 +916,6 @@
           "ranks": [
             25,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
-        },
-        {
-          "title": "新能源“烂尾车”困扰百万车主",
-          "url": "https://www.toutiao.com/trending/7566108709256957483/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -768,23 +974,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
-          "url": "https://wallstreetcn.com/livenews/2995225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 1,
       "titles": [
@@ -793,11 +982,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%9C%8B%E6%AA%80%E5%81%A5%E6%AC%A1%E8%AF%B7%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26q%3D%25E7%259C%258B%25E6%25AA%2580%25E5%2581%25A5%25E6%25AC%25A1%25E8%25AF%25B7%25E4%25BF%259D%25E6%258C%2581%25E8%258B%25B9%25E6%259E%259C%25E8%2582%258C%25E6%2589%2581%25E5%25B9%25B3%26cate%3D5001%26dgr%3D0%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D0%26band_rank%3D29%26filter_type%3Drealtimehot%26realpos%3D29%26display_time%3D1761675605%26pre_seqid%3D1761675605046012589227",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 03时16分]"
         }
       ]
     },
