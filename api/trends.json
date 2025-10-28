@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-28T22:20:16.692735+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2025-10-28T23:21:59.171488+08:00",
+  "total_titles_processed": 2135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
+          "url": "https://news.ifeng.com/c/8nomig16j0E",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时26分 ~ 23时21分]"
+        },
         {
           "title": "黄金跌破4000美元",
           "url": "https://www.douyin.com/hot/2285336",
@@ -25,18 +37,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时25分 ~ 19时16分]"
-        },
-        {
-          "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
-          "url": "https://news.ifeng.com/c/8nomig16j0E",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 22时20分]"
         },
         {
           "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
@@ -62,6 +62,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时25分 ~ 09时23分]"
+        },
+        {
+          "title": "那些买黄金被套路的故事",
+          "url": "https://www.douyin.com/hot/2285261",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25,
+            8,
+            19,
+            10,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 23时21分]"
         },
         {
           "title": "黄金",
@@ -91,33 +108,6 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
-          "title": "山姆“黄金大闸蟹”系水贝供货",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E2%80%9D%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时20分]"
-        },
-        {
-          "title": "那些买黄金被套路的故事",
-          "url": "https://www.douyin.com/hot/2285261",
-          "source": "抖音",
-          "ranks": [
-            30,
-            25,
-            8,
-            19,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 22时20分]"
-        },
-        {
           "title": "黄金史诗级暴跌后还会涨吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E6%B6%A8%E5%90%97",
           "source": "bilibili 热搜",
@@ -127,8 +117,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 23时21分]"
         },
         {
           "title": "现货黄金、白银双双大跌",
@@ -143,6 +133,18 @@
           "time_info": "[01时16分 ~ 04时19分]"
         },
         {
+          "title": "山姆“黄金大闸蟹”系水贝供货",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E2%80%9D%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 23时21分]"
+        },
+        {
           "title": "山姆一门店黄金大闸蟹涉嫌侵权",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E5%A7%86%E4%B8%80%E9%97%A8%E5%BA%97%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26pos%3D4%26q%3D%2523%25E5%25B1%25B1%25E5%25A7%2586%25E4%25B8%2580%25E9%2597%25A8%25E5%25BA%2597%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25A7%25E9%2597%25B8%25E8%259F%25B9%25E6%25B6%2589%25E5%25AB%258C%25E4%25BE%25B5%25E6%259D%2583%2523%26dgr%3D0%26c_type%3D31%26band_rank%3D5%26cate%3D5001%26realpos%3D5%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26display_time%3D1761632905%26pre_seqid%3D176163290520902770160103",
           "source": "微博",
@@ -154,6 +156,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时30分 ~ 16时26分]"
+        },
+        {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 23时21分]"
         },
         {
           "title": "黄金失守4000美元大关",
@@ -203,6 +218,19 @@
           "time_info": "16时26分"
         },
         {
+          "title": "山姆黄金蟹被指侵权 多方回应",
+          "url": "https://www.douyin.com/hot/2286045",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 23时21分]"
+        },
+        {
           "title": "现货黄金短线拉升，站上4010美元/盎司，日内涨0.73%。",
           "url": "https://flash.jin10.com/detail/20251028090123010800",
           "source": "金十数据",
@@ -223,19 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        },
-        {
-          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
-          "url": "https://wallstreetcn.com/articles/3758026",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
@@ -274,18 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时22分]"
-        },
-        {
-          "title": "山姆黄金蟹被指侵权 多方回应",
-          "url": "https://www.douyin.com/hot/2286045",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）白银ETF持仓报告",
@@ -552,6 +555,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "炒黄金期货赚14亿辞职？当事人否认",
+          "url": "https://www.baidu.com/s?wd=%E7%82%92%E9%BB%84%E9%87%91%E6%9C%9F%E8%B4%A7%E8%B5%9A14%E4%BA%BF%E8%BE%9E%E8%81%8C%EF%BC%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%A6%E8%AE%A4",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
           "url": "https://flash.jin10.com/detail/20251028175512834800",
           "source": "金十数据",
@@ -572,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
+          "url": "https://wallstreetcn.com/livenews/2995204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "现货黄金回落至3930美元/盎司下方，日内跌1.28%。",
@@ -731,7 +756,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -743,8 +768,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时23分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时23分 ~ 23时21分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -756,8 +781,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时23分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时23分 ~ 23时21分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -776,6 +801,19 @@
           "time_info": "[00时25分 ~ 09时23分]"
         },
         {
+          "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
+          "url": "https://wallstreetcn.com/articles/3758062",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 23时21分]"
+        },
+        {
           "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
           "url": "https://www.zhihu.com/question/1959993472921633455",
           "source": "知乎",
@@ -788,18 +826,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时23分 ~ 15时19分]"
-        },
-        {
-          "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
-          "url": "https://wallstreetcn.com/articles/3758062",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时20分]"
         },
         {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
@@ -875,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
+          "url": "https://wallstreetcn.com/livenews/2995218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -974,6 +1011,18 @@
           "time_info": "[20时39分 ~ 21时30分]"
         },
         {
+          "title": "黑石与沙特AI公司Humain签署30亿美元数据中心协议",
+          "url": "https://wallstreetcn.com/livenews/2995198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
+        },
+        {
           "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
           "url": "https://wallstreetcn.com/livenews/2994809",
           "source": "华尔街见闻-快讯",
@@ -1022,17 +1071,6 @@
           "time_info": "[01时17分 ~ 02时28分]"
         },
         {
-          "title": "黑石与沙特AI公司Humain签署30亿美元数据中心协议",
-          "url": "https://wallstreetcn.com/livenews/2995198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
           "url": "https://flash.jin10.com/detail/20251028123906600800",
           "source": "金十数据",
@@ -1044,6 +1082,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
+          "url": "https://wallstreetcn.com/livenews/2995215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "沙特人工智能公司Humain首席执行官：沙特将设立一项基础设施基金，并将有一家大型企业集团参与其中，而Humain公司本身不会单独为数据中心提供资金。",
           "url": "https://flash.jin10.com/detail/20251028190712271800",
           "source": "金十数据",
@@ -1053,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "OpenAI CEO：将直播讨论新企业结构及其他重要内容",
+          "url": "https://flash.jin10.com/detail/20251028224945145800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "“十五五”规划建议全文：加强原始创新和关键核心技术攻关、全面实施“人工智能+”行动、大力提振消费",
@@ -1110,13 +1170,24 @@
           "time_info": "19时16分"
         },
         {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股的计划。",
+          "url": "https://flash.jin10.com/detail/20251028224651919800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "医疗健康公司IQVIA：计划到2027年初开发500个高度专业化的人工智能代理，以消除为客户执行任务中的体力劳动。",
           "url": "https://flash.jin10.com/detail/20251028215653769800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1141,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "阿波罗联席总裁克莱曼：人工智能取代劳动力是“最重要的问题”。",
+          "url": "https://flash.jin10.com/detail/20251028224138369800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
@@ -1218,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "AI 会让编程初学者更快入门，还是更快迷失？",
+          "url": "https://www.zhihu.com/question/1962181838035444178",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "道富银行首席执行官：所有的人工智能投资都流向了硬件，但真正的价值将体现在应用领域。",
@@ -1303,7 +1396,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1352,6 +1445,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
+          "url": "https://flash.jin10.com/detail/20251028222603957800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "中信建投：AI+IP助力高增长，漫剧高潜力赛道爆发",
           "url": "https://wallstreetcn.com/livenews/2994600",
           "source": "华尔街见闻-快讯",
@@ -1378,8 +1482,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时23分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时23分 ~ 23时21分]"
         },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1547,6 +1651,18 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "美股收盘：三大指数齐刷历史新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1595,17 +1711,6 @@
           "time_info": "[01时17分 ~ 02时28分]"
         },
         {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
           "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
           "url": "https://flash.jin10.com/detail/20251028040154573800",
           "source": "金十数据",
@@ -1628,6 +1733,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/2995188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.59%，报8494.48点。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，中国科技指数ETF（CQQQ）收涨2.46%，中概互联网指数ETF（KWEB）收涨1.92%。 XtrackersHarvest中证50（ASHS）收涨1.71%，中国ETF-iShares MSCI（MCHI）收涨1.67%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。 富时中国3倍做多ETF（YINN）收涨3.82%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.31%。",
@@ -1687,17 +1804,6 @@
           "time_info": "18时21分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/2995188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "沙特人工智能公司Humain首席执行官：我们希望它不仅能在沙特上市，也能在纳斯达克上市。",
           "url": "https://flash.jin10.com/detail/20251028190015887800",
           "source": "金十数据",
@@ -1715,7 +1821,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1726,7 +1832,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1770,7 +1876,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1781,7 +1887,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -1789,7 +1895,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "沪指时隔十年再度站上 4000 点，受哪些因素驱动？如何看待当下 A 股市场行情？",
@@ -1956,7 +2062,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1981,6 +2087,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "在美上市泰国股市指数ETF跌0.16%，美国和泰国重申承诺避免操纵汇率。",
+          "url": "https://wallstreetcn.com/livenews/2995207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-10-28）",
@@ -2074,11 +2191,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[16时26分 ~ 23时21分]"
         },
         {
           "title": "雷军带队，小米汽车成立架构部，探索电车终局",
@@ -2116,6 +2234,18 @@
           "time_info": "[11时07分 ~ 12时22分]"
         },
         {
+          "title": "小米汽车送6万配置是诚意还是营销",
+          "url": "https://www.toutiao.com/trending/7565375544600412202/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "中国新能源车以创新引领全球产业",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BB%A5%E5%88%9B%E6%96%B0%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D30%26stream_entry_id%3D31%26realpos%3D30%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E6%2596%25B0%25E8%2583%25BD%25E6%25BA%2590%25E8%25BD%25A6%25E4%25BB%25A5%25E5%2588%259B%25E6%2596%25B0%25E5%25BC%2595%25E9%25A2%2586%25E5%2585%25A8%25E7%2590%2583%25E4%25BA%25A7%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D30%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
           "source": "微博",
@@ -2138,17 +2268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "小米汽车送6万配置是诚意还是营销",
-          "url": "https://www.toutiao.com/trending/7565375544600412202/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "小米高层调整：中国区总裁王晓雁不再兼任小米之家总经理，陈恺接任",
@@ -2415,7 +2534,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2426,7 +2545,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2445,7 +2564,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "潘功胜：央行将恢复公开市场国债买卖，持续打击虚拟货币炒作",
@@ -2550,6 +2669,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
@@ -2735,8 +2865,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "宇树机器人拖动1.4吨汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
         {
           "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
           "url": "https://wallstreetcn.com/livenews/2994817",
