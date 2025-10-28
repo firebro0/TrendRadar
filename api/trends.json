@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-29T00:26:38.397205+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-29T01:18:39.031197+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 22,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
           "url": "https://wallstreetcn.com/articles/3758062",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -26,8 +27,53 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20251029005944952800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
+          "url": "https://flash.jin10.com/detail/20251029005937265800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：正在与甲骨文(ORCL.N)和美国能源部合作，打造美国能源部用于科学发现的规模最大人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20251029005905040800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -37,19 +83,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
+          "title": "英伟达(NVDA.O)：位于弗吉尼亚州的AI工厂研究中心将部署首套Vera Rubin基础设施，并为英伟达Omniverse DSX奠定基础。",
+          "url": "https://flash.jin10.com/detail/20251029005834402800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
+          "url": "https://wallstreetcn.com/livenews/2995268",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时18分"
         },
         {
           "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
@@ -61,6 +118,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "英伟达(NVDA.O)将与三星、现代公司达成AI合作。",
+          "url": "https://flash.jin10.com/detail/20251029005148492800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与美国能源部构建AI超算合作伙伴关系。 将帮助打造七台超算。",
+          "url": "https://wallstreetcn.com/livenews/2995262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
+          "url": "https://wallstreetcn.com/livenews/2995260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达与诺基亚建立战略合作伙伴关系 共创6G人工智能平台",
+          "url": "https://flash.jin10.com/detail/20251029004540998800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         },
         {
           "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
@@ -85,6 +186,28 @@
           "time_info": "00时26分"
         },
         {
+          "title": "英伟达(NVDA.O)：美国能源部将与英伟达合作，建造七台新型人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20251029003945051800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我将讨论人工智能（AI）、6G、量子计算、机器人技术。",
+          "url": "https://wallstreetcn.com/livenews/2995253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
           "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
           "url": "https://wallstreetcn.com/livenews/2995215",
           "source": "华尔街见闻-快讯",
@@ -96,6 +219,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)和诺基亚(NOK.N)将合作开发面向6G的人工智能平台。",
+          "url": "https://flash.jin10.com/detail/20251029003611201800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
           "title": "诺基亚(NOK.N)：此次投资是其在人工智能无线接入网（AI-RAN）战略合作及数据中心网络演进基础上的补充。",
           "url": "https://flash.jin10.com/detail/20251028233408115800",
           "source": "金十数据",
@@ -105,24 +239,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋在GTC活动上发表讲话，称将讨论AI、6G、量子、机器人。",
+          "url": "https://flash.jin10.com/detail/20251029002918771800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "黄金史诗级暴跌后还会涨吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E6%B6%A8%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
         {
           "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
           "url": "https://news.ifeng.com/c/8nomig16j0E",
@@ -131,8 +265,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "黄金史诗级暴跌后还会涨吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E6%B6%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -142,48 +288,186 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "山姆黄金蟹被指侵权 多方回应",
           "url": "https://www.douyin.com/hot/2286045",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "山姆“黄金大闸蟹”系水贝供货",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E2%80%9D%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "炒黄金期货赚14亿辞职？当事人否认",
           "url": "https://www.baidu.com/s?wd=%E7%82%92%E9%BB%84%E9%87%91%E6%9C%9F%E8%B4%A7%E8%B5%9A14%E4%BA%BF%E8%BE%9E%E8%81%8C%EF%BC%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%A6%E8%AE%A4",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "那些买黄金被套路的故事",
           "url": "https://www.douyin.com/hot/2285261",
           "source": "抖音",
           "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "黄金下跌要持续多久",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91%E4%B8%8B%E8%B7%8C%E8%A6%81%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D30%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D31%26q%3D%25E9%25BB%2584%25E9%2587%2591%25E4%25B8%258B%25E8%25B7%258C%25E8%25A6%2581%25E6%258C%2581%25E7%25BB%25AD%25E5%25A4%259A%25E4%25B9%2585%26flag%3D0%26dgr%3D0%26display_time%3D1761670209%26pre_seqid%3D17616702097680345585595",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251029005409163800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251029005055544800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "标普500指数涨幅重新扩大至超过0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2995259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "标普500指数转跌。",
+          "url": "https://flash.jin10.com/detail/20251028233510146800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达CEO黄仁勋：宣布NVQ Link。 英伟达将拥有17家量子计算公司来支持NVQ。",
+          "url": "https://wallstreetcn.com/livenews/2995261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：NVQLink是一种开放的系统架构，可将GPU计算的极致性能与量子处理器紧密耦合，以构建加速的量子超级计算机。",
+          "url": "https://flash.jin10.com/detail/20251029004019156800",
+          "source": "金十数据",
+          "ranks": [
             19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出NVQLink，为17家量子计算公司和9家科研实验室连接量子与GPU计算。",
+          "url": "https://flash.jin10.com/detail/20251029004008111800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -203,8 +487,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "小米汽车送6万配置是诚意还是营销",
@@ -242,65 +526,31 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
+      "keyword_group": "沪深 股市",
       "match_count": 3,
       "titles": [
         {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "标普500指数转跌。",
-          "url": "https://flash.jin10.com/detail/20251028233510146800",
+          "title": "金十图示：2025年10月29日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251029004703558800",
           "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（10月28日），南非富时/JSE非洲领先40可交易指数收涨1.06%，逼近10.25万点。",
+          "url": "https://wallstreetcn.com/livenews/2995252",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时18分"
+        },
         {
           "title": "在美上市泰国股市指数ETF跌0.16%，美国和泰国重申承诺避免操纵汇率。",
           "url": "https://wallstreetcn.com/livenews/2995207",
@@ -357,11 +607,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     }
