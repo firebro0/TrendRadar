@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T17:21:06.325651+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2025-10-28T18:21:42.859795+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -19,11 +19,12 @@
             1,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 18时21分]"
         },
         {
           "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
@@ -164,7 +165,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -181,6 +182,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时23分 ~ 13时19分]"
+        },
+        {
+          "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
+          "url": "https://news.ifeng.com/c/8nomig16j0E",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
@@ -231,15 +243,17 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
-          "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
-          "url": "https://news.ifeng.com/c/8nomig16j0E",
-          "source": "凤凰网",
+          "title": "那些买黄金被套路的故事",
+          "url": "https://www.douyin.com/hot/2285261",
+          "source": "抖音",
           "ranks": [
-            6
+            30,
+            25,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "time_info": "[12时22分 ~ 18时21分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -349,18 +363,6 @@
           "time_info": "[03时15分 ~ 04时19分]"
         },
         {
-          "title": "那些买黄金被套路的故事",
-          "url": "https://www.douyin.com/hot/2285261",
-          "source": "抖音",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 16时26分]"
-        },
-        {
           "title": "国内黄金饰品克价跌回1211元",
           "url": "https://www.toutiao.com/trending/7564762904520589331/",
           "source": "今日头条",
@@ -455,7 +457,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -491,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
+          "url": "https://flash.jin10.com/detail/20251028175512834800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "现货黄金回落至3930美元/盎司下方，日内跌1.28%。",
@@ -537,6 +550,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "山姆黄金大闸蟹系水贝供货",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "南非股指下跌大约1.7%，追随现货黄金+纽约期金一度双双跌穿4000美元的表现。",
           "url": "https://wallstreetcn.com/livenews/2994427",
           "source": "华尔街见闻-快讯",
@@ -565,7 +589,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -576,7 +600,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -587,7 +611,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -631,7 +655,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -650,7 +674,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -661,8 +685,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时21分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -673,8 +697,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时21分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -773,6 +797,19 @@
           "time_info": "[14时30分 ~ 15时19分]"
         },
         {
+          "title": "AI大战冠军教练竞猜S15",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
           "url": "https://flash.jin10.com/detail/20251028015303563800",
           "source": "金十数据",
@@ -783,18 +820,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "AI大战冠军教练竞猜S15",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -891,6 +916,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "“十五五”规划建议全文：加强原始创新和关键核心技术攻关、全面实施“人工智能+”行动、大力提振消费",
+          "url": "https://wallstreetcn.com/articles/3758062",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
           "url": "https://flash.jin10.com/detail/20251028145207778800",
           "source": "金十数据",
@@ -957,6 +993,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "道富银行首席执行官：人工智能在银行对账方面存在巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20251028175233244800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "中信建投：持续推荐AI算力板块",
           "url": "https://wallstreetcn.com/livenews/2994618",
           "source": "华尔街见闻-快讯",
@@ -974,9 +1021,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
+          "url": "https://wallstreetcn.com/livenews/2995041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "唐国强到访武侯祠把AI当成旅游搭子",
@@ -988,6 +1046,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "道富银行首席执行官：所有的人工智能投资都流向了硬件，但真正的价值将体现在应用领域。",
+          "url": "https://flash.jin10.com/detail/20251028175103929800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "亚马逊：人工智能是互联网诞生以来最具变革性的技术。",
+          "url": "https://wallstreetcn.com/livenews/2994997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
@@ -1059,7 +1139,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1070,8 +1150,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 18时21分]"
         },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1119,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -1310,12 +1401,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/2995018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "沪指时隔十年再度站上 4000 点，受哪些因素驱动？如何看待当下 A 股市场行情？",
@@ -1465,6 +1567,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "金十图示：2025年10月28日（周二）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20251028180128578800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "金十图示：2025年10月28日（周二）亚太市场股市指数",
           "url": "https://flash.jin10.com/detail/20251028102612832800",
           "source": "金十数据",
@@ -1612,11 +1725,24 @@
           "url": "https://www.toutiao.com/trending/7566103520548225065/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "中国新能源车以创新引领全球产业",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BB%A5%E5%88%9B%E6%96%B0%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D30%26stream_entry_id%3D31%26realpos%3D30%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E6%2596%25B0%25E8%2583%25BD%25E6%25BA%2590%25E8%25BD%25A6%25E4%25BB%25A5%25E5%2588%259B%25E6%2596%25B0%25E5%25BC%2595%25E9%25A2%2586%25E5%2585%25A8%25E7%2590%2583%25E4%25BA%25A7%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D30%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
+          "source": "微博",
+          "ranks": [
+            30,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "小鹏汽车港股盘中市值超过理想汽车",
@@ -1629,17 +1755,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "中国新能源车以创新引领全球产业",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BB%A5%E5%88%9B%E6%96%B0%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26dgr%3D0%26cate%3D5001%26band_rank%3D30%26stream_entry_id%3D31%26realpos%3D30%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E6%2596%25B0%25E8%2583%25BD%25E6%25BA%2590%25E8%25BD%25A6%25E4%25BB%25A5%25E5%2588%259B%25E6%2596%25B0%25E5%25BC%2595%25E9%25A2%2586%25E5%2585%25A8%25E7%2590%2583%25E4%25BA%25A7%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D30%26display_time%3D1761642605%26pre_seqid%3D17616426055180277784717",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "小米高层调整：中国区总裁王晓雁不再兼任小米之家总经理，陈恺接任",
@@ -1667,7 +1782,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -1764,6 +1879,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "据AXIOS网站：耶鲁大学研究发现，马斯克的政治冒险可能导致特斯拉(TSLA.O)在美国损失超过100万辆汽车销量。",
+          "url": "https://flash.jin10.com/detail/20251028175208321800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "特斯拉董事长呼吁批准马斯克万亿薪酬计划",
           "url": "https://flash.jin10.com/detail/20251028143104144800",
           "source": "金十数据",
@@ -1801,8 +1927,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 18时21分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
@@ -1830,8 +1956,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 18时21分]"
         },
         {
           "title": "央行：继续打击境内虚拟货币经营炒作",
