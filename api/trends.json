@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T09:23:59.658857+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2025-10-28T11:07:16.331825+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -16,11 +16,12 @@
             7,
             5,
             4,
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时07分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -58,15 +59,27 @@
           "time_info": "[01时16分 ~ 04时19分]"
         },
         {
-          "title": "黄金失守4000美元大关",
-          "url": "https://www.toutiao.com/trending/7566043393697009202/",
-          "source": "今日头条",
+          "title": "现货黄金短线持续走低，目前报3984美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2994720",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "11时07分"
+        },
+        {
+          "title": "黄金失守4000美元大关",
+          "url": "https://www.toutiao.com/trending/7566043393697009202/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月28日（周二）早盘盘初下跌1.92%报916.65元/克；<br/>上海黄金交易所白银T+D 10月28日（周二）早盘盘初下跌2.1%报11145.0元/千克。",
@@ -75,7 +88,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -86,7 +99,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -114,6 +127,52 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
+          "url": "https://www.cls.cn/detail/2182631",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
+          "title": "黄金大跌后性价比还高吗",
+          "url": "https://www.toutiao.com/trending/7566042444433722907/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
+          "title": "现货黄金跌破4000美元/盎司",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
+          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
+          "url": "https://www.cls.cn/detail/2182758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
           "title": "菲律宾央行（BSP）货币政策委员会成员Benjamin Diokno：鉴于避险需求退烧，是时候对菲央行“过剩的”黄金持仓获利了结了。",
@@ -180,7 +239,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -196,26 +255,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
-          "url": "https://www.cls.cn/detail/2182631",
-          "source": "财联社热门",
+          "title": "美元走软及降息预期持续发力 黄金收复4000美元关口",
+          "url": "https://flash.jin10.com/detail/20251028101955514800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "黄金大跌后性价比还高吗",
-          "url": "https://www.toutiao.com/trending/7566042444433722907/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "11时07分"
         },
         {
           "title": "南非股指下跌大约1.7%，追随现货黄金+纽约期金一度双双跌穿4000美元的表现。",
@@ -246,18 +294,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "现货黄金跌破4000美元/盎司",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -279,7 +316,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
@@ -287,7 +324,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI大电影葫芦兄弟",
@@ -306,6 +343,17 @@
           "time_info": "[00时25分 ~ 09时23分]"
         },
         {
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
           "title": "高通推出人工智能芯片后股价大涨20%",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E5%90%8E%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A820%25",
           "source": "百度热搜",
@@ -320,15 +368,17 @@
           "time_info": "[01时16分 ~ 06时17分]"
         },
         {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
+          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
+          "url": "https://www.cls.cn/detail/2182582",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 11时07分]"
         },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -369,16 +419,28 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
-          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
-          "url": "https://www.cls.cn/detail/2182582",
-          "source": "财联社热门",
+          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
+          "url": "https://wallstreetcn.com/articles/3758015",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时23分]"
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
+          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
+          "url": "https://www.zhihu.com/question/1959993472921633455",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
         },
         {
           "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -452,17 +514,6 @@
           "time_info": "[01时17分 ~ 02时28分]"
         },
         {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
           "title": "路孚特宣布与Anthropic开展合作，并称这是路孚特人工智能战略中的最大里程碑。",
           "url": "https://flash.jin10.com/detail/20251028000308659800",
           "source": "金十数据",
@@ -491,7 +542,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -502,18 +553,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -524,9 +564,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
+          "url": "https://wallstreetcn.com/livenews/2994678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         },
         {
           "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
@@ -546,7 +597,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
@@ -573,11 +624,34 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 11时07分]"
+        },
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时23分]"
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -589,28 +663,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -697,6 +749,18 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "美股收盘：三大指数齐刷历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时07分]"
+        },
+        {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251028003902797800",
           "source": "金十数据",
@@ -779,23 +843,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周一（10月27日），南非富时/JSE非洲领先40可交易指数收跌1.70%，至10.15万点下方。",
@@ -872,13 +925,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "金十图示：2025年10月28日（周二）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20251028102612832800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-10-28）",
           "url": "https://flash.jin10.com/detail/20251028084232850800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -892,6 +956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "沪深两市成交额突破5000亿元。",
+          "url": "https://wallstreetcn.com/livenews/2994670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     },
@@ -908,8 +983,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时07分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
@@ -986,6 +1061,86 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时07分]"
+        },
+        {
+          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
+          "url": "https://www.cls.cn/detail/2182542",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时07分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
+          "url": "https://flash.jin10.com/detail/20251028033138017800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "马斯克如何评价中国可重复使用火箭",
+          "url": "https://www.toutiao.com/trending/7565856789887979054/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉：计划2025年内在美进一步运营Robotaxi，并逐步取消车内安全员",
+          "url": "https://flash.jin10.com/detail/20251028103402293800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20251027233346891800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -1068,6 +1223,92 @@
       ]
     },
     {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "新能源“烂尾车”困扰百万车主",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E7%83%82%E5%B0%BE%E8%BD%A6%E2%80%9D%E5%9B%B0%E6%89%B0%E7%99%BE%E4%B8%87%E8%BD%A6%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            8,
+            7,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时07分]"
+        },
+        {
+          "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
+          "url": "https://www.zhihu.com/question/1965097544062296892",
+          "source": "知乎",
+          "ranks": [
+            9,
+            14,
+            13,
+            10,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时23分]"
+        },
+        {
+          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
+          "url": "https://www.zhihu.com/question/1965388455073777331",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15,
+            18,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时23分]"
+        },
+        {
+          "title": "商务部：中国与东盟首次对绿色经济、新能源等作出明确定义",
+          "url": "https://wallstreetcn.com/livenews/2994717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "商务部：中国与东盟首次明确在制定自身标准时可考虑参考对方标准，并优先推进新能源汽车、电子电器等领域标准合作",
+          "url": "https://wallstreetcn.com/livenews/2994714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "小鹏前三季度获海外10国新势力销量第一",
+          "url": "https://wallstreetcn.com/livenews/2994682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中美",
       "match_count": 5,
       "titles": [
@@ -1103,11 +1344,12 @@
           "ranks": [
             22,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时07分]"
         },
         {
           "title": "中美为何不学俄装备核动力导弹",
@@ -1126,79 +1368,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%A8%8E%E8%B0%88%E5%88%A4%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
-        },
-        {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
-          "url": "https://flash.jin10.com/detail/20251028033138017800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "马斯克如何评价中国可重复使用火箭",
-          "url": "https://www.toutiao.com/trending/7565856789887979054/",
-          "source": "今日头条",
-          "ranks": [
-            26,
+            20,
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时17分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20251027233346891800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 11时07分]"
         }
       ]
     },
@@ -1260,54 +1435,30 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 3,
+      "keyword_group": "机器人",
+      "match_count": 2,
       "titles": [
         {
-          "title": "新能源“烂尾车”困扰百万车主",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E7%83%82%E5%B0%BE%E8%BD%A6%E2%80%9D%E5%9B%B0%E6%89%B0%E7%99%BE%E4%B8%87%E8%BD%A6%E4%B8%BB",
-          "source": "百度热搜",
+          "title": "商务部：本届进博会将展示低空经济、人形机器人等未来产业",
+          "url": "https://wallstreetcn.com/livenews/2994703",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            10,
-            8,
-            7,
-            19
+            12
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         },
         {
-          "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
-          "url": "https://www.zhihu.com/question/1965097544062296892",
-          "source": "知乎",
+          "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994668",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            14,
-            13,
-            10,
-            15,
-            17
+            30
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
-        },
-        {
-          "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
-          "url": "https://www.zhihu.com/question/1965388455073777331",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15,
-            18,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     }
