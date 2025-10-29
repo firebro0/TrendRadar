@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T06:18:37.128802+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-10-30T07:18:29.197871+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -53,6 +53,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
+          "url": "https://www.cls.cn/detail/2185493",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "美联储发布10月决议声明前，现货黄金维持1.1%的涨幅，持稳于4000美元整数位心理关口下方。 美国10年期国债收益率从3.995%一线拉升至4.01%上方，日内整体涨约4个基点。两年期美债收益率涨超2个基点，突破3.5150%。 标普500指数涨0.1%，道指涨0.2%，纳指涨0.5%，半导体指数涨2.2%，银行指数持平。 英伟达涨3.1%，苹果涨0.4%，特斯拉持平。",
           "url": "https://wallstreetcn.com/livenews/2996128",
           "source": "华尔街见闻-快讯",
@@ -75,6 +86,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时29分]"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收跌0.90%，报30144.78点，微幅高开之后走低，美联储主席鲍威尔讲话前持稳于30300点附近。 周三（10月29日）北美尾盘，加拿大10年期基准国债收益率涨11.5个基点，报3.158%，全天持续、平滑地上涨。 两年期加债收益率涨8.5个基点，报2.440%，北京时间21:45加拿大央行公布利率决定之后显著拉升、02:35鲍威尔谈及利率前景之后再次拉升；五年期加债收益率涨11.7个基点，报2.742%。",
+          "url": "https://wallstreetcn.com/livenews/2996233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
+          "url": "https://wallstreetcn.com/livenews/2996231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
@@ -113,28 +148,6 @@
           "time_info": "[04时22分 ~ 05时17分]"
         },
         {
-          "title": "加拿大标普/TSX综合指数收跌0.90%，报30144.78点，微幅高开之后走低，美联储主席鲍威尔讲话前持稳于30300点附近。 周三（10月29日）北美尾盘，加拿大10年期基准国债收益率涨11.5个基点，报3.158%，全天持续、平滑地上涨。 两年期加债收益率涨8.5个基点，报2.440%，北京时间21:45加拿大央行公布利率决定之后显著拉升、02:35鲍威尔谈及利率前景之后再次拉升；五年期加债收益率涨11.7个基点，报2.742%。",
-          "url": "https://wallstreetcn.com/livenews/2996233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
-          "url": "https://wallstreetcn.com/livenews/2996231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "南亚股市收盘播报｜周三（10月29日），印度国家证交所蓝筹股CNX Nifty指数收涨0.45%，报26053.90点，逼近2024年9月26日收盘位26216.05点。 印度中盘股指数收涨0.64%，报60149.05点。 标普BSE Sensex指数收涨0.44%，孟买证交所500指数收涨0.58%。 印度卢比兑美元收涨0.07%，报88.2025卢比，日线图上持稳于9月30日所创历史最低位88.8050卢比附近。 印度10年期国债收益率大致持平，报6.535%。",
           "url": "https://wallstreetcn.com/livenews/2996083",
           "source": "华尔街见闻-快讯",
@@ -157,6 +170,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "微软美股盘后跌幅收窄至3.4%。",
+          "url": "https://wallstreetcn.com/livenews/2996252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
           "url": "https://wallstreetcn.com/livenews/2996201",
           "source": "华尔街见闻-快讯",
@@ -174,7 +198,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -196,7 +220,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -210,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "周四亚太盘初，标普500股指期货跌超0.2%，纳指期货跌0.4%，道指期货跌超0.1%，罗素2000股指期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2996246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "现货黄金朝着3980美元回落，涨幅在美联储年内连续第二次宣布降息后略微收窄。 美国10年期国债收益率涨穿4.02%，涨幅超过4个基点，短线波动大约2个基点。 两年期美债收益率短线波动大约2个基点，交投于3.505%-3.5265%。 标普500指数涨幅略微扩大至超过0.2%，费城银行指数跌幅扩大至0.1%。",
@@ -270,7 +305,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -280,8 +315,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -289,11 +324,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -304,11 +340,12 @@
             16,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -318,8 +355,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "中方回应黄仁勋称美AI芯片需出口中国",
@@ -330,30 +367,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
-          "url": "https://flash.jin10.com/detail/20251030054121006800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "微软因投资OpenAI而面临31亿美元冲击。",
-          "url": "https://wallstreetcn.com/livenews/2996237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
@@ -381,6 +396,54 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
+          "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
+          "url": "https://flash.jin10.com/detail/20251030054121006800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "微软因投资OpenAI而面临31亿美元冲击。",
+          "url": "https://wallstreetcn.com/livenews/2996237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
+          "url": "https://flash.jin10.com/detail/20251030053716449800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
+          "url": "https://wallstreetcn.com/livenews/2996232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
           "url": "https://wallstreetcn.com/articles/3758110",
           "source": "华尔街见闻",
@@ -404,26 +467,15 @@
           "time_info": "[04时22分 ~ 05时17分]"
         },
         {
-          "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
-          "url": "https://flash.jin10.com/detail/20251030053716449800",
+          "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
+          "url": "https://flash.jin10.com/detail/20251030055159688800",
           "source": "金十数据",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
-          "url": "https://wallstreetcn.com/livenews/2996232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时18分"
         },
         {
           "title": "OpenAI：推出GPT-OSS-SAFEGUARD。",
@@ -443,7 +495,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -462,51 +514,55 @@
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
           "url": "https://wallstreetcn.com/livenews/2996241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "谷歌母公司Alphabet CEO Pichai：AI模型的全球日活用户数已经超过7500万。",
           "url": "https://wallstreetcn.com/livenews/2996240",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
           "url": "https://wallstreetcn.com/livenews/2996239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO：更多智能体功能将“很快”登陆谷歌Chrome浏览器。",
           "url": "https://flash.jin10.com/detail/20251030054050429800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
@@ -535,6 +591,18 @@
           "time_info": "[04时22分 ~ 06时18分]"
         },
         {
+          "title": "AI热潮助推云业务增长 谷歌营收飙升",
+          "url": "https://flash.jin10.com/detail/20251030044830557800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
           "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
           "url": "https://flash.jin10.com/detail/20251030040424583800",
           "source": "金十数据",
@@ -547,15 +615,48 @@
           "time_info": "[04时22分 ~ 05时17分]"
         },
         {
-          "title": "AI热潮助推云业务增长 谷歌营收飙升",
-          "url": "https://flash.jin10.com/detail/20251030044830557800",
-          "source": "金十数据",
+          "title": "提醒：谷歌母公司Alphabet分析师电话会议结束。",
+          "url": "https://wallstreetcn.com/livenews/2996257",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时18分"
+        },
+        {
+          "title": "Alphabet的CEO Pichai：谷歌将在2025年年底发布“显著改善的”Gemini。",
+          "url": "https://wallstreetcn.com/livenews/2996256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "谷歌首席商务官Philipp Schindler：超过20亿用户在搜索时看到人工智能（AI）提炼的概括信息。 搜索AI模型得到购物“试用”（try-on）的巩固。",
+          "url": "https://wallstreetcn.com/livenews/2996249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席财务官（CFO）Anat Ashkenazi：谷歌云增速得到企业AI产品的支持。",
+          "url": "https://wallstreetcn.com/livenews/2996247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示美国地区的谷歌(GOOG.O)出现问题。",
@@ -567,6 +668,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "历史上的黄金牛市：10%的回调并不稀奇，但牛市是如何终结的？",
+          "url": "https://wallstreetcn.com/articles/3758143",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "山姆50万元一只黄金蟹紧急下架",
+          "url": "https://www.douyin.com/hot/2287375",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.87吨，当前持仓量为1036.05吨。",
+          "url": "https://flash.jin10.com/detail/20251030064611907800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "“新债王”冈拉克：将黄金占比降至投资组合的约10%。",
+          "url": "https://flash.jin10.com/detail/20251030041611787800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/2996214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "“专业基民”新动向：左手科技右手黄金",
+          "url": "https://wallstreetcn.com/livenews/2996259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "现货黄金周四开盘下跌，最新报3920美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251030060036840800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "美联储公布利率决议后，现货黄金一度跌至3979.9美元/盎司，后反弹4005.8至美元/盎司，短线波幅约25美元，现报3997美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251030020447935800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "现货黄金跌破3950美元/盎司，美联储公布利率决议后累跌44美元。",
+          "url": "https://flash.jin10.com/detail/20251030024133602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -629,7 +853,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -669,98 +893,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "历史上的黄金牛市：10%的回调并不稀奇，但牛市是如何终结的？",
-          "url": "https://wallstreetcn.com/articles/3758143",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "山姆50万元一只黄金蟹紧急下架",
-          "url": "https://www.douyin.com/hot/2287375",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "“新债王”冈拉克：将黄金占比降至投资组合的约10%。",
-          "url": "https://flash.jin10.com/detail/20251030041611787800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时18分]"
-        },
-        {
-          "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/2996214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "美联储公布利率决议后，现货黄金一度跌至3979.9美元/盎司，后反弹4005.8至美元/盎司，短线波幅约25美元，现报3997美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251030020447935800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "现货黄金跌破3950美元/盎司，美联储公布利率决议后累跌44美元。",
-          "url": "https://flash.jin10.com/detail/20251030024133602800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
@@ -796,6 +930,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国10年期国债收益率短线从4.02%下方拉升至接近4.05%，日内涨约7个基点； 两年期美债收益率短线从3.52%下方飙升至3.57%上方，日内涨超8个基点。 现货黄金转跌，正测试3950美元。 新兴市场货币下跌，鲍威尔给美联储12月降息前景蒙上阴影。 美国股市转跌，标普跌0.4%，道指跌0.3%，纳斯达克100指数跌0.3%，费城银行指数跌1%。 比特币短线从11.2万美元附近跳水，至接近10.9万美元的水平。",
@@ -837,6 +982,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "小米高管回应“巨省电”是产品名",
+          "url": "https://www.toutiao.com/trending/7565540045223264262/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25,
+            18,
+            21,
+            24,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
           "title": "小米高管回应巨省电是空调名",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%B7%A8%E7%9C%81%E7%94%B5%E6%98%AF%E7%A9%BA%E8%B0%83%E5%90%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%25AB%2598%25E7%25AE%25A1%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25A8%25E7%259C%2581%25E7%2594%25B5%25E6%2598%25AF%25E7%25A9%25BA%25E8%25B0%2583%25E5%2590%258D%2523%26dgr%3D0%26band_rank%3D7%26filter_type%3Drealtimehot%26pos%3D7%26flag%3D0%26cate%3D5001%26c_type%3D31%26display_time%3D1761754276%26pre_seqid%3D176175427682101169740156",
           "source": "微博",
@@ -847,24 +1009,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "小米高管回应“巨省电”是产品名",
-          "url": "https://www.toutiao.com/trending/7565540045223264262/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            25,
-            18,
-            21,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
@@ -874,8 +1020,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "小米为何自建家电工厂",
@@ -903,8 +1049,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -914,8 +1060,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -925,8 +1071,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         }
       ]
     },
@@ -945,8 +1091,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "百岁老人爱喝咖啡奶茶玩坏3个iPad",
@@ -970,7 +1116,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -990,8 +1136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "【每日收评】多股30CM涨停！北证50指数飙涨8%，光伏、储能赛道全线爆发",
@@ -1021,6 +1167,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "车企与动力电池企业合作，固态电池研发频现突破性进展",
+          "url": "https://wallstreetcn.com/livenews/2996254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     }
