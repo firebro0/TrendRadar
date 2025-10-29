@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T00:26:33.349765+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T01:18:24.745989+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "Valthos从OpenAI、Lux Capital、Founders Fund融资0.3亿美元。",
           "url": "https://wallstreetcn.com/livenews/2996098",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
@@ -48,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -59,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "中方回应黄仁勋称美AI芯片需出口中国",
@@ -70,8 +72,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "OpenAI：推出GPT-OSS-SAFEGUARD。",
@@ -79,17 +93,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -109,6 +112,159 @@
       ]
     },
     {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一名期权交易员下注2100万美元，预计标普500指数到2026年12月份将上涨30%。",
+          "url": "https://wallstreetcn.com/livenews/2996110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "南亚股市收盘播报｜周三（10月29日），印度国家证交所蓝筹股CNX Nifty指数收涨0.45%，报26053.90点，逼近2024年9月26日收盘位26216.05点。 印度中盘股指数收涨0.64%，报60149.05点。 标普BSE Sensex指数收涨0.44%，孟买证交所500指数收涨0.58%。 印度卢比兑美元收涨0.07%，报88.2025卢比，日线图上持稳于9月30日所创历史最低位88.8050卢比附近。 印度10年期国债收益率大致持平，报6.535%。",
+          "url": "https://wallstreetcn.com/livenews/2996083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251030003204360800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251030003028364800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨0.6%，嘉能可涨超5.5%领跑一众矿业股",
+          "url": "https://wallstreetcn.com/livenews/2996089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "德国股指收涨超0.6%，意大利银行板块涨约1.3%，英国股市继续创历史新高",
+          "url": "https://wallstreetcn.com/livenews/2996107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251030004528239800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "南亚股市收盘播报｜印度股市收涨超0.4%，巴基斯坦股指跌约1%",
+          "url": "https://wallstreetcn.com/livenews/2996083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米高管回应巨省电是空调名",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%B7%A8%E7%9C%81%E7%94%B5%E6%98%AF%E7%A9%BA%E8%B0%83%E5%90%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%25AB%2598%25E7%25AE%25A1%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25A8%25E7%259C%2581%25E7%2594%25B5%25E6%2598%25AF%25E7%25A9%25BA%25E8%25B0%2583%25E5%2590%258D%2523%26dgr%3D0%26band_rank%3D7%26filter_type%3Drealtimehot%26pos%3D7%26flag%3D0%26cate%3D5001%26c_type%3D31%26display_time%3D1761754276%26pre_seqid%3D176175427682101169740156",
+          "source": "微博",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "小米高管回应“巨省电”是产品名",
+          "url": "https://www.toutiao.com/trending/7565540045223264262/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "小米狂揽车榜第一,质疑铺天盖地",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346392&amp;topic_name=%E5%B0%8F%E7%B1%B3%E7%8B%82%E6%8F%BD%E8%BD%A6%E6%A6%9C%E7%AC%AC%E4%B8%80%2C%E8%B4%A8%E7%96%91%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "小米为何自建家电工厂",
+          "url": "https://www.toutiao.com/trending/7566643604752436799/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中美",
       "match_count": 3,
       "titles": [
@@ -120,8 +276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -131,8 +287,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -142,8 +298,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
@@ -156,11 +312,12 @@
           "url": "https://wallstreetcn.com/articles/3758056",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "历史上的黄金牛市：10%的回调并不稀奇，但牛市是如何终结的？",
@@ -170,58 +327,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "山姆50万元一只黄金蟹紧急下架",
           "url": "https://www.douyin.com/hot/2287375",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米高管回应巨省电是空调名",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E5%B7%A8%E7%9C%81%E7%94%B5%E6%98%AF%E7%A9%BA%E8%B0%83%E5%90%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%25AB%2598%25E7%25AE%25A1%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25A8%25E7%259C%2581%25E7%2594%25B5%25E6%2598%25AF%25E7%25A9%25BA%25E8%25B0%2583%25E5%2590%258D%2523%26dgr%3D0%26band_rank%3D7%26filter_type%3Drealtimehot%26pos%3D7%26flag%3D0%26cate%3D5001%26c_type%3D31%26display_time%3D1761754276%26pre_seqid%3D176175427682101169740156",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "小米高管回应“巨省电”是产品名",
-          "url": "https://www.toutiao.com/trending/7565540045223264262/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "小米狂揽车榜第一,质疑铺天盖地",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346392&amp;topic_name=%E5%B0%8F%E7%B1%B3%E7%8B%82%E6%8F%BD%E8%BD%A6%E6%A6%9C%E7%AC%AC%E4%B8%80%2C%E8%B4%A8%E7%96%91%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
@@ -237,8 +356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "比特币向下触及112000美元/枚，日内跌0.82%。",
@@ -262,22 +381,24 @@
           "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%B2%81%E8%80%81%E4%BA%BA%E7%88%B1%E5%96%9D%E5%92%96%E5%95%A1%E5%A5%B6%E8%8C%B6%E7%8E%A9%E5%9D%8F3%E4%B8%AAiPad",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "为什么我感觉现在苹果的手机广告并不比安卓少？",
           "url": "https://www.zhihu.com/question/628909140",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
@@ -293,8 +414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         },
         {
           "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
@@ -304,42 +425,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
+      "keyword_group": "谷歌 google pixel",
       "match_count": 1,
       "titles": [
         {
-          "title": "南亚股市收盘播报｜周三（10月29日），印度国家证交所蓝筹股CNX Nifty指数收涨0.45%，报26053.90点，逼近2024年9月26日收盘位26216.05点。 印度中盘股指数收涨0.64%，报60149.05点。 标普BSE Sensex指数收涨0.44%，孟买证交所500指数收涨0.58%。 印度卢比兑美元收涨0.07%，报88.2025卢比，日线图上持稳于9月30日所创历史最低位88.8050卢比附近。 印度10年期国债收益率大致持平，报6.535%。",
-          "url": "https://wallstreetcn.com/livenews/2996083",
-          "source": "华尔街见闻-快讯",
+          "title": "据网络状况监测网站DownDetector：用户报告显示美国地区的谷歌(GOOG.O)出现问题。",
+          "url": "https://flash.jin10.com/detail/20251030003623373800",
+          "source": "金十数据",
           "ranks": [
-            10
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨0.6%，嘉能可涨超5.5%领跑一众矿业股",
-          "url": "https://wallstreetcn.com/livenews/2996089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时18分"
         }
       ]
     }
