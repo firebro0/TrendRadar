@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-30T05:17:47.337029+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-10-30T06:18:37.128802+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 06时18分]"
+        },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，ASHS涨1.4%，CQQQ涨0.8%，KWEB涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/2996198",
@@ -25,20 +37,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
-          "url": "https://wallstreetcn.com/articles/3758166",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 05时17分]"
         },
         {
           "title": "标普500指数初步收平，房地产板块跌2.7%，日用消费品板块跌2%，原材料、金融、保健板块至多跌1.7%，科技板块涨1%，电信板块涨1.2%。 纳斯达克100指数初步收涨0.4%，成分股中，AEP涨6.1%，Palantir涨5%，核电股CEG涨4.7%，应用材料、博通、拉姆研究涨超3%，英伟达涨2.9%，Adobe则跌5.9%，ADP跌6.7%，CSGP跌10.4%，VRSK跌10.8%。",
@@ -112,6 +113,28 @@
           "time_info": "[04时22分 ~ 05时17分]"
         },
         {
+          "title": "加拿大标普/TSX综合指数收跌0.90%，报30144.78点，微幅高开之后走低，美联储主席鲍威尔讲话前持稳于30300点附近。 周三（10月29日）北美尾盘，加拿大10年期基准国债收益率涨11.5个基点，报3.158%，全天持续、平滑地上涨。 两年期加债收益率涨8.5个基点，报2.440%，北京时间21:45加拿大央行公布利率决定之后显著拉升、02:35鲍威尔谈及利率前景之后再次拉升；五年期加债收益率涨11.7个基点，报2.742%。",
+          "url": "https://wallstreetcn.com/livenews/2996233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
+          "url": "https://wallstreetcn.com/livenews/2996231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "南亚股市收盘播报｜周三（10月29日），印度国家证交所蓝筹股CNX Nifty指数收涨0.45%，报26053.90点，逼近2024年9月26日收盘位26216.05点。 印度中盘股指数收涨0.64%，报60149.05点。 标普BSE Sensex指数收涨0.44%，孟买证交所500指数收涨0.58%。 印度卢比兑美元收涨0.07%，报88.2025卢比，日线图上持稳于9月30日所创历史最低位88.8050卢比附近。 印度10年期国债收益率大致持平，报6.535%。",
           "url": "https://wallstreetcn.com/livenews/2996083",
           "source": "华尔街见闻-快讯",
@@ -129,7 +152,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -140,9 +163,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "周三（10月29日）纽约尾盘，标普500股指期货最终下跌0.06%，道指期货跌0.23%，纳斯达克100股指期货涨0.26%。 罗素2000股指期货跌0.82%。",
+          "url": "https://wallstreetcn.com/livenews/2996223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.03%，报8387.62点。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，中国科技指数ETF（CQQQ）收涨0.71%，中概互联网指数ETF（KWEB）收涨0.24%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.98%，中国ETF-iShares MSCI（MCHI）收涨0.57%。 富时中国3倍做多ETF（YINN）收涨0.71%。",
@@ -151,9 +185,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/2996221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "标普500指数收跌0.30点，跌幅0.00%，报6890.59点。 道琼斯工业平均指数收跌74.37点，跌幅0.16%，报47632.00点。 纳斯达克综合指数（纳指）收涨130.98点，涨幅0.55%，报23958.473点。 纳斯达克100指数收涨107.691点，涨幅0.41%，报26119.846点。",
@@ -162,7 +207,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -225,7 +270,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -235,8 +280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -247,8 +292,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -262,8 +307,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -273,19 +318,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "中方回应黄仁勋称美AI芯片需出口中国",
           "url": "https://www.toutiao.com/trending/7566339492316024361/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
+          "url": "https://flash.jin10.com/detail/20251030054121006800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "微软因投资OpenAI而面临31亿美元冲击。",
+          "url": "https://wallstreetcn.com/livenews/2996237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
@@ -293,11 +361,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
         },
         {
           "title": "Valthos从OpenAI、Lux Capital、Founders Fund融资0.3亿美元。",
@@ -335,6 +404,28 @@
           "time_info": "[04时22分 ~ 05时17分]"
         },
         {
+          "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
+          "url": "https://flash.jin10.com/detail/20251030053716449800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
+          "url": "https://wallstreetcn.com/livenews/2996232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "OpenAI：推出GPT-OSS-SAFEGUARD。",
           "url": "https://flash.jin10.com/detail/20251029233645478800",
           "source": "金十数据",
@@ -344,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
+          "url": "https://wallstreetcn.com/livenews/2996222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         },
         {
           "title": "信用交易员们针对甲骨文债务违约（风险）买入保护产品，债券风险上涨。 摩根士丹利预计，该公司向人工智能（AI）投资（至少）数十亿美元之际，这样的势头将延续下去。",
@@ -359,8 +461,118 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
+          "url": "https://wallstreetcn.com/livenews/2996241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "谷歌母公司Alphabet CEO Pichai：AI模型的全球日活用户数已经超过7500万。",
+          "url": "https://wallstreetcn.com/livenews/2996240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
+          "url": "https://wallstreetcn.com/livenews/2996239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO：更多智能体功能将“很快”登陆谷歌Chrome浏览器。",
+          "url": "https://flash.jin10.com/detail/20251030054050429800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
+          "url": "https://flash.jin10.com/detail/20251030041537308800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
+          "url": "https://flash.jin10.com/detail/20251030041438967800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20251030040424583800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时17分]"
+        },
+        {
+          "title": "AI热潮助推云业务增长 谷歌营收飙升",
+          "url": "https://flash.jin10.com/detail/20251030044830557800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector：用户报告显示美国地区的谷歌(GOOG.O)出现问题。",
+          "url": "https://flash.jin10.com/detail/20251030003623373800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "沪深 股市",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "非洲股市收盘播报｜南非股指收涨0.6%，嘉能可涨超5.5%领跑一众矿业股",
@@ -411,6 +623,17 @@
           "time_info": "[04时22分 ~ 05时17分]"
         },
         {
+          "title": "阿根廷MERVAL指数收涨4.86%，报280万点，最近三个交易日狂拉34.83%。 10月7日结束交易以来，阿根廷股市累计上涨54.95%。",
+          "url": "https://wallstreetcn.com/livenews/2996230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "金十图示：2025年10月30日（周四）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251030004528239800",
           "source": "金十数据",
@@ -455,11 +678,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "历史上的黄金牛市：10%的回调并不稀奇，但牛市是如何终结的？",
@@ -470,8 +694,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "山姆50万元一只黄金蟹紧急下架",
@@ -482,8 +706,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "“新债王”冈拉克：将黄金占比降至投资组合的约10%。",
@@ -491,22 +715,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
         },
         {
           "title": "周三（10月29日）纽约尾盘，现货黄金跌0.30%，报3940.43美元/盎司，北京时间06:07微跌至3916.81美元刷新日低，13:00出现一波持续的上涨行情，20:15刷新日高至4030.11美元，随后逐步回吐涨幅，美联储主席鲍威尔在02:35谈及12月降息前景之后转跌。 COMEX黄金期货跌0.63%，报3957.90美元/盎司，日内交投区间为3930.00-4046.20美元。 现货白银涨1.38%，报47.7130美元/盎司，日内交投区间为46.8559-48.4563美元，也在鲍威尔新闻发布会期间显著回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/2996214",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "美联储公布利率决议后，现货黄金一度跌至3979.9美元/盎司，后反弹4005.8至美元/盎司，短线波幅约25美元，现报3997美元/盎司。",
@@ -560,6 +786,18 @@
           "time_info": "[02时29分 ~ 03时15分]"
         },
         {
+          "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2996212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
           "title": "美国10年期国债收益率短线从4.02%下方拉升至接近4.05%，日内涨约7个基点； 两年期美债收益率短线从3.52%下方飙升至3.57%上方，日内涨超8个基点。 现货黄金转跌，正测试3950美元。 新兴市场货币下跌，鲍威尔给美联储12月降息前景蒙上阴影。 美国股市转跌，标普跌0.4%，道指跌0.3%，纳斯达克100指数跌0.3%，费城银行指数跌1%。 比特币短线从11.2万美元附近跳水，至接近10.9万美元的水平。",
           "url": "https://wallstreetcn.com/livenews/2996150",
           "source": "华尔街见闻-快讯",
@@ -569,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2996212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
         },
         {
           "title": "比特币重新跌向11.15万美元。",
@@ -606,59 +833,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
-          "url": "https://flash.jin10.com/detail/20251030041537308800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
-          "url": "https://flash.jin10.com/detail/20251030041438967800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20251030040424583800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "据网络状况监测网站DownDetector：用户报告显示美国地区的谷歌(GOOG.O)出现问题。",
-          "url": "https://flash.jin10.com/detail/20251030003623373800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 4,
       "titles": [
@@ -673,8 +847,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "小米高管回应“巨省电”是产品名",
@@ -689,8 +863,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
@@ -700,8 +874,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "小米为何自建家电工厂",
@@ -729,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -740,8 +914,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -751,14 +925,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么我感觉现在苹果的手机广告并不比安卓少？",
@@ -767,11 +941,12 @@
           "ranks": [
             13,
             11,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "百岁老人爱喝咖啡奶茶玩坏3个iPad",
@@ -787,6 +962,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普政府接触三个资金渠道，希望能实现在（政府关门期间于）周五对军队发工资。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/2996224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -800,11 +986,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "【每日收评】多股30CM涨停！北证50指数飙涨8%，光伏、储能赛道全线爆发",
@@ -828,11 +1015,12 @@
           "url": "https://wallstreetcn.com/livenews/2996211",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         }
       ]
     }
