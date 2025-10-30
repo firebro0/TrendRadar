@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T06:18:24.274947+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-10-31T07:17:38.964181+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 07时17分]"
         },
         {
           "title": "苹果CEO库克：第一财季营收将是公司历史上最好的一个季度，iPhone也将是那样。",
@@ -30,71 +30,77 @@
           "time_info": "05时17分"
         },
         {
+          "title": "苹果第四财季营收及下个财季指引均超预期",
+          "url": "https://flash.jin10.com/detail/20251031045512812800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时17分]"
+        },
+        {
           "title": "纳指期货亚太盘初涨1.2%，业绩报告发布后，亚马逊涨超13%，苹果涨3%",
           "url": "https://wallstreetcn.com/livenews/2997163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "提醒：苹果第四财季业绩报告后分析师电话会议结束。",
           "url": "https://wallstreetcn.com/livenews/2997160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "纳指期货开盘上涨1.1%，受苹果(AAPL.O)和亚马逊(AMZN.O)盘后上涨推动。",
           "url": "https://flash.jin10.com/detail/20251031060051128800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：中国的补贴对推动需求产生有利影响。",
           "url": "https://flash.jin10.com/detail/20251031054240384800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "苹果CEO库克：相信苹果公司第一财季将在中国市场重拾增长。",
           "url": "https://wallstreetcn.com/livenews/2997154",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "苹果第四财季营收及下个财季指引均超预期",
-          "url": "https://flash.jin10.com/detail/20251031045512812800",
-          "source": "金十数据",
-          "ranks": [
-            2,
+            5,
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "为什么我听不出耳放和 MacBook 的区别？",
@@ -121,6 +127,30 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "苹果(AAPL.O)CEO库克：目前几款iPhone 17型号的供应受到限制。",
+          "url": "https://flash.jin10.com/detail/20251031053530816800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：受iPhone销售推动，公司第一财季在中国的收入将恢复增长。",
+          "url": "https://flash.jin10.com/detail/20251031053237223800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：部分iPhone 17和iPhone 16机型在第四财季面临供应限制。",
           "url": "https://flash.jin10.com/detail/20251031043537991800",
           "source": "金十数据",
@@ -145,6 +175,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "苹果公司：第四财季发生11亿美元关税相关的成本。 预计第一财季营收将同比增长10%-12%。 预计第一财季iPhone营收将同比增幅将为两位数。 预计第一财季运营开支将介于181亿-185亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2997150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "苹果盘后涨幅扩大至3.9%。",
           "url": "https://wallstreetcn.com/livenews/2997135",
           "source": "华尔街见闻-快讯",
@@ -157,37 +199,40 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
-          "title": "苹果(AAPL.O)CEO库克：目前几款iPhone 17型号的供应受到限制。",
-          "url": "https://flash.jin10.com/detail/20251031053530816800",
+          "title": "苹果(AAPL.O)CFO：预计12月当季的毛利率将在47%至48%之间。",
+          "url": "https://flash.jin10.com/detail/20251031053017251800",
           "source": "金十数据",
           "ranks": [
-            7
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "苹果(AAPL.O)CEO库克：受iPhone销售推动，公司第一财季在中国的收入将恢复增长。",
-          "url": "https://flash.jin10.com/detail/20251031053237223800",
+          "title": "苹果(AAPL.O)CFO：预计12月当季将受到14亿美元关税相关影响。",
+          "url": "https://flash.jin10.com/detail/20251031052744548800",
           "source": "金十数据",
           "ranks": [
-            8
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "苹果公司：第四财季发生11亿美元关税相关的成本。 预计第一财季营收将同比增长10%-12%。 预计第一财季iPhone营收将同比增幅将为两位数。 预计第一财季运营开支将介于181亿-185亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2997150",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果(AAPL.O)CFO：正在大幅增加对人工智能的投资。",
+          "url": "https://flash.jin10.com/detail/20251031052725702800",
+          "source": "金十数据",
           "ranks": [
-            10
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
@@ -201,17 +246,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "苹果(AAPL.O)CFO：预计12月当季的毛利率将在47%至48%之间。",
-          "url": "https://flash.jin10.com/detail/20251031053017251800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "苹果(AAPL.O)CEO库克：预计在本财年第一季度整体销售额将同比增长10%至12%。",
           "url": "https://flash.jin10.com/detail/20251031043416581800",
           "source": "金十数据",
@@ -223,24 +257,13 @@
           "time_info": "05时17分"
         },
         {
-          "title": "苹果(AAPL.O)CFO：预计12月当季将受到14亿美元关税相关影响。",
-          "url": "https://flash.jin10.com/detail/20251031052744548800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "苹果盘后涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2997146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -256,24 +279,13 @@
           "time_info": "05时17分"
         },
         {
-          "title": "苹果(AAPL.O)CFO：正在大幅增加对人工智能的投资。",
-          "url": "https://flash.jin10.com/detail/20251031052725702800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "苹果公司第四财季印度营收创历史新高。 苹果CEO库克称，第一财季（含感恩节+圣诞节）营收将是公司历史上最好的一个季度，iPhone也将是那样。 iPhone 16和17在第四财季面临供应掣肘。",
           "url": "https://wallstreetcn.com/livenews/2997145",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -314,7 +326,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -325,19 +337,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
-        },
-        {
-          "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2997159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -345,11 +346,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时17分]"
         },
         {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
@@ -377,6 +379,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2997159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
           "url": "https://wallstreetcn.com/livenews/2997090",
           "source": "华尔街见闻-快讯",
@@ -399,6 +413,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：最近裁员14000人是由“文化”驱动的，而“并非真正出于财务或人工智能的考虑”。",
+          "url": "https://flash.jin10.com/detail/20251031054225724800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
@@ -437,6 +463,30 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
+          "url": "https://flash.jin10.com/detail/20251031053211799800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "Cloudflare：预计80%的人工智能（AI）公司依赖IT。",
+          "url": "https://wallstreetcn.com/livenews/2997151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "Alight和IBM将成立一个虚拟AI创新实验室。",
           "url": "https://wallstreetcn.com/livenews/2997134",
           "source": "华尔街见闻-快讯",
@@ -473,15 +523,28 @@
           "time_info": "[00时25分 ~ 01时17分]"
         },
         {
-          "title": "亚马逊(AMZN.O)CEO：最近裁员14000人是由“文化”驱动的，而“并非真正出于财务或人工智能的考虑”。",
-          "url": "https://flash.jin10.com/detail/20251031054225724800",
+          "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
+          "url": "https://flash.jin10.com/detail/20251031052114542800",
           "source": "金十数据",
           "ranks": [
-            6
+            20,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：亚马逊人工智能购物助手Rufus有望带来每年100亿美元的增量销售额。",
+          "url": "https://flash.jin10.com/detail/20251031052038069800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
@@ -490,18 +553,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
-          "url": "https://flash.jin10.com/detail/20251031053211799800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -517,15 +569,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "Cloudflare：预计80%的人工智能（AI）公司依赖IT。",
-          "url": "https://wallstreetcn.com/livenews/2997151",
-          "source": "华尔街见闻-快讯",
+          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
+          "url": "https://wallstreetcn.com/articles/3758276",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时17分"
         },
         {
           "title": "英伟达将对AI初创公司Poolside投资至多10亿美元。",
@@ -537,28 +589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
-          "url": "https://flash.jin10.com/detail/20251031052114542800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：亚马逊人工智能购物助手Rufus有望带来每年100亿美元的增量销售额。",
-          "url": "https://flash.jin10.com/detail/20251031052038069800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
@@ -581,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
+          "url": "https://wallstreetcn.com/livenews/2997155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
@@ -608,29 +649,42 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
           "url": "https://www.cls.cn/detail/2186587",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2186836",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -666,6 +720,31 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251031044521499800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时17分]"
+        },
+        {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251031040546902800",
           "source": "金十数据",
@@ -688,18 +767,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251031044521499800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
@@ -726,6 +793,18 @@
           "time_info": "[04时21分 ~ 05时17分]"
         },
         {
+          "title": "周四（10月30日）纽约尾盘，标普500股指期货最终下跌0.42%，道指期货跌0.12%，纳斯达克100股指期货跌0.43%。 罗素2000股指期货跌0.99%。",
+          "url": "https://wallstreetcn.com/livenews/2997153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
           "url": "https://flash.jin10.com/detail/20251031040124209800",
           "source": "金十数据",
@@ -748,28 +827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "周四（10月30日）纽约尾盘，标普500股指期货最终下跌0.42%，道指期货跌0.12%，纳斯达克100股指期货跌0.43%。 罗素2000股指期货跌0.99%。",
-          "url": "https://wallstreetcn.com/livenews/2997153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -851,8 +908,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
@@ -860,11 +917,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -876,8 +934,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
@@ -890,8 +948,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "外媒如何看待中美元首会晤",
@@ -902,8 +960,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -914,8 +972,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美元首会晤结束",
@@ -926,19 +984,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
-        },
-        {
-          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美经贸磋商成果",
@@ -946,11 +993,24 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美元首会晤到底谈了什么",
@@ -966,8 +1026,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
@@ -978,8 +1038,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美谈妥了 美盟友成“小丑”了吗",
@@ -991,11 +1051,12 @@
             17,
             10,
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美元首会晤双方代表都有谁",
@@ -1005,11 +1066,12 @@
             23,
             25,
             22,
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "中美元首会晤的重大意义",
@@ -1019,8 +1081,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 07时17分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -1046,11 +1108,12 @@
             19,
             17,
             23,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 07时17分]"
         },
         {
           "title": "中美元首握手合影",
@@ -1082,11 +1145,12 @@
           "url": "https://wallstreetcn.com/articles/3758235",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         }
       ]
     },
@@ -1217,7 +1281,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待黄金七日暴跌500美元",
@@ -1231,8 +1295,30 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 07时17分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少19.75吨，当前持仓量为15189.82吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20251031064128685800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.3吨，当前持仓量为1040.35吨。",
+          "url": "https://flash.jin10.com/detail/20251031061546591800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "现货白银日内涨超3.00%，现报48.98美元/盎司。",
@@ -1240,11 +1326,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时17分]"
         },
         {
           "title": "周四（10月30日）纽约尾盘，现货黄金涨2.37%，报4023.00美元/盎司，全天持续震荡上行，交投区间为3915.52-4027.08美元。 COMEX黄金期货涨0.73%，报4030美元/盎司，日内交投于3925.10-4041.50美元区间。 现货白银涨2.95%，报48.9680美元/盎司。 COMEX白银期货涨1.71%，报48.745美元/盎司。",
@@ -1268,6 +1355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "女子将黄金手镯皮带涂成银色入境被查",
+          "url": "https://www.toutiao.com/trending/7566823557318164499/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -1367,8 +1465,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "零跑联姻中创新航、理想牵手欣旺达 动力电池合资潮再起",
@@ -1379,8 +1477,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         },
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
@@ -1390,8 +1488,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         }
       ]
     },
@@ -1422,11 +1520,12 @@
           "url": "https://www.zhihu.com/question/1965433673500297074",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 07时17分]"
         }
       ]
     },
@@ -1439,11 +1538,12 @@
           "url": "https://www.toutiao.com/trending/7566958527453875755/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 07时17分]"
         }
       ]
     },
@@ -1462,8 +1562,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
         }
       ]
     }
