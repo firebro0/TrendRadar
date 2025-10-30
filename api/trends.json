@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T13:19:06.759945+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2025-10-30T14:28:56.813488+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时28分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -126,6 +126,30 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "标普500指数期货和纳斯达克指数期货再次转为持平。",
+          "url": "https://wallstreetcn.com/livenews/2996477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时28分]"
+        },
+        {
+          "title": "美股期货、数字货币全线跳水，现货黄金拉升",
+          "url": "https://wallstreetcn.com/livenews/2996476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时28分]"
+        },
+        {
           "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
           "url": "https://flash.jin10.com/detail/20251030040729871800",
           "source": "金十数据",
@@ -173,35 +197,13 @@
           "time_info": "00时26分"
         },
         {
-          "title": "标普500指数期货和纳斯达克指数期货再次转为持平。",
-          "url": "https://wallstreetcn.com/livenews/2996477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "美股期货、数字货币全线跳水，现货黄金拉升",
-          "url": "https://wallstreetcn.com/livenews/2996476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "美股股指期货跌幅收窄，标普500指数期货和纳斯达克指数期货再次转为持平。",
           "url": "https://flash.jin10.com/detail/20251030125122056800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -352,7 +354,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -375,8 +377,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时28分]"
+        },
+        {
+          "title": "习近平：让中美关系这艘大船平稳前行",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%99%E8%89%98%E5%A4%A7%E8%88%B9%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时28分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -390,33 +404,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时19分]"
-        },
-        {
-          "title": "习近平：让中美关系这艘大船平稳前行",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%99%E8%89%98%E5%A4%A7%E8%88%B9%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时19分]"
-        },
-        {
-          "title": "中美元首釜山会晤现场",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D1%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E7%258E%25B0%25E5%259C%25BA%2523%26lcate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761792759%26pre_seqid%3D17617927592080363020174",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时28分]"
         },
         {
           "title": "习近平：让中美关系这艘大船平稳前行",
@@ -428,19 +417,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时19分]"
-        },
-        {
-          "title": "中美元首握手合影",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D0%26flag%3D1%26c_type%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%258F%25A1%25E6%2589%258B%25E5%2590%2588%25E5%25BD%25B1%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时28分]"
         },
         {
           "title": "中美元首会晤结束 历时约100分钟",
@@ -450,20 +428,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "中美元首握手合影",
-          "url": "https://www.toutiao.com/trending/7566854727581929010/",
-          "source": "今日头条",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D0%26flag%3D1%26c_type%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%258F%25A1%25E6%2589%258B%25E5%2590%2588%25E5%25BD%25B1%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
+          "source": "微博",
           "ranks": [
-            5,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "让中美关系这艘大船平稳前行",
@@ -474,19 +452,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
-          "title": "中美元首会晤开场白传递哪些重磅信息",
-          "url": "https://www.toutiao.com/trending/7566519039041585162/",
-          "source": "今日头条",
+          "title": "中美元首釜山会晤现场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D1%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E7%258E%25B0%25E5%259C%25BA%2523%26lcate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761792759%26pre_seqid%3D17617927592080363020174",
+          "source": "微博",
           "ranks": [
-            2
+            1,
+            2,
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时28分]"
         },
         {
           "title": "中美元首会晤历时约1小时40分钟",
@@ -496,8 +477,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "中美元首会晤开场白传递哪些重磅信息",
+          "url": "https://www.toutiao.com/trending/7566519039041585162/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "中美元首握手合影",
+          "url": "https://www.toutiao.com/trending/7566854727581929010/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "中美元首会晤结束 历时约1小时40分钟",
@@ -558,6 +564,30 @@
           "time_info": "[09时28分 ~ 12时22分]"
         },
         {
+          "title": "中美元首会晤结束",
+          "url": "https://wallstreetcn.com/articles/3758263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "中美元首开场白传递哪些重磅信息",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普相信中美将建立长期良好关系",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B8%E4%BF%A1%E4%B8%AD%E7%BE%8E%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D9%26flag%3D1%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%259B%25B8%25E4%25BF%25A1%25E4%25B8%25AD%25E7%25BE%258E%25E5%25B0%2586%25E5%25BB%25BA%25E7%25AB%258B%25E9%2595%25BF%25E6%259C%259F%25E8%2589%25AF%25E5%25A5%25BD%25E5%2585%25B3%25E7%25B3%25BB%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D8%26realpos%3D8%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
           "source": "微博",
@@ -570,17 +600,6 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
-          "title": "中美元首会晤结束",
-          "url": "https://wallstreetcn.com/articles/3758263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
           "title": "中美携手多办一些大事实事好事",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E6%90%BA%E6%89%8B%E5%A4%9A%E5%8A%9E%E4%B8%80%E4%BA%9B%E5%A4%A7%E4%BA%8B%E5%AE%9E%E4%BA%8B%E5%A5%BD%E4%BA%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26pos%3D11%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E6%2590%25BA%25E6%2589%258B%25E5%25A4%259A%25E5%258A%259E%25E4%25B8%2580%25E4%25BA%259B%25E5%25A4%25A7%25E4%25BA%258B%25E5%25AE%259E%25E4%25BA%258B%25E5%25A5%25BD%25E4%25BA%258B%2523%26lcate%3D5001%26dgr%3D0%26realpos%3D10%26display_time%3D1761792759%26pre_seqid%3D17617927592080363020174",
           "source": "微博",
@@ -590,17 +609,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 11时11分]"
-        },
-        {
-          "title": "中美元首开场白传递哪些重磅信息",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "让中美关系这艘大船平稳前行",
@@ -645,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "中美携手多办一些大事实事好事",
+          "url": "https://www.toutiao.com/trending/7566875508667977226/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "中美元首会晤开始前，习近平同特朗普握手合影。 （央视新闻）",
@@ -724,8 +743,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时28分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -751,6 +770,19 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 14时28分]"
+        },
+        {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
           "url": "https://www.cls.cn/detail/2185393",
           "source": "财联社热门",
@@ -774,19 +806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时19分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -848,6 +867,19 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
+        },
+        {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
           "url": "https://wallstreetcn.com/livenews/2996237",
           "source": "华尔街见闻-快讯",
@@ -860,16 +892,27 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
+          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
+          "url": "https://www.zhihu.com/question/1966652250177893275",
+          "source": "知乎",
           "ranks": [
-            10,
-            9
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
+          "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/1963343251323969618",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
@@ -905,28 +948,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
-          "url": "https://www.zhihu.com/question/1966652250177893275",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
-          "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/1963343251323969618",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能模型和产品的进展将使我们能够在未来的几年中抓住新的收入增长机遇。",
@@ -1010,7 +1031,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -1053,6 +1074,17 @@
           "time_info": "[00时26分 ~ 13时19分]"
         },
         {
+          "title": "世界黄金协会：三季度全球央行净购金量总计220吨，环比增长28%",
+          "url": "https://wallstreetcn.com/livenews/2996520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.87吨，当前持仓量为1036.05吨。",
           "url": "https://flash.jin10.com/detail/20251030064611907800",
           "source": "金十数据",
@@ -1062,6 +1094,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "世界黄金协会：三季度全球黄金需求总量达1313吨 创单季度黄金需求最高纪录",
+          "url": "https://wallstreetcn.com/livenews/2996516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "世界黄金协会：黄金需求与价格同步上升到新高度",
+          "url": "https://flash.jin10.com/detail/20251030141350740800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "黄金",
@@ -1145,6 +1199,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "女子将黄金手镯皮带涂成银色入境被查",
+          "url": "https://www.toutiao.com/trending/7566823557318164499/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "有央行开始考虑卖黄金了",
           "url": "https://www.toutiao.com/trending/7566150119968718891/",
           "source": "今日头条",
@@ -1173,7 +1238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1184,7 +1249,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1203,7 +1268,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十图示：2025年10月30日（周四）亚太市场股市指数",
@@ -1297,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "沪深京三市成交额超2万亿元，较上日此时放量1966亿元。",
+          "url": "https://wallstreetcn.com/livenews/2996504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）全球股市指数-欧洲市场（收盘）",
@@ -1539,8 +1615,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时28分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -1551,8 +1627,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 14时28分]"
         },
         {
           "title": "比特币短线从11.12万美元一线拉升，逼近11.20万美元，日内整体跌幅收窄至0.8%。",
@@ -1618,7 +1694,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -1672,8 +1748,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时28分]"
         },
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
@@ -1684,8 +1760,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。美团涨超5%，小鹏汽车、蔚来涨超3%。",
@@ -1840,8 +1916,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时28分]"
         },
         {
           "title": "【每日收评】多股30CM涨停！北证50指数飙涨8%，光伏、储能赛道全线爆发",
