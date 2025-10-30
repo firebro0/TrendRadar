@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T22:20:03.132753+08:00",
-  "total_titles_processed": 2132,
+  "generated_at": "2025-10-30T23:22:08.122436+08:00",
+  "total_titles_processed": 2213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时28分 ~ 06时18分]"
+        },
+        {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时30分 ~ 23时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，ASHS涨1.4%，CQQQ涨0.8%，KWEB涨0.2%。",
@@ -66,15 +79,17 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/2996997",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
           "ranks": [
-            4
+            8,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时30分 ~ 23时22分]"
         },
         {
           "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
@@ -113,6 +128,18 @@
           "time_info": "[02时29分 ~ 03时15分]"
         },
         {
+          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2996997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "一名期权交易员下注2100万美元，预计标普500指数到2026年12月份将上涨30%。",
           "url": "https://wallstreetcn.com/livenews/2996110",
           "source": "华尔街见闻-快讯",
@@ -125,28 +152,16 @@
           "time_info": "[01时18分 ~ 02时29分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
+          "title": "美股三大股指集体低开 Meta跌逾11%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 22时20分]"
-        },
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[22时19分 ~ 23时22分]"
         },
         {
           "title": "市场“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
@@ -230,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "美股三大股指集体低开 Meta跌逾11%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2025年10月29日（周三）热门中概股行情一览（美股收盘）",
@@ -449,7 +453,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -463,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.03%，报8387.62点。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，中国科技指数ETF（CQQQ）收涨0.71%，中概互联网指数ETF（KWEB）收涨0.24%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.98%，中国ETF-iShares MSCI（MCHI）收涨0.57%。 富时中国3倍做多ETF（YINN）收涨0.71%。",
@@ -493,7 +508,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -515,7 +530,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -589,7 +604,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
@@ -599,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时22分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -620,11 +635,25 @@
           "source": "抖音",
           "ranks": [
             4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时22分]"
+        },
+        {
+          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/1967247414688720104",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 23时22分]"
         },
         {
           "title": "习近平：让中美关系这艘大船平稳前行",
@@ -641,17 +670,17 @@
           "time_info": "[11时10分 ~ 18时20分]"
         },
         {
-          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/1967247414688720104",
-          "source": "知乎",
+          "title": "商务部：中美经贸团队达成三方面成果共识",
+          "url": "https://wallstreetcn.com/articles/3758279",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             5,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[17时20分 ~ 23时22分]"
         },
         {
           "title": "中美元首会晤结束",
@@ -665,8 +694,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时18分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[13时18分 ~ 23时22分]"
+        },
+        {
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时22分]"
         },
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -698,19 +740,6 @@
           "time_info": "[13时18分 ~ 22时20分]"
         },
         {
-          "title": "商务部：中美经贸团队达成三方面成果共识",
-          "url": "https://wallstreetcn.com/articles/3758279",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时20分]"
-        },
-        {
           "title": "中美元首会晤双方代表都有谁",
           "url": "https://www.toutiao.com/trending/7566900170177170995/",
           "source": "今日头条",
@@ -721,11 +750,28 @@
             8,
             18,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时22分]"
+        },
+        {
+          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 23时22分]"
         },
         {
           "title": "中美元首握手合影",
@@ -740,11 +786,12 @@
             23,
             22,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时22分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[12时22分 ~ 23时22分]"
         },
         {
           "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
@@ -761,18 +808,6 @@
           "time_info": "[16时25分 ~ 20时40分]"
         },
         {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时20分]"
-        },
-        {
           "title": "习近平：让中美关系这艘大船平稳前行",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%99%E8%89%98%E5%A4%A7%E8%88%B9%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C",
           "source": "百度热搜",
@@ -785,20 +820,15 @@
           "time_info": "[11时10分 ~ 14时28分]"
         },
         {
-          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
-          "source": "澎湃新闻",
+          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
+          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            11,
-            9,
-            7,
-            6,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 23时22分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -828,17 +858,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时22分 ~ 15时18分]"
-        },
-        {
-          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
-          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时20分]"
         },
         {
           "title": "中美元首会晤",
@@ -905,6 +924,30 @@
           "time_info": "[11时10分 ~ 14时28分]"
         },
         {
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时19分 ~ 23时22分]"
+        },
+        {
+          "title": "中美谈妥了 美盟友成“小丑”了吗",
+          "url": "https://www.toutiao.com/trending/7566952024453942830/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时30分 ~ 23时22分]"
+        },
+        {
           "title": "中美元首会晤结束 历时约100分钟",
           "url": "https://www.douyin.com/hot/2288271",
           "source": "抖音",
@@ -954,17 +997,6 @@
           "time_info": "[13时18分 ~ 13时19分]"
         },
         {
-          "title": "特朗普给中美会晤打12分",
-          "url": "https://www.douyin.com/hot/2288755",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
           "title": "中美元首会晤结束",
           "url": "https://www.toutiao.com/trending/7566827332992880174/",
           "source": "今日头条",
@@ -1000,29 +1032,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "新华时评丨为中美关系把握好方向、驾驭住大局",
-          "url": "https://wallstreetcn.com/livenews/2996999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "中美谈妥了 美盟友成“小丑”了吗",
-          "url": "https://www.toutiao.com/trending/7566952024453942830/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 22时20分]"
         },
         {
           "title": "大国外交最前线见证中美元首会晤",
@@ -1061,6 +1070,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
+        },
+        {
+          "title": "新华时评丨为中美关系把握好方向、驾驭住大局",
+          "url": "https://wallstreetcn.com/livenews/2996999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "中美元首釜山会晤备受瞩目",
@@ -1133,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 20时40分]"
+        },
+        {
+          "title": "外媒如何看待中美元首会晤",
+          "url": "https://www.toutiao.com/trending/7567014553771511347/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
@@ -1215,7 +1247,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -1322,8 +1354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 23时22分]"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
@@ -1373,6 +1405,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。",
+          "url": "https://wallstreetcn.com/livenews/2997025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
           "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
@@ -1384,17 +1427,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时25分 ~ 19时16分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
-          "url": "https://wallstreetcn.com/livenews/2996996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
@@ -1444,6 +1476,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
+          "url": "https://wallstreetcn.com/livenews/2996996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落终结7连阳，AI硬件端遭重挫，锂矿股逆势爆发",
@@ -1505,6 +1549,17 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
           "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
           "url": "https://wallstreetcn.com/articles/3758110",
           "source": "华尔街见闻",
@@ -1534,7 +1589,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1545,7 +1600,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1567,7 +1622,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1713,12 +1768,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "壳牌(SHEL.N)CEO：人工智能正在提升上游业务表现。",
+          "url": "https://flash.jin10.com/detail/20251030224331616800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -1772,6 +1838,19 @@
           "time_info": "14时28分"
         },
         {
+          "title": "你如何看待黄金走私行为",
+          "url": "https://www.toutiao.com/trending/7566907998707531795/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 23时22分]"
+        },
+        {
           "title": "女子将黄金手镯皮带涂成银色入境被查",
           "url": "https://www.toutiao.com/trending/7566823557318164499/",
           "source": "今日头条",
@@ -1817,17 +1896,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
-        },
-        {
-          "title": "现货白银日内涨幅达2%，报48.53美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2996998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "世界黄金协会：黄金需求与价格同步上升到新高度",
@@ -1887,16 +1955,16 @@
           "time_info": "[04时22分 ~ 06时18分]"
         },
         {
-          "title": "你如何看待黄金走私行为",
-          "url": "https://www.toutiao.com/trending/7566907998707531795/",
-          "source": "今日头条",
+          "title": "现货白银日内涨幅达2%，报48.53美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2996998",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            10
+            3,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时20分]"
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "给女儿的300克黄金嫁妆掉落高速上",
@@ -1973,7 +2041,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2086,6 +2154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "政府信函显示，加纳启动对包括纽蒙特矿业、安哥洛黄金、Gold Fields等顶级黄金矿商的审计。",
+          "url": "https://flash.jin10.com/detail/20251030224450052800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "现货黄金日内涨幅达1.00%，现报3968.29美元/盎司。",
@@ -2271,7 +2350,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2516,8 +2595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时18分 ~ 22时20分]"
+          "appearance_count": 20,
+          "time_info": "[07时18分 ~ 23时22分]"
         },
         {
           "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
@@ -2540,8 +2619,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时28分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时28分 ~ 23时22分]"
+        },
+        {
+          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时19分 ~ 23时22分]"
         },
         {
           "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
@@ -2567,15 +2658,16 @@
           "time_info": "[02时29分 ~ 03时15分]"
         },
         {
-          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
+          "title": "比特币目前跌2.6%，以太坊跌3.6%，Solana跌3.5%，狗狗币跌5.9%，XRP跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/2996994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
@@ -2588,17 +2680,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "比特币目前跌2.6%，以太坊跌3.6%，Solana跌3.5%，狗狗币跌5.9%，XRP跌4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2996994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "美国10年期国债收益率短线从4.02%下方拉升至接近4.05%，日内涨约7个基点； 两年期美债收益率短线从3.52%下方飙升至3.57%上方，日内涨超8个基点。 现货黄金转跌，正测试3950美元。 新兴市场货币下跌，鲍威尔给美联储12月降息前景蒙上阴影。 美国股市转跌，标普跌0.4%，道指跌0.3%，纳斯达克100指数跌0.3%，费城银行指数跌1%。 比特币短线从11.2万美元附近跳水，至接近10.9万美元的水平。",
@@ -2643,6 +2724,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特斯拉因为越野灯条配件潜在的安装问题而召回6,197辆Cybertruck，这已经是短短不到两年时间里第十次召回该车型。",
+          "url": "https://wallstreetcn.com/livenews/2997028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "特斯拉不到两年内第十次召回Cybertruck",
+          "url": "https://flash.jin10.com/detail/20251030231238842800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
+          "url": "https://www.zhihu.com/question/1966813234586678079",
+          "source": "知乎",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时11分]"
+        },
+        {
+          "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
+          "url": "https://wallstreetcn.com/livenews/2997000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
+          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
+          "url": "https://wallstreetcn.com/livenews/2996211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "据The Information：特斯拉(TSLA.O)缩减后的自动驾驶出租车计划仍面临诸多障碍。",
+          "url": "https://flash.jin10.com/detail/20251030210753926800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "消息人士：特斯拉(TSLA.O)尚未完成在亚利桑那州和内华达州开始提供机器人出租车服务所需的所有文件手续。",
+          "url": "https://flash.jin10.com/detail/20251030210257969800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         }
       ]
     },
@@ -2699,8 +2877,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时22分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[12时22分 ~ 23时22分]"
         },
         {
           "title": "小米狂揽车榜第一,质疑铺天盖地",
@@ -2726,8 +2904,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[22时19分 ~ 23时22分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。美团涨超5%，小鹏汽车、蔚来涨超3%。",
@@ -2765,71 +2943,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
-          "url": "https://wallstreetcn.com/livenews/2997000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
-          "url": "https://www.zhihu.com/question/1966813234586678079",
-          "source": "知乎",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时11分]"
-        },
-        {
-          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
-          "url": "https://wallstreetcn.com/livenews/2996211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "据The Information：特斯拉(TSLA.O)缩减后的自动驾驶出租车计划仍面临诸多障碍。",
-          "url": "https://flash.jin10.com/detail/20251030210753926800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "消息人士：特斯拉(TSLA.O)尚未完成在亚利桑那州和内华达州开始提供机器人出租车服务所需的所有文件手续。",
-          "url": "https://flash.jin10.com/detail/20251030210257969800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么我感觉现在苹果的手机广告并不比安卓少？",
@@ -2861,6 +2976,17 @@
           "time_info": "[00时26分 ~ 04时22分]"
         },
         {
+          "title": "为什么我听不出耳放和 MacBook 的区别？",
+          "url": "https://www.zhihu.com/question/1941301851719959050",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌互现。焦煤涨超3%，工业硅、碳酸锂涨超2%，焦炭、丁二烯橡胶、聚氯乙烯（PVC）、聚氯乙烯（PVC）月均价期货、苹果、铁矿石涨超1%。跌幅方面，红枣跌超2%，生猪、燃料油跌超1%。",
           "url": "https://flash.jin10.com/detail/20251030113039385800",
           "source": "金十数据",
@@ -2881,6 +3007,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光伏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3758138",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时28分]"
+        },
+        {
+          "title": "【每日收评】多股30CM涨停！北证50指数飙涨8%，光伏、储能赛道全线爆发",
+          "url": "https://www.cls.cn/detail/2184817",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "光伏规范名单终落地 129家企业通过核验 业内预计提质增效工作加码",
+          "url": "https://www.cls.cn/detail/2186780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         }
       ]
     },
@@ -2909,36 +3076,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光伏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股大涨！沪指站上4000点，北证50狂飙超8%，光伏产业链爆发，沪铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3758138",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 14时28分]"
-        },
-        {
-          "title": "【每日收评】多股30CM涨停！北证50指数飙涨8%，光伏、储能赛道全线爆发",
-          "url": "https://www.cls.cn/detail/2184817",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
         }
       ]
     },
