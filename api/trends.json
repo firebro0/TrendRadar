@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T16:25:52.842564+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-10-30T17:21:06.321120+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中美",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "习近平：让中美关系这艘大船平稳前行",
+          "url": "https://www.cls.cn/detail/2185755",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 17时21分]"
         },
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -33,20 +47,6 @@
         },
         {
           "title": "习近平：让中美关系这艘大船平稳前行",
-          "url": "https://www.cls.cn/detail/2185755",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 16时25分]"
-        },
-        {
-          "title": "习近平：让中美关系这艘大船平稳前行",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E8%AE%A9%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%BF%99%E8%89%98%E5%A4%A7%E8%88%B9%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C",
           "source": "百度热搜",
           "ranks": [
@@ -56,6 +56,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时10分 ~ 14时28分]"
+        },
+        {
+          "title": "中美元首握手合影",
+          "url": "https://www.toutiao.com/trending/7566854727581929010/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            7,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时21分]"
         },
         {
           "title": "中美元首釜山会面,要谈点啥?",
@@ -85,6 +100,45 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
+          "title": "中美元首会晤开场白传递哪些重磅信息",
+          "url": "https://www.toutiao.com/trending/7566519039041585162/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时21分]"
+        },
+        {
+          "title": "中美元首会晤结束",
+          "url": "https://wallstreetcn.com/articles/3758263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时21分]"
+        },
+        {
+          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967168982114075156",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
           "title": "中美元首会晤历时约1小时40分钟",
@@ -125,31 +179,40 @@
           "time_info": "[11时10分 ~ 14时28分]"
         },
         {
-          "title": "中美元首握手合影",
-          "url": "https://www.toutiao.com/trending/7566854727581929010/",
-          "source": "今日头条",
+          "title": "中美经贸磋商成果",
+          "url": "https://www.douyin.com/hot/2288557",
+          "source": "抖音",
           "ranks": [
-            5,
-            1,
-            7,
-            12
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
-          "title": "中美元首会晤开场白传递哪些重磅信息",
-          "url": "https://www.toutiao.com/trending/7566519039041585162/",
-          "source": "今日头条",
+          "title": "中美元首开场白传递哪些重磅信息",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            4,
-            8
+            12,
+            7,
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时21分]"
+        },
+        {
+          "title": "中美元首会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
           "title": "中美元首会晤结束 历时约100分钟",
@@ -164,29 +227,28 @@
           "time_info": "[12时22分 ~ 15时18分]"
         },
         {
-          "title": "中美元首会晤结束",
-          "url": "https://wallstreetcn.com/articles/3758263",
-          "source": "华尔街见闻",
+          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
+          "url": "https://www.cls.cn/detail/2186104",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6,
             5,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
-          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967168982114075156",
+          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/1967247414688720104",
           "source": "知乎",
           "ranks": [
-            1
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
           "title": "给中美和世界经济吃下一颗定心丸",
@@ -194,35 +256,25 @@
           "source": "微博",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
-          "title": "中美元首开场白传递哪些重磅信息",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
+          "title": "中美元首会晤双方代表都有谁",
+          "url": "https://www.toutiao.com/trending/7566900170177170995/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时25分]"
-        },
-        {
-          "title": "中美经贸磋商成果",
-          "url": "https://www.douyin.com/hot/2288557",
-          "source": "抖音",
-          "ranks": [
+            29,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时21分]"
         },
         {
           "title": "中美元首会晤结束 历时约1小时40分钟",
@@ -247,17 +299,6 @@
           "time_info": "12时22分"
         },
         {
-          "title": "中美元首会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "中美元首釜山会晤在即，经贸议题或有实质进展",
           "url": "https://news.ifeng.com/c/8nrkDwinFkl",
           "source": "凤凰网",
@@ -269,26 +310,18 @@
           "time_info": "09时28分"
         },
         {
-          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
-          "url": "https://www.cls.cn/detail/2186104",
-          "source": "财联社热门",
+          "title": "中美携手多办一些大事实事好事",
+          "url": "https://www.toutiao.com/trending/7566875508667977226/",
+          "source": "今日头条",
           "ranks": [
-            5
+            13,
+            15,
+            26,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/1967247414688720104",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时21分]"
         },
         {
           "title": "中美元首会晤结束",
@@ -316,16 +349,28 @@
           "time_info": "[09时28分 ~ 12时22分]"
         },
         {
-          "title": "中美元首会晤双方代表都有谁",
-          "url": "https://www.toutiao.com/trending/7566900170177170995/",
-          "source": "今日头条",
+          "title": "大国外交最前线见证中美元首会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E6%9C%80%E5%89%8D%E7%BA%BF%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
           "ranks": [
-            29,
-            5
+            10,
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 17时21分]"
+        },
+        {
+          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
+          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
           "title": "特朗普相信中美将建立长期良好关系",
@@ -340,29 +385,39 @@
           "time_info": "[12时22分 ~ 13时19分]"
         },
         {
-          "title": "中美携手多办一些大事实事好事",
-          "url": "https://www.toutiao.com/trending/7566875508667977226/",
-          "source": "今日头条",
+          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            15,
-            26
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
-          "title": "大国外交最前线见证中美元首会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E6%9C%80%E5%89%8D%E7%BA%BF%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
+          "title": "中美互相暂停相应出口管制措施",
+          "url": "https://www.douyin.com/hot/2288569",
+          "source": "抖音",
           "ranks": [
-            10,
+            15,
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
+        },
+        {
+          "title": "商务部：中美经贸团队达成三方面成果共识",
+          "url": "https://wallstreetcn.com/articles/3758279",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时22分 ~ 16时25分]"
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "中美携手多办一些大事实事好事",
@@ -374,6 +429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 11时11分]"
+        },
+        {
+          "title": "习近平：让中美关系这艘大船平稳前行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854330",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "让中美关系这艘大船平稳前行",
@@ -396,17 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
-          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "习近平：中美两国可以相互成就、共同繁荣",
@@ -437,29 +492,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中美互相暂停相应出口管制措施",
-          "url": "https://www.douyin.com/hot/2288569",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -500,7 +533,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -580,7 +613,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -607,6 +640,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时29分]"
+        },
+        {
+          "title": "市场“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "加拿大标普/TSX综合指数收跌0.90%，报30144.78点，微幅高开之后走低，美联储主席鲍威尔讲话前持稳于30300点附近。 周三（10月29日）北美尾盘，加拿大10年期基准国债收益率涨11.5个基点，报3.158%，全天持续、平滑地上涨。 两年期加债收益率涨8.5个基点，报2.440%，北京时间21:45加拿大央行公布利率决定之后显著拉升、02:35鲍威尔谈及利率前景之后再次拉升；五年期加债收益率涨11.7个基点，报2.742%。",
@@ -711,7 +755,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -733,9 +777,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "好未来第二财季净营收8.614亿美元，预估8.305亿美元。 第二财季调整后每ADS收益 0.24美元，预估0.16美元。 好未来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2996704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美股股指期货跌幅收窄，标普500指数期货和纳斯达克指数期货再次转为持平。",
@@ -936,8 +991,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时21分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -963,6 +1018,21 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时21分]"
+        },
+        {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
@@ -975,21 +1045,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时28分 ~ 16时25分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 16时25分]"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
@@ -1088,6 +1143,18 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
+        },
+        {
           "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
           "url": "https://www.zhihu.com/question/1966652250177893275",
           "source": "知乎",
@@ -1156,17 +1223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
@@ -1293,7 +1349,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -1358,6 +1414,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "现货黄金继续拉升，向上触及4010美元/盎司，日内涨2.07%。",
+          "url": "https://flash.jin10.com/detail/20251030171634694800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "世界黄金协会：三季度全球黄金需求总量达1313吨 创单季度黄金需求最高纪录",
           "url": "https://wallstreetcn.com/livenews/2996516",
           "source": "华尔街见闻-快讯",
@@ -1378,6 +1445,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "现货黄金日内大涨2.00%，现报4007.69美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251030171552236800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "现货黄金日内涨超2%，向上触及4010美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2996717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "女子将黄金手镯皮带涂成银色入境被查",
+          "url": "https://www.toutiao.com/trending/7566823557318164499/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时21分]"
         },
         {
           "title": "黄金",
@@ -1404,18 +1506,6 @@
           "time_info": "[04时22分 ~ 06时18分]"
         },
         {
-          "title": "女子将黄金手镯皮带涂成银色入境被查",
-          "url": "https://www.toutiao.com/trending/7566823557318164499/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 16时25分]"
-        },
-        {
           "title": "给女儿的300克黄金嫁妆掉落高速上",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BB%99%E5%A5%B3%E5%84%BF%E7%9A%84300%E5%85%8B%E9%BB%84%E9%87%91%E5%AB%81%E5%A6%86%E6%8E%89%E8%90%BD%E9%AB%98%E9%80%9F%E4%B8%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D16%26flag%3D1%26c_type%3D31%26q%3D%2523%25E7%25BB%2599%25E5%25A5%25B3%25E5%2584%25BF%25E7%259A%2584300%25E5%2585%258B%25E9%25BB%2584%25E9%2587%2591%25E5%25AB%2581%25E5%25A6%2586%25E6%258E%2589%25E8%2590%25BD%25E9%25AB%2598%25E9%2580%259F%25E4%25B8%258A%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D15%26realpos%3D15%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
           "source": "微博",
@@ -1440,6 +1530,17 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "现货黄金站上4000美元/盎司，日内涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/2996716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "“专业基民”新动向：左手科技右手黄金",
           "url": "https://wallstreetcn.com/livenews/2996259",
           "source": "华尔街见闻-快讯",
@@ -1449,6 +1550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "现货黄金短线拉升24美元，站上4000美元/盎司，日内涨1.81%。",
+          "url": "https://flash.jin10.com/detail/20251030171103400800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "现货黄金周四开盘下跌，最新报3920美元/盎司。",
@@ -1471,6 +1583,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "现货黄金突破3990美元/盎司，日内涨1.55%。",
+          "url": "https://flash.jin10.com/detail/20251030170416119800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "现货白银日内涨幅达1%，报48.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2996705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报48.03美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251030170341195800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "有央行开始考虑卖黄金了",
@@ -1710,7 +1855,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
@@ -1889,8 +2034,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时18分 ~ 17时21分]"
         },
         {
           "title": "一文看清英伟达GTC黄仁勋演讲要点：2000万块Blackwell销售预期，Rubin首秀，推出NVQLink，6G等重磅合作",
@@ -1913,8 +2058,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时21分]"
         },
         {
           "title": "比特币短线从11.12万美元一线拉升，逼近11.20万美元，日内整体跌幅收窄至0.8%。",
@@ -2046,11 +2191,12 @@
             7,
             8,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时21分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%。美团涨超5%，小鹏汽车、蔚来涨超3%。",
