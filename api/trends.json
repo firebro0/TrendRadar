@@ -1,11 +1,106 @@
 {
-  "generated_at": "2025-11-01T00:24:34.056256+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-01T01:18:26.642465+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758368",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "网友称iPhone半夜自动拨号给陌生人",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0iPhone%E5%8D%8A%E5%A4%9C%E8%87%AA%E5%8A%A8%E6%8B%A8%E5%8F%B7%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：当前的银行系统形势非常不错。",
+          "url": "https://wallstreetcn.com/livenews/2997838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：时间将证明稳定币会有什么用处。",
+          "url": "https://wallstreetcn.com/livenews/2997835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：如果能实现资产负债表规模最小化，那将是有好处的。 希望看到一级交易商（美联储在货币市场的交易对手）利用SFR。",
+          "url": "https://wallstreetcn.com/livenews/2997833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：我们最近看到回购利率市场面临一些压力。",
+          "url": "https://wallstreetcn.com/livenews/2997832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：希望对美国劳动力市场表现疲软保持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/2997827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：本来想在这周要求按兵不动的。 但最终还是支持了本周的降息决定。 我认为我们当前的（政策利率）水平并不远离我自己所给中性利率的预测。 通胀远超关税的范畴，核心服务通胀强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -15,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -26,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -37,8 +132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -83,123 +178,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
         },
         {
-          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
-          "url": "https://www.cls.cn/detail/2188129",
-          "source": "财联社热门",
+          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
+          "url": "https://wallstreetcn.com/livenews/2997823",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862301",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "理想召回2024款MEGA",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%83%B3%E5%8F%AC%E5%9B%9E2024%E6%AC%BEMEGA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
-          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时18分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -209,8 +204,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "标普500指数转跌，日内稍早一度涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/2997848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "01时18分"
         },
         {
           "title": "油价回吐涨幅，标普500指数目前涨0.33%，道指微跌。 美国总统特朗普称，美军不会（从陆地上）袭击委内瑞拉。 被问及是否考虑袭击委内瑞拉，称他“没有”。 还没有决定是否要袭击委内瑞拉。 将进行一些（核武器）测试。",
@@ -231,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -244,6 +250,139 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251101004053080800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251101004045516800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
+          "url": "https://www.cls.cn/detail/2188129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862301",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "理想召回2024款MEGA",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%83%B3%E5%8F%AC%E5%9B%9E2024%E6%AC%BEMEGA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中美在建立“G2”集团？外交部回应",
+          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
+          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     },
@@ -252,22 +391,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "星铁黄金史诗PV再见昔涟",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
           "url": "https://wallstreetcn.com/livenews/2997809",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "星铁黄金史诗PV再见昔涟",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97PV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -298,53 +438,26 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "李一桐清瞳摇solo",
           "url": "https://www.douyin.com/hot/2290291",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758368",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "网友称iPhone半夜自动拨号给陌生人",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0iPhone%E5%8D%8A%E5%A4%9C%E8%87%AA%E5%8A%A8%E6%8B%A8%E5%8F%B7%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周五（10月31日），南非富时/JSE非洲领先40可交易指数收跌0.42%，至10.2万点下方，本周累计下跌1.14%。 10月份，南非股指累涨0.98%，10月16日涨至10.6万点创历史新高之后快速走低。",
@@ -356,6 +469,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年11月01日（周六）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251101004631627800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科学家研发能治病的毒液机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E8%83%BD%E6%B2%BB%E7%97%85%E7%9A%84%E6%AF%92%E6%B6%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%25A7%2591%25E5%25AD%25A6%25E5%25AE%25B6%25E7%25A0%2594%25E5%258F%2591%25E8%2583%25BD%25E6%25B2%25BB%25E7%2597%2585%25E7%259A%2584%25E6%25AF%2592%25E6%25B6%25B2%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26pos%3D9%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D9%26cate%3D5001%26realpos%3D9%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1761930502%26pre_seqid%3D17619305021970252277304&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
+          "url": "https://www.zhihu.com/question/1964768855290242461",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
@@ -371,8 +523,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     },
@@ -388,8 +540,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     }
