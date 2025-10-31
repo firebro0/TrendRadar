@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T04:21:36.576135+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-11-01T05:16:13.545880+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -15,41 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040624223800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251101040622397800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -59,17 +26,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
-          "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
-          "url": "https://flash.jin10.com/detail/20251101040612568800",
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251101040624223800",
           "source": "金十数据",
           "ranks": [
+            2,
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251101040622397800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "周五（10月31日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.15%，纳斯达克100股指期货涨0.44%。 罗素2000股指期货涨0.50%。",
+          "url": "https://wallstreetcn.com/livenews/2997903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/2997886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -80,20 +82,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
         {
-          "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
-          "url": "https://flash.jin10.com/detail/20251101040052519800",
-          "source": "金十数据",
+          "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/2997900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时16分"
         },
         {
           "title": "油价回吐涨幅，标普500指数目前涨0.33%，道指微跌。 美国总统特朗普称，美军不会（从陆地上）袭击委内瑞拉。 被问及是否考虑袭击委内瑞拉，称他“没有”。 还没有决定是否要袭击委内瑞拉。 将进行一些（核武器）测试。",
@@ -120,6 +122,63 @@
           "time_info": "[01时18分 ~ 03时14分]"
         },
         {
+          "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
+          "url": "https://flash.jin10.com/detail/20251101040612568800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
+          "url": "https://flash.jin10.com/detail/20251101040052519800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
+          "url": "https://wallstreetcn.com/livenews/2997896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
+          "url": "https://wallstreetcn.com/livenews/2997895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "Illumina Inc.收涨24.88%，创2012年1月份以来最大单日涨幅。 纳斯达克生物科技指数收涨1.20%，成分股Ironwood医药收涨27.33%，Illumina涨幅第二大，Ardelyx涨20.96%，Pacific Biosciences of California涨20.62%表现第四。 CorMedix则收跌4.39%跌幅第三大，Stoke Therapeutics跌5.24%，Bicycle Therapeutics跌7.88%。",
+          "url": "https://wallstreetcn.com/livenews/2997888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "标普全球： 将波音(BA.N)展望由负面上调至稳定是因为其产量增加。",
           "url": "https://flash.jin10.com/detail/20251101023821426800",
           "source": "金十数据",
@@ -131,6 +190,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
+          "url": "https://wallstreetcn.com/livenews/2997886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "标普全球：将波音(BA.N)展望从负面调整为稳定，并维持其评级。",
           "url": "https://flash.jin10.com/detail/20251101023754107800",
           "source": "金十数据",
@@ -140,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "标普500指数收涨17.86点，涨幅0.26%，报6840.20点。 道琼斯工业平均指数收涨40.75点，涨幅0.09%，报47562.87点。 纳斯达克综合指数（纳指）收涨143.813点，涨幅0.61%，报23724.957点。 纳斯达克100指数收涨123.313点，涨幅0.48%，报25858.126点。",
+          "url": "https://wallstreetcn.com/livenews/2997884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -188,8 +269,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "网友称iPhone半夜自动拨号给陌生人",
@@ -199,11 +280,12 @@
             20,
             18,
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：当前的银行系统形势非常不错。",
@@ -302,8 +384,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -315,19 +397,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
           "url": "https://wallstreetcn.com/articles/3758381",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -398,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
@@ -409,8 +492,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
@@ -420,8 +503,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
@@ -431,8 +514,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "中美元首会晤对台湾意味着什么",
@@ -441,11 +524,12 @@
           "ranks": [
             20,
             27,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 05时16分]"
         },
         {
           "title": "港媒：中美达成共识后，荷兰在接管安世问题上进退两难",
@@ -455,14 +539,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 05时16分]"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "星铁黄金史诗PV再见昔涟",
@@ -475,19 +559,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
           "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 05时16分]"
+        },
+        {
+          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
+          "url": "https://wallstreetcn.com/livenews/2997897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -525,6 +621,70 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“比特币富婆”钱志敏认罪",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
+        },
+        {
+          "title": "李一桐清瞳摇solo",
+          "url": "https://www.douyin.com/hot/2290291",
+          "source": "抖音",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
+        },
+        {
+          "title": "美国联邦检察官指控比特币ATM助长加密货币诈骗。",
+          "url": "https://flash.jin10.com/detail/20251101033444029800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "以太坊站上3900美元/枚，日内涨2.54%。",
+          "url": "https://flash.jin10.com/detail/20251101033413409800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "马斯克：植入Neuralink设备的人将最终将战胜所有人类玩家",
+          "url": "https://wallstreetcn.com/livenews/2997904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 5,
       "titles": [
@@ -536,8 +696,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -549,19 +709,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
           "url": "https://www.cls.cn/detail/2188129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -572,8 +733,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -586,59 +747,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“比特币富婆”钱志敏认罪",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "李一桐清瞳摇solo",
-          "url": "https://www.douyin.com/hot/2290291",
-          "source": "抖音",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "美国联邦检察官指控比特币ATM助长加密货币诈骗。",
-          "url": "https://flash.jin10.com/detail/20251101033444029800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "以太坊站上3900美元/枚，日内涨2.54%。",
-          "url": "https://flash.jin10.com/detail/20251101033413409800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         }
       ]
     },
@@ -651,11 +761,12 @@
           "url": "https://flash.jin10.com/detail/20251101040628158800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
         },
         {
           "title": "金十图示：2025年11月01日（周六）全球股市指数-欧洲市场（收盘）",
@@ -715,11 +826,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时16分]"
         },
         {
           "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
@@ -778,8 +890,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         }
       ]
     }
