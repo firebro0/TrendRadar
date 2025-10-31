@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T21:30:06.681148+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2025-10-31T22:19:34.577473+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中美",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "商务部：中美经贸团队达成三方面成果共识",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 11时10分]"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部回应",
+          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时19分]"
         },
         {
           "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
@@ -86,17 +97,6 @@
           "time_info": "[00时24分 ~ 18时20分]"
         },
         {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时30分]"
-        },
-        {
           "title": "外媒如何看待中美元首会晤",
           "url": "https://www.toutiao.com/trending/7567014553771511347/",
           "source": "今日头条",
@@ -108,6 +108,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "美方称中美贸易协定或于下周签署，外交部回应",
+          "url": "https://www.cls.cn/detail/2187743",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时19分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -152,19 +165,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时29分 ~ 19时16分]"
-        },
-        {
-          "title": "美方称中美贸易协定或于下周签署，外交部回应",
-          "url": "https://www.cls.cn/detail/2187743",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时30分]"
         },
         {
           "title": "中美元首会晤到底谈了什么",
@@ -256,8 +256,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 21时30分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 22时19分]"
         },
         {
           "title": "中美元首会晤双方代表都有谁",
@@ -298,6 +298,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时19分 ~ 18时20分]"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
+          "url": "https://www.cls.cn/detail/2187768",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时19分]"
+        },
+        {
+          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "《人民日报》披露中美元首会晤细节",
@@ -343,6 +370,18 @@
           "time_info": "[16时25分 ~ 21时30分]"
         },
         {
+          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 22时19分]"
+        },
+        {
           "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
           "url": "https://www.cls.cn/detail/2187075",
           "source": "财联社热门",
@@ -356,30 +395,15 @@
           "time_info": "[09时26分 ~ 14时29分]"
         },
         {
-          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
-          "source": "澎湃新闻",
+          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
+          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时30分]"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
-          "url": "https://www.cls.cn/detail/2187768",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时30分]"
+          "time_info": "[21时29分 ~ 22时19分]"
         },
         {
           "title": "德称不能让中美单独决定科技的未来",
@@ -396,29 +420,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时28分 ~ 07时17分]"
-        },
-        {
-          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 21时30分]"
-        },
-        {
-          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
-          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "《人民日报》披露中美元首会晤详情",
@@ -495,6 +496,17 @@
           "time_info": "[16时25分 ~ 17时21分]"
         },
         {
+          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
+          "url": "https://www.cls.cn/detail/2187764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时19分]"
+        },
+        {
           "title": "中美携手多办一些大事实事好事",
           "url": "https://www.toutiao.com/trending/7566875508667977226/",
           "source": "今日头条",
@@ -551,17 +563,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
-          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
-          "url": "https://www.cls.cn/detail/2187764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "中美军事互动迎来难得契机",
@@ -653,6 +654,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "中美防长会谈释放哪些信号",
+          "url": "https://www.toutiao.com/trending/7567357795368963593/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "专家：中美欧“三国杀”启幕",
           "url": "https://www.toutiao.com/trending/7567305603513601562/",
           "source": "今日头条",
@@ -667,7 +679,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -695,8 +707,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时23分 ~ 21时30分]"
+          "appearance_count": 14,
+          "time_info": "[12时23分 ~ 22时19分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -749,6 +761,18 @@
           "time_info": "[09时26分 ~ 13时20分]"
         },
         {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时19分]"
+        },
+        {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
           "url": "https://wallstreetcn.com/livenews/2997044",
           "source": "华尔街见闻-快讯",
@@ -798,17 +822,6 @@
           "time_info": "[03时15分 ~ 04时21分]"
         },
         {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时30分]"
-        },
-        {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
           "url": "https://wallstreetcn.com/articles/3758381",
           "source": "华尔街见闻",
@@ -816,8 +829,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "亚马逊(AMZN.O)：人工智能和核心基础设施需求持续强劲。",
@@ -1009,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "国家发改委：打造数字赋能文旅、体育、数字消费等新型数字生活场景，推动人工智能在消费场景应用",
@@ -1267,7 +1291,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -1282,8 +1306,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 21时30分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 22时19分]"
         },
         {
           "title": "Mac",
@@ -1303,11 +1327,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时30分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时19分]"
         },
         {
           "title": "摩根士丹利：将苹果(AAPL.O)目标价从298美元上调至305美元。",
@@ -1588,6 +1613,17 @@
           "time_info": "[19时16分 ~ 20时39分]"
         },
         {
+          "title": "苹果(AAPL.O)开盘触及历史新高后短暂下跌0.8%，最新涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20251031215035971800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
           "url": "https://flash.jin10.com/detail/20251031043441895800",
           "source": "金十数据",
@@ -1731,6 +1767,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "必会的iPhone截图技巧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BF%85%E4%BC%9A%E7%9A%84iPhone%E6%88%AA%E5%9B%BE%E6%8A%80%E5%B7%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26pos%3D27%26dgr%3D0%26realpos%3D26%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26q%3D%25E5%25BF%2585%25E4%25BC%259A%25E7%259A%2584iPhone%25E6%2588%25AA%25E5%259B%25BE%25E6%258A%2580%25E5%25B7%25A7%26stream_entry_id%3D31%26display_time%3D1761919374%26pre_seqid%3D176191937486203434537118&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "苹果(AAPL.O)盘前涨2.55%，公司预计假日季营收将实现两位数增长。",
           "url": "https://flash.jin10.com/detail/20251031160046988800",
           "source": "金十数据",
@@ -1745,7 +1792,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1756,8 +1803,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时17分 ~ 21时30分]"
+          "appearance_count": 17,
+          "time_info": "[07时17分 ~ 22时19分]"
         },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -1879,6 +1926,30 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时19分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 22时19分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)美股盘后大涨超10%。",
           "url": "https://flash.jin10.com/detail/20251031040446703800",
           "source": "金十数据",
@@ -1901,17 +1972,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
@@ -1962,24 +2022,13 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2997747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
           "url": "https://wallstreetcn.com/livenews/2997746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -2061,6 +2110,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -2070,6 +2130,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "标普500指数高开56.83点，涨幅0.83%，报6879.17点； 道琼斯工业平均指数高开137.84点，涨幅0.29%，报47659.96点； 纳斯达克综合指数高开360.63点，涨幅1.53%，报23941.78点。",
+          "url": "https://wallstreetcn.com/livenews/2997762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
@@ -2083,15 +2165,37 @@
           "time_info": "17时21分"
         },
         {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251031214235711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
           "url": "https://flash.jin10.com/detail/20251031205708619800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "标普500非必需消费品板块创下历史新高，最新上涨4.6%。",
+          "url": "https://flash.jin10.com/detail/20251031214030733800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.88%，报8230.19点。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌2.28%，中国科技指数ETF（CQQQ）收跌2.19%。 XtrackersHarvest中证50（ASHS）收跌1.33%，德银嘉实沪深300指数ETF（ASHR）收跌1.15%。",
@@ -2144,8 +2248,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时29分 ~ 21时30分]"
+          "appearance_count": 11,
+          "time_info": "[14时29分 ~ 22时19分]"
         },
         {
           "title": "如何看待黄金七日暴跌500美元",
@@ -2380,7 +2484,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技巨头主宰一切！亚洲股市“巨头依赖症”加深 中国市场是解药？",
@@ -2404,7 +2508,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -2418,6 +2522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20251031220100720800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-10-31）",
@@ -2594,8 +2709,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 22时19分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -2672,6 +2787,20 @@
           "time_info": "15时18分"
         },
         {
+          "title": "理想召回2024款MEGA",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%83%B3%E5%8F%AC%E5%9B%9E2024%E6%AC%BEMEGA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            18,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时19分]"
+        },
+        {
           "title": "小米汽车：10月新增22家门店，11月计划新增17家门店",
           "url": "https://wallstreetcn.com/livenews/2997668",
           "source": "华尔街见闻-快讯",
@@ -2684,17 +2813,16 @@
           "time_info": "[19时16分 ~ 20时39分]"
         },
         {
-          "title": "理想召回2024款MEGA",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%83%B3%E5%8F%AC%E5%9B%9E2024%E6%AC%BEMEGA",
-          "source": "bilibili 热搜",
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            18,
-            14
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时30分]"
+          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "理想汽车为车辆起火事件致歉",
@@ -2708,18 +2836,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时16分 ~ 21时30分]"
-        },
-        {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时30分]"
         },
         {
           "title": "理想回应MEGA 2024款召回：起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -2836,6 +2952,17 @@
           "time_info": "[00时25分 ~ 02时28分]"
         },
         {
+          "title": "“比特币富婆”钱志敏认罪",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时19分]"
+        },
+        {
           "title": "携6.1万枚比特币出逃的钱志敏是谁",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%90%BA6.1%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E5%87%BA%E9%80%83%E7%9A%84%E9%92%B1%E5%BF%97%E6%95%8F%E6%98%AF%E8%B0%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2590%25BA6.1%25E4%25B8%2587%25E6%259E%259A%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%2587%25BA%25E9%2580%2583%25E7%259A%2584%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E6%2598%25AF%25E8%25B0%2581%2523%26c_type%3D31%26dgr%3D0%26pos%3D6%26realpos%3D6%26band_rank%3D6%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761840611%26pre_seqid%3D17618406111990242580108",
           "source": "微博",
@@ -2845,17 +2972,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "“比特币富婆”钱志敏认罪",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "比特币向上触及110000美元/枚，日内涨1.57%。",
@@ -2908,8 +3024,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 22时19分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -2985,11 +3101,12 @@
             3,
             2,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 21时30分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 22时19分]"
         },
         {
           "title": "如何看待博主基德的新视频《人形机器人为什么注定失败》？",
@@ -3059,7 +3176,7 @@
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
@@ -3069,8 +3186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时19分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -3083,6 +3200,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 06时18分]"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
