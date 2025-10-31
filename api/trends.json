@@ -1,685 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:19:34.577473+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2025-10-31T23:19:00.881745+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "中美",
-      "match_count": 52,
-      "titles": [
-        {
-          "title": "商务部：中美经贸团队达成三方面成果共识",
-          "url": "https://wallstreetcn.com/articles/3758279",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首会晤结束",
-          "url": "https://wallstreetcn.com/articles/3758263",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时10分]"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时19分]"
-        },
-        {
-          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967168982114075156",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            4,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时10分]"
-        },
-        {
-          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/1967247414688720104",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时26分]"
-        },
-        {
-          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 18时20分]"
-        },
-        {
-          "title": "外媒如何看待中美元首会晤",
-          "url": "https://www.toutiao.com/trending/7567014553771511347/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时26分]"
-        },
-        {
-          "title": "美方称中美贸易协定或于下周签署，外交部回应",
-          "url": "https://www.cls.cn/detail/2187743",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时19分]"
-        },
-        {
-          "title": "特朗普给中美会晤打12分",
-          "url": "https://www.douyin.com/hot/2288755",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            2,
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 15时18分]"
-        },
-        {
-          "title": "中美经贸磋商成果",
-          "url": "https://www.douyin.com/hot/2288557",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            2,
-            19,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 14时29分]"
-        },
-        {
-          "title": "中美防长会谈",
-          "url": "https://news.ifeng.com/c/8ntpaj33QU8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 19时16分]"
-        },
-        {
-          "title": "中美元首会晤到底谈了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%88%B0%E5%BA%95%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            16,
-            12,
-            13,
-            14,
-            10,
-            8,
-            3,
-            15,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 14时29分]"
-        },
-        {
-          "title": "中美会晤与美联储降息下如何投资布局？公募火速解读",
-          "url": "https://www.cls.cn/detail/2187093",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时18分]"
-        },
-        {
-          "title": "中美元首会晤对台湾意味着什么",
-          "url": "https://www.toutiao.com/trending/7567173220520971814/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 16时25分]"
-        },
-        {
-          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
-          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时26分]"
-        },
-        {
-          "title": "中美谈妥了 美盟友成“小丑”了吗",
-          "url": "https://www.toutiao.com/trending/7566952024453942830/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            17,
-            10,
-            18,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 22时19分]"
-        },
-        {
-          "title": "中美元首会晤双方代表都有谁",
-          "url": "https://www.toutiao.com/trending/7566900170177170995/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            25,
-            22,
-            29,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 14时29分]"
-        },
-        {
-          "title": "中美元首会晤的重大意义",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E9%87%8D%E5%A4%A7%E6%84%8F%E4%B9%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D2%26pos%3D1%26cate%3D5001%26realpos%3D2%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E4%25BC%259A%25E6%2599%25A4%25E7%259A%2584%25E9%2587%258D%25E5%25A4%25A7%25E6%2584%258F%25E4%25B9%2589%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首会晤对台湾意味着什么",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%B9%E5%8F%B0%E6%B9%BE%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 18时20分]"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
-          "url": "https://www.cls.cn/detail/2187768",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时19分]"
-        },
-        {
-          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时19分]"
-        },
-        {
-          "title": "《人民日报》披露中美元首会晤细节",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%8A%AB%E9%9C%B2%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            16,
-            10,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 16时25分]"
-        },
-        {
-          "title": "如何看待特朗普对中美会晤的表述",
-          "url": "https://www.toutiao.com/trending/7567004351504322067/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10,
-            19,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时17分]"
-        },
-        {
-          "title": "中方回应“中美贸易协定下周签署”",
-          "url": "https://www.douyin.com/hot/2289813",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时30分]"
-        },
-        {
-          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 22时19分]"
-        },
-        {
-          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
-          "url": "https://www.cls.cn/detail/2187075",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时29分]"
-        },
-        {
-          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
-          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
-        },
-        {
-          "title": "德称不能让中美单独决定科技的未来",
-          "url": "https://www.toutiao.com/trending/7566941979277115435/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19,
-            17,
-            23,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 07时17分]"
-        },
-        {
-          "title": "《人民日报》披露中美元首会晤详情",
-          "url": "https://www.toutiao.com/trending/7567186601730641462/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 14时29分]"
-        },
-        {
-          "title": "中美元首会晤有何长远意义",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%9C%89%E4%BD%95%E9%95%BF%E8%BF%9C%E6%84%8F%E4%B9%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时16分]"
-        },
-        {
-          "title": "中美元首握手合影",
-          "url": "https://www.toutiao.com/trending/7566854727581929010/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "中美元首会晤都谈了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%83%BD%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 16时25分]"
-        },
-        {
-          "title": "中美两国和世界经济吃下定心丸",
-          "url": "https://www.toutiao.com/trending/7567281094249369139/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时16分]"
-        },
-        {
-          "title": "中美贸易协定最早下周签？中方回应",
-          "url": "https://www.toutiao.com/trending/7566933712941006884/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时21分]"
-        },
-        {
-          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
-          "url": "https://www.cls.cn/detail/2187764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
-        },
-        {
-          "title": "中美携手多办一些大事实事好事",
-          "url": "https://www.toutiao.com/trending/7566875508667977226/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "中美元首釜山会晤备受瞩目",
-          "url": "https://wallstreetcn.com/articles/3758235",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "中美APEC会晤后有哪些调整",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAPEC%E4%BC%9A%E6%99%A4%E5%90%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E8%B0%83%E6%95%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "中国贸促会：中美两国工商界已经形成互利共赢的利益共同体",
-          "url": "https://wallstreetcn.com/livenews/2997365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时20分]"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
-          "title": "中美军事互动迎来难得契机",
-          "url": "https://www.toutiao.com/trending/7567280201671904777/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "中美元首釜山会晤微镜头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E5%BE%AE%E9%95%9C%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D10%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E5%25BE%25AE%25E9%2595%259C%25E5%25A4%25B4%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26realpos%3D10%26lcate%3D5001%26c_type%3D31%26display_time%3D1761873819%26pre_seqid%3D17618738194960108760253",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
-          "url": "https://wallstreetcn.com/livenews/2997534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中美元首会晤传递哪些重磅信息",
-          "url": "https://www.douyin.com/hot/2288622",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "评论员：中美关税问题有缓冲但难根除",
-          "url": "https://www.toutiao.com/trending/7567196520135527945/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "专家谈特朗普发文用G2指代中美",
-          "url": "https://www.toutiao.com/trending/7567314385656352292/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "中美贸易战为何休战一年",
-          "url": "https://www.toutiao.com/trending/7567311688924401195/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "美财长称中美贸易协定最早于下周签署，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/2997523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中美防长会谈释放哪些信号",
-          "url": "https://www.toutiao.com/trending/7567357795368963593/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "专家：中美欧“三国杀”启幕",
-          "url": "https://www.toutiao.com/trending/7567305603513601562/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ai 人工智能",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -707,8 +33,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时23分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[12时23分 ~ 23时19分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -722,6 +48,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时17分 ~ 16时25分]"
+        },
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时19分]"
+        },
+        {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -748,6 +97,28 @@
           "time_info": "12时23分"
         },
         {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
           "url": "https://www.cls.cn/detail/2187024",
           "source": "财联社热门",
@@ -759,18 +130,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时26分 ~ 13时20分]"
-        },
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
@@ -822,17 +181,6 @@
           "time_info": "[03时15分 ~ 04时21分]"
         },
         {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时19分]"
-        },
-        {
           "title": "亚马逊(AMZN.O)：人工智能和核心基础设施需求持续强劲。",
           "url": "https://flash.jin10.com/detail/20251031040501886800",
           "source": "金十数据",
@@ -855,6 +203,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
@@ -1024,17 +384,6 @@
           "time_info": "06时18分"
         },
         {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "国家发改委：打造数字赋能文旅、体育、数字消费等新型数字生活场景，推动人工智能在消费场景应用",
           "url": "https://wallstreetcn.com/livenews/2997328",
           "source": "华尔街见闻-快讯",
@@ -1066,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
@@ -1156,6 +516,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
           "url": "https://flash.jin10.com/detail/20251031033619025800",
           "source": "金十数据",
@@ -1176,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20251031222512027800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
@@ -1290,6 +672,682 @@
       ]
     },
     {
+      "keyword_group": "中美",
+      "match_count": 52,
+      "titles": [
+        {
+          "title": "商务部：中美经贸团队达成三方面成果共识",
+          "url": "https://wallstreetcn.com/articles/3758279",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 15时18分]"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部回应",
+          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 23时19分]"
+        },
+        {
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "中美元首会晤结束",
+          "url": "https://wallstreetcn.com/articles/3758263",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时10分]"
+        },
+        {
+          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967168982114075156",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            4,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时10分]"
+        },
+        {
+          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/1967247414688720104",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 18时20分]"
+        },
+        {
+          "title": "外媒如何看待中美元首会晤",
+          "url": "https://www.toutiao.com/trending/7567014553771511347/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "美方称中美贸易协定或于下周签署，外交部回应",
+          "url": "https://www.cls.cn/detail/2187743",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时25分 ~ 22时19分]"
+        },
+        {
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            2,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 15时18分]"
+        },
+        {
+          "title": "中美经贸磋商成果",
+          "url": "https://www.douyin.com/hot/2288557",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4,
+            2,
+            19,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 14时29分]"
+        },
+        {
+          "title": "中美防长会谈",
+          "url": "https://news.ifeng.com/c/8ntpaj33QU8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 19时16分]"
+        },
+        {
+          "title": "中美元首会晤到底谈了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%88%B0%E5%BA%95%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            16,
+            12,
+            13,
+            14,
+            10,
+            8,
+            3,
+            15,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 14时29分]"
+        },
+        {
+          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时19分]"
+        },
+        {
+          "title": "中美会晤与美联储降息下如何投资布局？公募火速解读",
+          "url": "https://www.cls.cn/detail/2187093",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时18分]"
+        },
+        {
+          "title": "中美元首会晤对台湾意味着什么",
+          "url": "https://www.toutiao.com/trending/7567173220520971814/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 16时25分]"
+        },
+        {
+          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
+          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "中美谈妥了 美盟友成“小丑”了吗",
+          "url": "https://www.toutiao.com/trending/7566952024453942830/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            17,
+            10,
+            18,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时26分 ~ 23时19分]"
+        },
+        {
+          "title": "中美元首会晤双方代表都有谁",
+          "url": "https://www.toutiao.com/trending/7566900170177170995/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            25,
+            22,
+            29,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 14时29分]"
+        },
+        {
+          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 23时19分]"
+        },
+        {
+          "title": "中美元首会晤的重大意义",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E9%87%8D%E5%A4%A7%E6%84%8F%E4%B9%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D2%26pos%3D1%26cate%3D5001%26realpos%3D2%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E4%25BC%259A%25E6%2599%25A4%25E7%259A%2584%25E9%2587%258D%25E5%25A4%25A7%25E6%2584%258F%25E4%25B9%2589%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "中美元首会晤对台湾意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%AF%B9%E5%8F%B0%E6%B9%BE%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 18时20分]"
+        },
+        {
+          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
+          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时19分]"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
+          "url": "https://www.cls.cn/detail/2187768",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时19分]"
+        },
+        {
+          "title": "《人民日报》披露中美元首会晤细节",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%8A%AB%E9%9C%B2%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            16,
+            10,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 16时25分]"
+        },
+        {
+          "title": "如何看待特朗普对中美会晤的表述",
+          "url": "https://www.toutiao.com/trending/7567004351504322067/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            19,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
+        },
+        {
+          "title": "中方回应“中美贸易协定下周签署”",
+          "url": "https://www.douyin.com/hot/2289813",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 21时30分]"
+        },
+        {
+          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
+          "url": "https://www.cls.cn/detail/2187075",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 14时29分]"
+        },
+        {
+          "title": "德称不能让中美单独决定科技的未来",
+          "url": "https://www.toutiao.com/trending/7566941979277115435/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19,
+            17,
+            23,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 07时17分]"
+        },
+        {
+          "title": "《人民日报》披露中美元首会晤详情",
+          "url": "https://www.toutiao.com/trending/7567186601730641462/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 14时29分]"
+        },
+        {
+          "title": "中美元首会晤有何长远意义",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%9C%89%E4%BD%95%E9%95%BF%E8%BF%9C%E6%84%8F%E4%B9%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "中美元首握手合影",
+          "url": "https://www.toutiao.com/trending/7566854727581929010/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
+          "url": "https://www.cls.cn/detail/2187764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时19分]"
+        },
+        {
+          "title": "中美元首会晤都谈了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%83%BD%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
+          "title": "中美两国和世界经济吃下定心丸",
+          "url": "https://www.toutiao.com/trending/7567281094249369139/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
+          "title": "中美贸易协定最早下周签？中方回应",
+          "url": "https://www.toutiao.com/trending/7566933712941006884/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时21分]"
+        },
+        {
+          "title": "中美防长会谈释放哪些信号",
+          "url": "https://www.toutiao.com/trending/7567357795368963593/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
+          "title": "中美携手多办一些大事实事好事",
+          "url": "https://www.toutiao.com/trending/7566875508667977226/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "中美元首釜山会晤备受瞩目",
+          "url": "https://wallstreetcn.com/articles/3758235",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "中美APEC会晤后有哪些调整",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAPEC%E4%BC%9A%E6%99%A4%E5%90%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E8%B0%83%E6%95%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "中国贸促会：中美两国工商界已经形成互利共赢的利益共同体",
+          "url": "https://wallstreetcn.com/livenews/2997365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部回应",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "中美军事互动迎来难得契机",
+          "url": "https://www.toutiao.com/trending/7567280201671904777/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "中美元首釜山会晤微镜头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E5%BE%AE%E9%95%9C%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D10%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E5%25BE%25AE%25E9%2595%259C%25E5%25A4%25B4%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26realpos%3D10%26lcate%3D5001%26c_type%3D31%26display_time%3D1761873819%26pre_seqid%3D17618738194960108760253",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
+          "url": "https://wallstreetcn.com/livenews/2997534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "中美元首会晤传递哪些重磅信息",
+          "url": "https://www.douyin.com/hot/2288622",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "评论员：中美关税问题有缓冲但难根除",
+          "url": "https://www.toutiao.com/trending/7567196520135527945/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "专家谈特朗普发文用G2指代中美",
+          "url": "https://www.toutiao.com/trending/7567314385656352292/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "中美贸易战为何休战一年",
+          "url": "https://www.toutiao.com/trending/7567311688924401195/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "美财长称中美贸易协定最早于下周签署，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2997523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "专家：中美欧“三国杀”启幕",
+          "url": "https://www.toutiao.com/trending/7567305603513601562/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 42,
       "titles": [
@@ -1303,11 +1361,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时10分 ~ 23时19分]"
         },
         {
           "title": "Mac",
@@ -1328,11 +1387,12 @@
           "ranks": [
             4,
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时19分]"
         },
         {
           "title": "摩根士丹利：将苹果(AAPL.O)目标价从298美元上调至305美元。",
@@ -1619,7 +1679,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1773,7 +1833,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1792,7 +1852,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1803,8 +1863,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时17分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[07时17分 ~ 23时19分]"
         },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -1877,6 +1937,30 @@
           "time_info": "04时21分"
         },
         {
+          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
+          "url": "https://wallstreetcn.com/livenews/2997795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时19分]"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
           "url": "https://flash.jin10.com/detail/20251031044521499800",
           "source": "金十数据",
@@ -1924,18 +2008,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
         },
         {
           "title": "周五美股盘前你需要了解的全球要闻",
@@ -2020,6 +2092,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
         },
         {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
@@ -2110,17 +2194,6 @@
           "time_info": "19时16分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -2138,7 +2211,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2149,7 +2222,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2171,9 +2244,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "房地美股价下跌7%，跌至当日低点。",
+          "url": "https://flash.jin10.com/detail/20251031222848337800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "房利美股价跌超10%，跌至8月11日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251031222759471800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
@@ -2193,7 +2288,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2234,7 +2329,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "星铁黄金史诗PV再见昔涟",
@@ -2245,11 +2340,12 @@
             4,
             5,
             13,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时29分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[14时29分 ~ 23时19分]"
         },
         {
           "title": "如何看待黄金七日暴跌500美元",
@@ -2369,6 +2465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
+          "url": "https://wallstreetcn.com/livenews/2997790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月30日（周四）晚盘收盘上涨1.38%报917.8元/克；<br/>上海黄金交易所白银T+D 10月30日（周四）晚盘收盘上涨2.23%报11412.0元/千克。",
@@ -2530,7 +2637,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2699,18 +2806,19 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "女子退订小米汽车,损五千块换杯具",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时19分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -2751,6 +2859,21 @@
           "time_info": "[00时24分 ~ 13时20分]"
         },
         {
+          "title": "理想召回2024款MEGA",
+          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%83%B3%E5%8F%AC%E5%9B%9E2024%E6%AC%BEMEGA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            18,
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时19分]"
+        },
+        {
           "title": "理想就车辆起火道歉",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%90%86%E6%83%B3%E5%B0%B1%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E9%81%93%E6%AD%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26q%3D%2523%25E7%2590%2586%25E6%2583%25B3%25E5%25B0%25B1%25E8%25BD%25A6%25E8%25BE%2586%25E8%25B5%25B7%25E7%2581%25AB%25E9%2581%2593%25E6%25AD%2589%2523%26lcate%3D5001%26pos%3D1%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26dgr%3D0%26flag%3D1%26display_time%3D1761905488%26pre_seqid%3D17619054884320341513438&launchid=10000360-page_H5",
           "source": "微博",
@@ -2776,6 +2899,19 @@
           "time_info": "[19时16分 ~ 21时30分]"
         },
         {
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时39分 ~ 23时19分]"
+        },
+        {
           "title": "小米、海信等在浙江成立智屏视界科技公司 注册资本5000万",
           "url": "https://wallstreetcn.com/livenews/2997488",
           "source": "华尔街见闻-快讯",
@@ -2785,20 +2921,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "理想召回2024款MEGA",
-          "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%83%B3%E5%8F%AC%E5%9B%9E2024%E6%AC%BEMEGA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            18,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 22时19分]"
         },
         {
           "title": "小米汽车：10月新增22家门店，11月计划新增17家门店",
@@ -2813,18 +2935,6 @@
           "time_info": "[19时16分 ~ 20时39分]"
         },
         {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时19分]"
-        },
-        {
           "title": "理想汽车为车辆起火事件致歉",
           "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
@@ -2836,6 +2946,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时16分 ~ 21时30分]"
+        },
+        {
+          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
+          "url": "https://www.cls.cn/detail/2188129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "理想回应MEGA 2024款召回：起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -2863,7 +2984,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -2899,6 +3020,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "“比特币富婆”钱志敏认罪",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时19分]"
         },
         {
           "title": "高盛CEO Solomon：美元的全球储备货币地位并没有面临威胁。",
@@ -2952,17 +3084,6 @@
           "time_info": "[00时25分 ~ 02时28分]"
         },
         {
-          "title": "“比特币富婆”钱志敏认罪",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
-        },
-        {
           "title": "携6.1万枚比特币出逃的钱志敏是谁",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%90%BA6.1%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E5%87%BA%E9%80%83%E7%9A%84%E9%92%B1%E5%BF%97%E6%95%8F%E6%98%AF%E8%B0%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2590%25BA6.1%25E4%25B8%2587%25E6%259E%259A%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%2587%25BA%25E9%2580%2583%25E7%259A%2584%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E6%2598%25AF%25E8%25B0%2581%2523%26c_type%3D31%26dgr%3D0%26pos%3D6%26realpos%3D6%26band_rank%3D6%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761840611%26pre_seqid%3D17618406111990242580108",
           "source": "微博",
@@ -2983,6 +3104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "比特币向上触及111000美元/枚，日内涨2.47%。",
+          "url": "https://flash.jin10.com/detail/20251031225655370800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "以太坊日内跌超5.00%，现报3707美元/枚。",
@@ -3024,8 +3156,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[15时18分 ~ 23时19分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -3093,22 +3225,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
-          "url": "https://www.zhihu.com/question/1964768855290242461",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 22时19分]"
-        },
-        {
           "title": "如何看待博主基德的新视频《人形机器人为什么注定失败》？",
           "url": "https://www.zhihu.com/question/1965433673500297074",
           "source": "知乎",
@@ -3124,6 +3240,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[05时16分 ~ 17时21分]"
+        },
+        {
+          "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
+          "url": "https://www.zhihu.com/question/1964768855290242461",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            9,
+            10,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时10分 ~ 23时19分]"
         },
         {
           "title": "又一开源具身智能机器人项目发布 预计明年一季度上线",
@@ -3186,8 +3319,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 23时19分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -3206,11 +3339,12 @@
           "url": "https://wallstreetcn.com/livenews/2997771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
         }
       ]
     },
