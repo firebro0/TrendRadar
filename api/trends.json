@@ -1,22 +1,370 @@
 {
-  "generated_at": "2025-10-31T07:17:38.964181+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-10-31T09:26:21.132281+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "ai 人工智能",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
+          "url": "https://www.cls.cn/detail/2186913",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时17分]"
+        },
+        {
+          "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
+          "url": "https://wallstreetcn.com/livenews/2997044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
+          "url": "https://wallstreetcn.com/livenews/2997144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2997159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
+          "url": "https://wallstreetcn.com/livenews/2997090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时21分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：人工智能和核心基础设施需求持续强劲。",
+          "url": "https://flash.jin10.com/detail/20251031040501886800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：最近裁员14000人是由“文化”驱动的，而“并非真正出于财务或人工智能的考虑”。",
+          "url": "https://flash.jin10.com/detail/20251031054225724800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251031043733799800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
+          "url": "https://wallstreetcn.com/articles/3758276",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时26分]"
+        },
+        {
+          "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20251031043612973800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
+          "url": "https://flash.jin10.com/detail/20251031015822268800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
+          "url": "https://flash.jin10.com/detail/20251031053211799800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "Cloudflare：预计80%的人工智能（AI）公司依赖IT。",
+          "url": "https://wallstreetcn.com/livenews/2997151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "Alight和IBM将成立一个虚拟AI创新实验室。",
+          "url": "https://wallstreetcn.com/livenews/2997134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
+          "url": "https://wallstreetcn.com/livenews/2997133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。 Competitive Power Ventures将修建1,350 MW二叠纪盆地天然气工厂。 Devon、Coterra、Diamondback Energy将向得克萨斯州天然气工厂供应天然气。",
+          "url": "https://wallstreetcn.com/livenews/2997025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
+          "url": "https://flash.jin10.com/detail/20251031052114542800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：亚马逊人工智能购物助手Rufus有望带来每年100亿美元的增量销售额。",
+          "url": "https://flash.jin10.com/detail/20251031052038069800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
+          "url": "https://wallstreetcn.com/livenews/2997155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：如果意大利批准ESM（欧洲稳定机制），将表示欢迎。 意大利经济形势让人印象深刻。（RAI1）",
+          "url": "https://wallstreetcn.com/livenews/2997104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
+          "url": "https://www.cls.cn/detail/2187024",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "英伟达将对AI初创公司Poolside投资至多10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2997098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
+          "url": "https://flash.jin10.com/detail/20251031033619025800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
+          "url": "https://wallstreetcn.com/livenews/2997121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
+          "url": "https://wallstreetcn.com/livenews/2997155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
+          "url": "https://flash.jin10.com/detail/20251031032500123800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "黄仁勋要做的不只是AI还要接管方向盘",
+          "url": "https://www.toutiao.com/trending/7566904243722915364/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "市场消息：英伟达(NVDA.O)将向AI初创公司Poolside投资至多10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251031032412391800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "Mac",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DMac&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D1%26pos%3D0%26cate%3D5001%26realpos%3D1%26q%3DMac%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 07时17分]"
+          "appearance_count": 6,
+          "time_info": "[04时21分 ~ 09时26分]"
         },
         {
           "title": "苹果CEO库克：第一财季营收将是公司历史上最好的一个季度，iPhone也将是那样。",
@@ -235,6 +583,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
+          "url": "https://www.cls.cn/detail/2187057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
           "url": "https://flash.jin10.com/detail/20251031043441895800",
           "source": "金十数据",
@@ -325,331 +684,326 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 27,
+      "keyword_group": "中美",
+      "match_count": 24,
       "titles": [
         {
-          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
-          "source": "澎湃新闻",
+          "title": "商务部：中美经贸团队达成三方面成果共识",
+          "url": "https://wallstreetcn.com/articles/3758279",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967168982114075156",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
-          "url": "https://www.cls.cn/detail/2186913",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时15分 ~ 07时17分]"
-        },
-        {
-          "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
-          "url": "https://wallstreetcn.com/livenews/2997044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
-        },
-        {
-          "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
-          "url": "https://wallstreetcn.com/livenews/2997144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2997159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
-          "url": "https://wallstreetcn.com/livenews/2997090",
-          "source": "华尔街见闻-快讯",
+          "title": "中美元首会晤结束",
+          "url": "https://wallstreetcn.com/articles/3758263",
+          "source": "华尔街见闻",
           "ranks": [
             4,
-            22
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
-          "title": "亚马逊(AMZN.O)：人工智能和核心基础设施需求持续强劲。",
-          "url": "https://flash.jin10.com/detail/20251031040501886800",
-          "source": "金十数据",
+          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/1967247414688720104",
+          "source": "知乎",
           "ranks": [
-            6,
-            23
+            2,
+            1,
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
-          "title": "亚马逊(AMZN.O)CEO：最近裁员14000人是由“文化”驱动的，而“并非真正出于财务或人工智能的考虑”。",
-          "url": "https://flash.jin10.com/detail/20251031054225724800",
-          "source": "金十数据",
+          "title": "中美经贸磋商成果",
+          "url": "https://www.douyin.com/hot/2288557",
+          "source": "抖音",
           "ranks": [
-            6,
-            11
+            5,
+            4,
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
-          "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
-          "url": "https://flash.jin10.com/detail/20251031043733799800",
-          "source": "金十数据",
+          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20251031043612973800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
-          "url": "https://flash.jin10.com/detail/20251031015822268800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
-          "url": "https://flash.jin10.com/detail/20251031053211799800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "Cloudflare：预计80%的人工智能（AI）公司依赖IT。",
-          "url": "https://wallstreetcn.com/livenews/2997151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "Alight和IBM将成立一个虚拟AI创新实验室。",
-          "url": "https://wallstreetcn.com/livenews/2997134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "OpenAI：\"星际之门\"项目规划容量突破8吉瓦",
-          "url": "https://wallstreetcn.com/livenews/2997133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。 Competitive Power Ventures将修建1,350 MW二叠纪盆地天然气工厂。 Devon、Coterra、Diamondback Energy将向得克萨斯州天然气工厂供应天然气。",
-          "url": "https://wallstreetcn.com/livenews/2997025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时17分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
-          "url": "https://flash.jin10.com/detail/20251031052114542800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：亚马逊人工智能购物助手Rufus有望带来每年100亿美元的增量销售额。",
-          "url": "https://flash.jin10.com/detail/20251031052038069800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
-          "url": "https://wallstreetcn.com/livenews/2997155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            4,
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
-          "title": "欧洲央行行长拉加德：如果意大利批准ESM（欧洲稳定机制），将表示欢迎。 意大利经济形势让人印象深刻。（RAI1）",
-          "url": "https://wallstreetcn.com/livenews/2997104",
-          "source": "华尔街见闻-快讯",
+          "title": "外媒如何看待中美元首会晤",
+          "url": "https://www.toutiao.com/trending/7567014553771511347/",
+          "source": "今日头条",
           "ranks": [
+            2,
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "中美元首会晤到底谈了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%88%B0%E5%BA%95%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            16,
+            12,
+            13,
+            14,
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        },
+        {
+          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
+          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
+          "source": "凤凰网",
+          "ranks": [
+            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
-          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
-          "url": "https://wallstreetcn.com/articles/3758276",
+          "title": "中美谈妥了 美盟友成“小丑”了吗",
+          "url": "https://www.toutiao.com/trending/7566952024453942830/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            17,
+            10,
+            18,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "中美元首会晤双方代表都有谁",
+          "url": "https://www.toutiao.com/trending/7566900170177170995/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            25,
+            22,
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "中美元首会晤的重大意义",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E9%87%8D%E5%A4%A7%E6%84%8F%E4%B9%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D2%26pos%3D1%26cate%3D5001%26realpos%3D2%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E4%25BC%259A%25E6%2599%25A4%25E7%259A%2584%25E9%2587%258D%25E5%25A4%25A7%25E6%2584%258F%25E4%25B9%2589%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "如何看待特朗普对中美会晤的表述",
+          "url": "https://www.toutiao.com/trending/7567004351504322067/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            19,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时17分]"
+        },
+        {
+          "title": "德称不能让中美单独决定科技的未来",
+          "url": "https://www.toutiao.com/trending/7566941979277115435/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19,
+            17,
+            23,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 07时17分]"
+        },
+        {
+          "title": "中美元首会晤对台湾意味着什么",
+          "url": "https://www.toutiao.com/trending/7567173220520971814/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "中美会晤与美联储降息下如何投资布局？公募火速解读",
+          "url": "https://www.cls.cn/detail/2187093",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "中美元首握手合影",
+          "url": "https://www.toutiao.com/trending/7566854727581929010/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "中美携手多办一些大事实事好事",
+          "url": "https://www.toutiao.com/trending/7566875508667977226/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 03时15分]"
+        },
+        {
+          "title": "中美元首釜山会晤备受瞩目",
+          "url": "https://wallstreetcn.com/articles/3758235",
           "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
+          "url": "https://www.cls.cn/detail/2187075",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "中美元首釜山会晤微镜头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E5%BE%AE%E9%95%9C%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D10%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E5%25BE%25AE%25E9%2595%259C%25E5%25A4%25B4%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26realpos%3D10%26lcate%3D5001%26c_type%3D31%26display_time%3D1761873819%26pre_seqid%3D17618738194960108760253",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时26分"
         },
         {
-          "title": "英伟达将对AI初创公司Poolside投资至多10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2997098",
-          "source": "华尔街见闻-快讯",
+          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
-          "url": "https://flash.jin10.com/detail/20251031033619025800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
-          "url": "https://wallstreetcn.com/livenews/2997121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
-          "url": "https://wallstreetcn.com/livenews/2997155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
-          "url": "https://flash.jin10.com/detail/20251031032500123800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)将向AI初创公司Poolside投资至多10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251031032412391800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -682,9 +1036,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时26分]"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -718,18 +1085,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
@@ -862,6 +1217,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美股收盘：三大指数集体下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.88%，报8230.19点。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌2.28%，中国科技指数ETF（CQQQ）收跌2.19%。 XtrackersHarvest中证50（ASHS）收跌1.33%，德银嘉实沪深300指数ETF（ASHR）收跌1.15%。",
           "url": "https://wallstreetcn.com/livenews/2997114",
           "source": "华尔街见闻-快讯",
@@ -897,266 +1263,8 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "商务部：中美经贸团队达成三方面成果共识",
-          "url": "https://wallstreetcn.com/articles/3758279",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/1967247414688720104",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普给中美会晤打12分",
-          "url": "https://www.douyin.com/hot/2288755",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967168982114075156",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "外媒如何看待中美元首会晤",
-          "url": "https://www.toutiao.com/trending/7567014553771511347/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首会晤结束",
-          "url": "https://wallstreetcn.com/articles/3758263",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美经贸磋商成果",
-          "url": "https://www.douyin.com/hot/2288557",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "商务部新闻发言人就中美吉隆坡经贸磋商联合安排答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855506",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首会晤到底谈了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%88%B0%E5%BA%95%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            16,
-            12,
-            13,
-            14,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "韩警方：将严打严惩针对中美等的仇外示威集会",
-          "url": "https://news.ifeng.com/c/8nsJx7dIuCz",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美谈妥了 美盟友成“小丑”了吗",
-          "url": "https://www.toutiao.com/trending/7566952024453942830/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            17,
-            10,
-            18,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首会晤双方代表都有谁",
-          "url": "https://www.toutiao.com/trending/7566900170177170995/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            25,
-            22,
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首会晤的重大意义",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E9%87%8D%E5%A4%A7%E6%84%8F%E4%B9%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D2%26pos%3D1%26cate%3D5001%26realpos%3D2%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E4%25BC%259A%25E6%2599%25A4%25E7%259A%2584%25E9%2587%258D%25E5%25A4%25A7%25E6%2584%258F%25E4%25B9%2589%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 07时17分]"
-        },
-        {
-          "title": "如何看待特朗普对中美会晤的表述",
-          "url": "https://www.toutiao.com/trending/7567004351504322067/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10,
-            19,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时17分]"
-        },
-        {
-          "title": "德称不能让中美单独决定科技的未来",
-          "url": "https://www.toutiao.com/trending/7566941979277115435/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19,
-            17,
-            23,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 07时17分]"
-        },
-        {
-          "title": "中美元首握手合影",
-          "url": "https://www.toutiao.com/trending/7566854727581929010/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "中美携手多办一些大事实事好事",
-          "url": "https://www.toutiao.com/trending/7566875508667977226/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 03时15分]"
-        },
-        {
-          "title": "中美元首釜山会晤备受瞩目",
-          "url": "https://wallstreetcn.com/articles/3758235",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -1256,6 +1364,17 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "比特币向上触及110000美元/枚，日内涨1.57%。",
+          "url": "https://flash.jin10.com/detail/20251031091037361800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "以太坊日内跌超5.00%，现报3707美元/枚。",
           "url": "https://flash.jin10.com/detail/20251031033939393800",
           "source": "金十数据",
@@ -1281,7 +1400,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待黄金七日暴跌500美元",
@@ -1305,7 +1424,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -1316,7 +1435,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -1357,13 +1476,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 10月31日（周五）早盘盘初上涨1.52%报919.08元/克；<br/>上海黄金交易所白银T+D 10月31日（周五）早盘盘初上涨2.15%报11403.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251031090344465800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "女子将黄金手镯皮带涂成银色入境被查",
           "url": "https://www.toutiao.com/trending/7566823557318164499/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -1371,8 +1501,19 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-10-31）",
+          "url": "https://flash.jin10.com/detail/20251031091054407800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
         {
           "title": "金十图示：2025年10月30日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251031040550678800",
@@ -1409,6 +1550,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时28分]"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-10-31）",
+          "url": "https://flash.jin10.com/detail/20251031083743980800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -1465,8 +1617,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
         },
         {
           "title": "零跑联姻中创新航、理想牵手欣旺达 动力电池合资潮再起",
@@ -1488,8 +1640,37 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比亚迪高管谈固态电池布局",
+          "url": "https://www.toutiao.com/trending/7566958527453875755/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 07时17分]"
+        },
+        {
+          "title": "三星SDI与宝马集团就全固态电池验证项目达成合作",
+          "url": "https://wallstreetcn.com/livenews/2997243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -1521,29 +1702,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪高管谈固态电池布局",
-          "url": "https://www.toutiao.com/trending/7566958527453875755/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[05时16分 ~ 09时26分]"
         }
       ]
     },
