@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T18:18:50.249354+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2025-11-01T19:14:42.244390+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时37分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 19时14分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -39,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时17分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时17分 ~ 19时14分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -51,11 +52,12 @@
             5,
             6,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时17分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时17分 ~ 19时14分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -357,8 +359,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 19时14分]"
         },
         {
           "title": "黄金有关税收政策公告来了",
@@ -553,7 +555,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -599,11 +601,12 @@
             13,
             14,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 18时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 19时14分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -679,11 +682,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "金十整理：造车新势力10月成绩单出炉——小米单月交付量持续破4万，小鹏单月交付量再创新高",
@@ -761,167 +765,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时37分]"
         },
         {
-          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 16时22分]"
-        },
-        {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时37分 ~ 18时18分]"
-        },
-        {
-          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
-          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
-          "source": "澎湃新闻",
+          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高，2025年1-10月累计销售3701852辆。新能源累计销售超1420万辆。",
+          "url": "https://flash.jin10.com/detail/20251101181158849800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "港媒：中美达成共识后，荷兰在接管安世问题上进退两难",
-          "url": "https://news.ifeng.com/c/8nu6x2VywGp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时14分 ~ 09时37分]"
-        },
-        {
-          "title": "中美元首会晤对台湾意味着什么",
-          "url": "https://www.toutiao.com/trending/7567173220520971814/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            27,
-            22,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时28分 ~ 07时17分]"
-        },
-        {
-          "title": "媒体人：中美关系将迎来相对稳定期",
-          "url": "https://www.toutiao.com/trending/7567552390853824006/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
-        },
-        {
-          "title": "中美两国和世界经济吃下定心丸",
-          "url": "https://www.toutiao.com/trending/7567281094249369139/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "中美关系转变 欧洲是最大输家吗",
-          "url": "https://www.toutiao.com/trending/7567526015329635903/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "中美元首谈了100分钟“算大账”",
-          "url": "https://www.toutiao.com/trending/7567372894590733860/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "博主：荷兰被卡在中美之间进退两难",
-          "url": "https://www.toutiao.com/trending/7567641031022218806/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "中美达成共识让美豆农松口气",
-          "url": "https://www.toutiao.com/trending/7567525384523415578/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
+          "time_info": "19时14分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -967,6 +827,31 @@
           "time_info": "[15时16分 ~ 18时18分]"
         },
         {
+          "title": "iPhone背面还可以这样用",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E8%83%8C%E9%9D%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%94%A8&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D2%26flag%3D1%26cate%3D5001%26band_rank%3D2%26pos%3D1%26stream_entry_id%3D31%26q%3DiPhone%25E8%2583%258C%25E9%259D%25A2%25E8%25BF%2598%25E5%258F%25AF%25E4%25BB%25A5%25E8%25BF%2599%25E6%25A0%25B7%25E7%2594%25A8%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1761995610%26pre_seqid%3D176199561046203396293156&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "iPhone17的使用感如何",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时14分]"
+        },
+        {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
           "url": "https://wallstreetcn.com/articles/3758382",
           "source": "华尔街见闻",
@@ -978,19 +863,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 09时37分]"
-        },
-        {
-          "title": "iPhone17的使用感如何",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：当前的银行系统形势非常不错。",
@@ -1090,7 +962,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -1101,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 18时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 19时14分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -1138,11 +1010,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时16分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时16分 ~ 19时14分]"
         },
         {
           "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
@@ -1218,6 +1091,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
           "url": "https://wallstreetcn.com/livenews/2997794",
           "source": "华尔街见闻-快讯",
@@ -1249,6 +1133,162 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中美在建立“G2”集团？外交部回应",
+          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时37分]"
+        },
+        {
+          "title": "美方称中美贸易协定或于下周签署，外交部：愿同美方一道拉长合作清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31860629",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
+        },
+        {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 19时14分]"
+        },
+        {
+          "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
+          "url": "https://news.ifeng.com/c/8nuH0iO2gn7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858471",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "港媒：中美达成共识后，荷兰在接管安世问题上进退两难",
+          "url": "https://news.ifeng.com/c/8nu6x2VywGp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 09时37分]"
+        },
+        {
+          "title": "中美元首会晤对台湾意味着什么",
+          "url": "https://www.toutiao.com/trending/7567173220520971814/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27,
+            22,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 07时17分]"
+        },
+        {
+          "title": "媒体人：中美关系将迎来相对稳定期",
+          "url": "https://www.toutiao.com/trending/7567552390853824006/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时14分]"
+        },
+        {
+          "title": "中美两国和世界经济吃下定心丸",
+          "url": "https://www.toutiao.com/trending/7567281094249369139/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "中美关系转变 欧洲是最大输家吗",
+          "url": "https://www.toutiao.com/trending/7567526015329635903/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "中美元首谈了100分钟“算大账”",
+          "url": "https://www.toutiao.com/trending/7567372894590733860/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "博主：荷兰被卡在中美之间进退两难",
+          "url": "https://www.toutiao.com/trending/7567641031022218806/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "中美达成共识让美豆农松口气",
+          "url": "https://www.toutiao.com/trending/7567525384523415578/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     },
@@ -1380,11 +1420,12 @@
             13,
             10,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时37分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 19时14分]"
         },
         {
           "title": "机器人牵机器狗遛弯把大哥看懵了",
@@ -1444,11 +1485,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31873105",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时14分]"
         }
       ]
     },
@@ -1465,11 +1507,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时37分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 19时14分]"
         },
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
