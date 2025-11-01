@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T11:11:55.848026+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2025-11-01T12:20:26.551278+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -58,6 +59,29 @@
           "time_info": "[04时21分 ~ 09时37分]"
         },
         {
+          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
+          "url": "https://wallstreetcn.com/articles/3758449",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时20分]"
+        },
+        {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
           "url": "https://flash.jin10.com/detail/20251101040612568800",
           "source": "金十数据",
@@ -84,27 +108,17 @@
           "time_info": "[04时21分 ~ 09时37分]"
         },
         {
-          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
-          "url": "https://wallstreetcn.com/articles/3758449",
-          "source": "华尔街见闻",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
-        },
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时11分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
@@ -152,18 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时11分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -219,6 +221,18 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
+        },
+        {
           "title": "Illumina Inc.收涨24.88%，创2012年1月份以来最大单日涨幅。 纳斯达克生物科技指数收涨1.20%，成分股Ironwood医药收涨27.33%，Illumina涨幅第二大，Ardelyx涨20.96%，Pacific Biosciences of California涨20.62%表现第四。 CorMedix则收跌4.39%跌幅第三大，Stoke Therapeutics跌5.24%，Bicycle Therapeutics跌7.88%。",
           "url": "https://wallstreetcn.com/livenews/2997888",
           "source": "华尔街见闻-快讯",
@@ -230,17 +244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
@@ -336,7 +339,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "星铁黄金史诗PV再见昔涟",
@@ -350,8 +353,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
+        },
+        {
+          "title": "黄金有关税收政策公告来了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A%E6%9D%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26pos%3D0%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259C%2589%25E5%2585%25B3%25E7%25A8%258E%25E6%2594%25B6%25E6%2594%25BF%25E7%25AD%2596%25E5%2585%25AC%25E5%2591%258A%25E6%259D%25A5%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26display_time%3D1761966052%26pre_seqid%3D176196605259902531580157&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
         },
         {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
@@ -367,28 +381,6 @@
           "time_info": "[03时14分 ~ 06时18分]"
         },
         {
-          "title": "黄金有关税收政策公告来了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A%E6%9D%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26pos%3D0%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259C%2589%25E5%2585%25B3%25E7%25A8%258E%25E6%2594%25B6%25E6%2594%25BF%25E7%25AD%2596%25E5%2585%25AC%25E5%2591%258A%25E6%259D%25A5%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26display_time%3D1761966052%26pre_seqid%3D176196605259902531580157&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "两部门发布黄金有关税收政策公告",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
           "url": "https://www.cls.cn/detail/2188436",
           "source": "财联社热门",
@@ -399,8 +391,46 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时17分 ~ 11时11分]"
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 12时20分]"
+        },
+        {
+          "title": "两部门发布黄金有关税收政策公告",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
+        },
+        {
+          "title": "女子投资黄金：开始像捡钱现在很后悔",
+          "url": "https://www.toutiao.com/trending/7566743938741305407/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
+        },
+        {
+          "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
+          "url": "https://wallstreetcn.com/livenews/2997932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -414,30 +444,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时17分]"
-        },
-        {
-          "title": "女子投资黄金：开始像捡钱现在很后悔",
-          "url": "https://www.toutiao.com/trending/7566743938741305407/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
-        },
-        {
-          "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
-          "url": "https://wallstreetcn.com/livenews/2997932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
         },
         {
           "title": "金十图示：2025年11月01日（周六）白银ETF持仓报告",
@@ -482,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1967877511644935498",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
@@ -651,130 +668,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
-          "url": "https://flash.jin10.com/detail/20251101090947123800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
-          "url": "https://flash.jin10.com/detail/20251031235402298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
-          "url": "https://wallstreetcn.com/livenews/2997940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
-          "url": "https://wallstreetcn.com/livenews/2997796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
-          "url": "https://wallstreetcn.com/livenews/2997823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -788,8 +683,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -798,11 +693,12 @@
           "ranks": [
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -827,8 +723,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -842,8 +738,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
+        },
+        {
+          "title": "北汽新能源：10月销量销量30542辆，同比增长112%",
+          "url": "https://wallstreetcn.com/livenews/2997961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "冷却液变腐蚀液,理想召回万人车队",
@@ -852,7 +759,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         },
@@ -861,163 +768,54 @@
           "url": "https://wallstreetcn.com/livenews/2997949",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
         },
         {
           "title": "理想汽车：2025年10月交付了31767辆汽车。截至2025年10月31日，累计交付量达1462788辆。",
           "url": "https://wallstreetcn.com/livenews/2997945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
         },
         {
           "title": "小米汽车：2025年10月，小米汽车交付量持续超过40000台。",
           "url": "https://wallstreetcn.com/livenews/2997943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
         },
         {
           "title": "小米公司宣布，截至2025年10月31日23:59:59，小米双11全渠道累计支付金额破182亿。",
           "url": "https://wallstreetcn.com/livenews/2997941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "“比特币富婆”钱志敏认罪",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时37分]"
-        },
-        {
-          "title": "李一桐清瞳摇solo",
-          "url": "https://www.douyin.com/hot/2290291",
-          "source": "抖音",
-          "ranks": [
-            28,
-            21,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
-        },
-        {
-          "title": "周五（10月31日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2997907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "美国联邦检察官指控比特币ATM助长加密货币诈骗。",
-          "url": "https://flash.jin10.com/detail/20251101033444029800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时17分]"
-        },
-        {
-          "title": "以太坊站上3900美元/枚，日内涨2.54%。",
-          "url": "https://flash.jin10.com/detail/20251101033413409800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时17分]"
-        },
-        {
-          "title": "钱志敏在英国认罪，6.1万枚比特币市价已达493亿元，赃款归谁？",
-          "url": "https://news.ifeng.com/c/8nuCMek00su",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时11分]"
-        },
-        {
-          "title": "比特币站上110000美元/枚，日内涨0.39%。",
-          "url": "https://flash.jin10.com/detail/20251101093255742800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "周五（10月31日，中本聪发布比特币白皮书十七周年纪念日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2997907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "马斯克：植入Neuralink设备的人将最终将战胜所有人类玩家",
-          "url": "https://wallstreetcn.com/livenews/2997904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "[11时11分 ~ 12时20分]"
         }
       ]
     },
     {
       "keyword_group": "中美",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中美在建立“G2”集团？外交部回应",
@@ -1038,8 +836,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
         },
         {
           "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
@@ -1098,8 +896,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
         },
         {
           "title": "中美关系转变 欧洲是最大输家吗",
@@ -1113,15 +911,264 @@
           "time_info": "09时37分"
         },
         {
+          "title": "中美元首谈了100分钟“算大账”",
+          "url": "https://www.toutiao.com/trending/7567372894590733860/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "中美达成共识让美豆农松口气",
           "url": "https://www.toutiao.com/trending/7567525384523415578/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
+          "url": "https://flash.jin10.com/detail/20251101090947123800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
+        },
+        {
+          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2997940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
+        },
+        {
+          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251031235402298800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
+          "url": "https://wallstreetcn.com/livenews/2997823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "“比特币富婆”钱志敏认罪",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E2%80%9D%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时37分]"
+        },
+        {
+          "title": "李一桐清瞳摇solo",
+          "url": "https://www.douyin.com/hot/2290291",
+          "source": "抖音",
+          "ranks": [
+            28,
+            21,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 12时20分]"
+        },
+        {
+          "title": "周五（10月31日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2997907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "钱志敏在英国认罪，6.1万枚比特币市价已达493亿元，赃款归谁？",
+          "url": "https://news.ifeng.com/c/8nuCMek00su",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时20分]"
+        },
+        {
+          "title": "美国联邦检察官指控比特币ATM助长加密货币诈骗。",
+          "url": "https://flash.jin10.com/detail/20251101033444029800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "以太坊站上3900美元/枚，日内涨2.54%。",
+          "url": "https://flash.jin10.com/detail/20251101033413409800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "比特币站上110000美元/枚，日内涨0.39%。",
+          "url": "https://flash.jin10.com/detail/20251101093255742800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
+        },
+        {
+          "title": "周五（10月31日，中本聪发布比特币白皮书十七周年纪念日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.73%，逼近11.0万美元，10月份累跌5.16%，10月6日涨至12.5万美元上方之后逐步下挫，10月17日跌至10.5万美元下方，之后低位震荡。 CME以太币期货DCR主力合约涨5.79%，报3919.50美元，10月份累跌7.09%，整体交投于4828.00-3690.00美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2997907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "马斯克：植入Neuralink设备的人将最终将战胜所有人类玩家",
+          "url": "https://wallstreetcn.com/livenews/2997904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
@@ -1175,8 +1222,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
         },
         {
           "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
@@ -1188,6 +1235,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
+          "url": "https://www.zhihu.com/question/1964768855290242461",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 07时17分]"
+        },
+        {
+          "title": "科学家研发能治病的毒液机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E8%83%BD%E6%B2%BB%E7%97%85%E7%9A%84%E6%AF%92%E6%B6%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%25A7%2591%25E5%25AD%25A6%25E5%25AE%25B6%25E7%25A0%2594%25E5%258F%2591%25E8%2583%25BD%25E6%25B2%25BB%25E7%2597%2585%25E7%259A%2584%25E6%25AF%2592%25E6%25B6%25B2%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26pos%3D9%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D9%26cate%3D5001%26realpos%3D9%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1761930502%26pre_seqid%3D17619305021970252277304&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
+          "url": "https://www.cls.cn/detail/2188519",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
+        },
+        {
+          "title": "机器人牵机器狗遛弯把大爷看懵了",
+          "url": "https://www.toutiao.com/trending/7567170483431637055/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "机器人牵机器狗遛弯把大哥看懵了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%89%B5%E6%9C%BA%E5%99%A8%E7%8B%97%E9%81%9B%E5%BC%AF%E6%8A%8A%E5%A4%A7%E5%93%A5%E7%9C%8B%E6%87%B5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
@@ -1245,61 +1358,6 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
-          "url": "https://www.zhihu.com/question/1964768855290242461",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时17分]"
-        },
-        {
-          "title": "科学家研发能治病的毒液机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E8%83%BD%E6%B2%BB%E7%97%85%E7%9A%84%E6%AF%92%E6%B6%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%25A7%2591%25E5%25AD%25A6%25E5%25AE%25B6%25E7%25A0%2594%25E5%258F%2591%25E8%2583%25BD%25E6%25B2%25BB%25E7%2597%2585%25E7%259A%2584%25E6%25AF%2592%25E6%25B6%25B2%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26pos%3D9%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D9%26cate%3D5001%26realpos%3D9%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1761930502%26pre_seqid%3D17619305021970252277304&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时14分]"
-        },
-        {
-          "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
-          "url": "https://www.cls.cn/detail/2188519",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
-        },
-        {
-          "title": "机器人牵机器狗遛弯把大爷看懵了",
-          "url": "https://www.toutiao.com/trending/7567170483431637055/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 1,
       "titles": [
@@ -1326,11 +1384,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 12时20分]"
         }
       ]
     }
