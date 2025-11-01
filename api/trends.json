@@ -1,8 +1,74 @@
 {
-  "generated_at": "2025-11-02T03:13:27.964477+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2025-11-02T04:18:33.687070+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
+          "url": "https://wallstreetcn.com/articles/3758471",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 04时18分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "黄金 白银",
       "match_count": 4,
@@ -16,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -55,60 +121,6 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
-          "url": "https://wallstreetcn.com/articles/3758471",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 03时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 3,
       "titles": [
@@ -118,11 +130,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -134,19 +147,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     },
@@ -163,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -175,8 +189,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -186,8 +200,48 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
+          "url": "https://flash.jin10.com/detail/20251101221419283800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
+          "url": "https://www.cls.cn/detail/2188647",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -201,11 +255,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "中美斗争试出了谁的底牌",
@@ -218,8 +273,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     },
@@ -234,51 +289,24 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
           "url": "https://www.cls.cn/detail/2188519",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
-          "url": "https://flash.jin10.com/detail/20251101221419283800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     },
@@ -294,8 +322,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     }
