@@ -1,79 +1,11 @@
 {
-  "generated_at": "2025-11-02T06:16:47.281829+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-11-02T07:17:00.159340+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
-          "url": "https://wallstreetcn.com/articles/3758471",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            12,
-            11,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 06时16分]"
-        },
-        {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 白银",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
@@ -85,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -104,11 +36,12 @@
           "url": "https://www.douyin.com/hot/2290544",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时17分]"
         },
         {
           "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
@@ -120,6 +53,87 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时14分]"
+        },
+        {
+          "title": "女子投资黄金：开始像捡钱现在很后悔",
+          "url": "https://www.toutiao.com/trending/7566743938741305407/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
+          "url": "https://wallstreetcn.com/articles/3758471",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 07时17分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 07时17分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            12,
+            11,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -127,19 +141,6 @@
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 3,
       "titles": [
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
           "url": "https://wallstreetcn.com/articles/3758463",
@@ -150,8 +151,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -162,8 +177,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         }
       ]
     },
@@ -180,8 +195,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -189,22 +204,24 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
           "url": "https://www.cls.cn/detail/2188470",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         }
       ]
     },
@@ -221,8 +238,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
@@ -232,8 +249,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
@@ -262,8 +279,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "中美斗争试出了谁的底牌",
@@ -274,11 +291,12 @@
             4,
             15,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         }
       ]
     },
@@ -297,8 +315,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
@@ -309,8 +327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
         }
       ]
     },
@@ -326,8 +344,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时17分]"
         }
       ]
     }
