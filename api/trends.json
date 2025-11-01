@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T15:17:05.465296+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-11-01T16:22:36.912914+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 16时22分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 16时22分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -49,11 +49,12 @@
             9,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 16时22分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -341,7 +342,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "黄金有关税收政策公告来了",
@@ -349,11 +350,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时11分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 16时22分]"
         },
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -367,8 +369,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时17分 ~ 15时17分]"
+          "appearance_count": 12,
+          "time_info": "[06时17分 ~ 16时22分]"
         },
         {
           "title": "星铁黄金史诗PV再见昔涟",
@@ -386,6 +388,21 @@
           "time_info": "[00时24分 ~ 12时20分]"
         },
         {
+          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1967877511644935498",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时22分]"
+        },
+        {
           "title": "两部门发布黄金有关税收政策公告",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A",
           "source": "百度热搜",
@@ -398,20 +415,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时11分 ~ 15时17分]"
-        },
-        {
-          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1967877511644935498",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 15时17分]"
         },
         {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
@@ -510,6 +513,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "事关黄金税收政策 两部门发公告",
+          "url": "https://www.toutiao.com/trending/7567550762616848403/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
           "url": "https://wallstreetcn.com/livenews/2997790",
           "source": "华尔街见闻-快讯",
@@ -534,170 +548,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时17分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
-          "url": "https://flash.jin10.com/detail/20251101125245344800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时17分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
-          "url": "https://flash.jin10.com/detail/20251101125236158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时17分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
-          "url": "https://wallstreetcn.com/livenews/2997940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时18分]"
-        },
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
-          "url": "https://flash.jin10.com/detail/20251101090947123800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 12时20分]"
-        },
-        {
-          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
-          "url": "https://flash.jin10.com/detail/20251031235402298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
-          "url": "https://wallstreetcn.com/livenews/2997796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
-          "url": "https://wallstreetcn.com/livenews/2997823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -711,8 +563,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -724,11 +576,12 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -742,8 +595,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -771,8 +624,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
+        },
+        {
+          "title": "国家能源局：9月全国新增建档立卡新能源发电项目共7218个",
+          "url": "https://flash.jin10.com/detail/20251101160620680800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "冷却液变腐蚀液,理想召回万人车队",
@@ -881,7 +745,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -912,6 +776,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 09时37分]"
+        },
+        {
+          "title": "iPhone18Pro前瞻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18Pro%E5%89%8D%E7%9E%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D21%26cate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D20%26flag%3D1%26c_type%3D31%26q%3D%2523iPhone18Pro%25E5%2589%258D%25E7%259E%25BB%2523%26dgr%3D0%26display_time%3D1761980298%26pre_seqid%3D17619802984700252696625&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时22分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -977,17 +853,6 @@
           "time_info": "[01时18分 ~ 02时28分]"
         },
         {
-          "title": "iPhone18Pro前瞻",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18Pro%E5%89%8D%E7%9E%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D21%26cate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D20%26flag%3D1%26c_type%3D31%26q%3D%2523iPhone18Pro%25E5%2589%258D%25E7%259E%25BB%2523%26dgr%3D0%26display_time%3D1761980298%26pre_seqid%3D17619802984700252696625&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
-        },
-        {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
           "url": "https://flash.jin10.com/detail/20251101010956991800",
           "source": "金十数据",
@@ -1008,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "iPhone17的使用感如何",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：本来想在这周要求按兵不动的。 但最终还是支持了本周的降息决定。 我认为我们当前的（政策利率）水平并不远离我自己所给中性利率的预测。 通胀远超关税的范畴，核心服务通胀强劲。",
@@ -1034,8 +910,171 @@
       ]
     },
     {
+      "keyword_group": "ai 人工智能",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
+        },
+        {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
+          "url": "https://flash.jin10.com/detail/20251101125245344800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
+          "url": "https://flash.jin10.com/detail/20251101125236158800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时22分]"
+        },
+        {
+          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2997940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 13时18分]"
+        },
+        {
+          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
+          "url": "https://flash.jin10.com/detail/20251101090947123800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
+        },
+        {
+          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251031235402298800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
+          "url": "https://wallstreetcn.com/livenews/2997823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中美",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中美在建立“G2”集团？外交部回应",
@@ -1056,8 +1095,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时22分]"
         },
         {
           "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
@@ -1079,8 +1118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 16时22分]"
         },
         {
           "title": "人民日报钟声：中美两国完全可以相互成就、共同繁荣",
@@ -1151,6 +1190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "博主：荷兰被卡在中美之间进退两难",
+          "url": "https://www.toutiao.com/trending/7567641031022218806/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "中美达成共识让美豆农松口气",
@@ -1295,8 +1345,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 16时22分]"
         },
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
@@ -1363,8 +1413,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 16时22分]"
         },
         {
           "title": "机器人牵机器狗遛弯把大哥看懵了",
@@ -1374,11 +1424,12 @@
             19,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时22分]"
         },
         {
           "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
