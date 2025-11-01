@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:18:14.805297+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-11-01T18:18:50.249354+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时37分 ~ 18时18分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时17分 ~ 17时18分]"
+          "appearance_count": 13,
+          "time_info": "[07时17分 ~ 18时18分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时17分 ~ 17时18分]"
+          "appearance_count": 13,
+          "time_info": "[07时17分 ~ 18时18分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -346,19 +346,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "黄金有关税收政策公告来了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A%E6%9D%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26pos%3D0%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259C%2589%25E5%2585%25B3%25E7%25A8%258E%25E6%2594%25B6%25E6%2594%25BF%25E7%25AD%2596%25E5%2585%25AC%25E5%2591%258A%25E6%259D%25A5%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26display_time%3D1761966052%26pre_seqid%3D176196605259902531580157&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 16时22分]"
-        },
-        {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
           "url": "https://www.zhihu.com/question/1967877511644935498",
           "source": "知乎",
@@ -370,8 +357,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 18时18分]"
+        },
+        {
+          "title": "黄金有关税收政策公告来了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A%E6%9D%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26pos%3D0%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259C%2589%25E5%2585%25B3%25E7%25A8%258E%25E6%2594%25B6%25E6%2594%25BF%25E7%25AD%2596%25E5%2585%25AC%25E5%2591%258A%25E6%259D%25A5%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26display_time%3D1761966052%26pre_seqid%3D176196605259902531580157&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 16时22分]"
         },
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -450,11 +450,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 18时18分]"
         },
         {
           "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
@@ -563,11 +564,12 @@
             10,
             7,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时18分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -600,8 +602,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时18分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -629,19 +631,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时18分]"
-        },
-        {
-          "title": "国家能源局：9月全国新增建档立卡新能源发电项目共7218个",
-          "url": "https://wallstreetcn.com/livenews/2997994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时18分]"
         },
         {
           "title": "冷却液变腐蚀液,理想召回万人车队",
@@ -683,6 +674,18 @@
           "time_info": "[11时11分 ~ 14时26分]"
         },
         {
+          "title": "国家能源局：9月全国新增建档立卡新能源发电项目共7218个",
+          "url": "https://wallstreetcn.com/livenews/2997994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
           "title": "金十整理：造车新势力10月成绩单出炉——小米单月交付量持续破4万，小鹏单月交付量再创新高",
           "url": "https://flash.jin10.com/detail/20251101130259919800",
           "source": "金十数据",
@@ -701,11 +704,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "理想汽车：2025年10月交付了31767辆汽车。截至2025年10月31日，累计交付量达1462788辆。",
@@ -795,8 +799,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时37分 ~ 18时18分]"
         },
         {
           "title": "胡锡进：中美谈判结果震撼了世界，最恐惧的是台湾民进党当局",
@@ -847,6 +851,18 @@
           "time_info": "[02时28分 ~ 07时17分]"
         },
         {
+          "title": "媒体人：中美关系将迎来相对稳定期",
+          "url": "https://www.toutiao.com/trending/7567552390853824006/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时18分]"
+        },
+        {
           "title": "中美两国和世界经济吃下定心丸",
           "url": "https://www.toutiao.com/trending/7567281094249369139/",
           "source": "今日头条",
@@ -856,17 +872,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "媒体人：中美关系将迎来相对稳定期",
-          "url": "https://www.toutiao.com/trending/7567552390853824006/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "中美关系转变 欧洲是最大输家吗",
@@ -958,8 +963,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 18时18分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -973,6 +978,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 09时37分]"
+        },
+        {
+          "title": "iPhone17的使用感如何",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：当前的银行系统形势非常不错。",
@@ -999,18 +1017,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 03时14分]"
-        },
-        {
-          "title": "iPhone17的使用感如何",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时18分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：如果能实现资产负债表规模最小化，那将是有好处的。 希望看到一级交易商（美联储在货币市场的交易对手）利用SFR。",
@@ -1095,8 +1101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时24分 ~ 18时18分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -1135,8 +1141,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 18时18分]"
         },
         {
           "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
@@ -1363,76 +1369,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
-          "url": "https://www.cls.cn/detail/2188470",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 17时18分]"
-        },
-        {
-          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
-          "url": "https://flash.jin10.com/detail/20251101030330901800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时17分]"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "法国汽车制造商协会（PFA）：法国10月份新车注册量同比增长2.94%，达到139,513辆。10月份法国特斯拉注册量增长2.35%。",
-          "url": "https://flash.jin10.com/detail/20251101085104334800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 11时11分]"
-        },
-        {
-          "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
-          "url": "https://flash.jin10.com/detail/20251101024513127800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
@@ -1445,8 +1383,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时37分 ~ 18时18分]"
         },
         {
           "title": "机器人牵机器狗遛弯把大哥看懵了",
@@ -1500,6 +1438,86 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时11分 ~ 15时17分]"
+        },
+        {
+          "title": "人形机器人进厂“打螺丝”，灵巧手寿命和成本仍是待突破瓶颈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31873105",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时37分 ~ 18时18分]"
+        },
+        {
+          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
+          "url": "https://flash.jin10.com/detail/20251101030330901800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "法国汽车制造商协会（PFA）：法国10月份新车注册量同比增长2.94%，达到139,513辆。10月份法国特斯拉注册量增长2.35%。",
+          "url": "https://flash.jin10.com/detail/20251101085104334800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 11时11分]"
+        },
+        {
+          "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
+          "url": "https://flash.jin10.com/detail/20251101024513127800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
