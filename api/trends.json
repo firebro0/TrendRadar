@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:15:39.848793+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-11-03T06:17:01.535827+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,8 +27,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 06时17分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -36,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
@@ -67,17 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
-          "url": "https://wallstreetcn.com/articles/3758501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 05时15分]"
         }
       ]
     },
@@ -85,6 +86,21 @@
       "keyword_group": "特斯拉 马斯克",
       "match_count": 4,
       "titles": [
+        {
+          "title": "马斯克：AI在2026年超越单个人类智商",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            26,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
           "url": "https://flash.jin10.com/detail/20251102213258278800",
@@ -109,20 +125,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "马斯克：AI在2026年超越单个人类智商",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时13分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -151,8 +153,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "人形机器人为啥进步“神速”？",
@@ -162,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "深圳机器人火炬手“夸父”火了",
@@ -190,6 +192,46 @@
       ]
     },
     {
+      "keyword_group": "光伏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国电力项目储备：光伏风电集中未来两年，天然气和储能未来规划激增",
+          "url": "https://wallstreetcn.com/articles/3758498",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "再创新高！新型钙钛矿光伏器件光电转换率达25.19%",
+          "url": "https://wallstreetcn.com/livenews/2998178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "对于光伏，大家怎么看？",
+          "url": "https://www.zhihu.com/question/507559132",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中美",
       "match_count": 2,
       "titles": [
@@ -201,8 +243,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "世界周刊谈中美元首会晤",
@@ -213,93 +255,26 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金税收新规影响如何",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%A8%8E%E6%94%B6%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
-          "url": "https://www.cls.cn/detail/2188697",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光伏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国电力项目储备：光伏风电集中未来两年，天然气和储能未来规划激增",
-          "url": "https://wallstreetcn.com/articles/3758498",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "对于光伏，大家怎么看？",
-          "url": "https://www.zhihu.com/question/507559132",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
-          "url": "https://wallstreetcn.com/articles/3758497",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "澳大利亚10月标普全球制造业PMI终值 49.7，前值49.7。",
+          "url": "https://flash.jin10.com/detail/20251103060002310800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
           "url": "https://www.zhihu.com/question/1968075475093034371",
@@ -318,6 +293,72 @@
       ]
     },
     {
+      "keyword_group": "黄金 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金税收新规影响如何",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%A8%8E%E6%94%B6%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
+          "url": "https://www.cls.cn/detail/2188697",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
+          "url": "https://wallstreetcn.com/articles/3758497",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "险资“买买买”，持仓A股市值超6500亿元",
+          "url": "https://wallstreetcn.com/livenews/2998181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 1,
       "titles": [
@@ -330,11 +371,12 @@
             13,
             15,
             17,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     }
