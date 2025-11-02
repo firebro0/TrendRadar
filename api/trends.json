@@ -1,8 +1,167 @@
 {
-  "generated_at": "2025-11-02T17:17:04.307836+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-11-02T18:18:30.156421+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
+          "url": "https://www.cls.cn/detail/2188697",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 18时18分]"
+        },
+        {
+          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1967877511644935498",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "黄金税收新规有何影响",
+          "url": "https://www.douyin.com/hot/2291921",
+          "source": "抖音",
+          "ranks": [
+            2,
+            19,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时18分]"
+        },
+        {
+          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
+          "url": "https://www.cls.cn/detail/2188436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "黄金税改新政对个人购金有何影响",
+          "url": "https://www.toutiao.com/trending/7568031160849141299/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时18分]"
+        },
+        {
+          "title": "关于黄金有关税收政策的公告",
+          "url": "https://www.douyin.com/hot/2290544",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 07时17分]"
+        },
+        {
+          "title": "现在买黄金还来得及吗",
+          "url": "https://www.toutiao.com/trending/7567992211439095350/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时17分]"
+        },
+        {
+          "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31870743",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时14分]"
+        },
+        {
+          "title": "女子投资黄金：开始像捡钱现在很后悔",
+          "url": "https://www.toutiao.com/trending/7566743938741305407/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "上期所发布关于黄金期货出入库及发票流程等事项的通知",
+          "url": "https://wallstreetcn.com/livenews/2998125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "上期所发布关于黄金期货出入库及发票流程等事项的通知",
+          "url": "https://flash.jin10.com/detail/20251102173445974800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "两部门：纳税人不通过交易所销售标准黄金，应按照现行规定缴纳增值税",
+          "url": "https://wallstreetcn.com/articles/3758464",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "3分钟搞懂黄金税收新政",
+          "url": "https://www.toutiao.com/trending/7567937035822960147/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 12,
@@ -42,6 +201,32 @@
           "time_info": "[00时20分 ~ 15时17分]"
         },
         {
+          "title": "马斯克预言5年后无手机App",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%805%E5%B9%B4%E5%90%8E%E6%97%A0%E6%89%8B%E6%9C%BAApp",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 18时18分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 18时18分]"
+        },
+        {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
           "url": "https://www.cls.cn/detail/2188470",
           "source": "财联社热门",
@@ -52,31 +237,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 09时39分]"
-        },
-        {
-          "title": "马斯克预言5年后无手机App",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%805%E5%B9%B4%E5%90%8E%E6%97%A0%E6%89%8B%E6%9C%BAApp",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时17分]"
-        },
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时17分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -106,6 +266,36 @@
         },
         {
           "title": "马斯克最新预测：五年后传统手机和APP将消失",
+          "url": "https://wallstreetcn.com/livenews/2998095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            14,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 18时18分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            16,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 18时18分]"
+        },
+        {
+          "title": "马斯克最新预测：五年后传统手机和APP将消失",
           "url": "https://flash.jin10.com/detail/20251102141017505800",
           "source": "金十数据",
           "ranks": [
@@ -125,34 +315,6 @@
             5,
             16,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时17分]"
-        },
-        {
-          "title": "马斯克最新预测：五年后传统手机和APP将消失",
-          "url": "https://wallstreetcn.com/livenews/2998095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时17分]"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            16,
-            21
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -234,6 +396,21 @@
           "time_info": "[04时18分 ~ 11时15分]"
         },
         {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 18时18分]"
+        },
+        {
           "title": "广州海珠成立人工智能百人会",
           "url": "https://wallstreetcn.com/livenews/2998088",
           "source": "华尔街见闻-快讯",
@@ -278,6 +455,21 @@
           "time_info": "[00时20分 ~ 06时16分]"
         },
         {
+          "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
+          "url": "https://wallstreetcn.com/livenews/2998096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            13,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 18时18分]"
+        },
+        {
           "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
           "url": "https://flash.jin10.com/detail/20251102112751487800",
           "source": "金十数据",
@@ -290,34 +482,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时22分 ~ 16时21分]"
-        },
-        {
-          "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
-          "url": "https://wallstreetcn.com/livenews/2998096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时17分]"
-        },
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 17时17分]"
         },
         {
           "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
@@ -344,141 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
-          "url": "https://www.cls.cn/detail/2188697",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 17时17分]"
-        },
-        {
-          "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1967877511644935498",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "黄金税收新规有何影响",
-          "url": "https://www.douyin.com/hot/2291921",
-          "source": "抖音",
-          "ranks": [
-            2,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 17时17分]"
-        },
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "关于黄金有关税收政策的公告",
-          "url": "https://www.douyin.com/hot/2290544",
-          "source": "抖音",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 07时17分]"
-        },
-        {
-          "title": "现在买黄金还来得及吗",
-          "url": "https://www.toutiao.com/trending/7567992211439095350/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时17分]"
-        },
-        {
-          "title": "财政部、税务总局发布关于黄金有关税收政策的公告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31870743",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "女子投资黄金：开始像捡钱现在很后悔",
-          "url": "https://www.toutiao.com/trending/7566743938741305407/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "黄金税改新政对个人购金有何影响",
-          "url": "https://www.toutiao.com/trending/7568031160849141299/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
-        },
-        {
-          "title": "两部门：纳税人不通过交易所销售标准黄金，应按照现行规定缴纳增值税",
-          "url": "https://wallstreetcn.com/articles/3758464",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "3分钟搞懂黄金税收新政",
-          "url": "https://www.toutiao.com/trending/7567937035822960147/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         }
       ]
     },
@@ -514,11 +543,12 @@
             2,
             24,
             22,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 18时18分]"
         },
         {
           "title": "中美关键矿产大战，这一地区缘何至关重要？",
@@ -564,11 +594,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "中美就扩大农产品贸易达成共识，美国豆农松了口气",
@@ -576,11 +607,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "中美稀土“停火” 欧盟成局外人了吗",
@@ -599,6 +631,20 @@
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 8,
       "titles": [
+        {
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 18时18分]"
+        },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
@@ -641,29 +687,29 @@
           "time_info": "[00时20分 ~ 09时39分]"
         },
         {
-          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/1968007806016819893",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时17分]"
-        },
-        {
           "title": "比亚迪：前10月新能源汽车销量同比增长13.88%",
           "url": "https://wallstreetcn.com/livenews/2998117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时18分]"
+        },
+        {
+          "title": "上汽集团：10月份新能源汽车销量同比增长31.58%",
+          "url": "https://wallstreetcn.com/livenews/2998101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
@@ -675,18 +721,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 06时16分]"
-        },
-        {
-          "title": "上汽集团：10月份新能源汽车销量同比增长31.58%",
-          "url": "https://wallstreetcn.com/livenews/2998101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
         },
         {
           "title": "新能源车企集中交出10月“成绩单”",
@@ -740,11 +774,12 @@
           "ranks": [
             17,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时18分]"
         },
         {
           "title": "工业机器人加速“上岗”，前三季度我国实现“智”造升级",
@@ -801,27 +836,29 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
+          "url": "https://wallstreetcn.com/articles/3758497",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时18分]"
+        },
+        {
           "title": "比特币向上触及111000美元/枚，日内涨0.82%。",
           "url": "https://flash.jin10.com/detail/20251102155529476800",
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
-        },
-        {
-          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
-          "url": "https://wallstreetcn.com/articles/3758497",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "“十月连涨神话”破灭！比特币本月跌近5%，六年来首次十月收跌",
@@ -908,6 +945,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 17时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国电力项目储备：光伏风电集中未来两年，天然气和储能未来规划激增",
+          "url": "https://wallstreetcn.com/articles/3758498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         }
       ]
     }
