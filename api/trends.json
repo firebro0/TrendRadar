@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T22:16:15.517076+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-11-02T23:17:12.140025+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时27分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[14时27分 ~ 23时17分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -106,6 +106,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时27分 ~ 17时17分]"
+        },
+        {
+          "title": "AI医疗为何引发巨头押注",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时34分 ~ 23时17分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -153,19 +166,6 @@
           "time_info": "[12时22分 ~ 16时21分]"
         },
         {
-          "title": "AI医疗为何引发巨头押注",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 22时16分]"
-        },
-        {
           "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/2998082",
           "source": "华尔街见闻-快讯",
@@ -185,33 +185,36 @@
           "url": "https://wallstreetcn.com/livenews/2998157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
           "url": "https://flash.jin10.com/detail/20251102213815037800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
           "url": "https://flash.jin10.com/detail/20251102213730423800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "AI革命美国企业疯狂裁员背后",
@@ -291,8 +294,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时22分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[12时22分 ~ 23时17分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -396,11 +399,12 @@
           "ranks": [
             5,
             8,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时17分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
@@ -416,6 +420,18 @@
           "time_info": "[14时27分 ~ 17时17分]"
         },
         {
+          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
+          "url": "https://flash.jin10.com/detail/20251102213258278800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "马斯克：AI在2026年超越单个人类智商",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
           "source": "百度热搜",
@@ -425,17 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时15分 ~ 22时16分]"
-        },
-        {
-          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
-          "url": "https://flash.jin10.com/detail/20251102213258278800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         }
       ]
     },
@@ -453,8 +458,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时39分 ~ 22时16分]"
+          "appearance_count": 21,
+          "time_info": "[09时39分 ~ 23时17分]"
         },
         {
           "title": "黄金税收新规有何影响",
@@ -492,8 +497,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时17分]"
         },
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -664,8 +669,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时13分 ~ 22时16分]"
+          "appearance_count": 9,
+          "time_info": "[19时13分 ~ 23时17分]"
         },
         {
           "title": "中美关键矿产大战，这一地区缘何至关重要？",
@@ -680,6 +685,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时15分 ~ 14时27分]"
+        },
+        {
+          "title": "专家：中美贸易战实际胜负已分",
+          "url": "https://www.toutiao.com/trending/7568072934858690054/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时34分 ~ 23时17分]"
         },
         {
           "title": "学者：中美关系缓和让欧洲松了口气",
@@ -704,18 +721,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时15分 ~ 14时27分]"
-        },
-        {
-          "title": "专家：中美贸易战实际胜负已分",
-          "url": "https://www.toutiao.com/trending/7568072934858690054/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 22时16分]"
         },
         {
           "title": "中美就扩大农产品贸易达成共识，美国豆农松了口气",
@@ -773,8 +778,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时17分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[15时17分 ~ 23时17分]"
         },
         {
           "title": "人形机器人进厂“打螺丝”，灵巧手寿命和成本仍是待突破瓶颈",
@@ -805,6 +810,17 @@
           "time_info": "[00时20分 ~ 14时27分]"
         },
         {
+          "title": "人形机器人为啥进步“神速”？",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%BF%9B%E6%AD%A5%E2%80%9C%E7%A5%9E%E9%80%9F%E2%80%9D%EF%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时15分 ~ 23时17分]"
+        },
+        {
           "title": "工业机器人加速“上岗”，前三季度我国实现“智”造升级",
           "url": "https://wallstreetcn.com/livenews/2998067",
           "source": "华尔街见闻-快讯",
@@ -817,17 +833,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时15分 ~ 14时27分]"
-        },
-        {
-          "title": "人形机器人为啥进步“神速”？",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%BF%9B%E6%AD%A5%E2%80%9C%E7%A5%9E%E9%80%9F%E2%80%9D%EF%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "全球首个5G-A人形机器人火炬手“夸父”亮相十五运",
@@ -883,8 +888,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时22分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[12时22分 ~ 23时17分]"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -990,11 +995,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时16分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[17时16分 ~ 23时17分]"
         },
         {
           "title": "比特币向上触及111000美元/枚，日内涨0.82%。",
@@ -1123,8 +1129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[18时17分 ~ 23时17分]"
         }
       ]
     }
