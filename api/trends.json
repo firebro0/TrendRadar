@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-03T13:20:32.274551+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-11-03T14:31:00.545768+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
+          "url": "https://www.cls.cn/detail/2188963",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 14时31分]"
+        },
         {
           "title": "黄金税收新规影响如何",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%A8%8E%E6%94%B6%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 11时17分]"
-        },
-        {
-          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
-          "url": "https://www.cls.cn/detail/2188963",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时20分]"
         },
         {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
@@ -52,11 +53,24 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 14时31分]"
+        },
+        {
+          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3758522",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时31分]"
         },
         {
           "title": "现货黄金突破4010美元/盎司，日内涨0.17%。",
@@ -85,22 +99,24 @@
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%BE%81%E7%A8%8E+%E9%83%A8%E5%88%86%E5%95%86%E5%AE%B6%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6%E9%87%91%E6%9D%A1",
           "source": "百度热搜",
           "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 14时31分]"
+        },
+        {
+          "title": "黄金 征税",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91+%E5%BE%81%E7%A8%8E&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26realpos%3D20%26stream_entry_id%3D31%26q%3D%25E9%25BB%2584%25E9%2587%2591%2520%25E5%25BE%2581%25E7%25A8%258E%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D21%26band_rank%3D20%26display_time%3D1762147126%26pre_seqid%3D17621471263750254364206&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20,
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时20分]"
-        },
-        {
-          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3758522",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时31分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）白银ETF持仓报告",
@@ -115,6 +131,17 @@
           "time_info": "[12时28分 ~ 13时20分]"
         },
         {
+          "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
+          "url": "https://www.cls.cn/detail/2189286",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251103115357309800",
           "source": "金十数据",
@@ -125,17 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时20分]"
-        },
-        {
-          "title": "黄金 征税",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91+%E5%BE%81%E7%A8%8E&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26realpos%3D20%26stream_entry_id%3D31%26q%3D%25E9%25BB%2584%25E9%2587%2591%2520%25E5%25BE%2581%25E7%25A8%258E%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D21%26band_rank%3D20%26display_time%3D1762147126%26pre_seqid%3D17621471263750254364206&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
         },
         {
           "title": "一文读懂黄金新政",
@@ -196,7 +212,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -231,11 +247,12 @@
           "url": "https://wallstreetcn.com/articles/3758501",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时15分 ~ 13时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 14时31分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -249,6 +266,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 14时31分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
@@ -275,18 +305,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
@@ -337,6 +355,17 @@
           "time_info": "[11时17分 ~ 12时28分]"
         },
         {
+          "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
+          "url": "https://flash.jin10.com/detail/20251103141136470800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
           "url": "https://wallstreetcn.com/livenews/2998233",
           "source": "华尔街见闻-快讯",
@@ -357,6 +386,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "你如何看待机器人成为全运会火炬手",
+          "url": "https://www.toutiao.com/trending/7567949943370121258/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            10,
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 11时17分]"
+        },
+        {
+          "title": "世界第一款家用人形机器人开卖，只能完成叠衣服等三件事，售价 14 万元，你觉得值吗？未来发展前景如何？",
+          "url": "https://www.zhihu.com/question/1967560363227702533",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 14时31分]"
+        },
+        {
+          "title": "人形机器人为啥进步“神速”？",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%BF%9B%E6%AD%A5%E2%80%9C%E7%A5%9E%E9%80%9F%E2%80%9D%EF%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时39分]"
+        },
+        {
+          "title": "智元机器人与龙旗科技合作落地真机强化学习技术",
+          "url": "https://wallstreetcn.com/livenews/2998349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时31分]"
+        },
+        {
+          "title": "全球首款家务机器人开卖 只会3件事",
+          "url": "https://www.toutiao.com/trending/7568279986218549291/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
+          "title": "“机器人保姆”离普及还有多远",
+          "url": "https://www.toutiao.com/trending/7568320078001737254/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
+          "title": "深圳机器人火炬手“夸父”火了",
+          "url": "https://www.toutiao.com/trending/7568058058157768754/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "越疆全球首款家庭智能体机器人发布，定价7499元",
+          "url": "https://wallstreetcn.com/livenews/2998378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "商用清洁机器人国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/2998293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "机器人当上火炬手了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E4%B8%8A%E7%81%AB%E7%82%AC%E6%89%8B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         }
       ]
     },
@@ -479,11 +632,12 @@
           "url": "https://www.zhihu.com/question/1968223817403954668",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时31分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -526,6 +680,19 @@
           "time_info": "[00时21分 ~ 05时15分]"
         },
         {
+          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
+          "url": "https://www.cls.cn/detail/2189164",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 14时31分]"
+        },
+        {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
@@ -536,18 +703,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时23分]"
-        },
-        {
-          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
-          "url": "https://www.cls.cn/detail/2189164",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时20分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决",
@@ -574,96 +729,6 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "你如何看待机器人成为全运会火炬手",
-          "url": "https://www.toutiao.com/trending/7567949943370121258/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            10,
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 11时17分]"
-        },
-        {
-          "title": "人形机器人为啥进步“神速”？",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%BF%9B%E6%AD%A5%E2%80%9C%E7%A5%9E%E9%80%9F%E2%80%9D%EF%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时39分]"
-        },
-        {
-          "title": "世界第一款家用人形机器人开卖，只能完成叠衣服等三件事，售价 14 万元，你觉得值吗？未来发展前景如何？",
-          "url": "https://www.zhihu.com/question/1967560363227702533",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时20分]"
-        },
-        {
-          "title": "智元机器人与龙旗科技合作落地真机强化学习技术",
-          "url": "https://wallstreetcn.com/livenews/2998349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时20分]"
-        },
-        {
-          "title": "深圳机器人火炬手“夸父”火了",
-          "url": "https://www.toutiao.com/trending/7568058058157768754/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "商用清洁机器人国家标准发布",
-          "url": "https://wallstreetcn.com/livenews/2998293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "机器人当上火炬手了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E4%B8%8A%E7%81%AB%E7%82%AC%E6%89%8B%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 5,
       "titles": [
@@ -674,11 +739,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 14时31分]"
         },
         {
           "title": "以太坊跌破3800美元，比特币跌破109000美元",
@@ -732,6 +798,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 14时31分]"
+        },
+        {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
           "url": "https://www.zhihu.com/question/1968075475093034371",
           "source": "知乎",
@@ -770,19 +850,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 13时20分]"
-        },
-        {
           "title": "澳大利亚10月标普全球制造业PMI终值 49.7，前值49.7。",
           "url": "https://flash.jin10.com/detail/20251103060002310800",
           "source": "金十数据",
@@ -801,6 +868,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时38分 ~ 14时31分]"
+        },
+        {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
           "url": "https://wallstreetcn.com/articles/3758424",
           "source": "华尔街见闻",
@@ -810,17 +888,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 13时20分]"
         },
         {
           "title": "陈冰：中美没签协议 但结果早已定局",
@@ -851,7 +918,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
@@ -892,6 +959,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 13时20分]"
+        },
+        {
+          "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2998371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -910,8 +988,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 14时31分]"
         },
         {
           "title": "再创新高！新型钙钛矿光伏器件光电转换率达25.19%",
