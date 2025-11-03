@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T06:18:54.152811+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-11-04T07:17:49.604912+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -41,6 +41,18 @@
           "time_info": "05时18分"
         },
         {
+          "title": "周一（11月3日）纽约尾盘，标普500股指期货最终涨0.21%，道指期货跌0.51%，纳斯达克100股指期货涨0.46%。 罗素2000股指期货涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/2998774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
           "url": "https://wallstreetcn.com/livenews/2998745",
           "source": "华尔街见闻-快讯",
@@ -51,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -88,26 +112,15 @@
           "time_info": "05时18分"
         },
         {
-          "title": "周一（11月3日）纽约尾盘，标普500股指期货最终涨0.21%，道指期货跌0.51%，纳斯达克100股指期货涨0.46%。 罗素2000股指期货涨0.28%。",
-          "url": "https://wallstreetcn.com/livenews/2998774",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时17分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股收盘）",
@@ -116,7 +129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -127,7 +140,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -138,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -149,7 +162,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -160,7 +173,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -171,7 +184,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -223,8 +236,20 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
+          "url": "https://www.cls.cn/detail/2189431",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
         {
           "title": "大摩：2026将是AI科技硬件之年",
           "url": "https://wallstreetcn.com/articles/3758553",
@@ -233,19 +258,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
-          "url": "https://www.cls.cn/detail/2189431",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -255,19 +269,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
           "url": "https://www.cls.cn/detail/2189658",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -281,6 +296,17 @@
           "time_info": "[00时22分 ~ 05时18分]"
         },
         {
+          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
+          "url": "https://wallstreetcn.com/articles/3758569",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 07时17分]"
+        },
+        {
           "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
           "url": "https://wallstreetcn.com/livenews/2998681",
           "source": "华尔街见闻-快讯",
@@ -291,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时28分]"
-        },
-        {
-          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
-          "url": "https://wallstreetcn.com/articles/3758569",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 06时18分]"
         },
         {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
@@ -328,6 +343,17 @@
           "time_info": "[04时22分 ~ 05时18分]"
         },
         {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "美联储理事库克：人工智能可能对劳动力市场产生重大负面影响。",
           "url": "https://flash.jin10.com/detail/20251104032547273800",
           "source": "金十数据",
@@ -352,15 +378,15 @@
           "time_info": "[04时22分 ~ 05时18分]"
         },
         {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
+          "title": "Anthropic与Cognizant达成交易，Cognizant将向其35万名员工推出Anthropic的Claude人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20251104064951244800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时17分"
         },
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -399,7 +425,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
@@ -410,8 +436,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
@@ -421,8 +447,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
@@ -431,11 +457,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -445,8 +472,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "黄金开始征税 部分商家火速下架金条",
@@ -458,11 +485,12 @@
             29,
             23,
             19,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "一条视频看懂黄金税收新规",
@@ -475,8 +503,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "现货黄金失守3990美元/盎司，日内跌幅0.26%。",
+          "url": "https://flash.jin10.com/detail/20251104071358865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "现货黄金跌破3990美元，日内小幅下跌0.28%。",
+          "url": "https://wallstreetcn.com/livenews/2998803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
@@ -528,6 +578,17 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.58吨，当前持仓量为1041.78吨。",
+          "url": "https://flash.jin10.com/detail/20251104065807542800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251103233617809800",
           "source": "金十数据",
@@ -553,7 +614,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌超4%、以太坊跌超8%",
@@ -577,6 +638,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 06时18分]"
+        },
+        {
+          "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌近5%、以太坊跌近9%",
@@ -618,22 +690,24 @@
           "url": "https://wallstreetcn.com/livenews/2998776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "代币网络协议遭黑客攻击，周一以太坊暴跌",
           "url": "https://flash.jin10.com/detail/20251104052656011800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "以太坊跌破3600美元/枚，日内跌近8%。",
@@ -645,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "比特币财库公交公司Strategy Inc.（MSTR）计划通过欧元区IPO发行STRE股票。",
+          "url": "https://wallstreetcn.com/livenews/2998784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "比特币日内大跌5001美元，现报105540美元/枚，跌幅4.52%。",
@@ -672,7 +757,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克：我承诺在播客节目公布“外星人证据”",
@@ -682,8 +767,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "马斯克称若发现外星人证据就公开",
@@ -736,6 +821,28 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "市场消息：三星SDI正与特斯拉洽谈供应储能系统（ESS）电池事宜。",
+          "url": "https://flash.jin10.com/detail/20251104070012105800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "三星SDI与特斯拉洽谈，有望向后者供应ESS电池。",
+          "url": "https://wallstreetcn.com/livenews/2998796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "意大利交通部：特斯拉(TSLA.O)1月至10月在意大利的新车注册量同比下降32.89%。",
           "url": "https://flash.jin10.com/detail/20251104010420781800",
           "source": "金十数据",
@@ -775,17 +882,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "券商三季度末持股市值逾660亿元，重仓布局高端制造与科技赛道",
-          "url": "https://wallstreetcn.com/livenews/2998779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "非洲股市收盘播报｜南非股市收跌约0.2%，矿业股领跌",
           "url": "https://wallstreetcn.com/livenews/2998660",
           "source": "华尔街见闻-快讯",
@@ -798,13 +894,25 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
+          "title": "券商三季度末持股市值逾660亿元，重仓布局高端制造与科技赛道",
+          "url": "https://wallstreetcn.com/livenews/2998779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251104050623678800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -818,6 +926,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时22分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -837,8 +986,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "郭正亮谈中美贸易战：美国已经输了",
@@ -884,36 +1033,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时22分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/2998693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
       "match_count": 2,
       "titles": [
@@ -925,19 +1044,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "中国机器人产业开启“智能伙伴”新形态，前三季度产量已超去年全年",
           "url": "https://wallstreetcn.com/livenews/2998781",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         }
       ]
     },
