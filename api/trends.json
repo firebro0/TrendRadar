@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T19:16:53.793934+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-11-03T20:41:05.914120+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
@@ -21,6 +21,19 @@
           "time_info": "[09时38分 ~ 14时31分]"
         },
         {
+          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3758522",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时19分 ~ 20时41分]"
+        },
+        {
           "title": "黄金税收新规影响如何",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%A8%8E%E6%94%B6%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -34,19 +47,6 @@
           "time_info": "[00时21分 ~ 11时17分]"
         },
         {
-          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3758522",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 19时16分]"
-        },
-        {
           "title": "【早报】两部门明确黄金有关税收政策；我国航空制造装备领域取得重大突破",
           "url": "https://www.cls.cn/detail/2188697",
           "source": "财联社热门",
@@ -58,6 +58,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
+          "url": "https://www.cls.cn/detail/2189286",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时30分 ~ 20时41分]"
         },
         {
           "title": "王家卫被曝录音中称中国的编剧现在处在黄金时代，真是这样吗？影视编剧行业境况究竟如何？",
@@ -75,17 +88,27 @@
           "time_info": "[09时38分 ~ 15时19分]"
         },
         {
-          "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
-          "url": "https://www.cls.cn/detail/2189286",
-          "source": "财联社热门",
+          "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
+          "url": "https://wallstreetcn.com/articles/3758541",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时41分]"
+        },
+        {
+          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
+          "ranks": [
             6,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时30分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时41分]"
         },
         {
           "title": "黄金开始征税 部分商家火速下架金条",
@@ -100,15 +123,17 @@
           "time_info": "[12时28分 ~ 16时27分]"
         },
         {
-          "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
-          "url": "https://wallstreetcn.com/articles/3758541",
-          "source": "华尔街见闻",
+          "title": "一条视频看懂黄金税收新规",
+          "url": "https://www.douyin.com/hot/2293159",
+          "source": "抖音",
           "ranks": [
-            3
+            15,
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "现货黄金突破4010美元/盎司，日内涨0.17%。",
@@ -120,18 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "现货黄金周一小幅低开，报4003.23美元/盎司。",
@@ -155,19 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
-          "title": "一条视频看懂黄金税收新规",
-          "url": "https://www.douyin.com/hot/2293159",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时16分]"
         },
         {
           "title": "黄金 征税",
@@ -216,6 +216,18 @@
           "time_info": "[12时28分 ~ 13时20分]"
         },
         {
+          "title": "周大福珠宝：应黄金税政策，即日起部分商品涨价",
+          "url": "https://wallstreetcn.com/livenews/2998533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时41分]"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251103115357309800",
           "source": "金十数据",
@@ -252,6 +264,17 @@
           "time_info": "[16时27分 ~ 17时23分]"
         },
         {
+          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
           "title": "一文读懂黄金新政",
           "url": "https://www.toutiao.com/trending/7568277448333200932/",
           "source": "今日头条",
@@ -261,6 +284,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "黄金征税对普通人买金饰没影响",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BE%81%E7%A8%8E%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E9%87%91%E9%A5%B0%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "买黄金要多交税了吗",
@@ -274,6 +308,17 @@
           "time_info": "[09时38分 ~ 09时39分]"
         },
         {
+          "title": "黄金开始征税 部分商家火速下架金条",
+          "url": "https://www.toutiao.com/trending/7568271211139186694/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
           "title": "瑞银：如果政治或金融市场波动再次加剧，黄金价格存在上行风险，可能升至4700美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251103181615614800",
           "source": "金十数据",
@@ -283,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "周大福珠宝：应黄金税政策，即日起部分商品涨价",
-          "url": "https://wallstreetcn.com/livenews/2998533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）上海黄金交易所市场行情",
@@ -343,7 +377,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -404,6 +438,34 @@
           "time_info": "[01时15分 ~ 18时22分]"
         },
         {
+          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
+          "url": "https://www.cls.cn/detail/2189431",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时41分]"
+        },
+        {
+          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
+          "url": "https://wallstreetcn.com/articles/3758523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时41分]"
+        },
+        {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2998157",
           "source": "华尔街见闻-快讯",
@@ -443,30 +505,6 @@
           "time_info": "[00时21分 ~ 05时15分]"
         },
         {
-          "title": "科大讯飞副总章继东：AI智能硬件成败的关键不在于交互形式",
-          "url": "https://wallstreetcn.com/livenews/2998549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
-          "url": "https://www.cls.cn/detail/2189431",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
-        },
-        {
           "title": "上海新增8款已完成备案的生成式人工智能服务",
           "url": "https://wallstreetcn.com/livenews/2998495",
           "source": "华尔街见闻-快讯",
@@ -480,17 +518,39 @@
           "time_info": "[17时23分 ~ 19时16分]"
         },
         {
-          "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
-          "url": "https://wallstreetcn.com/articles/3758523",
+          "title": "科大讯飞副总章继东：AI智能硬件成败的关键不在于交互形式",
+          "url": "https://wallstreetcn.com/livenews/2998549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时41分]"
+        },
+        {
+          "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
+          "url": "https://wallstreetcn.com/articles/3758514",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时16分]"
+          "time_info": "[18时22分 ~ 20时41分]"
+        },
+        {
+          "title": "大摩：2026将是AI科技硬件之年",
+          "url": "https://wallstreetcn.com/articles/3758553",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
@@ -529,18 +589,6 @@
           "time_info": "[12时28分 ~ 13时20分]"
         },
         {
-          "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
-          "url": "https://wallstreetcn.com/articles/3758514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
-        },
-        {
           "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
           "url": "https://wallstreetcn.com/livenews/2998305",
           "source": "华尔街见闻-快讯",
@@ -565,15 +613,37 @@
           "time_info": "[14时31分 ~ 15时19分]"
         },
         {
+          "title": "美国允许微软运输英伟达AI芯片以在阿联酋使用。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2998577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "IREN(IREN.O)股价盘前上涨18%，此前该公司与微软(MSFT.O)达成了一项价值97亿美元的人工智能云合同。",
           "url": "https://flash.jin10.com/detail/20251103190845834800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "摩根大通股票策略师预计AI资本支出有更大的上行空间",
+          "url": "https://wallstreetcn.com/livenews/2998574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "阿布扎比国家石油引入AI减少停机",
@@ -640,6 +710,189 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 15时19分]"
+        },
+        {
+          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
+          "url": "https://www.zhihu.com/question/1968075475093034371",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            10,
+            9,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20251103070259111800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/2998191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "纳斯达克北欧分部：交易报告不受影响。",
+          "url": "https://flash.jin10.com/detail/20251103202759036800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "澳大利亚10月标普全球制造业PMI终值 49.7，前值49.7。",
+          "url": "https://flash.jin10.com/detail/20251103060002310800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
+          "url": "https://wallstreetcn.com/livenews/2998551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时41分]"
+        },
+        {
+          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
+          "url": "https://wallstreetcn.com/livenews/2998506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时16分]"
+        },
+        {
+          "title": "北美地区冬令时 美股延至22:30开盘",
+          "url": "https://flash.jin10.com/detail/20251103160624228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "BioNTech三季度营收15.2亿欧元，预估7.843亿欧元。 三季度每股亏损0.12欧元，预估每股亏损0.96欧元。 BioNTech预计全财年营收26-28亿欧元，此前预计17-22亿欧元。 BioNTech预计全财年资本支出2-2.5亿欧元，此前预计2.5-3.5亿欧元。 BioNTech美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2998564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "kenvue美股盘前涨超29%，报道称金佰利将收购kenvue",
+          "url": "https://wallstreetcn.com/livenews/2998563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "Iren美股盘前大涨近30%，戴尔科技涨超5%，报道称微软与Iren签署97亿美元的AI云协议",
+          "url": "https://wallstreetcn.com/livenews/2998560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "纳斯达克交易所：（瑞典固定收益）市场遵循半日交易日程，已提前闭市。",
+          "url": "https://flash.jin10.com/detail/20251103201433452800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "纳斯达克交易所：瑞典固定收益市场因技术故障意外关闭，纳斯达克北欧分部正就斯德哥尔摩固定收益市场事件展开调查。",
+          "url": "https://flash.jin10.com/detail/20251103201359611800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前小幅走高，现涨2.12%。",
+          "url": "https://flash.jin10.com/detail/20251103200846813800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -818,11 +1071,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[13时19分 ~ 20时41分]"
         },
         {
           "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
@@ -838,6 +1092,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时28分 ~ 19时16分]"
+        },
+        {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -889,18 +1155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时16分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -986,8 +1240,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时38分 ~ 19时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时38分 ~ 20时41分]"
         },
         {
           "title": "你如何看待机器人成为全运会火炬手",
@@ -1016,6 +1270,18 @@
           "time_info": "[00时21分 ~ 09时39分]"
         },
         {
+          "title": "物流人形机器人爆发前夜：厂家频获订单，“轮式”成趋势|行业观察",
+          "url": "https://www.cls.cn/detail/2189523",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时41分]"
+        },
+        {
           "title": "智元机器人与龙旗科技合作落地真机强化学习技术",
           "url": "https://wallstreetcn.com/livenews/2998349",
           "source": "华尔街见闻-快讯",
@@ -1040,17 +1306,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时30分 ~ 17时23分]"
-        },
-        {
-          "title": "物流人形机器人爆发前夜：厂家频获订单，“轮式”成趋势|行业观察",
-          "url": "https://www.cls.cn/detail/2189523",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "“机器人保姆”离普及还有多远",
@@ -1124,7 +1379,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
@@ -1150,6 +1405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌超3%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "以太坊跌破3800美元，比特币跌破109000美元",
@@ -1181,7 +1447,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1219,6 +1485,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "数字货币普跌，比特币24小时跌幅超3%，以太坊24小时跌幅近5%",
+          "url": "https://wallstreetcn.com/livenews/2998555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "比特币失守108000美元/枚，日内跌幅2.30%。",
           "url": "https://flash.jin10.com/detail/20251103112644373800",
           "source": "金十数据",
@@ -1228,111 +1505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 15时19分]"
-        },
-        {
-          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
-          "url": "https://www.zhihu.com/question/1968075475093034371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
-          "url": "https://wallstreetcn.com/livenews/2998551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
-          "url": "https://flash.jin10.com/detail/20251103070259111800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/2998191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "澳大利亚10月标普全球制造业PMI终值 49.7，前值49.7。",
-          "url": "https://flash.jin10.com/detail/20251103060002310800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
-          "url": "https://wallstreetcn.com/livenews/2998506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
-        },
-        {
-          "title": "北美地区冬令时 美股延至22:30开盘",
-          "url": "https://flash.jin10.com/detail/20251103160624228800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         }
       ]
     },
@@ -1358,6 +1530,20 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "为什么日系车总是不给试驾，国产车特别是新能源求着你去试驾？",
+          "url": "https://www.zhihu.com/question/13109006405",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时41分]"
+        },
+        {
           "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
           "url": "https://wallstreetcn.com/livenews/2998254",
           "source": "华尔街见闻-快讯",
@@ -1367,19 +1553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "为什么日系车总是不给试驾，国产车特别是新能源求着你去试驾？",
-          "url": "https://www.zhihu.com/question/13109006405",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时16分]"
         },
         {
           "title": "新款小鹏X9首发电动三折叠",
@@ -1485,7 +1658,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果AI入华计划再延期",
@@ -1500,13 +1673,24 @@
           "time_info": "[18时22分 ~ 19时16分]"
         },
         {
+          "title": "用户连麦京东直播领到iPhone17",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%A8%E6%88%B7%E8%BF%9E%E9%BA%A6%E4%BA%AC%E4%B8%9C%E7%9B%B4%E6%92%AD%E9%A2%86%E5%88%B0iPhone17%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D30%26dgr%3D0%26realpos%3D30%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2594%25A8%25E6%2588%25B7%25E8%25BF%259E%25E9%25BA%25A6%25E4%25BA%25AC%25E4%25B8%259C%25E7%259B%25B4%25E6%2592%25AD%25E9%25A2%2586%25E5%2588%25B0iPhone17%2523%26display_time%3D1762173569%26pre_seqid%3D17621735689650340409849&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
           "title": "消息称高通、联发科加速布局台积电N2P工艺，欲弯道超车苹果",
           "url": "https://flash.jin10.com/detail/20251103185830204800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1528,7 +1712,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
@@ -1609,8 +1793,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时41分]"
         }
       ]
     }
