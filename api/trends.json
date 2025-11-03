@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T01:17:51.149857+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-11-04T02:28:04.114443+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
           "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -48,19 +49,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "一条视频看懂黄金税收新规",
           "url": "https://www.douyin.com/hot/2293159",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "黄金开始征税 部分商家火速下架金条",
@@ -68,11 +70,24 @@
           "source": "今日头条",
           "ranks": [
             16,
-            24
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
+        },
+        {
+          "title": "工行和建行同日暂停部分黄金积存业务",
+          "url": "https://www.toutiao.com/trending/7568451021819612735/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "time_info": "[01时17分 ~ 02时28分]"
         },
         {
           "title": "现货白银日内跌幅达1.0%，报48.14美元/盎司。",
@@ -85,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
+          "url": "https://wallstreetcn.com/livenews/2998697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -107,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "工行和建行同日暂停部分黄金积存业务",
-          "url": "https://www.toutiao.com/trending/7568451021819612735/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
         }
       ]
     },
@@ -133,8 +148,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -144,19 +159,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
-        },
-        {
-          "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
-          "url": "https://wallstreetcn.com/livenews/2998681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -166,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -177,8 +181,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -188,19 +192,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
+        },
+        {
+          "title": "微软与Lambda达成数十亿美元的人工智能基础设施协议。 作为Lambda公司与微软合作协议的一部分，Lambda将部署由英伟达提供技术支持的人工智能基础设施。",
+          "url": "https://wallstreetcn.com/livenews/2998681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时28分]"
         },
         {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
           "url": "https://flash.jin10.com/detail/20251104010445850800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时28分]"
         },
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -209,7 +226,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -231,7 +248,175 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "标普全球报告称，欧洲仍将是银行并购的热点地区。",
+          "url": "https://flash.jin10.com/detail/20251104001156310800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251104013142595800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251104013024718800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美国10月标普全球制造业PMI终值 52.5，初值 52.2。",
+          "url": "https://wallstreetcn.com/livenews/2998638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/2998634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2998631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "道指美股盘初转跌。",
+          "url": "https://wallstreetcn.com/livenews/2998629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
+        },
+        {
+          "title": "马斯克称若发现外星人证据就公开",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%8B%A5%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E8%AF%81%E6%8D%AE%E5%B0%B1%E5%85%AC%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
+        },
+        {
+          "title": "马斯克：若掌握外星人证据将公开",
+          "url": "https://www.douyin.com/hot/2293371",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "意大利交通部：特斯拉(TSLA.O)1月至10月在意大利的新车注册量同比下降32.89%。",
+          "url": "https://flash.jin10.com/detail/20251104010420781800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "意大利交通部：10月份特斯拉(TSLA.O)在意大利的新车注册量同比下降了47.11%。",
+          "url": "https://flash.jin10.com/detail/20251104010407952800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特斯拉欧洲市场销量再度大幅下滑，保持数季度以来的低迷态势",
+          "url": "https://wallstreetcn.com/livenews/2998688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "葡萄牙汽车协会（ACAP）数据显示，特斯拉10月份在葡萄牙的新车注册量同比下降58.7%，1月至10月累计下降21.4%。",
+          "url": "https://flash.jin10.com/detail/20251104003713772800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -249,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "纳斯达克生物科技指数下跌2.3%，成分股uniQure NV目前跌55.76%，Tscan Therapeutics跌42.27%，Alvotech跌30.72%，Neurogene跌16.87%跌幅第四大。 和黄医药（HCM）则涨3.10%表现第五，Indivior涨4.29%，Acrivon Therapeutics涨8.79%，Pyxis Oncology涨11.97%，Terns Pharmaceuticals涨81.84%。",
@@ -312,140 +497,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
-        },
-        {
-          "title": "马斯克称若发现外星人证据就公开",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%8B%A5%E5%8F%91%E7%8E%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E8%AF%81%E6%8D%AE%E5%B0%B1%E5%85%AC%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
-        },
-        {
-          "title": "马斯克：若掌握外星人证据将公开",
-          "url": "https://www.douyin.com/hot/2293371",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "意大利交通部：特斯拉(TSLA.O)1月至10月在意大利的新车注册量同比下降32.89%。",
-          "url": "https://flash.jin10.com/detail/20251104010420781800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "意大利交通部：10月份特斯拉(TSLA.O)在意大利的新车注册量同比下降了47.11%。",
-          "url": "https://flash.jin10.com/detail/20251104010407952800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "葡萄牙汽车协会（ACAP）数据显示，特斯拉10月份在葡萄牙的新车注册量同比下降58.7%，1月至10月累计下降21.4%。",
-          "url": "https://flash.jin10.com/detail/20251104003713772800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "标普全球报告称，欧洲仍将是银行并购的热点地区。",
-          "url": "https://flash.jin10.com/detail/20251104001156310800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国10月标普全球制造业PMI终值 52.5，初值 52.2。",
-          "url": "https://wallstreetcn.com/livenews/2998638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
-          "url": "https://wallstreetcn.com/livenews/2998634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2998631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "道指美股盘初转跌。",
-          "url": "https://wallstreetcn.com/livenews/2998629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
       "match_count": 2,
       "titles": [
@@ -455,11 +506,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "郭正亮谈中美贸易战：美国已经输了",
@@ -468,7 +520,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -497,9 +549,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时28分"
         }
       ]
     },
@@ -515,8 +584,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         }
       ]
     },
@@ -532,8 +601,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时28分]"
         }
       ]
     }
