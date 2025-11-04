@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T18:22:57.257842+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-11-04T19:18:02.091603+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -32,6 +32,20 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
+          "url": "https://www.cls.cn/detail/2190323",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 19时18分]"
+        },
+        {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
           "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
@@ -42,21 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时18分 ~ 18时22分]"
-        },
-        {
-          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
-          "url": "https://www.cls.cn/detail/2190323",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[06时18分 ~ 19时18分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -69,11 +70,12 @@
             10,
             13,
             12,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时26分 ~ 19时18分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -87,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时22分 ~ 18时22分]"
+          "appearance_count": 18,
+          "time_info": "[04时22分 ~ 19时18分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -114,17 +116,6 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
-          "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
-          "url": "https://wallstreetcn.com/articles/3758514",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 05时18分]"
-        },
-        {
           "title": "AI养老的真正任务：让老人不必退场",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
           "source": "澎湃新闻",
@@ -137,8 +128,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 19时18分]"
         },
         {
           "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
@@ -150,8 +141,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 19时18分]"
+        },
+        {
+          "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
+          "url": "https://wallstreetcn.com/articles/3758514",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时18分]"
+        },
+        {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 19时18分]"
         },
         {
           "title": "韩国总统李在明：向人工智能社会的过渡是不可避免的。",
@@ -176,27 +191,27 @@
           "time_info": "12时22分"
         },
         {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时22分]"
-        },
-        {
           "title": "西班牙桑坦德银行首席执行官：我认为人工智能的实施不会摧毁大量工作岗位，而是会促使工人进行技能再培训。",
           "url": "https://flash.jin10.com/detail/20251104180444058800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "首创沪语交互AI应用 上海银行携手财跃星辰、阶跃星辰共创智慧养老金融服务新范式",
+          "url": "https://www.cls.cn/detail/2190367",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 19时18分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -237,15 +252,15 @@
           "time_info": "[01时17分 ~ 02时28分]"
         },
         {
-          "title": "首创沪语交互AI应用 上海银行携手财跃星辰、阶跃星辰共创智慧养老金融服务新范式",
-          "url": "https://www.cls.cn/detail/2190367",
-          "source": "财联社热门",
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时22分]"
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
@@ -317,6 +332,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "英伟达与德国电信达成10亿欧元AI云合作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "德国电信首席执行官：人工智能数据中心将于慕尼黑开业。",
+          "url": "https://flash.jin10.com/detail/20251104185501842800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "英伟达(NVDA.O)与德国电信达成10亿欧元人工智能云合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20251104185124582800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "Palantir电话会：AI带来“非凡增长”、“40法则”罕见破百，CEO炮轰华尔街“我们交出软件公司史上最佳业绩，而你们一直看错”！",
@@ -421,7 +469,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
@@ -476,8 +524,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时26分 ~ 19时18分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -545,11 +593,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "现货黄金失守3990美元/盎司，日内跌幅0.26%。",
@@ -610,6 +659,17 @@
           "time_info": "[01时17分 ~ 04时22分]"
         },
         {
+          "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
+          "url": "https://www.zhihu.com/question/1968612930045059136",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 19时18分]"
+        },
+        {
           "title": "唐俪辞有5吨黄金",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%94%90%E4%BF%AA%E8%BE%9E%E6%9C%895%E5%90%A8%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26band_rank%3D17%26filter_type%3Drealtimehot%26pos%3D18%26c_type%3D31%26realpos%3D17%26q%3D%25E5%2594%2590%25E4%25BF%25AA%25E8%25BE%259E%25E6%259C%25895%25E5%2590%25A8%25E9%25BB%2584%25E9%2587%2591%26cate%3D5001%26dgr%3D0%26display_time%3D1762230028%26pre_seqid%3D17622300288600333386154&launchid=10000360-page_H5",
           "source": "微博",
@@ -633,17 +693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
-          "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
-          "url": "https://www.zhihu.com/question/1968612930045059136",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时22分]"
         },
         {
           "title": "现货白银日内跌幅达1.0%，报48.14美元/盎司。",
@@ -692,6 +741,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时22分]"
+        },
+        {
+          "title": "一图看懂 | 黄金税收新政影响浮现，对“买金党”有何影响？",
+          "url": "https://www.cls.cn/detail/2190860",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
+          "url": "https://www.cls.cn/detail/2190760",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）黄金ETF持仓报告",
@@ -796,7 +867,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -831,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "Spotify三季度营收42.7亿欧元，预估42.3亿欧元。 三季度每股收益3.26欧元，上年同期1.45欧元。 三季度营业利润5.82亿欧元，同比增长28%。 Spotify预计四季度营收45亿欧元，预估45.7亿欧元。 Spotify预计四季度营业利润6.2亿欧元，预估6.053亿欧元。 Spotify美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/2999184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
@@ -1131,8 +1213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时26分 ~ 19时18分]"
         },
         {
           "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
@@ -1160,18 +1242,6 @@
           "time_info": "[00时22分 ~ 02时28分]"
         },
         {
-          "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 06时18分]"
-        },
-        {
           "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
           "url": "https://wallstreetcn.com/articles/3758598",
           "source": "华尔街见闻",
@@ -1182,8 +1252,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时30分 ~ 19时18分]"
+        },
+        {
+          "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时18分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -1358,7 +1440,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1399,6 +1481,18 @@
           "time_info": "[15时19分 ~ 16时27分]"
         },
         {
+          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
+          "url": "https://www.cls.cn/detail/2190629",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "深成指、创业板指均跌超1%，沪指跌0.14%，贵金属、机器人、创新药、锂矿等方向跌幅居前，沪深京三市下跌个股超3900只。",
           "url": "https://wallstreetcn.com/livenews/2998927",
           "source": "华尔街见闻-快讯",
@@ -1409,17 +1503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 12时22分]"
-        },
-        {
-          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
-          "url": "https://www.cls.cn/detail/2190629",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "上证指数早盘收报3969.05点，跌0.19%。 深证成指早盘收报13234.07点，跌1.27%。 创业板指早盘收报3148.46点，跌1.51%。 沪深300早盘收报4634.57点，跌0.40%。 科创50早盘收报1398.39点，跌0.18%。 中证500早盘收报7237.05点，跌1.32%。 中证1000早盘收报7446.60点，跌1.21%。",
@@ -1563,6 +1646,21 @@
           "time_info": "[00时22分 ~ 06时18分]"
         },
         {
+          "title": "马斯克：体力劳动更难被AI取代",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            18,
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 19时18分]"
+        },
+        {
           "title": "马斯克：若掌握外星人证据将公开",
           "url": "https://www.douyin.com/hot/2293371",
           "source": "抖音",
@@ -1573,20 +1671,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "马斯克：体力劳动更难被AI取代",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 18时22分]"
         },
         {
           "title": "马斯克：我永远不会自杀",
@@ -1744,8 +1828,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 19时18分]"
         },
         {
           "title": "iOS 26.1正式版来了",
@@ -1758,8 +1842,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 19时18分]"
         },
         {
           "title": "用iPhone前vs用iPhone后",
@@ -1780,11 +1864,12 @@
           "url": "https://wallstreetcn.com/livenews/2999160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "苹果将推出网页版AppStore",
@@ -1952,8 +2037,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 18时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 19时18分]"
         },
         {
           "title": "郭正亮谈中美贸易战：美国已经输了",
