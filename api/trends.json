@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T17:21:55.842796+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2025-11-06T18:22:32.290771+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 17时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 18时22分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -97,11 +97,26 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时22分]"
+        },
+        {
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 18时22分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -115,26 +130,13 @@
           "time_info": "04时22分"
         },
         {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 17时21分]"
-        },
-        {
           "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
           "url": "https://wallstreetcn.com/livenews/3000470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -162,17 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 13时20分]"
-        },
-        {
-          "title": "央视曝光AI假冒艺人直播",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "OpenAI尚未为上市做准备",
@@ -235,6 +226,31 @@
           "time_info": "[12时26分 ~ 13时20分]"
         },
         {
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
+          "title": "黄仁勋直白表态：中国AI将击败美国",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
+        },
+        {
           "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
           "url": "https://www.zhihu.com/question/1969338787738906634",
           "source": "知乎",
@@ -245,18 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时18分]"
-        },
-        {
-          "title": "黄仁勋直白表态：中国AI将击败美国",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "新闻女王2AI取代真人",
@@ -372,6 +376,28 @@
           "time_info": "09时28分"
         },
         {
+          "title": "印度财政部长：将对人工智能监管采取审慎包容的治理方针。",
+          "url": "https://flash.jin10.com/detail/20251106175959823800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "佘诗曼新闻女王2把AI干冒烟了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%BD%98%E8%AF%97%E6%9B%BC%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E6%8A%8AAI%E5%B9%B2%E5%86%92%E7%83%9F%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D15%26cate%3D5001%26lcate%3D5001%26realpos%3D14%26band_rank%3D14%26stream_entry_id%3D31%26q%3D%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%25E6%2596%25B0%25E9%2597%25BB%25E5%25A5%25B3%25E7%258E%258B2%25E6%258A%258AAI%25E5%25B9%25B2%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%26flag%3D1%26dgr%3D0%26display_time%3D1762424471%26pre_seqid%3D1762424471857094324123&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "OpenAI CFO：市场过于关注AI领域可能出现的泡沫",
           "url": "https://flash.jin10.com/detail/20251106042109787800",
           "source": "金十数据",
@@ -381,6 +407,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美国企业10月裁员规模创20多年来同期最高 人工智能变革冲击就业市场",
+          "url": "https://wallstreetcn.com/livenews/3000470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "打假AI温峥嵘不能只靠演员温峥嵘",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
+          "url": "https://flash.jin10.com/detail/20251106173500148800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -452,18 +511,19 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 18时22分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -539,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -675,6 +746,17 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
           "url": "https://wallstreetcn.com/livenews/3000120",
           "source": "华尔街见闻-快讯",
@@ -785,11 +867,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时22分]"
         },
         {
           "title": "黄金裔明天见",
@@ -1031,7 +1114,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储理事米兰：不应当机械地通过政策对股市上涨做出反应。",
@@ -1068,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）全球股市指数-亚太市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251106180821313800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-06）",
@@ -1237,8 +1331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时13分 ~ 18时22分]"
         },
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -1261,11 +1355,12 @@
             15,
             17,
             28,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 18时22分]"
         },
         {
           "title": "小鹏女机器人里藏真人？何小鹏回应",
@@ -1279,8 +1374,60 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时22分]"
+        },
+        {
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时22分]"
+        },
+        {
+          "title": "宇树机器人丝滑做完全套家务",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
+        },
+        {
+          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1969734521176941617",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -1296,66 +1443,30 @@
           "time_info": "[05时18分 ~ 09时28分]"
         },
         {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8,
-            6,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时21分]"
-        },
-        {
-          "title": "宇树机器人丝滑做完全套家务",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
-        },
-        {
-          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1969734521176941617",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
-        },
-        {
           "title": "小鹏的人形机器人为啥让网友吵疯了",
           "url": "https://www.toutiao.com/trending/7569493216051858987/",
           "source": "今日头条",
           "ranks": [
             6,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
+        },
+        {
+          "title": "去掉蒙皮的小鹏机器人什么样",
+          "url": "https://www.douyin.com/hot/2296258",
+          "source": "抖音",
+          "ranks": [
+            18,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
@@ -1397,18 +1508,6 @@
           "time_info": "[13时20分 ~ 15时19分]"
         },
         {
-          "title": "去掉蒙皮的小鹏机器人什么样",
-          "url": "https://www.douyin.com/hot/2296258",
-          "source": "抖音",
-          "ranks": [
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
-        },
-        {
           "title": "小鹏机器人",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26dgr%3D0%26cate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26band_rank%3D10%26pos%3D11%26flag%3D1%26display_time%3D1762410545%26pre_seqid%3D176241054595002572388105&launchid=10000360-page_H5",
           "source": "微博",
@@ -1446,7 +1545,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "小米YU7全网首拆",
@@ -1463,6 +1562,19 @@
           "time_info": "[00时26分 ~ 11时14分]"
         },
         {
+          "title": "何小鹏一镜到底回应网友质疑",
+          "url": "https://www.douyin.com/hot/2296266",
+          "source": "抖音",
+          "ranks": [
+            19,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 18时22分]"
+        },
+        {
           "title": "第一财经再出手,痛击小米销量惨淡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
           "source": "贴吧",
@@ -1474,24 +1586,12 @@
             15,
             17,
             18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 17时21分]"
-        },
-        {
-          "title": "何小鹏一镜到底回应网友质疑",
-          "url": "https://www.douyin.com/hot/2296266",
-          "source": "抖音",
-          "ranks": [
             19,
-            9,
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 17时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "说好的新能源高歌猛进，为什么燃油车又杀来了？",
@@ -1611,12 +1711,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "小鹏X9超级增程太强了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E5%A4%AA%E5%BC%BA%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D28%26cate%3D5001%26lcate%3D5001%26realpos%3D27%26band_rank%3D27%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E8%25B6%2585%25E7%25BA%25A7%25E5%25A2%259E%25E7%25A8%258B%25E5%25A4%25AA%25E5%25BC%25BA%25E4%25BA%2586%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762424471%26pre_seqid%3D1762424471857094324123&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
@@ -1737,6 +1848,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -1762,11 +1906,12 @@
           "source": "微博",
           "ranks": [
             7,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "iPhone17会成为新的钉子户神机吗",
@@ -1821,11 +1966,12 @@
           "url": "https://wallstreetcn.com/livenews/3000450",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时22分]"
         },
         {
           "title": "据华尔街日报：摩根大通(JPM.N)和英伟达(NVDA.O)是首批使用Helios运行复杂算法以解决商业问题的客户。",
@@ -1977,8 +2123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时22分]"
         },
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
