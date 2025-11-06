@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T22:19:59.753470+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2025-11-06T23:21:54.989140+08:00",
+  "total_titles_processed": 2103,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 22时19分]"
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 23时21分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -143,15 +143,17 @@
           "time_info": "17时21分"
         },
         {
-          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
-          "url": "https://wallstreetcn.com/livenews/3000612",
-          "source": "华尔街见闻-快讯",
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时21分]"
         },
         {
           "title": "央视曝光AI假冒艺人直播",
@@ -188,7 +190,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -203,19 +205,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 13时20分]"
-        },
-        {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "OpenAI尚未为上市做准备",
@@ -252,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
+          "url": "https://wallstreetcn.com/livenews/3000612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
@@ -619,7 +620,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -630,8 +631,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时27分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时27分 ~ 23时21分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -771,6 +772,18 @@
           "time_info": "[02时28分 ~ 04时22分]"
         },
         {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "周三（11月5日）纽约尾盘，标普500股指期货最终涨0.41%，道指期货涨0.55%，纳斯达克100股指期货涨0.66%。 罗素2000股指期货跌0.04%。",
           "url": "https://wallstreetcn.com/livenews/3000126",
           "source": "华尔街见闻-快讯",
@@ -783,6 +796,18 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3000606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
           "url": "https://wallstreetcn.com/livenews/3000125",
           "source": "华尔街见闻-快讯",
@@ -793,6 +818,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
+          "url": "https://wallstreetcn.com/livenews/3000605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
@@ -829,6 +866,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时17分]"
+        },
+        {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -878,37 +927,15 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3000606",
-          "source": "华尔街见闻-快讯",
+          "title": "美股低开低走，纳指跌幅扩大至1%，标普500指数跌0.68%，道指跌0.65%。",
+          "url": "https://flash.jin10.com/detail/20251106230312926800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
-          "url": "https://wallstreetcn.com/livenews/3000605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时21分"
         },
         {
           "title": "欧盟委员会就德意志交易所与纳斯达克之间可能存在的串通行为展开反垄断调查。",
@@ -922,15 +949,15 @@
           "time_info": "19时17分"
         },
         {
-          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
-          "url": "https://wallstreetcn.com/livenews/3000599",
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时21分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -944,6 +971,28 @@
           "time_info": "06时18分"
         },
         {
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "标普500指数低开8.70点，跌幅0.13%，报6787.59点； 道琼斯工业平均指数低开55.88点，跌幅0.12%，报47255.12点； 纳斯达克综合指数低开38.51点，跌幅0.16%，报23461.29点。",
+          "url": "https://wallstreetcn.com/livenews/3000616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
           "url": "https://wallstreetcn.com/livenews/3000117",
           "source": "华尔街见闻-快讯",
@@ -953,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251106225002023800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "标普：刚果的融资选择仍然稀缺。",
@@ -983,7 +1043,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1008,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数涨幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20251106223925746800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
@@ -1041,6 +1112,356 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "多邻国美股跌幅达创纪录的27%，股价跌至2024年8月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251106223241147800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1969734521176941617",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 23时21分]"
+        },
+        {
+          "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
+          "url": "https://www.zhihu.com/question/1969450608642745244",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时13分 ~ 23时21分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 23时21分]"
+        },
+        {
+          "title": "宇树机器人丝滑做完全套家务",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 23时21分]"
+        },
+        {
+          "title": "小鹏女机器人里藏真人？何小鹏回应",
+          "url": "https://www.cls.cn/detail/2192721",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 19时17分]"
+        },
+        {
+          "title": "去掉蒙皮的小鹏机器人什么样",
+          "url": "https://www.douyin.com/hot/2296258",
+          "source": "抖音",
+          "ranks": [
+            18,
+            7,
+            4,
+            8,
+            21,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 23时21分]"
+        },
+        {
+          "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
+          "url": "https://www.cls.cn/detail/2191948",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "小鹏机器人走猫步太像人了",
+          "url": "https://www.douyin.com/hot/2295769",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15,
+            17,
+            28,
+            24,
+            25,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时27分 ~ 22时19分]"
+        },
+        {
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时22分]"
+        },
+        {
+          "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
+          "url": "https://www.zhihu.com/question/1969450608642745244",
+          "source": "知乎",
+          "ranks": [
+            20,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 09时28分]"
+        },
+        {
+          "title": "小鹏的人形机器人为啥让网友吵疯了",
+          "url": "https://www.toutiao.com/trending/7569493216051858987/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 19时17分]"
+        },
+        {
+          "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
+          "url": "https://www.toutiao.com/trending/7569600745033747978/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
+          "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
+          "url": "https://wallstreetcn.com/livenews/3000332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
+          "title": "A股人形机器人概念股午后拉升，方正电机直线涨停，浙江仙通、五洲新春、绿的谐波、博杰股份、汉宇集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3000329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
+          "title": "小鹏机器人里藏了真人？何小鹏澄清",
+          "url": "https://www.toutiao.com/trending/7569436659226250758/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
+          "title": "小鹏机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26dgr%3D0%26cate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26band_rank%3D10%26pos%3D11%26flag%3D1%26display_time%3D1762410545%26pre_seqid%3D176241054595002572388105&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
+          "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905754",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时21分]"
+        },
+        {
+          "title": "小鹏新一代机器人走猫步动作逼真",
+          "url": "https://www.toutiao.com/trending/7569221410699984939/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "小鹏汽车发力人形机器人意欲何为",
+          "url": "https://www.toutiao.com/trending/7569599100031602212/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "智元机器人要约收购上纬新材完成股份交割！彭志辉等八人任董事候选人",
+          "url": "https://www.cls.cn/detail/2193496",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "力星股份：与浙江荣泰签署了《战略合作协议》，双方拟在产业机器人用丝杆部件等重要领域的滚动体应用开展战略合作。",
+          "url": "https://wallstreetcn.com/livenews/3000416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "上纬新材：将与关联方各自独立开展业务 发展具身智能机器人业务",
+          "url": "https://wallstreetcn.com/livenews/3000556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "比价直播间出现机器人主播",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E4%BB%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E5%87%BA%E7%8E%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BB%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%25AF%2594%25E4%25BB%25B7%25E7%259B%25B4%25E6%2592%25AD%25E9%2597%25B4%25E5%2587%25BA%25E7%258E%25B0%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25B8%25BB%25E6%2592%25AD%2523%26dgr%3D0%26band_rank%3D19%26pos%3D20%26filter_type%3Drealtimehot%26realpos%3D19%26c_type%3D31%26flag%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762438764%26pre_seqid%3D17624387642230343773311&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "何小鹏再回应机器人“质疑”",
+          "url": "https://www.toutiao.com/trending/7569615557000154633/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "人形机器人年销量还不足两万台，为何已经掀起了价格战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31905531",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "何小鹏再回应机器人里藏真人质疑",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
@@ -1059,8 +1480,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 23时21分]"
         },
         {
           "title": "黄金裔明天见",
@@ -1305,7 +1726,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1334,287 +1755,276 @@
       ]
     },
     {
-      "keyword_group": "机器人",
+      "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 21,
       "titles": [
         {
-          "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
-          "url": "https://www.zhihu.com/question/1969450608642745244",
-          "source": "知乎",
+          "title": "小米YU7全网首拆",
+          "url": "https://www.douyin.com/hot/2295268",
+          "source": "抖音",
           "ranks": [
             1,
             2,
-            5
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时13分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
-          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1969734521176941617",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 22时19分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 22时19分]"
-        },
-        {
-          "title": "宇树机器人丝滑做完全套家务",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 22时19分]"
-        },
-        {
-          "title": "小鹏女机器人里藏真人？何小鹏回应",
-          "url": "https://www.cls.cn/detail/2192721",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时20分 ~ 19时17分]"
-        },
-        {
-          "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
-          "url": "https://www.cls.cn/detail/2191948",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "小鹏机器人走猫步太像人了",
-          "url": "https://www.douyin.com/hot/2295769",
+          "title": "何小鹏一镜到底回应网友质疑",
+          "url": "https://www.douyin.com/hot/2296266",
           "source": "抖音",
           "ranks": [
             19,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 19时17分]"
+        },
+        {
+          "title": "第一财经再出手,痛击小米销量惨淡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            13,
+            14,
             15,
             17,
-            28,
-            24,
-            25,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 22时19分]"
-        },
-        {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8,
-            6,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 18时22分]"
-        },
-        {
-          "title": "去掉蒙皮的小鹏机器人什么样",
-          "url": "https://www.douyin.com/hot/2296258",
-          "source": "抖音",
-          "ranks": [
             18,
-            7,
-            4,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时26分 ~ 22时19分]"
-        },
-        {
-          "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
-          "url": "https://www.zhihu.com/question/1969450608642745244",
-          "source": "知乎",
-          "ranks": [
+            19,
             20,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时18分 ~ 09时28分]"
-        },
-        {
-          "title": "小鹏的人形机器人为啥让网友吵疯了",
-          "url": "https://www.toutiao.com/trending/7569493216051858987/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时17分]"
-        },
-        {
-          "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
-          "url": "https://www.toutiao.com/trending/7569600745033747978/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
-          "url": "https://wallstreetcn.com/livenews/3000332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时19分]"
-        },
-        {
-          "title": "A股人形机器人概念股午后拉升，方正电机直线涨停，浙江仙通、五洲新春、绿的谐波、博杰股份、汉宇集团跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3000329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时19分]"
-        },
-        {
-          "title": "小鹏机器人里藏了真人？何小鹏澄清",
-          "url": "https://www.toutiao.com/trending/7569436659226250758/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            18,
+            21,
+            22,
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时19分]"
+          "appearance_count": 29,
+          "time_info": "[00时26分 ~ 23时21分]"
         },
         {
-          "title": "小鹏机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26dgr%3D0%26cate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26band_rank%3D10%26pos%3D11%26flag%3D1%26display_time%3D1762410545%26pre_seqid%3D176241054595002572388105&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "说好的新能源高歌猛进，为什么燃油车又杀来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31897693",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            8
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
-          "title": "小鹏新一代机器人走猫步动作逼真",
-          "url": "https://www.toutiao.com/trending/7569221410699984939/",
-          "source": "今日头条",
+          "title": "雷军回应小米YU7首拆视频",
+          "url": "https://www.douyin.com/hot/2295486",
+          "source": "抖音",
           "ranks": [
+            25,
+            22,
+            20,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时30分]"
         },
         {
-          "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31905754",
-          "source": "澎湃新闻",
+          "title": "小米通话将于12月3日停止服务",
+          "url": "https://www.cls.cn/detail/2192297",
+          "source": "财联社热门",
           "ranks": [
-            18
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 12时26分]"
+        },
+        {
+          "title": "小米通话将停服",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E8%AF%9D%E5%B0%86%E5%81%9C%E6%9C%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D4%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%2580%259A%25E8%25AF%259D%25E5%25B0%2586%25E5%2581%259C%25E6%259C%258D%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26c_type%3D31%26flag%3D1%26pos%3D3%26display_time%3D1762398659%26pre_seqid%3D17623986596560341469949&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 12时26分]"
+        },
+        {
+          "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
+          "url": "https://www.cls.cn/detail/2192440",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 15时19分]"
+        },
+        {
+          "title": "根据高盛11月5日发布的报告，其机构经纪主要客户对小米股票的空头仓位在过去一周上升了53%。",
+          "url": "https://wallstreetcn.com/livenews/3000279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时26分]"
+        },
+        {
+          "title": "王化回应小米通话停服：近期将停止运营",
+          "url": "https://wallstreetcn.com/livenews/3000341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时19分]"
+        },
+        {
+          "title": "豪恩汽电：收到某头部新能源汽车品牌的全景视觉感知系统、AK2超声波雷达系统、DMS、车载视频行驶记录系统产品的定点信。该定点信显示，项目生命周期为2-5年，预估生命周期内总营业额约4.7亿元，预计2025年12月开始陆续量产。",
+          "url": "https://wallstreetcn.com/livenews/3000523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时40分]"
+        },
+        {
+          "title": "小鹏X9超级增程太强了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E5%A4%AA%E5%BC%BA%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D28%26cate%3D5001%26lcate%3D5001%26realpos%3D27%26band_rank%3D27%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E8%25B6%2585%25E7%25BA%25A7%25E5%25A2%259E%25E7%25A8%258B%25E5%25A4%25AA%25E5%25BC%25BA%25E4%25BA%2586%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762424471%26pre_seqid%3D1762424471857094324123&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27,
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 23时21分]"
+        },
+        {
+          "title": "小鹏X9超级增程开启预售，预售价35万元起",
+          "url": "https://wallstreetcn.com/livenews/3000568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
+        },
+        {
+          "title": "何小鹏回应电池产能紧张：过去一周已经跟所有供应我们的电池厂商老板喝过酒了",
+          "url": "https://wallstreetcn.com/livenews/3000584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时31分 ~ 22时19分]"
         },
         {
-          "title": "力星股份：与浙江荣泰签署了《战略合作协议》，双方拟在产业机器人用丝杆部件等重要领域的滚动体应用开展战略合作。",
-          "url": "https://wallstreetcn.com/livenews/3000416",
-          "source": "华尔街见闻-快讯",
+          "title": "瑞士央行理事会成员楚丁：预计在当前利率水平下，通胀将处于理想区间。",
+          "url": "https://flash.jin10.com/detail/20251106010014521800",
+          "source": "金十数据",
           "ranks": [
-            15
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时28分]"
         },
         {
-          "title": "上纬新材：将与关联方各自独立开展业务 发展具身智能机器人业务",
-          "url": "https://wallstreetcn.com/livenews/3000556",
-          "source": "华尔街见闻-快讯",
+          "title": "小鹏X9超级增程首发14项全球领先技术",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E9%A6%96%E5%8F%9114%E9%A1%B9%E5%85%A8%E7%90%83%E9%A2%86%E5%85%88%E6%8A%80%E6%9C%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D29%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E8%25B6%2585%25E7%25BA%25A7%25E5%25A2%259E%25E7%25A8%258B%25E9%25A6%2596%25E5%258F%259114%25E9%25A1%25B9%25E5%2585%25A8%25E7%2590%2583%25E9%25A2%2586%25E5%2585%2588%25E6%258A%2580%25E6%259C%25AF%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26pos%3D30%26flag%3D1%26realpos%3D29%26display_time%3D1762432727%26pre_seqid%3D1762432727811010760289&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
+            29,
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
         },
         {
-          "title": "比价直播间出现机器人主播",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E4%BB%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E5%87%BA%E7%8E%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BB%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%25AF%2594%25E4%25BB%25B7%25E7%259B%25B4%25E6%2592%25AD%25E9%2597%25B4%25E5%2587%25BA%25E7%258E%25B0%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25B8%25BB%25E6%2592%25AD%2523%26dgr%3D0%26band_rank%3D19%26pos%3D20%26filter_type%3Drealtimehot%26realpos%3D19%26c_type%3D31%26flag%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762438764%26pre_seqid%3D17624387642230343773311&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "理想郎咸朋聊 VLA，称「不可能用华为的方式打败华为」，如何看待此回应？",
+          "url": "https://www.zhihu.com/question/1969056104785876349",
+          "source": "知乎",
           "ranks": [
-            19
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
+          "title": "中概指数盘初涨超2%，小鹏涨约11%，CQQQ涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3000627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时21分"
+        },
+        {
+          "title": "小鹏科技日",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8F%E7%A7%91%E6%8A%80%E6%97%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D10%26realpos%3D10%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258F%25E7%25A7%2591%25E6%258A%2580%25E6%2597%25A5%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1762406280%26pre_seqid%3D176240628002507624586&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "小米通话将于12月3日停止服务",
+          "url": "https://www.douyin.com/hot/2296138",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "小米手机不能打电话？王化火速辟谣",
+          "url": "https://www.toutiao.com/trending/7569530182550162963/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储理事米兰：不应当机械地通过政策对股市上涨做出反应。",
@@ -1685,6 +2095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251106230029570800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "上证指数收报4007.76点，涨0.97%。 深证成指收报13452.42点，涨1.73%。 创业板指收报3224.62点，涨1.84%。 沪深300收报4693.40点，涨1.43%。 科创50收报1436.86点，涨3.34%。 中证500收报7345.72点，涨1.61%。 中证1000收报7551.83点，涨1.17%。",
@@ -1832,241 +2253,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "小米YU7全网首拆",
-          "url": "https://www.douyin.com/hot/2295268",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 11时14分]"
-        },
-        {
-          "title": "何小鹏一镜到底回应网友质疑",
-          "url": "https://www.douyin.com/hot/2296266",
-          "source": "抖音",
-          "ranks": [
-            19,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时25分 ~ 19时17分]"
-        },
-        {
-          "title": "第一财经再出手,痛击小米销量惨淡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            13,
-            14,
-            15,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时26分 ~ 22时19分]"
-        },
-        {
-          "title": "说好的新能源高歌猛进，为什么燃油车又杀来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31897693",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 11时14分]"
-        },
-        {
-          "title": "雷军回应小米YU7首拆视频",
-          "url": "https://www.douyin.com/hot/2295486",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时30分]"
-        },
-        {
-          "title": "小米通话将于12月3日停止服务",
-          "url": "https://www.cls.cn/detail/2192297",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 12时26分]"
-        },
-        {
-          "title": "小米通话将停服",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E7%B1%B3%E9%80%9A%E8%AF%9D%E5%B0%86%E5%81%9C%E6%9C%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D4%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25B0%258F%25E7%25B1%25B3%25E9%2580%259A%25E8%25AF%259D%25E5%25B0%2586%25E5%2581%259C%25E6%259C%258D%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26c_type%3D31%26flag%3D1%26pos%3D3%26display_time%3D1762398659%26pre_seqid%3D17623986596560341469949&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时26分]"
-        },
-        {
-          "title": "【数读IPO】今日1只新股上市，公司背靠比亚迪、蔚来、理想等车企",
-          "url": "https://www.cls.cn/detail/2192440",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 15时19分]"
-        },
-        {
-          "title": "根据高盛11月5日发布的报告，其机构经纪主要客户对小米股票的空头仓位在过去一周上升了53%。",
-          "url": "https://wallstreetcn.com/livenews/3000279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时26分]"
-        },
-        {
-          "title": "王化回应小米通话停服：近期将停止运营",
-          "url": "https://wallstreetcn.com/livenews/3000341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
-          "title": "豪恩汽电：收到某头部新能源汽车品牌的全景视觉感知系统、AK2超声波雷达系统、DMS、车载视频行驶记录系统产品的定点信。该定点信显示，项目生命周期为2-5年，预估生命周期内总营业额约4.7亿元，预计2025年12月开始陆续量产。",
-          "url": "https://wallstreetcn.com/livenews/3000523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时40分]"
-        },
-        {
-          "title": "小鹏X9超级增程太强了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E5%A4%AA%E5%BC%BA%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D28%26cate%3D5001%26lcate%3D5001%26realpos%3D27%26band_rank%3D27%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E8%25B6%2585%25E7%25BA%25A7%25E5%25A2%259E%25E7%25A8%258B%25E5%25A4%25AA%25E5%25BC%25BA%25E4%25BA%2586%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762424471%26pre_seqid%3D1762424471857094324123&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27,
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 22时19分]"
-        },
-        {
-          "title": "小鹏X9超级增程开启预售，预售价35万元起",
-          "url": "https://wallstreetcn.com/livenews/3000568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
-        },
-        {
-          "title": "何小鹏回应电池产能紧张：过去一周已经跟所有供应我们的电池厂商老板喝过酒了",
-          "url": "https://wallstreetcn.com/livenews/3000584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时19分]"
-        },
-        {
-          "title": "瑞士央行理事会成员楚丁：预计在当前利率水平下，通胀将处于理想区间。",
-          "url": "https://flash.jin10.com/detail/20251106010014521800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时28分]"
-        },
-        {
-          "title": "小鹏X9超级增程首发14项全球领先技术",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E9%A6%96%E5%8F%9114%E9%A1%B9%E5%85%A8%E7%90%83%E9%A2%86%E5%85%88%E6%8A%80%E6%9C%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D29%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E8%25B6%2585%25E7%25BA%25A7%25E5%25A2%259E%25E7%25A8%258B%25E9%25A6%2596%25E5%258F%259114%25E9%25A1%25B9%25E5%2585%25A8%25E7%2590%2583%25E9%25A2%2586%25E5%2585%2588%25E6%258A%2580%25E6%259C%25AF%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26pos%3D30%26flag%3D1%26realpos%3D29%26display_time%3D1762432727%26pre_seqid%3D1762432727811010760289&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
-        },
-        {
-          "title": "理想郎咸朋聊 VLA，称「不可能用华为的方式打败华为」，如何看待此回应？",
-          "url": "https://www.zhihu.com/question/1969056104785876349",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
-          "title": "小鹏科技日",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8F%E7%A7%91%E6%8A%80%E6%97%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D10%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D10%26realpos%3D10%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258F%25E7%25A7%2591%25E6%258A%2580%25E6%2597%25A5%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1762406280%26pre_seqid%3D176240628002507624586&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 17,
       "titles": [
@@ -2180,6 +2366,18 @@
           "time_info": "[11时14分 ~ 12时26分]"
         },
         {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
           "url": "https://flash.jin10.com/detail/20251106140725860800",
           "source": "金十数据",
@@ -2233,17 +2431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3000596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
@@ -2305,11 +2492,25 @@
           "ranks": [
             16,
             12,
-            18
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时21分]"
+        },
+        {
+          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
+          "url": "https://www.zhihu.com/question/1969525122005164073",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "time_info": "[21时31分 ~ 23时21分]"
         },
         {
           "title": "iPhone17会成为新的钉子户神机吗",
@@ -2372,18 +2573,6 @@
           "time_info": "[17时21分 ~ 18时22分]"
         },
         {
-          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
-          "url": "https://www.zhihu.com/question/1969525122005164073",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时19分]"
-        },
-        {
           "title": "据华尔街日报：摩根大通(JPM.N)和英伟达(NVDA.O)是首批使用Helios运行复杂算法以解决商业问题的客户。",
           "url": "https://flash.jin10.com/detail/20251106031105540800",
           "source": "金十数据",
@@ -2409,7 +2598,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -2444,6 +2633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "以太坊日内涨超5.00%，现报3453美元/枚。",
@@ -2559,8 +2759,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时21分]"
         },
         {
           "title": "马斯克提议建设「太空遮阳伞」应对全球变暖，从专业角度看，这种构想可行吗？可能面临哪些难点？",
@@ -2642,11 +2842,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时21分]"
         },
         {
           "title": "中美开始落实吉隆坡经贸磋商共识",
