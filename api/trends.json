@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:39:24.360515+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2025-11-07T21:28:10.558348+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时10分 ~ 20时39分]"
+          "appearance_count": 12,
+          "time_info": "[11时10分 ~ 21时28分]"
+        },
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            13,
+            15,
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 21时28分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -61,23 +78,6 @@
           "time_info": "[00时26分 ~ 13时19分]"
         },
         {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            13,
-            15,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 20时39分]"
-        },
-        {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
           "url": "https://www.cls.cn/detail/2193718",
           "source": "财联社热门",
@@ -91,6 +91,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时10分 ~ 17时20分]"
+        },
+        {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时28分]"
         },
         {
           "title": "欧盟委员会：欧盟可能在“数字综合法案”中解决对《人工智能法案》的担忧。",
@@ -168,18 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时39分]"
         },
         {
           "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
@@ -400,6 +401,18 @@
           "time_info": "[19时16分 ~ 20时39分]"
         },
         {
+          "title": "欧盟委员会：听取产业界、欧盟各国对AI法案的关切。 可能通过“数字综合法案”解决对《人工智能法案》的担忧。 现阶段尚未就推迟《人工智能法案》做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3001209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时28分]"
+        },
+        {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
           "source": "百度热搜",
@@ -520,18 +533,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "欧盟委员会：听取产业界、欧盟各国对AI法案的关切。 可能通过“数字综合法案”解决对《人工智能法案》的担忧。 现阶段尚未就推迟《人工智能法案》做出决定。",
-          "url": "https://wallstreetcn.com/livenews/3001209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -553,7 +555,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -564,7 +566,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -594,8 +596,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 21时28分]"
         },
         {
           "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
@@ -619,11 +621,12 @@
             10,
             8,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 21时28分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -665,6 +668,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时22分 ~ 16时26分]"
+        },
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时28分]"
         },
         {
           "title": "马斯克预计FSD明年在华全面获批",
@@ -735,17 +751,31 @@
           "time_info": "06时18分"
         },
         {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            7
+            11,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时39分]"
+          "time_info": "[18时21分 ~ 21时28分]"
+        },
+        {
+          "title": "世界首富还不够 马斯克又要了1万亿",
+          "url": "https://www.toutiao.com/trending/7569901105614687780/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            7,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时28分]"
         },
         {
           "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
@@ -794,30 +824,16 @@
           "time_info": "[12时22分 ~ 15时18分]"
         },
         {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            7,
-            9
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时39分]"
-        },
-        {
-          "title": "世界首富还不够 马斯克又要了1万亿",
-          "url": "https://www.toutiao.com/trending/7569901105614687780/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 21时28分]"
         },
         {
           "title": "马斯克预计FSD有望明年初在华全面获批",
@@ -920,17 +936,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
           "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
           "url": "https://wallstreetcn.com/livenews/3000784",
           "source": "华尔街见闻-快讯",
@@ -992,7 +997,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
@@ -1010,8 +1015,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 21时28分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1160,6 +1165,18 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "纳斯达克100指数期货跌0.5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3001219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时28分]"
+        },
+        {
           "title": "恐慌指数VIX波动率日内涨幅达10.0%，报19.85。 标普500指数则跌超0.9%，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3000648",
           "source": "华尔街见闻-快讯",
@@ -1226,17 +1243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
-        },
-        {
-          "title": "纳斯达克100指数期货跌0.5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3001219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
@@ -1396,7 +1402,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "比水贝黄金市场还热闹，深圳华强北存储翻倍涨价！商户称“每天都在涨，后面可能更贵”，但不敢囤货",
@@ -1457,6 +1463,20 @@
           "time_info": "16时26分"
         },
         {
+          "title": "首饰店老板提醒路边黄金千万别捡",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%A5%B0%E5%BA%97%E8%80%81%E6%9D%BF%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E9%BB%84%E9%87%91%E5%8D%83%E4%B8%87%E5%88%AB%E6%8D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 21时28分]"
+        },
+        {
           "title": "现货白银日内涨幅扩大至1%，现报48.50美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251107131056646800",
           "source": "金十数据",
@@ -1493,17 +1513,27 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
-          "title": "首饰店老板提醒路边黄金千万别捡",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%A5%B0%E5%BA%97%E8%80%81%E6%9D%BF%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E9%BB%84%E9%87%91%E5%8D%83%E4%B8%87%E5%88%AB%E6%8D%A1",
-          "source": "百度热搜",
+          "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
+          "url": "https://wallstreetcn.com/articles/3758912",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            24,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 21时28分]"
+        },
+        {
+          "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
+          "url": "https://wallstreetcn.com/articles/3758865",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时21分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 21时28分]"
         },
         {
           "title": "为何更多国家要将黄金寄存中国",
@@ -1528,18 +1558,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时21分 ~ 19时16分]"
-        },
-        {
-          "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
-          "url": "https://wallstreetcn.com/articles/3758912",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时39分]"
         },
         {
           "title": "水贝黄金市场一夜降温",
@@ -1575,6 +1593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "俄罗斯至10月31日当周央行黄金和外汇储备 7258亿美元，前值7312亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107210003465800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "道富环球：将黄金价格基准预测上调至3700-4100美元",
@@ -1627,18 +1656,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
-          "url": "https://wallstreetcn.com/articles/3758865",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -1807,24 +1825,6 @@
           "time_info": "[00时26分 ~ 09时27分]"
         },
         {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            7,
-            8,
-            9,
-            10,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 20时39分]"
-        },
-        {
           "title": "去掉蒙皮的小鹏机器人什么样",
           "url": "https://www.douyin.com/hot/2296258",
           "source": "抖音",
@@ -1839,6 +1839,25 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 09时27分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            7,
+            8,
+            9,
+            10,
+            11,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 21时28分]"
         },
         {
           "title": "何小鹏再回应机器人里藏真人质疑",
@@ -1887,6 +1906,21 @@
           "time_info": "[00时26分 ~ 07时17分]"
         },
         {
+          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11,
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 21时28分]"
+        },
+        {
           "title": "智元机器人要约收购上纬新材完成股份交割！彭志辉等八人任董事候选人",
           "url": "https://www.cls.cn/detail/2193496",
           "source": "财联社热门",
@@ -1900,21 +1934,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时26分 ~ 11时10分]"
-        },
-        {
-          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11,
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 20时39分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -1997,6 +2016,17 @@
           "time_info": "[18时21分 ~ 20时39分]"
         },
         {
+          "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 21时28分]"
+        },
+        {
           "title": "机器人拳击赛亮相乌镇",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%B3%E5%87%BB%E8%B5%9B%E4%BA%AE%E7%9B%B8%E4%B9%8C%E9%95%87",
           "source": "百度热搜",
@@ -2041,17 +2071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "何小鹏再发视频「通电状态下剪开机器人腿部展示机械结构」，这次能打消质疑吗？此次自证对行业有哪些意义？",
@@ -2389,7 +2408,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
@@ -2496,6 +2515,17 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
+          "title": "iPhone 18 Pro或缩小灵动岛",
+          "url": "https://www.toutiao.com/trending/7569905206977118249/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
           "url": "https://wallstreetcn.com/livenews/3000676",
           "source": "华尔街见闻-快讯",
@@ -2550,6 +2580,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "崔然竣SOLO MV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B4%94%E7%84%B6%E7%AB%A3SOLO%20MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 21时28分]"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "数字货币普跌，比特币24小时跌幅超3%，以太坊24小时跌幅超4%，solana 24小时跌幅近4%，BNB 24小时跌幅超1%。",
+          "url": "https://wallstreetcn.com/livenews/3001249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "以太坊日内跌超5.00%，现报3251美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251107004522827800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "以太坊回落至3200美元/枚下方，日内跌3.50%。",
+          "url": "https://flash.jin10.com/detail/20251107204945030800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "比特币回落至101000美元/枚下方，日内跌2.78%。",
+          "url": "https://flash.jin10.com/detail/20251107004001856800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "周四（11月6日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.91%，逼近10.1万美元。 CME以太币期货DCR主力合约跌3.81%，报3331美元。 北京时间05:51，比特币现货跌2.9%暂报10.0936万美元，以太坊跌3.96%报3321.87美元，Solana跌3.9%报156.49美元，狗狗币跌2.91%，XRP跌5.98%。",
+          "url": "https://wallstreetcn.com/livenews/3000763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "以太坊向下触及3300美元/枚，日内跌3.66%。",
+          "url": "https://flash.jin10.com/detail/20251106234458412800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "Block Inc.三季度净营收61.1亿美元，分析师预期63.4亿美元。 三季度比特币营收19.7亿美元，分析师预期22.8亿美元。 预计四季度毛利润27.6亿美元，分析师预期27.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3000750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。 三季度调整后EBITDA利润率50%，分析师预期49.9%。 三季度总体预定价值229亿美元，分析师预期221.3亿美元。 预计全年调整后EBITDA利润率35%，公司原本预计至少34.5%。 预计四季度营收26.6亿-27.2亿美元，分析师预期26.7亿美元。 爱彼迎（ABNB）美股盘后涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3000744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -2671,104 +2822,6 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "崔然竣SOLO MV",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B4%94%E7%84%B6%E7%AB%A3SOLO%20MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时39分]"
-        },
-        {
-          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
-          "url": "https://wallstreetcn.com/livenews/3000636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "以太坊日内跌超5.00%，现报3251美元/枚。",
-          "url": "https://flash.jin10.com/detail/20251107004522827800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "比特币回落至101000美元/枚下方，日内跌2.78%。",
-          "url": "https://flash.jin10.com/detail/20251107004001856800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "周四（11月6日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.91%，逼近10.1万美元。 CME以太币期货DCR主力合约跌3.81%，报3331美元。 北京时间05:51，比特币现货跌2.9%暂报10.0936万美元，以太坊跌3.96%报3321.87美元，Solana跌3.9%报156.49美元，狗狗币跌2.91%，XRP跌5.98%。",
-          "url": "https://wallstreetcn.com/livenews/3000763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "以太坊向下触及3300美元/枚，日内跌3.66%。",
-          "url": "https://flash.jin10.com/detail/20251106234458412800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "Block Inc.三季度净营收61.1亿美元，分析师预期63.4亿美元。 三季度比特币营收19.7亿美元，分析师预期22.8亿美元。 预计四季度毛利润27.6亿美元，分析师预期27.4亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3000750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。 三季度调整后EBITDA利润率50%，分析师预期49.9%。 三季度总体预定价值229亿美元，分析师预期221.3亿美元。 预计全年调整后EBITDA利润率35%，公司原本预计至少34.5%。 预计四季度营收26.6亿-27.2亿美元，分析师预期26.7亿美元。 爱彼迎（ABNB）美股盘后涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3000744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 4,
       "titles": [
@@ -2782,8 +2835,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时18分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[06时18分 ~ 21时28分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
