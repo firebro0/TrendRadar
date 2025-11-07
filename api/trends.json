@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T05:14:09.508520+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-11-08T06:17:48.494800+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "美股延续跌势，纳指日内跌幅扩大至2%。",
@@ -75,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
         },
         {
           "title": "纳斯达克100指数本周迄今已经累计下跌3.9%，恐将创4月份金融市场崩跌以来最差单周表现。",
@@ -101,6 +101,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "标普：确认以色列评级，前景展望从负面调整为稳定。",
+          "url": "https://wallstreetcn.com/livenews/3001400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3001397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -161,7 +183,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "女子带快递纸盒买黄金 店员立即报警",
@@ -171,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -183,8 +205,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
@@ -194,8 +216,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "柬埔寨宣布在华存储黄金意味着什么",
@@ -205,11 +227,12 @@
             9,
             14,
             15,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "现货黄金日内涨幅达1.0%，报4016.69美元/盎司。",
@@ -222,6 +245,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时27分]"
+        },
+        {
+          "title": "周五（11月7日）纽约尾盘，现货黄金涨0.56%，报3999.29美元/盎司，北京时间00:00曾出现一波尖锐的冲高回落行情——最高达到4027.43美元，本周累计下跌0.07%，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3001415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "现货黄金短线拉升20美元，日内大涨约50美元，现报4027.22美元/盎司，涨幅1.26%。",
@@ -270,100 +304,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
-          "url": "https://wallstreetcn.com/articles/3758924",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "马斯克万亿薪酬方案获批准",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "马斯克或成万亿富豪凸显美贫富分化",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -374,8 +316,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时17分]"
         },
         {
           "title": "崔然竣SOLO MV",
@@ -390,8 +332,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "狗狗币周五涨超12%，比特币期货本周跌6%、以太币跌11%、狗狗币涨7.9%",
+          "url": "https://wallstreetcn.com/livenews/3001418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -437,6 +390,184 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
+          "url": "https://wallstreetcn.com/articles/3758924",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "马斯克万亿薪酬方案获批准",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "马斯克或成万亿富豪凸显美贫富分化",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            25,
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时19分]"
+        },
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
+          "url": "https://flash.jin10.com/detail/20251108010615120800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
+          "url": "https://flash.jin10.com/detail/20251108035138524800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "Salesforce签署排他性协议，将收购Spindle AI。",
+          "url": "https://wallstreetcn.com/livenews/3001411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美国总统特朗普：我完全支持人工智能。",
+          "url": "https://flash.jin10.com/detail/20251108022405006800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -503,68 +634,6 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
-        },
-        {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
-          "url": "https://flash.jin10.com/detail/20251108010615120800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
-          "url": "https://flash.jin10.com/detail/20251108035138524800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时14分]"
-        },
-        {
-          "title": "美国总统特朗普：我完全支持人工智能。",
-          "url": "https://flash.jin10.com/detail/20251108022405006800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 3,
       "titles": [
@@ -576,11 +645,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "iPhone 18 Pro或缩小灵动岛",
@@ -622,8 +692,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -633,8 +703,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     },
