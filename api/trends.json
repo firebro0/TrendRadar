@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:29:39.701756+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-11-07T15:18:41.884269+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时18分]"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -60,6 +60,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 15时18分]"
+        },
+        {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
           "url": "https://flash.jin10.com/detail/20251107043817547800",
           "source": "金十数据",
@@ -82,6 +93,32 @@
           "time_info": "05时18分"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 15时18分]"
+        },
+        {
+          "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3000980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时18分]"
+        },
+        {
           "title": "知名投资人麦朴思：人工智能股票料将回调，因为企业支出过高。",
           "url": "https://wallstreetcn.com/livenews/3000958",
           "source": "华尔街见闻-快讯",
@@ -93,29 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时22分 ~ 14时29分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 14时29分]"
-        },
-        {
-          "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3000980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
         },
         {
           "title": "新兴市场教父麦朴思：人工智能股票料将回调，因为企业支出过高。",
@@ -140,19 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 14时29分]"
         },
         {
           "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
@@ -184,11 +185,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
@@ -374,7 +376,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -393,8 +395,19 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
+          "url": "https://www.cls.cn/detail/2193650",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时18分]"
+        },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
           "url": "https://www.cls.cn/detail/2193135",
@@ -410,17 +423,6 @@
           "time_info": "[00时26分 ~ 07时17分]"
         },
         {
-          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
-          "url": "https://www.cls.cn/detail/2193650",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时29分]"
-        },
-        {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
           "url": "https://wallstreetcn.com/articles/3758856",
           "source": "华尔街见闻",
@@ -428,8 +430,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时18分]"
         },
         {
           "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
@@ -442,8 +444,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 15时18分]"
         },
         {
           "title": "特斯拉人形机器人亮相进博会",
@@ -451,11 +453,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -464,11 +467,12 @@
           "ranks": [
             4,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时18分]"
         },
         {
           "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
@@ -515,17 +519,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "马斯克预计FSD明年在华全面获批",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "特斯拉(TSLA.O)股东投票反对将高管薪酬与可持续性和人力资本指标挂钩的提案。",
           "url": "https://flash.jin10.com/detail/20251107055905695800",
           "source": "金十数据",
@@ -548,6 +541,18 @@
           "time_info": "[11时10分 ~ 14时29分]"
         },
         {
+          "title": "马斯克预计FSD明年在华全面获批",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时18分]"
+        },
+        {
           "title": "马斯克：特斯拉将于2026年4月开始生产Cybercab。",
           "url": "https://wallstreetcn.com/livenews/3000776",
           "source": "华尔街见闻-快讯",
@@ -568,8 +573,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
         },
         {
           "title": "马斯克预计FSD有望明年初在华全面获批",
@@ -637,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
+          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
@@ -758,6 +774,18 @@
           "time_info": "[00时26分 ~ 06时18分]"
         },
         {
+          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2193628",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 15时18分]"
+        },
+        {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2193483",
           "source": "财联社热门",
@@ -772,18 +800,6 @@
           "time_info": "[00时26分 ~ 09时27分]"
         },
         {
-          "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2193628",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 14时29分]"
-        },
-        {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
@@ -791,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时18分]"
         },
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -805,8 +821,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 15时18分]"
+        },
+        {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时18分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -829,18 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
-          "url": "https://wallstreetcn.com/articles/3758813",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时29分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1129,11 +1145,12 @@
             2,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时18分]"
         },
         {
           "title": "去掉蒙皮的小鹏机器人什么样",
@@ -1255,6 +1272,19 @@
           "time_info": "[09时27分 ~ 12时22分]"
         },
         {
+          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
           "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
           "url": "https://m.thepaper.cn/newsDetail_forward_31905754",
           "source": "澎湃新闻",
@@ -1266,18 +1296,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 02时29分]"
-        },
-        {
-          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
         },
         {
           "title": "机器人拳击赛亮相乌镇",
@@ -1361,7 +1379,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "德国股市收跌超1%，英国股市脱离收盘历史最高位",
@@ -1386,6 +1404,19 @@
           "time_info": "07时17分"
         },
         {
+          "title": "菲律宾股市指数下跌1.8%，迈向2020年以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3000979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时18分]"
+        },
+        {
           "title": "菲律宾股市指数跌幅扩大至1.8%，迈向2020年以来最低水平。",
           "url": "https://flash.jin10.com/detail/20251107131231956800",
           "source": "金十数据",
@@ -1408,18 +1439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "菲律宾股市指数下跌1.8%，迈向2020年以来最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3000979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指本周累跌3%，埃及股指连续四天创历史新高本周累涨约4.4%",
@@ -1467,6 +1486,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "上证指数收报3997.56点，跌0.25%。 深证成指收报13404.06点，跌0.36%。 创业板指收报3208.21点，跌0.51%。 沪深300收报4678.79点，跌0.31%。 科创50收报1415.69点，跌1.47%。 中证500收报7327.91点，跌0.24%。 中证1000收报7541.88点，跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3001031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出471.62亿元，占比2.36%；大单资金净流出249.78亿元，占比1.25%；小单资金净流入401.83亿元，占比2.01%。",
+          "url": "https://flash.jin10.com/detail/20251107150633437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "菲律宾股市一度下跌1.5%至5,745.69点，为2022年10月3日以来的最低水平。",
@@ -1549,7 +1590,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "比水贝黄金市场还热闹，深圳华强北存储翻倍涨价！商户称“每天都在涨，后面可能更贵”，但不敢囤货",
@@ -1564,17 +1605,6 @@
           "time_info": "[00时26分 ~ 07时17分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.72吨，当前持仓量为1040.35吨。",
-          "url": "https://flash.jin10.com/detail/20251107071604794800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
           "title": "外媒称柬埔寨或将成首批在华储存黄金的国家，此趋势一旦开始，将对全球金融市场产生哪些深远影响？",
           "url": "https://www.zhihu.com/question/1969895892518704278",
           "source": "知乎",
@@ -1584,8 +1614,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.72吨，当前持仓量为1040.35吨。",
+          "url": "https://flash.jin10.com/detail/20251107071604794800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "现货白银日内涨幅扩大至1%，现报48.50美元/盎司。",
@@ -1670,6 +1711,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "数据显示印度黄金ETF正迎来创纪录资金流入",
+          "url": "https://flash.jin10.com/detail/20251107151006121800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月7日（周五）早盘盘初上涨0.06%报913.2元/克；<br/>上海黄金交易所白银T+D 11月7日（周五）早盘盘初上涨0.14%报11362.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251107090137122800",
           "source": "金十数据",
@@ -1728,7 +1780,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
@@ -1822,6 +1874,17 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
+          "title": "商品期货收盘，碳酸锂主力合约涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3001033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "苹果：已解决 Apple TV 和 Apple Arcade 的服务中断问题。",
           "url": "https://flash.jin10.com/detail/20251107125428173800",
           "source": "金十数据",
@@ -1831,6 +1894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现，碳酸锂涨超3%，工业硅、尿素、对二甲苯、沪银、苹果、乙二醇涨超1%。跌幅方面，沥青跌超2%，铁矿石、集运欧线、红枣、多晶硅跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251107150035567800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -1859,11 +1933,12 @@
             26,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时18分]"
         },
         {
           "title": "何小鹏一镜到底回应网友质疑",
@@ -1907,11 +1982,12 @@
           "url": "https://wallstreetcn.com/livenews/3000988",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时18分]"
         },
         {
           "title": "中概指数盘初涨超2%，小鹏涨约11%，CQQQ涨约2%",
@@ -2034,8 +2110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 15时18分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
