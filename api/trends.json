@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T02:27:54.846845+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2025-11-08T03:16:18.435040+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "美股延续跌势，纳指日内跌幅扩大至2%。",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -59,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "纳斯达克100指数本周迄今已经累计下跌3.9%，恐将创4月份金融市场崩跌以来最差单周表现。",
@@ -96,7 +98,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         },
@@ -118,7 +120,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         },
@@ -148,7 +150,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "女子带快递纸盒买黄金 店员立即报警",
@@ -158,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -169,8 +171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
@@ -180,8 +182,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "柬埔寨宣布在华存储黄金意味着什么",
@@ -189,11 +191,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "现货黄金日内涨幅达1.0%，报4016.69美元/盎司。",
@@ -230,13 +233,24 @@
           "time_info": "01时17分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月7日（周五）晚盘收盘上涨0.14%报917.42元/克；<br/>上海黄金交易所白银T+D 11月7日（周五）晚盘收盘下跌0.23%报11400.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251108023013740800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "伦敦金银市场协会（LBMA）：10月伦敦金库的白银储备量增长了6.8%。",
           "url": "https://flash.jin10.com/detail/20251108013419713800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         }
@@ -254,8 +268,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
@@ -265,8 +279,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
@@ -277,8 +291,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -288,8 +302,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -299,8 +313,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -311,25 +325,26 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -340,8 +355,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "崔然竣SOLO MV",
@@ -350,11 +365,12 @@
           "ranks": [
             17,
             20,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -389,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "以太坊突破3400美元/枚，日内涨2.57%。",
+          "url": "https://flash.jin10.com/detail/20251108021317695800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -448,56 +475,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         }
       ]
     },
     {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "iPhone18系列10大升级",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D5%26band_rank%3D5%26stream_entry_id%3D31%26flag%3D0%26dgr%3D0%26q%3D%2523iPhone18%25E7%25B3%25BB%25E5%2588%259710%25E5%25A4%25A7%25E5%258D%2587%25E7%25BA%25A7%2523%26pos%3D4%26filter_type%3Drealtimehot%26display_time%3D1762532409%26pre_seqid%3D176253240984903332204116&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
-        },
-        {
-          "title": "iPhone 18 Pro或缩小灵动岛",
-          "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E6%88%96%E7%BC%A9%E5%B0%8F%E7%81%B5%E5%8A%A8%E5%B2%9B",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时27分]"
-        },
-        {
-          "title": "明道版解构苹果马天尼",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E9%81%93%E7%89%88%E8%A7%A3%E6%9E%84%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%A4%A9%E5%B0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "ai 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -508,8 +494,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -530,8 +516,61 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我完全支持人工智能。",
+          "url": "https://flash.jin10.com/detail/20251108022405006800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "iPhone18系列10大升级",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D5%26band_rank%3D5%26stream_entry_id%3D31%26flag%3D0%26dgr%3D0%26q%3D%2523iPhone18%25E7%25B3%25BB%25E5%2588%259710%25E5%25A4%25A7%25E5%258D%2587%25E7%25BA%25A7%2523%26pos%3D4%26filter_type%3Drealtimehot%26display_time%3D1762532409%26pre_seqid%3D176253240984903332204116&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "iPhone 18 Pro或缩小灵动岛",
+          "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E6%88%96%E7%BC%A9%E5%B0%8F%E7%81%B5%E5%8A%A8%E5%B2%9B",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "time_info": "[01时17分 ~ 03时16分]"
+        },
+        {
+          "title": "明道版解构苹果马天尼",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E9%81%93%E7%89%88%E8%A7%A3%E6%9E%84%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%A4%A9%E5%B0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     },
@@ -547,8 +586,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -558,8 +597,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时16分]"
         }
       ]
     },
@@ -574,9 +613,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时16分]"
         },
         {
           "title": "专家称福建舰最理想母港是台湾",
