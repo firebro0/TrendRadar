@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:21:39.777967+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2025-11-07T19:16:56.927057+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 19时16分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -88,8 +88,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 19时16分]"
+        },
+        {
+          "title": "欧盟委员会：欧盟可能在“数字综合法案”中解决对《人工智能法案》的担忧。",
+          "url": "https://flash.jin10.com/detail/20251107191350403800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "阿里巴巴集团CEO吴泳铭：实现“超级人工智能”还需要非常长的时间",
@@ -103,6 +114,28 @@
           "time_info": "13时19分"
         },
         {
+          "title": "欧盟委员会：听取产业界、欧盟各国对AI法案的关切。",
+          "url": "https://wallstreetcn.com/livenews/3001209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "欧盟委员会：听取产业界及欧盟各国对人工智能法案的关切。",
+          "url": "https://flash.jin10.com/detail/20251107191235703800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
           "url": "https://flash.jin10.com/detail/20251107043817547800",
           "source": "金十数据",
@@ -112,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "欧盟委员会：目前尚未就《人工智能法案》的延期作出决定。",
+          "url": "https://flash.jin10.com/detail/20251107191125319800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
@@ -207,8 +251,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时16分]"
+        },
+        {
+          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
+          "url": "https://www.cls.cn/detail/2193935",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
@@ -246,6 +302,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
+          "url": "https://wallstreetcn.com/livenews/3001166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "AI正凶猛“加杠杆”",
+          "url": "https://wallstreetcn.com/articles/3758866",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
@@ -294,17 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
-          "url": "https://www.cls.cn/detail/2193935",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
@@ -400,28 +468,6 @@
           "time_info": "12时22分"
         },
         {
-          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
-          "url": "https://wallstreetcn.com/livenews/3001166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "AI正凶猛“加杠杆”",
-          "url": "https://wallstreetcn.com/articles/3758866",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "工信部：扎实推进人工智能产业高质量发展 推动人工智能更好服务全球发展、增进人类福祉",
           "url": "https://wallstreetcn.com/livenews/3001067",
           "source": "华尔街见闻-快讯",
@@ -455,6 +501,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "方正科技：子公司拟投资13.64亿元建设重庆生产基地人工智能扩建项目",
+          "url": "https://wallstreetcn.com/livenews/3001190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
           "url": "https://wallstreetcn.com/livenews/3001112",
           "source": "华尔街见闻-快讯",
@@ -479,397 +536,20 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
+      "keyword_group": "美股 标普 纳斯达克",
       "match_count": 33,
       "titles": [
         {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 18时21分]"
-        },
-        {
-          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
-          "url": "https://www.cls.cn/detail/2193650",
-          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时16分]"
         },
-        {
-          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
-          "url": "https://www.cls.cn/detail/2193135",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克万亿薪酬方案获批准",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 18时21分]"
-        },
-        {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时17分 ~ 15时18分]"
-        },
-        {
-          "title": "特斯拉人形机器人亮相进博会",
-          "url": "https://www.toutiao.com/trending/7569466884635233843/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 16时26分]"
-        },
-        {
-          "title": "马斯克预计FSD明年在华全面获批",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时26分]"
-        },
-        {
-          "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
-          "url": "https://flash.jin10.com/detail/20251107061513912800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "马斯克和机器人跳出六亲不认的步伐",
-          "url": "https://www.toutiao.com/trending/7569133596599091219/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票反对取消衍生品诉讼中3%持股比例规定的提案。",
-          "url": "https://flash.jin10.com/detail/20251107055916445800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：希望特斯拉股东能够参与SpaceX的投资。",
-          "url": "https://flash.jin10.com/detail/20251107071303327800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票反对将高管薪酬与可持续性和人力资本指标挂钩的提案。",
-          "url": "https://flash.jin10.com/detail/20251107055905695800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
-          "url": "https://news.ifeng.com/c/8o5563NmbDn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 14时29分]"
-        },
-        {
-          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
-          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 18时21分]"
-        },
-        {
-          "title": "马斯克：特斯拉将于2026年4月开始生产Cybercab。",
-          "url": "https://wallstreetcn.com/livenews/3000776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
-          "url": "https://www.zhihu.com/question/1970038336501547391",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时18分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
-        },
-        {
-          "title": "马斯克预计FSD有望明年初在华全面获批",
-          "url": "https://wallstreetcn.com/livenews/3000967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "马斯克：或许在某个时候SpaceX应该成为一家上市公司，尽管上市有很多弊端。",
-          "url": "https://flash.jin10.com/detail/20251107071232452800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "马斯克万亿美元薪酬包被批准",
-          "url": "https://www.toutiao.com/trending/7569418701297467446/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：超过75%的股东批准马斯克的2025年薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251107055655849800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十整理：马斯克万亿美元薪酬细节",
-          "url": "https://flash.jin10.com/detail/20251107071218253800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
-          "url": "https://wallstreetcn.com/livenews/3000664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
-          "url": "https://flash.jin10.com/detail/20251107055625885800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股东投票赞成批准马斯克8780亿美元的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251107055530039800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：我认为我们将能够部署我们生产的所有Cybercab。",
-          "url": "https://flash.jin10.com/detail/20251107070640571800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
-          "url": "https://wallstreetcn.com/livenews/3000784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
-          "url": "https://flash.jin10.com/detail/20251107064805059800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "提醒：特斯拉股东大会在美国得州开始。",
-          "url": "https://wallstreetcn.com/livenews/3000755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十提示：特斯拉(TSLA.O)年度股东大会开始。",
-          "url": "https://flash.jin10.com/detail/20251107052049143800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "世界首富还不够 马斯克又要了1万亿",
-          "url": "https://www.toutiao.com/trending/7569901105614687780/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "马斯克薪酬计划获批为何股价暴跌",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%96%AA%E9%85%AC%E8%AE%A1%E5%88%92%E8%8E%B7%E6%89%B9%E4%B8%BA%E4%BD%95%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E8%2596%25AA%25E9%2585%25AC%25E8%25AE%25A1%25E5%2588%2592%25E8%258E%25B7%25E6%2589%25B9%25E4%25B8%25BA%25E4%25BD%2595%25E8%2582%25A1%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%2523%26cate%3D5001%26pos%3D26%26realpos%3D26%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1762478844%26pre_seqid%3D176247884399703410430149&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 32,
-      "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
@@ -881,17 +561,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时17分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 18时21分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -965,7 +634,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -1129,6 +798,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "美国股指期货悉数转跌，标普500指数期货跌0.1%，纳斯达克100指数期货跌0.1%，道指期货跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251107182042824800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
           "url": "https://wallstreetcn.com/livenews/3001114",
           "source": "华尔街见闻-快讯",
@@ -1241,6 +921,722 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时16分]"
+        },
+        {
+          "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
+          "url": "https://www.cls.cn/detail/2193650",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 16时26分]"
+        },
+        {
+          "title": "马斯克万亿薪酬方案获批准",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            9,
+            10,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时16分]"
+        },
+        {
+          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
+          "url": "https://www.cls.cn/detail/2193135",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 15时18分]"
+        },
+        {
+          "title": "特斯拉人形机器人亮相进博会",
+          "url": "https://www.toutiao.com/trending/7569466884635233843/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 16时26分]"
+        },
+        {
+          "title": "马斯克预计FSD明年在华全面获批",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时26分]"
+        },
+        {
+          "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
+          "url": "https://flash.jin10.com/detail/20251107061513912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "马斯克和机器人跳出六亲不认的步伐",
+          "url": "https://www.toutiao.com/trending/7569133596599091219/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票反对取消衍生品诉讼中3%持股比例规定的提案。",
+          "url": "https://flash.jin10.com/detail/20251107055916445800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：希望特斯拉股东能够参与SpaceX的投资。",
+          "url": "https://flash.jin10.com/detail/20251107071303327800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票反对将高管薪酬与可持续性和人力资本指标挂钩的提案。",
+          "url": "https://flash.jin10.com/detail/20251107055905695800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
+          "url": "https://news.ifeng.com/c/8o5563NmbDn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时29分]"
+        },
+        {
+          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
+          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时21分]"
+        },
+        {
+          "title": "马斯克：特斯拉将于2026年4月开始生产Cybercab。",
+          "url": "https://wallstreetcn.com/livenews/3000776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时16分]"
+        },
+        {
+          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
+          "url": "https://www.zhihu.com/question/1970038336501547391",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
+          "title": "世界首富还不够 马斯克又要了1万亿",
+          "url": "https://www.toutiao.com/trending/7569901105614687780/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "马斯克预计FSD有望明年初在华全面获批",
+          "url": "https://wallstreetcn.com/livenews/3000967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "马斯克：或许在某个时候SpaceX应该成为一家上市公司，尽管上市有很多弊端。",
+          "url": "https://flash.jin10.com/detail/20251107071232452800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "马斯克万亿美元薪酬包被批准",
+          "url": "https://www.toutiao.com/trending/7569418701297467446/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：超过75%的股东批准马斯克的2025年薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251107055655849800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十整理：马斯克万亿美元薪酬细节",
+          "url": "https://flash.jin10.com/detail/20251107071218253800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
+          "url": "https://wallstreetcn.com/livenews/3000664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
+          "url": "https://flash.jin10.com/detail/20251107055625885800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股东投票赞成批准马斯克8780亿美元的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251107055530039800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：我认为我们将能够部署我们生产的所有Cybercab。",
+          "url": "https://flash.jin10.com/detail/20251107070640571800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3000784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
+          "url": "https://flash.jin10.com/detail/20251107064805059800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "提醒：特斯拉股东大会在美国得州开始。",
+          "url": "https://wallstreetcn.com/livenews/3000755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "金十提示：特斯拉(TSLA.O)年度股东大会开始。",
+          "url": "https://flash.jin10.com/detail/20251107052049143800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "马斯克薪酬计划获批为何股价暴跌",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%96%AA%E9%85%AC%E8%AE%A1%E5%88%92%E8%8E%B7%E6%89%B9%E4%B8%BA%E4%BD%95%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E8%2596%25AA%25E9%2585%25AC%25E8%25AE%25A1%25E5%2588%2592%25E8%258E%25B7%25E6%2589%25B9%25E4%25B8%25BA%25E4%25BD%2595%25E8%2582%25A1%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%2523%26cate%3D5001%26pos%3D26%26realpos%3D26%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1762478844%26pre_seqid%3D176247884399703410430149&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "比水贝黄金市场还热闹，深圳华强北存储翻倍涨价！商户称“每天都在涨，后面可能更贵”，但不敢囤货",
+          "url": "https://wallstreetcn.com/articles/3758769",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时17分]"
+        },
+        {
+          "title": "外媒称柬埔寨或将成首批在华储存黄金的国家，此趋势一旦开始，将对全球金融市场产生哪些深远影响？",
+          "url": "https://www.zhihu.com/question/1969895892518704278",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.72吨，当前持仓量为1040.35吨。",
+          "url": "https://flash.jin10.com/detail/20251107071604794800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "中国央行连续第12个月增持黄金",
+          "url": "https://wallstreetcn.com/livenews/3001074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
+          "url": "https://flash.jin10.com/detail/20251107161417407800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1%，现报48.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251107131056646800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "泰铢与黄金相关性降至近两年最低 政府政策奏效",
+          "url": "https://flash.jin10.com/detail/20251107130827576800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月6日（周四）晚盘收盘下跌0.08%报911.89元/克；<br/>上海黄金交易所白银T+D 11月6日（周四）晚盘收盘上涨0.01%报11347.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251107023042570800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "为何更多国家要将黄金寄存中国",
+          "url": "https://www.toutiao.com/trending/7569789486557564422/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "柬埔寨将黄金存中国有何深意",
+          "url": "https://www.toutiao.com/trending/7569896566333378089/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "水贝黄金市场一夜降温",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B0%B4%E8%B4%9D%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA%E4%B8%80%E5%A4%9C%E9%99%8D%E6%B8%A9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D19%26q%3D%25E6%25B0%25B4%25E8%25B4%259D%25E9%25BB%2584%25E9%2587%2591%25E5%25B8%2582%25E5%259C%25BA%25E4%25B8%2580%25E5%25A4%259C%25E9%2599%258D%25E6%25B8%25A9%26cate%3D5001%26pos%3D19%26realpos%3D19%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1762478844%26pre_seqid%3D176247884399703410430149&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时10分]"
+        },
+        {
+          "title": "央行：10月末黄金储备报7409万盎司",
+          "url": "https://www.toutiao.com/trending/7569131096655331370/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "首饰店老板提醒路边黄金千万别捡",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%A5%B0%E5%BA%97%E8%80%81%E6%9D%BF%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E9%BB%84%E9%87%91%E5%8D%83%E4%B8%87%E5%88%AB%E6%8D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "现货黄金向上触及4000美元/盎司，日内涨0.57%。",
+          "url": "https://flash.jin10.com/detail/20251107091620512800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "道富环球：将黄金价格基准预测上调至3700-4100美元",
+          "url": "https://flash.jin10.com/detail/20251107105336180800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "现货黄金向上触及4010美元/盎司，日内涨0.83%。",
+          "url": "https://flash.jin10.com/detail/20251107161107440800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "数据显示印度黄金ETF正迎来创纪录资金流入",
+          "url": "https://flash.jin10.com/detail/20251107151006121800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "金十图示：中国10月末官方储备资产变化一览，中国央行连续第12个月增持黄金。",
+          "url": "https://flash.jin10.com/detail/20251107160957285800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
+          "url": "https://wallstreetcn.com/articles/3758912",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月7日（周五）早盘盘初上涨0.06%报913.2元/克；<br/>上海黄金交易所白银T+D 11月7日（周五）早盘盘初上涨0.14%报11362.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251107090137122800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251107115352693800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251107115350282800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少36.68吨，当前持仓量为15114.03吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251107065104124800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251107160134866800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "中国央行连续第12个月增持黄金",
+          "url": "https://flash.jin10.com/detail/20251107160100125800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "首饰店老板提醒路边黄金千万别捡",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A6%96%E9%A5%B0%E5%BA%97%E8%80%81%E6%9D%BF%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E9%BB%84%E9%87%91%E5%8D%83%E4%B8%87%E5%88%AB%E6%8D%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26pos%3D20%26realpos%3D19%26band_rank%3D19%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%25A6%2596%25E9%25A5%25B0%25E5%25BA%2597%25E8%2580%2581%25E6%259D%25BF%25E6%258F%2590%25E9%2586%2592%25E8%25B7%25AF%25E8%25BE%25B9%25E9%25BB%2584%25E9%2587%2591%25E5%258D%2583%25E4%25B8%2587%25E5%2588%25AB%25E6%258D%25A1%2523%26lcate%3D5001%26display_time%3D1762510836%26pre_seqid%3D17625108367160245046993&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "世界黄金协会：印度黄金ETF正迎来创纪录资金流入，今年购买量已接近30亿美元",
+          "url": "https://wallstreetcn.com/livenews/3001099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "现货黄金突破3990美元/盎司，日内涨0.33%。",
+          "url": "https://flash.jin10.com/detail/20251107081842369800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
       "match_count": 28,
       "titles": [
@@ -1314,11 +1710,12 @@
             9,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 18时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 19时16分]"
         },
         {
           "title": "去掉蒙皮的小鹏机器人什么样",
@@ -1408,8 +1805,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 19时16分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -1521,9 +1918,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "小鹏机器人由真人扮演？客服：是仿人结构，就是一个机器人",
@@ -1616,319 +2013,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "比水贝黄金市场还热闹，深圳华强北存储翻倍涨价！商户称“每天都在涨，后面可能更贵”，但不敢囤货",
-          "url": "https://wallstreetcn.com/articles/3758769",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时17分]"
-        },
-        {
-          "title": "外媒称柬埔寨或将成首批在华储存黄金的国家，此趋势一旦开始，将对全球金融市场产生哪些深远影响？",
-          "url": "https://www.zhihu.com/question/1969895892518704278",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时18分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.72吨，当前持仓量为1040.35吨。",
-          "url": "https://flash.jin10.com/detail/20251107071604794800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "中国央行连续第12个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3001074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
-          "url": "https://flash.jin10.com/detail/20251107161417407800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至1%，现报48.50美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251107131056646800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "泰铢与黄金相关性降至近两年最低 政府政策奏效",
-          "url": "https://flash.jin10.com/detail/20251107130827576800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月6日（周四）晚盘收盘下跌0.08%报911.89元/克；<br/>上海黄金交易所白银T+D 11月6日（周四）晚盘收盘上涨0.01%报11347.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251107023042570800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "为何更多国家要将黄金寄存中国",
-          "url": "https://www.toutiao.com/trending/7569789486557564422/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时29分]"
-        },
-        {
-          "title": "水贝黄金市场一夜降温",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B0%B4%E8%B4%9D%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA%E4%B8%80%E5%A4%9C%E9%99%8D%E6%B8%A9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D19%26q%3D%25E6%25B0%25B4%25E8%25B4%259D%25E9%25BB%2584%25E9%2587%2591%25E5%25B8%2582%25E5%259C%25BA%25E4%25B8%2580%25E5%25A4%259C%25E9%2599%258D%25E6%25B8%25A9%26cate%3D5001%26pos%3D19%26realpos%3D19%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1762478844%26pre_seqid%3D176247884399703410430149&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 11时10分]"
-        },
-        {
-          "title": "现货黄金向上触及4000美元/盎司，日内涨0.57%。",
-          "url": "https://flash.jin10.com/detail/20251107091620512800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "道富环球：将黄金价格基准预测上调至3700-4100美元",
-          "url": "https://flash.jin10.com/detail/20251107105336180800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "现货黄金向上触及4010美元/盎司，日内涨0.83%。",
-          "url": "https://flash.jin10.com/detail/20251107161107440800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "数据显示印度黄金ETF正迎来创纪录资金流入",
-          "url": "https://flash.jin10.com/detail/20251107151006121800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "金十图示：中国10月末官方储备资产变化一览，中国央行连续第12个月增持黄金。",
-          "url": "https://flash.jin10.com/detail/20251107160957285800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月7日（周五）早盘盘初上涨0.06%报913.2元/克；<br/>上海黄金交易所白银T+D 11月7日（周五）早盘盘初上涨0.14%报11362.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251107090137122800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251107115352693800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251107115350282800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少36.68吨，当前持仓量为15114.03吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20251107065104124800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20251107160134866800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "中国央行连续第12个月增持黄金",
-          "url": "https://flash.jin10.com/detail/20251107160100125800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "柬埔寨将黄金存中国有何深意",
-          "url": "https://www.toutiao.com/trending/7569896566333378089/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "首饰店老板提醒路边黄金千万别捡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A6%96%E9%A5%B0%E5%BA%97%E8%80%81%E6%9D%BF%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E9%BB%84%E9%87%91%E5%8D%83%E4%B8%87%E5%88%AB%E6%8D%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26pos%3D20%26realpos%3D19%26band_rank%3D19%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%25A6%2596%25E9%25A5%25B0%25E5%25BA%2597%25E8%2580%2581%25E6%259D%25BF%25E6%258F%2590%25E9%2586%2592%25E8%25B7%25AF%25E8%25BE%25B9%25E9%25BB%2584%25E9%2587%2591%25E5%258D%2583%25E4%25B8%2587%25E5%2588%25AB%25E6%258D%25A1%2523%26lcate%3D5001%26display_time%3D1762510836%26pre_seqid%3D17625108367160245046993&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "央行：10月末黄金储备报7409万盎司",
-          "url": "https://www.toutiao.com/trending/7569131096655331370/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "世界黄金协会：印度黄金ETF正迎来创纪录资金流入，今年购买量已接近30亿美元",
-          "url": "https://wallstreetcn.com/livenews/3001099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "首饰店老板提醒路边黄金千万别捡",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%A5%B0%E5%BA%97%E8%80%81%E6%9D%BF%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E9%BB%84%E9%87%91%E5%8D%83%E4%B8%87%E5%88%AB%E6%8D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "现货黄金突破3990美元/盎司，日内涨0.33%。",
-          "url": "https://flash.jin10.com/detail/20251107081842369800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "金十图示：2025年11月07日（周五）沪深港通南向资金流向",
@@ -2092,6 +2178,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "金十图示：2025年11月07日（周五）全球股市指数-亚太市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251107181815116800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "金十图示：2025年11月07日（周五）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20251107102839987800",
           "source": "金十数据",
@@ -2219,6 +2316,18 @@
           "time_info": "[16时26分 ~ 18时21分]"
         },
         {
+          "title": "坚持喝煮苹果水身体会发生什么",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26lcate%3D5001%26pos%3D23%26band_rank%3D23%26display_time%3D1762507162%26pre_seqid%3D176250716289803356317158&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
           "url": "https://flash.jin10.com/detail/20251107120411653800",
           "source": "金十数据",
@@ -2265,17 +2374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时16分]"
-        },
-        {
-          "title": "坚持喝煮苹果水身体会发生什么",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26lcate%3D5001%26pos%3D23%26band_rank%3D23%26display_time%3D1762507162%26pre_seqid%3D176250716289803356317158&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
@@ -2462,11 +2560,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 19时16分]"
         },
         {
           "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
@@ -2562,8 +2661,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时18分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[06时18分 ~ 19时16分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
