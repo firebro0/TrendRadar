@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T12:21:44.260550+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-11-08T13:18:06.724589+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -19,19 +19,6 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
-        },
-        {
           "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -39,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
@@ -52,8 +39,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 13时18分]"
+        },
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时18分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -127,6 +127,19 @@
           "time_info": "[07时17分 ~ 09时22分]"
         },
         {
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://flash.jin10.com/detail/20251108100037476800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 13时18分]"
+        },
+        {
           "title": "周五（11月7日）纽约尾盘，标普500股指期货最终涨0.30%，道指期货涨0.31%，纳斯达克100股指期货跌0.04%。 罗素2000股指期货涨0.69%。",
           "url": "https://wallstreetcn.com/livenews/3001423",
           "source": "华尔街见闻-快讯",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 09时22分]"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时21分]"
         },
         {
           "title": "纳斯达克100指数本周迄今已经累计下跌3.9%，恐将创4月份金融市场崩跌以来最差单周表现。",
@@ -351,8 +352,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时18分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -364,8 +365,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时18分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -417,11 +418,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 13时18分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -435,6 +437,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 12时21分]"
+        },
+        {
+          "title": "特斯拉市值一夜蒸发超3800亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 13时18分]"
         },
         {
           "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
@@ -468,17 +482,6 @@
           "ranks": [
             27,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时21分]"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超3800亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -526,7 +529,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -534,8 +537,21 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
+          "url": "https://wallstreetcn.com/articles/3758922",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 13时18分]"
+        },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
           "url": "https://wallstreetcn.com/articles/3758853",
@@ -560,17 +576,27 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
-          "url": "https://wallstreetcn.com/articles/3758922",
-          "source": "华尔街见闻",
+          "title": "“六小龙”乌镇对话思考AI和未来",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            5,
-            4
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时21分]"
+          "time_info": "[11时01分 ~ 13时18分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -584,27 +610,27 @@
           "time_info": "01时17分"
         },
         {
-          "title": "“六小龙”乌镇对话思考AI和未来",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
-          "source": "百度热搜",
+          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
+          "url": "https://wallstreetcn.com/articles/3758895",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 13时18分]"
+        },
+        {
+          "title": "阿里研究院院长袁媛：生成式AI浪潮下，软件成为连接科技创新与产业创新的桥梁",
+          "url": "https://wallstreetcn.com/livenews/3001497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时21分]"
+          "time_info": "13时18分"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -619,28 +645,28 @@
           "time_info": "[04时19分 ~ 09时22分]"
         },
         {
-          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
-          "url": "https://wallstreetcn.com/articles/3758895",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时21分]"
-        },
-        {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
           "url": "https://flash.jin10.com/detail/20251108100545053800",
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 13时18分]"
+        },
+        {
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
@@ -690,17 +716,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
-          "url": "https://www.cls.cn/detail/2194802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "如何评价 AI 教父辛顿「科技巨头需要裁员才能从 AI 中获利」的观点？",
           "url": "https://www.zhihu.com/question/1968998396342792423",
           "source": "知乎",
@@ -726,7 +741,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -740,8 +755,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时18分]"
         },
         {
           "title": "女子带快递纸盒买黄金 店员立即报警",
@@ -833,6 +848,28 @@
           "time_info": "[09时22分 ~ 11时02分]"
         },
         {
+          "title": "柬埔寨要把黄金存在中国伤害了谁",
+          "url": "https://www.toutiao.com/trending/7570166037774077482/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "黄金税收新规落地观察：银行投资金条“价稳供足”",
+          "url": "https://wallstreetcn.com/livenews/3001493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "现货黄金短线拉升20美元，日内大涨约50美元，现报4027.22美元/盎司，涨幅1.26%。",
           "url": "https://flash.jin10.com/detail/20251108004002028800",
           "source": "金十数据",
@@ -880,7 +917,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "崔然竣SOLO MV",
@@ -913,15 +950,27 @@
           "time_info": "[01时17分 ~ 06时17分]"
         },
         {
+          "title": "摩根大通入股以太坊储备龙头Bitmine，持仓市值1.02亿美元",
+          "url": "https://flash.jin10.com/detail/20251108121859289800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值 1.02 亿美元",
           "url": "https://wallstreetcn.com/livenews/3001490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "狗狗币周五涨超12%，比特币期货本周跌6%、以太币跌11%、狗狗币涨7.9%",
@@ -992,11 +1041,25 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            13
+            13,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 13时18分]"
+        },
+        {
+          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
+          "url": "https://flash.jin10.com/detail/20251108100640646800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 13时18分]"
         },
         {
           "title": "专家称福建舰最理想母港是台湾",
@@ -1011,16 +1074,15 @@
           "time_info": "[00时21分 ~ 05时14分]"
         },
         {
-          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
-          "url": "https://flash.jin10.com/detail/20251108100640646800",
-          "source": "金十数据",
+          "title": "少林老外体验小米17背屏",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%91%E6%9E%97%E8%80%81%E5%A4%96%E4%BD%93%E9%AA%8C%E5%B0%8F%E7%B1%B317%E8%83%8C%E5%B1%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D19%26cate%3D5001%26q%3D%2523%25E5%25B0%2591%25E6%259E%2597%25E8%2580%2581%25E5%25A4%2596%25E4%25BD%2593%25E9%25AA%258C%25E5%25B0%258F%25E7%25B1%25B317%25E8%2583%258C%25E5%25B1%258F%2523%26dgr%3D0%26pos%3D18%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D19%26filter_type%3Drealtimehot%26display_time%3D1762575646%26pre_seqid%3D17625756467310241158878&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            7,
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "国家能源局：推进煤炭与新能源融合发展",
@@ -1054,17 +1116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "少林老外体验小米17背屏",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%91%E6%9E%97%E8%80%81%E5%A4%96%E4%BD%93%E9%AA%8C%E5%B0%8F%E7%B1%B317%E8%83%8C%E5%B1%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D19%26cate%3D5001%26q%3D%2523%25E5%25B0%2591%25E6%259E%2597%25E8%2580%2581%25E5%25A4%2596%25E4%25BD%2593%25E9%25AA%258C%25E5%25B0%258F%25E7%25B1%25B317%25E8%2583%258C%25E5%25B1%258F%2523%26dgr%3D0%26pos%3D18%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D19%26filter_type%3Drealtimehot%26display_time%3D1762575646%26pre_seqid%3D17625756467310241158878&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "中概指数本周跌超2.6%，文远知行与小鹏收跌超6%，小马智行跌超5%，蔚来跌超4%",
@@ -1235,11 +1286,12 @@
           "ranks": [
             14,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时18分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
@@ -1247,11 +1299,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 13时18分]"
         },
         {
           "title": "京东狼族机器人全球智能工厂项目签约落地",
@@ -1259,28 +1312,41 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 13时18分]"
         }
       ]
     },
     {
       "keyword_group": "中美",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "中美电磁弹射技术有何区别",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
         {
           "title": "中美技术竞争是不可避免的吗？美中贸易全国委员会会长回应",
           "url": "https://news.ifeng.com/c/8o6r5Kkcw28",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 13时18分]"
         }
       ]
     },
