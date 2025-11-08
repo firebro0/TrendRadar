@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T11:02:04.289480+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2025-11-08T12:21:44.260550+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时21分]"
         },
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时21分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -139,6 +139,18 @@
           "time_info": "[07时17分 ~ 09时22分]"
         },
         {
+          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
+          "url": "https://flash.jin10.com/detail/20251108100037476800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时21分]"
+        },
+        {
           "title": "纳斯达克100指数本周迄今已经累计下跌3.9%，恐将创4月份金融市场崩跌以来最差单周表现。",
           "url": "https://wallstreetcn.com/livenews/3001307",
           "source": "华尔街见闻-快讯",
@@ -176,14 +188,15 @@
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://flash.jin10.com/detail/20251108100037476800",
-          "source": "金十数据",
+          "url": "https://wallstreetcn.com/livenews/3001463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时21分]"
         },
         {
           "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
@@ -195,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://wallstreetcn.com/livenews/3001463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -310,7 +312,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -345,11 +347,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -361,8 +364,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -413,11 +416,12 @@
           "url": "https://www.toutiao.com/trending/7569429277528145970/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -425,11 +429,25 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            19
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时21分]"
+        },
+        {
+          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
+          "url": "https://flash.jin10.com/detail/20251108085940743800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时02分]"
+          "time_info": "[09时22分 ~ 12时21分]"
         },
         {
           "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
@@ -444,16 +462,39 @@
           "time_info": "[09时22分 ~ 11时02分]"
         },
         {
-          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
-          "url": "https://flash.jin10.com/detail/20251108085940743800",
-          "source": "金十数据",
+          "title": "马斯克评价小鹏人形机器人身材不错",
+          "url": "https://www.toutiao.com/trending/7569236906177937449/",
+          "source": "今日头条",
           "ranks": [
-            3,
+            27,
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
+        },
+        {
+          "title": "特斯拉市值一夜蒸发超3800亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
+        },
+        {
+          "title": "何小鹏回应马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
@@ -468,39 +509,6 @@
           "time_info": "[09时22分 ~ 11时02分]"
         },
         {
-          "title": "特斯拉市值一夜蒸发超3800亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "马斯克评价小鹏人形机器人身材不错",
-          "url": "https://www.toutiao.com/trending/7569236906177937449/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "何小鹏回应马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
           "title": "马斯克可能真觉得造车没意思了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%AF%E8%83%BD%E7%9C%9F%E8%A7%89%E5%BE%97%E9%80%A0%E8%BD%A6%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D28%26cate%3D5001%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E8%25A7%2589%25E5%25BE%2597%25E9%2580%25A0%25E8%25BD%25A6%25E6%25B2%25A1%25E6%2584%258F%25E6%2580%259D%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D29%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D28%26filter_type%3Drealtimehot%26display_time%3D1762564961%26pre_seqid%3D17625649619100241158871&launchid=10000360-page_H5",
           "source": "微博",
@@ -510,12 +518,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "特斯拉Model Y长续航后驱版上市",
+          "url": "https://www.toutiao.com/trending/7569479537906716202/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -546,11 +565,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时21分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -562,6 +582,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "“六小龙”乌镇对话思考AI和未来",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -584,19 +627,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时21分]"
         },
         {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
+          "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
+          "url": "https://flash.jin10.com/detail/20251108100545053800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "time_info": "[11时02分 ~ 12时21分]"
         },
         {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
@@ -611,6 +655,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
+          "url": "https://wallstreetcn.com/livenews/3001465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时21分]"
+        },
+        {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
           "url": "https://wallstreetcn.com/livenews/3001405",
           "source": "华尔街见闻-快讯",
@@ -621,17 +677,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
-          "url": "https://flash.jin10.com/detail/20251108100545053800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -645,15 +690,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
-          "url": "https://wallstreetcn.com/livenews/3001465",
-          "source": "华尔街见闻-快讯",
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "12时21分"
         },
         {
           "title": "如何评价 AI 教父辛顿「科技巨头需要裁员才能从 AI 中获利」的观点？",
@@ -691,11 +736,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "女子带快递纸盒买黄金 店员立即报警",
@@ -834,7 +880,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "崔然竣SOLO MV",
@@ -865,6 +911,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 06时17分]"
+        },
+        {
+          "title": "摩根大通入股以太坊储备龙头Bitmine 持仓市值 1.02 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3001490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "狗狗币周五涨超12%，比特币期货本周跌6%、以太币跌11%、狗狗币涨7.9%",
@@ -927,8 +984,20 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "专家：福建舰最理想母港是台湾",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 12时21分]"
+        },
         {
           "title": "专家称福建舰最理想母港是台湾",
           "url": "https://www.toutiao.com/trending/7569479537906568746/",
@@ -942,15 +1011,16 @@
           "time_info": "[00时21分 ~ 05时14分]"
         },
         {
-          "title": "专家：福建舰最理想母港是台湾",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
+          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
+          "url": "https://flash.jin10.com/detail/20251108100640646800",
+          "source": "金十数据",
           "ranks": [
-            17
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 11时02分]"
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时21分]"
         },
         {
           "title": "国家能源局：推进煤炭与新能源融合发展",
@@ -975,17 +1045,6 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
-          "url": "https://flash.jin10.com/detail/20251108100640646800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
           "title": "李娜李小鹏世纪同框",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26flag%3D0%26dgr%3D0%26realpos%3D19%26stream_entry_id%3D31%26band_rank%3D19%26pos%3D20%26q%3D%2523%25E6%259D%258E%25E5%25A8%259C%25E6%259D%258E%25E5%25B0%258F%25E9%25B9%258F%25E4%25B8%2596%25E7%25BA%25AA%25E5%2590%258C%25E6%25A1%2586%2523%26display_time%3D1762557378%26pre_seqid%3D17625573787960244529352&launchid=10000360-page_H5",
           "source": "微博",
@@ -995,6 +1054,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "少林老外体验小米17背屏",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%91%E6%9E%97%E8%80%81%E5%A4%96%E4%BD%93%E9%AA%8C%E5%B0%8F%E7%B1%B317%E8%83%8C%E5%B1%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D19%26cate%3D5001%26q%3D%2523%25E5%25B0%2591%25E6%259E%2597%25E8%2580%2581%25E5%25A4%2596%25E4%25BD%2593%25E9%25AA%258C%25E5%25B0%258F%25E7%25B1%25B317%25E8%2583%258C%25E5%25B1%258F%2523%26dgr%3D0%26pos%3D18%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D19%26filter_type%3Drealtimehot%26display_time%3D1762575646%26pre_seqid%3D17625756467310241158878&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "中概指数本周跌超2.6%，文远知行与小鹏收跌超6%，小马智行跌超5%，蔚来跌超4%",
@@ -1164,33 +1234,36 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31921547",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "京东狼族机器人全球智能工厂项目签约落地",
           "url": "https://wallstreetcn.com/livenews/3001473",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时21分]"
         }
       ]
     },
@@ -1206,8 +1279,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时21分]"
         }
       ]
     },
