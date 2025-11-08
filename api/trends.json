@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T07:17:26.493585+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2025-11-08T09:22:59.683021+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -28,8 +28,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
+        },
+        {
+          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -38,7 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -54,15 +65,16 @@
           "time_info": "01时17分"
         },
         {
-          "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
-          "url": "https://wallstreetcn.com/livenews/3001428",
-          "source": "华尔街见闻-快讯",
+          "title": "道指转涨，标普500指数跌幅收窄至0.15%，纳指现跌0.56%。",
+          "url": "https://flash.jin10.com/detail/20251108035004376800",
+          "source": "金十数据",
           "ranks": [
-            3
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时22分]"
         },
         {
           "title": "瑞银：（本财季）已有48只工业/材料类股票在财报发布当日相对于标普500指数的涨跌幅超过10%。本以为我们不可能再接近上季度创下的50只纪录，但如今我们又达到了这一水平。",
@@ -90,15 +102,40 @@
           "time_info": "[01时17分 ~ 03时16分]"
         },
         {
-          "title": "道指转涨，标普500指数跌幅收窄至0.15%，纳指现跌0.56%。",
-          "url": "https://flash.jin10.com/detail/20251108035004376800",
-          "source": "金十数据",
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
+        },
+        {
+          "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
+          "url": "https://wallstreetcn.com/livenews/3001428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
+        },
+        {
+          "title": "周五（11月7日）纽约尾盘，标普500股指期货最终涨0.30%，道指期货涨0.31%，纳斯达克100股指期货跌0.04%。 罗素2000股指期货涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3001423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
         },
         {
           "title": "纳斯达克100指数本周迄今已经累计下跌3.9%，恐将创4月份金融市场崩跌以来最差单周表现。",
@@ -137,26 +174,37 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "周五（11月7日）纽约尾盘，标普500股指期货最终涨0.30%，道指期货涨0.31%，纳斯达克100股指期货跌0.04%。 罗素2000股指期货涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3001423",
+          "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
+          "url": "https://wallstreetcn.com/livenews/3001443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时22分"
         },
         {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080807908800",
+          "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时22分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080805463800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
@@ -168,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美股周线结束三连涨，纳指本周累跌3%",
+          "url": "https://flash.jin10.com/detail/20251108080758770800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -228,19 +287,8 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "女子带快递纸盒买黄金 店员立即报警",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%BF%AB%E9%80%92%E7%BA%B8%E7%9B%92%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
           "url": "https://wallstreetcn.com/articles/3758912",
@@ -248,11 +296,24 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
+        },
+        {
+          "title": "女子带快递纸盒买黄金 店员立即报警",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%BF%AB%E9%80%92%E7%BA%B8%E7%9B%92%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
         },
         {
           "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
@@ -307,6 +368,17 @@
           "time_info": "[01时17分 ~ 02时27分]"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少25.4吨，当前持仓量为15088.63吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251108084812786800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "现货黄金短线拉升20美元，日内大涨约50美元，现报4027.22美元/盎司，涨幅1.26%。",
           "url": "https://flash.jin10.com/detail/20251108004002028800",
           "source": "金十数据",
@@ -340,6 +412,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.71吨，当前持仓量为1042.06吨。",
+          "url": "https://flash.jin10.com/detail/20251108081213193800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "伦敦金银市场协会（LBMA）：10月伦敦金库的白银储备量增长了6.8%。",
           "url": "https://flash.jin10.com/detail/20251108013419713800",
           "source": "金十数据",
@@ -353,8 +436,164 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
+        },
+        {
+          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
+          "url": "https://wallstreetcn.com/articles/3758924",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "马斯克万亿薪酬方案获批准",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            14,
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "马斯克或成万亿富豪凸显美贫富分化",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            25,
+            26,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
+          "url": "https://wallstreetcn.com/livenews/3001456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
+          "url": "https://flash.jin10.com/detail/20251108085940743800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251108084054402800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "马斯克可能真觉得造车没意思了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%AF%E8%83%BD%E7%9C%9F%E8%A7%89%E5%BE%97%E9%80%A0%E8%BD%A6%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D28%26cate%3D5001%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E8%25A7%2589%25E5%25BE%2597%25E9%2580%25A0%25E8%25BD%25A6%25E6%25B2%25A1%25E6%2584%258F%25E6%2580%259D%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D29%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D28%26filter_type%3Drealtimehot%26display_time%3D1762564961%26pre_seqid%3D17625649619100241158871&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai 人工智能",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -395,11 +634,24 @@
           "url": "https://flash.jin10.com/detail/20251108035138524800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时22分]"
+        },
+        {
+          "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
+          "url": "https://wallstreetcn.com/articles/3758922",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
         },
         {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
@@ -426,15 +678,15 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
-          "url": "https://wallstreetcn.com/articles/3758922",
+          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
+          "url": "https://wallstreetcn.com/articles/3758895",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时22分"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -446,6 +698,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "如何评价 AI 教父辛顿「科技巨头需要裁员才能从 AI 中获利」的观点？",
+          "url": "https://www.zhihu.com/question/1968998396342792423",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "科技日报谈AI主播扎堆“上岗”：不能只为炫技",
+          "url": "https://wallstreetcn.com/livenews/3001439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -475,11 +749,12 @@
             15,
             19,
             22,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时22分]"
         },
         {
           "title": "狗狗币周五涨超12%，比特币期货本周跌6%、以太币跌11%、狗狗币涨7.9%",
@@ -541,108 +816,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
-          "url": "https://wallstreetcn.com/articles/3758924",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克万亿薪酬方案获批准",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            14,
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克或成万亿富豪凸显美贫富分化",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            25,
-            26,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年11月08日（周六）全球股市指数-欧洲市场（收盘）",
@@ -666,6 +841,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080810722800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -704,7 +890,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "专家称福建舰最理想母港是台湾",
@@ -730,13 +916,24 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "专家：福建舰最理想母港是台湾",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "李娜李小鹏世纪同框",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26flag%3D0%26dgr%3D0%26realpos%3D19%26stream_entry_id%3D31%26band_rank%3D19%26pos%3D20%26q%3D%2523%25E6%259D%258E%25E5%25A8%259C%25E6%259D%258E%25E5%25B0%258F%25E9%25B9%258F%25E4%25B8%2596%25E7%25BA%25AA%25E5%2590%258C%25E6%25A1%2586%2523%26display_time%3D1762557378%26pre_seqid%3D17625573787960244529352&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -747,7 +944,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -755,7 +952,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "iPhone18系列10大升级",
@@ -769,8 +966,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
         },
         {
           "title": "iPhone 18 Pro或缩小灵动岛",
@@ -787,6 +984,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 07时17分]"
+        },
+        {
+          "title": "后乔布斯时代的苹果风格",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%B9%94%E5%B8%83%E6%96%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E8%8B%B9%E6%9E%9C%E9%A3%8E%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "明道版解构苹果马天尼",
@@ -824,8 +1032,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时22分]"
         }
       ]
     },
@@ -838,11 +1046,12 @@
           "url": "https://wallstreetcn.com/livenews/3001422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时22分]"
         }
       ]
     }
