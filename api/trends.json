@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T09:38:35.380942+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-11-09T11:13:20.516165+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时13分]"
         },
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 09时38分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 11时13分]"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
@@ -42,19 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时38分]"
-        },
-        {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时13分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -67,7 +57,19 @@
             26,
             10,
             6,
-            20
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 11时13分]"
+        },
+        {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -96,22 +98,60 @@
           "ranks": [
             2,
             5,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时15分 ~ 09时38分]"
+          "appearance_count": 5,
+          "time_info": "[05时15分 ~ 11时13分]"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
           "url": "https://flash.jin10.com/detail/20251109085033064800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 11时13分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年11月8日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 11时13分]"
+        },
+        {
+          "title": "14岁男生回应作文被质疑借助AI",
+          "url": "https://www.toutiao.com/trending/7570134993897422890/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 11时13分]"
+        },
+        {
+          "title": "AI一键格桑花儿开转场",
+          "url": "https://www.douyin.com/hot/2299288",
+          "source": "抖音",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 11时13分]"
         },
         {
           "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
@@ -125,37 +165,15 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年11月8日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
-          "source": "澎湃新闻",
+          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
+          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "AI一键格桑花儿开转场",
-          "url": "https://www.douyin.com/hot/2299288",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "14岁男生回应作文被质疑借助AI",
-          "url": "https://www.toutiao.com/trending/7570134993897422890/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "11时13分"
         }
       ]
     },
@@ -172,8 +190,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时13分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -201,6 +219,23 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
+          "title": "宇树机器人被飞踹后仍能快速起身",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E9%A3%9E%E8%B8%B9%E5%90%8E%E4%BB%8D%E8%83%BD%E5%BF%AB%E9%80%9F%E8%B5%B7%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28,
+            29,
+            19,
+            18,
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 11时13分]"
+        },
+        {
           "title": "刘强东：五年左右机器人送货进家",
           "url": "https://www.toutiao.com/trending/7569651349332181043/",
           "source": "今日头条",
@@ -215,22 +250,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时16分]"
-        },
-        {
-          "title": "宇树机器人被飞踹后仍能快速起身",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E9%A3%9E%E8%B8%B9%E5%90%8E%E4%BB%8D%E8%83%BD%E5%BF%AB%E9%80%9F%E8%B5%B7%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            28,
-            29,
-            19,
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 09时38分]"
         }
       ]
     },
@@ -260,8 +279,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时13分]"
         }
       ]
     },
@@ -292,9 +311,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 11时13分]"
         }
       ]
     },
@@ -323,7 +342,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         }
@@ -353,7 +372,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         }
@@ -379,8 +398,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 11时13分]"
         }
       ]
     },
@@ -395,7 +414,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         }
@@ -413,11 +432,12 @@
             17,
             20,
             21,
-            28
+            28,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 11时13分]"
         }
       ]
     }
