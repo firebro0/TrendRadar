@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T14:27:03.589698+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2025-11-09T15:17:33.443733+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时14分 ~ 14时27分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 15时17分]"
         },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -41,11 +41,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -63,8 +64,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -120,19 +121,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时17分]"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
           "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
@@ -152,11 +154,25 @@
           "url": "https://wallstreetcn.com/articles/3758983",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时17分]"
+        },
+        {
+          "title": "AI一键格桑花儿开转场",
+          "url": "https://www.douyin.com/hot/2299288",
+          "source": "抖音",
+          "ranks": [
+            24,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 15时17分]"
         },
         {
           "title": "14岁男生回应作文被质疑借助AI",
@@ -165,18 +181,6 @@
           "ranks": [
             30,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时13分]"
-        },
-        {
-          "title": "AI一键格桑花儿开转场",
-          "url": "https://www.douyin.com/hot/2299288",
-          "source": "抖音",
-          "ranks": [
-            24,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -206,11 +210,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -288,6 +293,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "深度解读特斯拉股东大会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 15时17分]"
+        },
+        {
           "title": "马斯克点赞小鹏机器人",
           "url": "https://www.toutiao.com/trending/7569429277528145970/",
           "source": "今日头条",
@@ -300,19 +318,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "深度解读特斯拉股东大会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 14时27分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -354,8 +359,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         }
       ]
     },
@@ -375,11 +380,12 @@
             15,
             26,
             30,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "法国男子在自家花园挖出70万欧元黄金",
@@ -488,8 +494,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 14时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 15时17分]"
         }
       ]
     }
