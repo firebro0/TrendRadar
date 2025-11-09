@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-09T17:17:30.734154+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-11-09T18:18:33.038522+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
-          "url": "https://www.zhihu.com/question/1970150431255684262",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时14分 ~ 17时17分]"
-        },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
           "url": "https://wallstreetcn.com/articles/3758970",
@@ -32,6 +20,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 11时13分]"
+        },
+        {
+          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
+          "url": "https://www.zhihu.com/question/1970150431255684262",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[03时14分 ~ 18时18分]"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
@@ -57,8 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 17时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -90,8 +91,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时38分 ~ 18时18分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -143,11 +144,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 18时18分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -162,6 +164,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时38分 ~ 17时17分]"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
@@ -189,6 +213,17 @@
           "time_info": "[16时22分 ~ 17时17分]"
         },
         {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时18分]"
+        },
+        {
           "title": "14岁男生回应作文被质疑借助AI",
           "url": "https://www.toutiao.com/trending/7570134993897422890/",
           "source": "今日头条",
@@ -212,15 +247,26 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
           "ranks": [
-            10
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "18时18分"
+        },
+        {
+          "title": "GAI首场体育场演唱会现场",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -314,6 +360,99 @@
       ]
     },
     {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 16时22分]"
+        },
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "和翁法罗斯黄金裔一起包饺子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E7%BF%81%E6%B3%95%E7%BD%97%E6%96%AF%E9%BB%84%E9%87%91%E8%A3%94%E4%B8%80%E8%B5%B7%E5%8C%85%E9%A5%BA%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            17,
+            28,
+            14,
+            15,
+            26,
+            30,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 18时18分]"
+        },
+        {
+          "title": "法国男子在自家花园挖出70万欧元黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E8%87%AA%E5%AE%B6%E8%8A%B1%E5%9B%AD%E6%8C%96%E5%87%BA70%E4%B8%87%E6%AC%A7%E5%85%83%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 14时27分]"
+        },
+        {
+          "title": "京东惊喜之夜发黄金钻石手表",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E6%83%8A%E5%96%9C%E4%B9%8B%E5%A4%9C%E5%8F%91%E9%BB%84%E9%87%91%E9%92%BB%E7%9F%B3%E6%89%8B%E8%A1%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D20%26lcate%3D5001%26band_rank%3D20%26stream_entry_id%3D31%26pos%3D21%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E6%2583%258A%25E5%2596%259C%25E4%25B9%258B%25E5%25A4%259C%25E5%258F%2591%25E9%25BB%2584%25E9%2587%2591%25E9%2592%25BB%25E7%259F%25B3%25E6%2589%258B%25E8%25A1%25A8%2523%26dgr%3D0%26flag%3D1%26cate%3D5001%26display_time%3D1762683323%26pre_seqid%3D17626833239420160847995&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 3,
       "titles": [
@@ -325,11 +464,12 @@
             7,
             4,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 18时18分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -359,73 +499,39 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
+      "keyword_group": "中美",
       "match_count": 2,
       "titles": [
         {
-          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 16时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "和翁法罗斯黄金裔一起包饺子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E7%BF%81%E6%B3%95%E7%BD%97%E6%96%AF%E9%BB%84%E9%87%91%E8%A3%94%E4%B8%80%E8%B5%B7%E5%8C%85%E9%A5%BA%E5%AD%90",
+          "title": "中美电磁弹射技术有何区别",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            25,
-            17,
-            28,
+            12,
             14,
-            15,
-            26,
-            30,
+            18,
             21,
-            20
+            20,
+            22,
+            17,
+            9,
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
-          "title": "法国男子在自家花园挖出70万欧元黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E8%87%AA%E5%AE%B6%E8%8A%B1%E5%9B%AD%E6%8C%96%E5%87%BA70%E4%B8%87%E6%AC%A7%E5%85%83%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "中美“船舶大战”按下暂停键",
+          "url": "https://www.toutiao.com/trending/7569555526665699364/",
+          "source": "今日头条",
           "ranks": [
-            21,
-            22,
-            25
+            27
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 14时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -460,32 +566,6 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中美电磁弹射技术有何区别",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            14,
-            18,
-            21,
-            20,
-            22,
-            17,
-            9,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
       "match_count": 1,
       "titles": [
@@ -511,11 +591,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%8F%E5%A4%A91%E4%B8%AA%E8%8B%B9%E6%9E%9C%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26c_type%3D31%26q%3D%2523%25E6%25AF%258F%25E5%25A4%25A91%25E4%25B8%25AA%25E8%258B%25B9%25E6%259E%259C%25E8%25BA%25AB%25E4%25BD%2593%25E6%259C%2589%25E4%25BB%2580%25E4%25B9%2588%25E5%258F%2598%25E5%258C%2596%2523%26dgr%3D0%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26pos%3D4%26lcate%3D5001%26band_rank%3D4%26display_time%3D1762679802%26pre_seqid%3D17626798020660244122544&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时18分]"
         }
       ]
     },
@@ -537,11 +618,12 @@
             11,
             14,
             19,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 18时18分]"
         }
       ]
     }
