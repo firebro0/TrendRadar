@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T20:40:52.356634+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2025-11-10T21:31:15.352682+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "黄金新政的底层逻辑",
@@ -35,6 +35,17 @@
           "time_info": "[09时39分 ~ 11时19分]"
         },
         {
+          "title": "现货黄金向上触及4100美元/盎司",
+          "url": "https://www.toutiao.com/trending/7571082869691387430/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "现货白银站上49美元/盎司，日内涨1.5%。现货黄金涨超1%，现报4044.32美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251110092528803800",
           "source": "金十数据",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "纽约期银日内大涨4%，现报50.07美元/盎司； 现货白银现涨3.62%。",
-          "url": "https://wallstreetcn.com/livenews/3002165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "现货黄金周一低开5美元，现报3997.7美元/盎司。",
@@ -90,15 +90,39 @@
           "time_info": "09时39分"
         },
         {
-          "title": "现货黄金站上4090美元/盎司，日内涨2.29%。",
-          "url": "https://wallstreetcn.com/livenews/3002164",
+          "title": "现货黄金站上4100美元/盎司，为10月27日以来首次，日内涨约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "21时31分"
+        },
+        {
+          "title": "纽约期银日内大涨4%，现报50.07美元/盎司； 现货白银现涨3.62%。",
+          "url": "https://wallstreetcn.com/livenews/3002165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
+        },
+        {
+          "title": "现货黄金站上4090美元/盎司，日内涨2.29%。",
+          "url": "https://wallstreetcn.com/livenews/3002164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
         },
         {
           "title": "现货黄金持续走高，日内大涨2%，一度报4083美元/盎司。",
@@ -137,6 +161,18 @@
           "time_info": "[14时32分 ~ 15时19分]"
         },
         {
+          "title": "现货白银突破50美元/盎司，日内上涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
+        },
+        {
           "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251110104051679800",
           "source": "金十数据",
@@ -154,7 +190,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -209,7 +245,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -223,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "现货黄金站上4100美元关口",
+          "url": "https://flash.jin10.com/detail/20251110210206013800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）白银ETF持仓报告",
@@ -258,17 +305,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "现货白银突破50美元/盎司，日内上涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3002157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "中国黄金协会：前三季度国内黄金ETF增仓量为79.015吨 同比增长164.03%",
           "url": "https://www.cls.cn/detail/2195550",
           "source": "财联社热门",
@@ -297,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -319,7 +355,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -437,7 +473,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -482,8 +518,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时17分 ~ 20时40分]"
+          "appearance_count": 17,
+          "time_info": "[07时17分 ~ 21时31分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -609,24 +645,26 @@
           "time_info": "[00时21分 ~ 05时16分]"
         },
         {
+          "title": "人工智能替代人工作之后，人们去干什么？",
+          "url": "https://www.zhihu.com/question/1969381221114048758",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时31分]"
+        },
+        {
           "title": "超级AI临界点逼近：OpenAI发出警告",
           "url": "https://www.toutiao.com/trending/7571055203147845126/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
-          "url": "https://flash.jin10.com/detail/20251110202419439800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -667,6 +705,18 @@
           "time_info": "[17时23分 ~ 18时23分]"
         },
         {
+          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
+          "url": "https://flash.jin10.com/detail/20251110202419439800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
+        },
+        {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
           "url": "https://wallstreetcn.com/livenews/3001961",
           "source": "华尔街见闻-快讯",
@@ -688,19 +738,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时19分 ~ 17时23分]"
-        },
-        {
-          "title": "人工智能替代人工作之后，人们去干什么？",
-          "url": "https://www.zhihu.com/question/1969381221114048758",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时40分]"
         },
         {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
@@ -725,6 +762,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年11月9日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "最新风口是让AI当“狗”吗",
@@ -788,7 +836,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1070,8 +1118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 21时31分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -1108,6 +1156,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时31分]"
         },
         {
           "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
@@ -1156,17 +1216,6 @@
           "time_info": "18时23分"
         },
         {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "瑞银集团全球研究部预测，标普500指数2026年底的目标点位为7500点。",
           "url": "https://flash.jin10.com/detail/20251110174020455800",
           "source": "金十数据",
@@ -1201,11 +1250,12 @@
           "ranks": [
             8,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 21时31分]"
         },
         {
           "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
@@ -1217,19 +1267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时40分]"
-        },
-        {
-          "title": "中国国际商用车展在武汉开幕 新能源智能化车型成焦点",
-          "url": "https://wallstreetcn.com/livenews/3002168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时31分]"
         },
         {
           "title": "中国乘联分会：中国1月至10月新能源汽车零售销量同比增长22%。",
@@ -1253,6 +1292,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "中国国际商用车展在武汉开幕 新能源智能化车型成焦点",
+          "url": "https://wallstreetcn.com/livenews/3002168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时31分]"
         },
         {
           "title": "两部门：推动海上风电规范有序开发与消纳，科学高效推动省内集中式新能源开发与消纳",
@@ -1339,6 +1390,148 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时40分]"
+        },
+        {
+          "title": "美国交通部长Duffy：随着感恩节临近，美国空中交通将放缓至“一个缓慢的状态”。 各大机场缺少1000-2000名空管人员。 航空出行方式仍然是安全的，空管人员超时工作。 飞行员们抱怨空管人员响应不如以往那么积极。 战争部长Hegseth称可能会（从空军）抽调一些空管人员。",
+          "url": "https://wallstreetcn.com/livenews/3001706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "比特币突破104000美元/枚，日内涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20251109223544425800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.4%，现货黄金突破4100美元/盎司，比特币拉涨3%",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
+          "url": "https://flash.jin10.com/detail/20251109222710203800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
+        },
+        {
+          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "加密货币概念股盘前上涨，IREN涨6.8%，Riot Platforms涨3.6%，Strategy涨2.8%，Coinbase涨2.9%。比特币现上涨1.4%，至105,954.63美元；以太坊上涨0.7%，至3,604.60美元。",
+          "url": "https://wallstreetcn.com/livenews/3002142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时31分]"
+        },
+        {
+          "title": "比特币涨至10.5万美元，刷新日高，日内迄今涨幅超过2.4%。 北京时间18:00之前维持微幅下跌状态，维持在10.20万美元一线，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3001717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "比特币站上105000美元/枚，日内涨2.64%。",
+          "url": "https://flash.jin10.com/detail/20251110040537729800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "Strategy(MSTR.O)以4990万美元的总价购入487枚比特币。",
+          "url": "https://flash.jin10.com/detail/20251110210349804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "比特币升破106000美元。以太坊升破3600美元。",
+          "url": "https://wallstreetcn.com/livenews/3001801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
       "match_count": 10,
       "titles": [
@@ -1352,8 +1545,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[14时32分 ~ 21时31分]"
         },
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -1367,6 +1560,20 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时20分 ~ 17时23分]"
+        },
+        {
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时27分 ~ 21时31分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -1384,20 +1591,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "智元机器人完成股改，即将开启上市之路？",
-          "url": "https://www.cls.cn/detail/2195804",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时40分]"
         },
         {
           "title": "智元机器人公司完成股改",
@@ -1452,7 +1645,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1470,114 +1663,6 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时40分]"
-        },
-        {
-          "title": "美国交通部长Duffy：随着感恩节临近，美国空中交通将放缓至“一个缓慢的状态”。 各大机场缺少1000-2000名空管人员。 航空出行方式仍然是安全的，空管人员超时工作。 飞行员们抱怨空管人员响应不如以往那么积极。 战争部长Hegseth称可能会（从空军）抽调一些空管人员。",
-          "url": "https://wallstreetcn.com/livenews/3001706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时17分]"
-        },
-        {
-          "title": "比特币突破104000美元/枚，日内涨1.66%。",
-          "url": "https://flash.jin10.com/detail/20251109223544425800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时17分]"
-        },
-        {
-          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
-          "url": "https://flash.jin10.com/detail/20251109222710203800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "比特币涨至10.5万美元，刷新日高，日内迄今涨幅超过2.4%。 北京时间18:00之前维持微幅下跌状态，维持在10.20万美元一线，之后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3001717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "比特币站上105000美元/枚，日内涨2.64%。",
-          "url": "https://flash.jin10.com/detail/20251110040537729800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "加密货币概念股盘前上涨，IREN涨6.8%，Riot Platforms涨3.6%，Strategy涨2.8%，Coinbase涨2.9%。比特币现上涨1.4%，至105,954.63美元；以太坊上涨0.7%，至3,604.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3002142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时40分]"
-        },
-        {
-          "title": "比特币升破106000美元。以太坊升破3600美元。",
-          "url": "https://wallstreetcn.com/livenews/3001801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 7,
       "titles": [
@@ -1588,11 +1673,12 @@
           "ranks": [
             11,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 20时40分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 21时31分]"
         },
         {
           "title": "最好吃的苹果方式",
@@ -1667,7 +1753,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "深度解读特斯拉股东大会",
@@ -1717,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 20时40分]"
+        },
+        {
+          "title": "特斯拉Cybertruck项目负责人Awasthi在任三年后离职",
+          "url": "https://flash.jin10.com/detail/20251110204112079800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     },
