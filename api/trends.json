@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T15:19:39.979914+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-11-10T16:28:14.038969+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "黄金新政的底层逻辑",
@@ -136,6 +136,17 @@
           "time_info": "09时39分"
         },
         {
+          "title": "现货黄金持续走高，日内大涨2%，一度报4083美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3002037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "现货黄金短线走高7美元，现报4027美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251110091423390800",
           "source": "金十数据",
@@ -191,6 +202,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "现货黄金日内大涨2.00%，现报4081.45美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110160827104800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月10日（周一）早盘盘初上涨0.58%报921.44元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）早盘盘初上涨0.56%报11490.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251110090128211800",
           "source": "金十数据",
@@ -213,6 +235,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "华侨银行：美国政府重启在即 黄金或成潜在受益资产",
+          "url": "https://flash.jin10.com/detail/20251110160616879800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "前三季度国内原料和进口原料共计生产黄金392.931吨 同比增长3.60%",
           "url": "https://wallstreetcn.com/livenews/3001872",
           "source": "华尔街见闻-快讯",
@@ -222,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至3%，报49.78美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3002013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "现货白银日内涨幅扩大至2.00%，现报49.31美元/盎司。",
@@ -260,7 +304,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -287,6 +331,24 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时17分 ~ 15时19分]"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9,
+            11,
+            12,
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 16时28分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -332,21 +394,17 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            8,
-            9,
             11,
-            12,
-            14,
-            17
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 16时28分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -362,16 +420,17 @@
           "time_info": "[00时21分 ~ 05时16分]"
         },
         {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            13,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时26分 ~ 15时19分]"
+          "time_info": "[13时20分 ~ 16时28分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -410,6 +469,18 @@
           "time_info": "[14时32分 ~ 15时19分]"
         },
         {
+          "title": "当机构约60%的持仓与AI相关",
+          "url": "https://wallstreetcn.com/articles/3758994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时28分]"
+        },
+        {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
           "url": "https://wallstreetcn.com/articles/3758983",
           "source": "华尔街见闻",
@@ -422,16 +493,15 @@
           "time_info": "[11时19分 ~ 12时27分]"
         },
         {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
+          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
+          "url": "https://www.cls.cn/detail/2195504",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时19分]"
+          "time_info": "[15时19分 ~ 16时28分]"
         },
         {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
@@ -440,17 +510,6 @@
           "ranks": [
             8,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时19分]"
-        },
-        {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -490,17 +549,6 @@
           "time_info": "09时39分"
         },
         {
-          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
-          "url": "https://www.cls.cn/detail/2195504",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "英矽智能与礼来达成AI驱动药物研发合作，总额超过1亿美金",
           "url": "https://wallstreetcn.com/livenews/3001818",
           "source": "华尔街见闻-快讯",
@@ -510,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "工业和信息化部规划司司长姚珺表示，将加速推动5G+、人工智能+、机器人+、工业互联网+、北斗+等重点领域应用场景的培育。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3002023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
@@ -526,7 +585,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股指收涨约2.2%连续五天创历史新高，科威特股市持续撤离历史最高位",
@@ -542,13 +601,24 @@
           "time_info": "[00时21分 ~ 05时16分]"
         },
         {
+          "title": "金十图示：2025年11月10日（周一）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251110161854582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "高盛将印度股市评级上调至“增持”；预计到2026年底，印度国家证券交易所Nifty指数将上涨14%。",
           "url": "https://flash.jin10.com/detail/20251110144940658800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -635,6 +705,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "金十图示：2025年11月10日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251110161221069800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-10）",
           "url": "https://flash.jin10.com/detail/20251110090741139800",
           "source": "金十数据",
@@ -659,100 +740,8 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 15时19分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时19分]"
-        },
-        {
-          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
-          "url": "https://wallstreetcn.com/livenews/3001751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20251110070112567800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 15时19分]"
-        },
-        {
-          "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3001912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时20分]"
-        },
-        {
-          "title": "纳斯达克100指数期货涨幅扩大至1%。标普500指数期货涨0.6%。欧洲斯托克50指数期货1.4%。德国DAX指数期货涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3001853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -760,11 +749,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 16时28分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -791,8 +781,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "智元机器人公司完成股改",
@@ -818,6 +808,28 @@
           "time_info": "[09时39分 ~ 11时19分]"
         },
         {
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "深圳人形机器人卖爆",
+          "url": "https://www.toutiao.com/trending/7570940971802693161/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "A股人形机器人概念震荡走弱，浙江荣泰逼近跌停，拓普集团、汉宇集团、力星股份、三花智控、豪恩汽电、大洋电机、伟创电气跟跌。",
           "url": "https://wallstreetcn.com/livenews/3001875",
           "source": "华尔街见闻-快讯",
@@ -839,6 +851,193 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "两部门：加快修订新能源并网技术标准",
+          "url": "https://wallstreetcn.com/livenews/3002046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "两部门：推动海上风电规范有序开发与消纳，科学高效推动省内集中式新能源开发与消纳",
+          "url": "https://wallstreetcn.com/livenews/3002045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "两部门：结合雅下水电基地开发，优化论证新能源配置及送出消纳方案",
+          "url": "https://wallstreetcn.com/livenews/3002041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "中国乘联分会：中国1月至10月新能源汽车零售销量同比增长22%。",
+          "url": "https://flash.jin10.com/detail/20251110161643697800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
+          "url": "https://wallstreetcn.com/livenews/3002039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "中国乘联分会：中国10月份新能源汽车零售销量同比增长7.3%。",
+          "url": "https://flash.jin10.com/detail/20251110161610780800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "乘联分会：中国10月新能源汽车零售销量同比增长7.3%，环比下降1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3002038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "小米SU7改款涨价近1万",
+          "url": "https://www.toutiao.com/trending/7570272606857625642/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 16时28分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 16时28分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 16时28分]"
+        },
+        {
+          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
+          "url": "https://wallstreetcn.com/livenews/3001751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20251110070112567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3001912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时20分]"
+        },
+        {
+          "title": "纳斯达克100指数期货涨幅扩大至1%。标普500指数期货涨0.6%。欧洲斯托克50指数期货1.4%。德国DAX指数期货涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3001853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
@@ -947,11 +1146,12 @@
           "url": "https://wallstreetcn.com/livenews/3001987",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时28分]"
         },
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少，碳酸锂涨近2%，苹果、SC原油、氧化铝、液化石油气（LPG）、纸浆涨近1%。跌幅方面，焦煤跌近2%，沥青、焦炭、菜粕、玻璃跌超1%，甲醇、丁二烯橡胶跌近1%。",
@@ -1016,11 +1216,12 @@
             12,
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 16时28分]"
         },
         {
           "title": "中信证券：固态电池产业化加速，建议把握电池、材料、设备相关环节的投资机会",
@@ -1064,23 +1265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米SU7改款涨价近1万",
-          "url": "https://www.toutiao.com/trending/7570272606857625642/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
         }
       ]
     }
