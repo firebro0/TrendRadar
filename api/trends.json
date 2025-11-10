@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:31:15.352682+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-11-10T22:20:30.961072+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "黄金新政的底层逻辑",
@@ -90,27 +90,17 @@
           "time_info": "09时39分"
         },
         {
-          "title": "现货黄金站上4100美元/盎司，为10月27日以来首次，日内涨约2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3002178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "纽约期银日内大涨4%，现报50.07美元/盎司； 现货白银现涨3.62%。",
           "url": "https://wallstreetcn.com/livenews/3002165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "现货黄金站上4090美元/盎司，日内涨2.29%。",
@@ -118,11 +108,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
+          "title": "现货黄金站上4100美元/盎司，为10月27日以来首次，日内涨约2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "time_info": "[21时31分 ~ 22时20分]"
         },
         {
           "title": "现货黄金持续走高，日内大涨2%，一度报4083美元/盎司。",
@@ -267,7 +270,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -404,6 +407,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "避险需求持续 黄金期货重返4100美元上方",
+          "url": "https://flash.jin10.com/detail/20251110215346112800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "前三季度国内原料和进口原料共计生产黄金392.931吨 同比增长3.60%",
           "url": "https://wallstreetcn.com/livenews/3001872",
           "source": "华尔街见闻-快讯",
@@ -459,6 +473,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "鸿蒙生态黄金赛道有哪些",
+          "url": "https://www.toutiao.com/trending/7571072074941206057/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "【前三季度国内黄金ETF增仓量为79.015吨，同比增长164.03%】据中国黄金协会最新统计数据显示：据中国黄金协会最新统计数据显示：2025年前三季度，国内黄金ETF增仓量为79.015吨，较2024年前三季度增仓量29.927吨，同比增长164.03%。至9月底，国内黄金ETF持仓量为193.749吨。全球央行持续增持黄金。从2024年11月至2025年9月止，我国已连续11个月增持黄金。2025年前三季度，我国增持黄金23.95吨，截至9月底，我国黄金储备为2303.52吨。",
           "url": "https://wallstreetcn.com/livenews/3001866",
           "source": "华尔街见闻-快讯",
@@ -473,7 +498,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -515,11 +540,12 @@
             17,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时17分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[07时17分 ~ 22时20分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -669,6 +695,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
           "url": "https://wallstreetcn.com/livenews/3001685",
           "source": "华尔街见闻-快讯",
@@ -740,6 +777,17 @@
           "time_info": "[15时19分 ~ 17时23分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年11月9日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时20分]"
+        },
+        {
           "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
           "url": "https://flash.jin10.com/detail/20251110140226573800",
           "source": "金十数据",
@@ -764,17 +812,6 @@
           "time_info": "[17时23分 ~ 18时23分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年11月9日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
           "title": "最新风口是让AI当“狗”吗",
           "url": "https://www.toutiao.com/trending/7571013604158213682/",
           "source": "今日头条",
@@ -784,6 +821,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
+          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
+          "url": "https://wallstreetcn.com/articles/3759030",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
@@ -894,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "美联储戴利：资产估值反映了更高的生产力预期，无论人工智能最终是否具有变革性。",
+          "url": "https://flash.jin10.com/detail/20251110214107714800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -1089,7 +1148,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -1115,11 +1174,12 @@
             9,
             5,
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 22时20分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -1163,11 +1223,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "纳斯达克股指期货涨幅扩大至1.2%。标普500股指期货涨幅扩大至近0.7%。",
@@ -1216,6 +1277,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "瑞银集团全球研究部预测，标普500指数2026年底的目标点位为7500点。",
           "url": "https://flash.jin10.com/detail/20251110174020455800",
           "source": "金十数据",
@@ -1254,8 +1326,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 21时31分]"
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 22时20分]"
         },
         {
           "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
@@ -1267,8 +1339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "中国乘联分会：中国1月至10月新能源汽车零售销量同比增长22%。",
@@ -1282,6 +1354,19 @@
           "time_info": "16时28分"
         },
         {
+          "title": "中国国际商用车展在武汉开幕 新能源智能化车型成焦点",
+          "url": "https://wallstreetcn.com/livenews/3002168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
           "title": "两部门：加快修订新能源并网技术标准",
           "url": "https://wallstreetcn.com/livenews/3002046",
           "source": "华尔街见闻-快讯",
@@ -1292,18 +1377,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时23分]"
-        },
-        {
-          "title": "中国国际商用车展在武汉开幕 新能源智能化车型成焦点",
-          "url": "https://wallstreetcn.com/livenews/3002168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时31分]"
         },
         {
           "title": "两部门：推动海上风电规范有序开发与消纳，科学高效推动省内集中式新能源开发与消纳",
@@ -1438,11 +1511,12 @@
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时20分]"
         },
         {
           "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
@@ -1456,17 +1530,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
-          "url": "https://wallstreetcn.com/livenews/3002179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "加密货币概念股盘前上涨，IREN涨6.8%，Riot Platforms涨3.6%，Strategy涨2.8%，Coinbase涨2.9%。比特币现上涨1.4%，至105,954.63美元；以太坊上涨0.7%，至3,604.60美元。",
@@ -1508,13 +1571,25 @@
           "time_info": "[04时19分 ~ 06时17分]"
         },
         {
+          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时20分]"
+        },
+        {
           "title": "Strategy(MSTR.O)以4990万美元的总价购入487枚比特币。",
           "url": "https://flash.jin10.com/detail/20251110210349804800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1545,8 +1620,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时32分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[14时32分 ~ 22时20分]"
         },
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -1569,11 +1644,12 @@
             11,
             9,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时27分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -1674,11 +1750,12 @@
             11,
             4,
             2,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "最好吃的苹果方式",
@@ -1811,7 +1888,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
@@ -1863,6 +1940,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中美连续释放经贸缓和信号",
+          "url": "https://www.toutiao.com/trending/7570686689023574066/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     }
