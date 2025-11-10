@@ -1,8 +1,135 @@
 {
-  "generated_at": "2025-11-11T00:26:55.048697+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-11T01:17:57.838916+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "12岁小孩做一张AI图吓坏整个小区",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
+          "url": "https://wallstreetcn.com/articles/3759030",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
+          "url": "https://wallstreetcn.com/livenews/3002262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美民主党参议员要求白宫回应AI数据中心推高电费的问题",
+          "url": "https://flash.jin10.com/detail/20251111005526700800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
+          "url": "https://wallstreetcn.com/livenews/3002253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
+          "url": "https://wallstreetcn.com/livenews/3002251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "现在的 AI 能够给黑白漫画上色了吗？",
+          "url": "https://www.zhihu.com/question/1450725457",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
+          "url": "https://flash.jin10.com/detail/20251111004153687800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
+          "url": "https://flash.jin10.com/detail/20251111003834643800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 6,
@@ -15,8 +142,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -24,17 +163,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,48 +204,38 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 4,
+      "keyword_group": "沪深 股市",
+      "match_count": 3,
       "titles": [
         {
-          "title": "12岁小孩做一张AI图吓坏整个小区",
-          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
-          "source": "百度热搜",
+          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3002234",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         },
         {
-          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
-          "url": "https://wallstreetcn.com/articles/3759030",
-          "source": "华尔街见闻",
+          "title": "金十图示：2025年11月11日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251111004539941800",
+          "source": "金十数据",
           "ranks": [
-            5
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时17分"
         },
         {
-          "title": "硬刚真Air标准!联想官方遭怒喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
-          "source": "贴吧",
+          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：金融条件非常宽松。 针对具体的市场估值并非我们的本职工作。 美联储报告显示，住房与股市价格偏高。",
+          "url": "https://wallstreetcn.com/livenews/3002218",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -137,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         },
         {
           "title": "两部门：到2035年，适配高比例新能源的新型电力系统基本建成",
@@ -148,47 +266,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         },
         {
           "title": "小米汽车10月零售销量48654辆",
           "url": "https://www.toutiao.com/trending/7570297906926747684/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3002234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：金融条件非常宽松。 针对具体的市场估值并非我们的本职工作。 美联储报告显示，住房与股市价格偏高。",
-          "url": "https://wallstreetcn.com/livenews/3002218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         }
       ]
     },
@@ -232,8 +323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         },
         {
           "title": "智元机器人完成股改，即将开启上市之路？",
@@ -243,8 +334,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         }
       ]
     },
@@ -260,8 +351,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
         }
       ]
     },
@@ -274,11 +365,29 @@
           "url": "https://wallstreetcn.com/livenews/3002239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：Gemini for TV将在未来几周内开始向Google TV流媒体设备推送。",
+          "url": "https://flash.jin10.com/detail/20251111010942677800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时17分"
         }
       ]
     }
