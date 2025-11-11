@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:22:18.686873+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2025-11-11T19:17:22.851808+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -79,8 +79,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 19时17分]"
         },
         {
           "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
@@ -130,6 +130,20 @@
           "time_info": "[12时24分 ~ 13时20分]"
         },
         {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 19时17分]"
+        },
+        {
           "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
           "url": "https://wallstreetcn.com/livenews/3002688",
           "source": "华尔街见闻-快讯",
@@ -167,17 +181,17 @@
           "time_info": "[01时17分 ~ 07时18分]"
         },
         {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            10,
-            9
+            14,
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时26分 ~ 18时22分]"
+          "time_info": "[17时21分 ~ 19时17分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -191,18 +205,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时18分 ~ 12时24分]"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时22分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -227,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
+        },
+        {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时17分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -286,7 +299,29 @@
           "time_info": "13时20分"
         },
         {
+          "title": "新增73款生成式人工智能服务在国家网信办完成备案",
+          "url": "https://wallstreetcn.com/livenews/3002762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
@@ -294,7 +329,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时17分"
         },
         {
           "title": "英特尔(INTC.O)：英特尔首席执行官陈立武将在首席技术官Sachin Katti离职后领导英特尔的人工智能业务。",
@@ -306,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
-          "url": "https://wallstreetcn.com/articles/3759084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "李飞飞教授预言AI下一个十年",
@@ -363,6 +387,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3002756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-11）",
           "url": "https://flash.jin10.com/detail/20251111115317382800",
           "source": "金十数据",
@@ -383,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "微软宣布在葡萄牙锡尼什投资100亿美元建设AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251111184532762800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
@@ -454,7 +500,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -725,7 +771,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -736,9 +782,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "美股因停摆有望结束而上涨 历史数据显示有望迎来假日反弹",
+          "url": "https://flash.jin10.com/detail/20251111184320408800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
@@ -799,7 +856,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1042.06吨，较前一个交易日维持不变。",
@@ -813,6 +870,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "盎格鲁黄金公司：第三季度黄金平均售价为每盎司3490美元。",
+          "url": "https://flash.jin10.com/detail/20251111191315353800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "现货黄金向上触及4120美元/盎司，日内涨0.11%。",
           "url": "https://flash.jin10.com/detail/20251111070945654800",
           "source": "金十数据",
@@ -822,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "盎格鲁黄金公司：第三季度集团黄金产量同比增长了17%，达到 768,000盎司。",
+          "url": "https://flash.jin10.com/detail/20251111191221440800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月11日（周二）早盘盘初上涨2.06%报946.5元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）早盘盘初上涨2.63%报11919.0元/千克。",
@@ -935,6 +1014,18 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "巴菲特“谢幕”：美国黄金时代结束",
+          "url": "https://www.toutiao.com/trending/7571340531448417798/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时17分]"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251111115538459800",
           "source": "金十数据",
@@ -1015,17 +1106,6 @@
           "time_info": "16时26分"
         },
         {
-          "title": "巴菲特“谢幕”：美国黄金时代结束",
-          "url": "https://www.toutiao.com/trending/7571340531448417798/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "现货黄金突破4130美元/盎司，日内涨0.35%。",
           "url": "https://flash.jin10.com/detail/20251111084854761800",
           "source": "金十数据",
@@ -1048,6 +1128,39 @@
           "time_info": "07时18分"
         },
         {
+          "title": "德商银行：预计未来一年白银价格将为50美元/盎司，铂金价格将达到1,700美元/盎司，钯金价格将达到1,400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185400884800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "德商银行：预计未来一年黄金价格将达到4,200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185300227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "黄金税改后的深圳水贝：客流锐减，部分商户已回老家",
+          "url": "https://wallstreetcn.com/livenews/3002748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "现货白银日内大涨4.00%，现报50.29美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251111014613307800",
           "source": "金十数据",
@@ -1065,7 +1178,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1095,7 +1208,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "UP主自制版Mac Pro",
@@ -1106,11 +1219,12 @@
             20,
             12,
             14,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "iPhone 18 系列十大升级曝光，将使用 2nm 工艺芯片，首次采用钢壳电池，还有哪些看点？",
@@ -1123,8 +1237,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 19时17分]"
+        },
+        {
+          "title": "苹果界有自己的小甜心",
+          "url": "https://www.douyin.com/hot/2301389",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            14,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时16分 ~ 19时17分]"
         },
         {
           "title": "不爱吃苹果的人有救了",
@@ -1139,18 +1268,27 @@
           "time_info": "[13时19分 ~ 15时20分]"
         },
         {
-          "title": "苹果界有自己的小甜心",
-          "url": "https://www.douyin.com/hot/2301389",
-          "source": "抖音",
+          "title": "苹果推出新配件：1299元买“一块布”",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%85%8D%E4%BB%B6%EF%BC%9A1299%E5%85%83%E4%B9%B0%E2%80%9C%E4%B8%80%E5%9D%97%E5%B8%83%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            17,
-            14,
-            23
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "iPhonePocket发布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E5%8F%91%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D5%26c_type%3D31%26band_rank%3D6%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523iPhonePocket%25E5%258F%2591%25E5%25B8%2583%2523%26display_time%3D1762856379%26pre_seqid%3D1762856379676027603143&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时16分 ~ 18时22分]"
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时17分]"
         },
         {
           "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
@@ -1200,15 +1338,15 @@
           "time_info": "[04时23分 ~ 05时18分]"
         },
         {
-          "title": "iPhonePocket发布",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E5%8F%91%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D5%26c_type%3D31%26band_rank%3D6%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523iPhonePocket%25E5%258F%2591%25E5%25B8%2583%2523%26display_time%3D1762856379%26pre_seqid%3D1762856379676027603143&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "AI投资热潮遭遇资本支出“反噬” 苹果因保守策略意外成为避风港",
+          "url": "https://flash.jin10.com/detail/20251111190155430800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时17分"
         },
         {
           "title": "商品期货收盘，沪银主力合约涨超3%，沪金、菜籽油涨超2%，花生、碳酸锂、苹果、棕榈油涨超1%。焦煤、焦炭跌超3%，多晶硅跌超2%，集运欧线、玻璃、生猪跌超1%。",
@@ -1255,13 +1393,24 @@
           "time_info": "15时20分"
         },
         {
+          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
+          "url": "https://wallstreetcn.com/livenews/3002746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "据葡萄牙财经媒体Negócios，微软将在葡萄牙数据中心投资100亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1272,7 +1421,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1381,7 +1530,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1465,175 +1614,8 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            8,
-            12,
-            13,
-            14,
-            16,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 18时22分]"
-        },
-        {
-          "title": "深圳人形机器人卖爆",
-          "url": "https://www.toutiao.com/trending/7570940971802693161/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            16,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 07时18分]"
-        },
-        {
-          "title": "上纬新材发布机器人预告，智元回应",
-          "url": "https://wallstreetcn.com/livenews/3002509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
-          "title": "A股机器人概念股局部活跃，上纬新材20cm涨停，五洲新春、拓普集团、美力科技、松霖科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3002555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时20分]"
-        },
-        {
-          "title": "上纬新材发布机器人新品预告，证券部回应：未收到剥离原有业务信息",
-          "url": "https://wallstreetcn.com/livenews/3002552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时20分]"
-        },
-        {
-          "title": "智元机器人完成股改，即将开启上市之路？",
-          "url": "https://www.cls.cn/detail/2195804",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时17分]"
-        },
-        {
-          "title": "智元机器人、蚂蚁集团等成立未来科技公司",
-          "url": "https://wallstreetcn.com/livenews/3002474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时24分]"
-        },
-        {
-          "title": "宇树科技机器人手指专利获授权",
-          "url": "https://wallstreetcn.com/livenews/3002468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时24分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
-          "url": "https://www.cls.cn/detail/2197306",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "传化智联与智元机器人等共建国家级具身智能创新平台",
-          "url": "https://wallstreetcn.com/livenews/3002621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "高盛调研发现A股机器人“订单荒”？产业链上市公司：静待订单落地",
-          "url": "https://wallstreetcn.com/livenews/3002660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "全国首家人形机器人7S店在武汉开业",
-          "url": "https://wallstreetcn.com/livenews/3002659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "车企为何要研发机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BD%95%E8%A6%81%E7%A0%94%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
@@ -1694,6 +1676,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "海科新源：与香河昆仑新能源材料股份有限公司签署《战略合作暨原材料供货协议》。协议约定，在本协议有效期内，昆仑新材向海科新源购买电解液溶剂预计59.62万吨。",
+          "url": "https://wallstreetcn.com/livenews/3002766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "小米汽车10月零售销量48654辆",
           "url": "https://www.toutiao.com/trending/7570297906926747684/",
           "source": "今日头条",
@@ -1708,6 +1701,19 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
+          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量的50%",
+          "url": "https://www.cls.cn/detail/2196971",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 19时17分]"
+        },
+        {
           "title": "10月我国新能源汽车销量首次超总销量的50%",
           "url": "https://wallstreetcn.com/livenews/3002545",
           "source": "华尔街见闻-快讯",
@@ -1720,16 +1726,16 @@
           "time_info": "[14时30分 ~ 15时20分]"
         },
         {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量的50%",
-          "url": "https://www.cls.cn/detail/2196971",
-          "source": "财联社热门",
+          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            11
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时26分 ~ 18时22分]"
+          "time_info": "[17时21分 ~ 19时17分]"
         },
         {
           "title": "【午报】三大指数均小幅下跌，新能源赛道持续活跃，光伏、储能联袂领涨",
@@ -1737,18 +1743,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时22分]"
-        },
-        {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1775,6 +1769,185 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "太蓝新能源高翔：2025年是半固态电池产业化应用元年",
+          "url": "https://wallstreetcn.com/livenews/3002747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            8,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 19时17分]"
+        },
+        {
+          "title": "深圳人形机器人卖爆",
+          "url": "https://www.toutiao.com/trending/7570940971802693161/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            16,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 07时18分]"
+        },
+        {
+          "title": "上纬新材发布机器人预告，智元回应",
+          "url": "https://wallstreetcn.com/livenews/3002509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时30分]"
+        },
+        {
+          "title": "A股机器人概念股局部活跃，上纬新材20cm涨停，五洲新春、拓普集团、美力科技、松霖科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3002555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时20分]"
+        },
+        {
+          "title": "上纬新材发布机器人新品预告，证券部回应：未收到剥离原有业务信息",
+          "url": "https://wallstreetcn.com/livenews/3002552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时20分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
+          "url": "https://www.cls.cn/detail/2197306",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时17分]"
+        },
+        {
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "智元机器人、蚂蚁集团等成立未来科技公司",
+          "url": "https://wallstreetcn.com/livenews/3002474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时24分]"
+        },
+        {
+          "title": "宇树科技机器人手指专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3002468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时24分]"
+        },
+        {
+          "title": "传化智联与智元机器人等共建国家级具身智能创新平台",
+          "url": "https://wallstreetcn.com/livenews/3002621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "高盛调研发现A股机器人“订单荒”？产业链上市公司：静待订单落地",
+          "url": "https://wallstreetcn.com/livenews/3002660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "全国首家人形机器人7S店在武汉开业",
+          "url": "https://wallstreetcn.com/livenews/3002659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "车企为何要研发机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BD%95%E8%A6%81%E7%A0%94%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -1912,7 +2085,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -2025,7 +2198,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -2045,8 +2218,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时23分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[04时23分 ~ 19时17分]"
         }
       ]
     }
