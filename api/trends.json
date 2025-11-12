@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:22:44.695803+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2025-11-12T19:17:22.224053+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 19时17分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -107,6 +107,18 @@
           "time_info": "[09时27分 ~ 15时19分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 19时17分]"
+        },
+        {
           "title": "OpenAI挖走英特尔印度大将",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
           "source": "bilibili 热搜",
@@ -116,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "工信部就《人工智能 安全治理 安全威胁情报共享技术要求》等325项行业标准、22项行业标准外文版、55项推荐性国家标准和3项推荐性国家标准外文版计划项目公开征集意见。",
+          "url": "https://wallstreetcn.com/livenews/3003388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
@@ -140,18 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 18时22分]"
         },
         {
           "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
@@ -366,7 +377,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -509,7 +520,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -608,7 +619,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -627,7 +638,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -683,8 +694,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
         },
         {
           "title": "小米双十一销售额突破290亿元人民币。",
@@ -746,6 +757,33 @@
           "time_info": "[15时19分 ~ 16时27分]"
         },
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
+        },
+        {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
+        },
+        {
           "title": "小鹏X9时速150km暴雨爆胎不失控",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E6%97%B6%E9%80%9F150km%E6%9A%B4%E9%9B%A8%E7%88%86%E8%83%8E%E4%B8%8D%E5%A4%B1%E6%8E%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D29%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E6%2597%25B6%25E9%2580%259F150km%25E6%259A%25B4%25E9%259B%25A8%25E7%2588%2586%25E8%2583%258E%25E4%25B8%258D%25E5%25A4%25B1%25E6%258E%25A7%2523%26c_type%3D31%26pos%3D30%26dgr%3D0%26cate%3D5001%26realpos%3D29%26display_time%3D1762917071%26pre_seqid%3D1762917071334025073123&launchid=10000360-page_H5",
           "source": "微博",
@@ -755,31 +793,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时11分 ~ 12时24分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "国家能源局：到2030年集成融合发展成为新能源发展的重要方式 新能源可靠替代水平明显增强",
@@ -841,6 +854,17 @@
           "time_info": "[17时21分 ~ 18时22分]"
         },
         {
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "越跌越买 南向资金对小米集团持股比升至6月来高位",
           "url": "https://wallstreetcn.com/livenews/3003135",
           "source": "华尔街见闻-快讯",
@@ -869,9 +893,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "罗福莉已加入小米",
+          "url": "https://www.douyin.com/hot/2303628",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -891,8 +926,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 19时17分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.3吨，当前持仓量为1046.36吨。",
@@ -1310,8 +1345,206 @@
       ]
     },
     {
+      "keyword_group": "沪深 股市",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
+          "url": "https://www.cls.cn/detail/2197536",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 09时27分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112091116604800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251112161630284800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251112161144598800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨约0.4%，尼日利亚股市跌5%创逾十五年最差单日表现",
+          "url": "https://wallstreetcn.com/livenews/3002893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "尼日利亚股市创15年最大跌幅",
+          "url": "https://flash.jin10.com/detail/20251112015128744800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3003143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "中东股市收盘播报｜土耳其股指收跌约2%，伊斯坦布尔市长面临被判刑超2000年的风险",
+          "url": "https://wallstreetcn.com/livenews/3002884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "机构普遍看好2026年中国经济与A股市场",
+          "url": "https://wallstreetcn.com/livenews/3003008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251112180258445800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251112004525433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
+          "url": "https://wallstreetcn.com/livenews/3003109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "中国证监会：境外投资者持有A股市值超3.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3003371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050826171800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "道富：美国政府迎来开门曙光，股市期待“疲软得刚好的”数据",
+          "url": "https://flash.jin10.com/detail/20251112182802656800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251112102524802800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "深成指、创业板指均跌超1%，沪指跌0.25%，超硬材料、氟化工、有机硅、电池等方向领跌，沪深京三市下跌个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3003085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
@@ -1428,6 +1661,17 @@
           "time_info": "[11时11分 ~ 11时12分]"
         },
         {
+          "title": "优必选首批数百台全尺寸工业人形机器人Walker S2正式开启量产交付",
+          "url": "https://wallstreetcn.com/livenews/3003377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "俄罗斯推出首款国产人形机器人",
           "url": "https://flash.jin10.com/detail/20251112014127458800",
           "source": "金十数据",
@@ -1500,191 +1744,15 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
-          "url": "https://www.cls.cn/detail/2197536",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时27分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-12）",
-          "url": "https://flash.jin10.com/detail/20251112091116604800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）沪深港通南向资金流向",
-          "url": "https://flash.jin10.com/detail/20251112161630284800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251112161144598800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约0.4%，尼日利亚股市跌5%创逾十五年最差单日表现",
-          "url": "https://wallstreetcn.com/livenews/3002893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "尼日利亚股市创15年最大跌幅",
-          "url": "https://flash.jin10.com/detail/20251112015128744800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "上证指数早盘收报3993.35点，跌0.23%。 深证成指早盘收报13146.42点，跌1.07%。 创业板指早盘收报3084.70点，跌1.58%。 沪深300早盘收报4632.15点，跌0.43%。 科创50早盘收报1364.64点，跌1.65%。 中证500早盘收报7207.90点，跌1.15%。 中证1000早盘收报7437.80点，跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3003143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时20分]"
-        },
-        {
-          "title": "中东股市收盘播报｜土耳其股指收跌约2%，伊斯坦布尔市长面临被判刑超2000年的风险",
-          "url": "https://wallstreetcn.com/livenews/3002884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "机构普遍看好2026年中国经济与A股市场",
-          "url": "https://wallstreetcn.com/livenews/3003008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251112180258445800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251112004525433800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
-          "url": "https://wallstreetcn.com/livenews/3003109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050826171800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251112102524802800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "深成指、创业板指均跌超1%，沪指跌0.25%，超硬材料、氟化工、有机硅、电池等方向领跌，沪深京三市下跌个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/3003085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -1698,8 +1766,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 19时17分]"
         },
         {
           "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
@@ -1794,9 +1862,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "iPhone可以检测针孔摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%B5%8B%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D1%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26q%3DiPhone%25E5%258F%25AF%25E4%25BB%25A5%25E6%25A3%2580%25E6%25B5%258B%25E9%2592%2588%25E5%25AD%2594%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26dgr%3D0%26display_time%3D1762935966%26pre_seqid%3D176293596627102601835&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1,
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
         },
         {
           "title": "iPhone Pocket被吐槽像保温水瓶套",
@@ -1825,19 +1907,6 @@
           "time_info": "[00时25分 ~ 02时28分]"
         },
         {
-          "title": "iPhone可以检测针孔摄像头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%B5%8B%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D1%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26q%3DiPhone%25E5%258F%25AF%25E4%25BB%25A5%25E6%25A3%2580%25E6%25B5%258B%25E9%2592%2588%25E5%25AD%2594%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26dgr%3D0%26display_time%3D1762935966%26pre_seqid%3D176293596627102601835&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
-        },
-        {
           "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1969152536956109880",
           "source": "知乎",
@@ -1859,6 +1928,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 11时12分]"
+        },
+        {
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -1916,9 +1996,23 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "比特币洗钱案钱志敏奢靡生活披露",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            22,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 19时17分]"
         },
         {
           "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
@@ -1931,19 +2025,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "比特币洗钱案钱志敏奢靡生活披露",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时22分]"
         },
         {
           "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
@@ -2030,8 +2111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 19时17分]"
         },
         {
           "title": "中国光伏行业协会：妄图通过造谣抹黑、恶意做空光伏行业牟取利益的恶劣行为 将与之斗争到底",
@@ -2041,8 +2122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
         },
         {
           "title": "传言多晶硅收储平台“黄了” 中国光伏行业协会和涉及公司紧急辟谣",
@@ -2053,8 +2134,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
         },
         {
           "title": "多晶硅期货主力合约强势反弹，日内由跌转涨，此前一度跌近4%，现报53230元/吨。消息面上，中国光伏行业协会声明称，网络流传的小道消息均为不实信息。",
@@ -2074,11 +2155,12 @@
           "ranks": [
             28,
             16,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时17分]"
         },
         {
           "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
@@ -2151,7 +2233,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -2210,11 +2292,12 @@
           "url": "https://www.toutiao.com/trending/7571742472888389162/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时17分]"
         },
         {
           "title": "特斯拉：FSD监督版将很快落地韩国。",
