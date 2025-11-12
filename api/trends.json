@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T05:18:50.523812+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2025-11-13T06:19:08.084008+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -49,20 +50,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
         {
-          "title": "圭亚那与Cerebras Systems Inc.（CBRS）围绕人工智能（AI）数据中心签署谅解备忘录。 Cerebras将在圭亚那数据中心部署CS-3 AI超算。",
-          "url": "https://wallstreetcn.com/livenews/3003620",
-          "source": "华尔街见闻-快讯",
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://flash.jin10.com/detail/20251113060235382800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时19分"
+        },
+        {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://wallstreetcn.com/livenews/3003648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
@@ -78,15 +90,16 @@
           "time_info": "[03时16分 ~ 05时18分]"
         },
         {
-          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
-          "url": "https://www.cls.cn/detail/2198606",
-          "source": "财联社热门",
+          "title": "圭亚那与Cerebras Systems Inc.（CBRS）围绕人工智能（AI）数据中心签署谅解备忘录。 Cerebras将在圭亚那数据中心部署CS-3 AI超算。",
+          "url": "https://wallstreetcn.com/livenews/3003620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时18分]"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时19分]"
         },
         {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
@@ -96,8 +109,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时19分]"
+        },
+        {
+          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
+          "url": "https://www.cls.cn/detail/2198606",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -122,6 +146,39 @@
           "time_info": "00时27分"
         },
         {
+          "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
+          "url": "https://flash.jin10.com/detail/20251113054057376800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "思科(CSCO.O)CEO：预计2026财年将从超大规模企业获得约30亿美元的人工智能基础设施收入。",
+          "url": "https://flash.jin10.com/detail/20251113053804104800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "思科(CSCO.O)CEO：第一季度来自超大规模企业的AI基础设施订单总额达13亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113053748051800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
           "url": "https://wallstreetcn.com/livenews/3003511",
           "source": "华尔街见闻-快讯",
@@ -131,6 +188,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050551816800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "纳斯达克综合指数日内跌幅达0.5%，报23335.28点。",
+          "url": "https://wallstreetcn.com/livenews/3003535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050525386800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3003643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "美股收盘：道指创新高 AMD涨9%",
+          "url": "https://flash.jin10.com/detail/20251113050121041800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3003637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3003633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "标普500指数收涨4.31点，涨幅0.06%，报6850.92点。 道琼斯工业平均指数收涨326.86点，涨幅0.68%，报48254.82点。 纳斯达克综合指数（纳指）收跌61.844点，跌幅0.26%，报23406.457点。 纳斯达克100指数收跌16.158点，跌幅0.06%，报25517.328点。 纳斯达克科技市值加权指数收跌0.15%，报2345.5398点。 纳斯达克生物科技指数收涨0.20%，报5534.12点。 罗素2000指数收跌0.30%，报2450.797点。 费城半导体指数收涨1.47%，报7082.126点。 费城证交所KBW银行指数收涨1.18%，报154.04点。 道琼斯KBW地区银行指数收涨0.02%，报118.23点。 恐慌指数VIX收涨1.39%，报17.52。",
+          "url": "https://wallstreetcn.com/livenews/3003624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
@@ -236,6 +400,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
+        },
+        {
           "title": "双十一iPhone 17为何又赢了",
           "url": "https://www.toutiao.com/trending/7571835638589165110/",
           "source": "今日头条",
@@ -245,17 +420,6 @@
             16,
             28,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
-        },
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -310,71 +474,8 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3759214",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050551816800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "纳斯达克综合指数日内跌幅达0.5%，报23335.28点。",
-          "url": "https://wallstreetcn.com/livenews/3003535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050525386800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美股收盘：道指创新高 AMD涨9%",
-          "url": "https://flash.jin10.com/detail/20251113050121041800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "以太坊失守3400美元/枚，日内跌幅0.55%。",
@@ -397,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌3.19%，报75.21点。 周三（11月12日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.88%，报10.2万美元。 CME以太币期货DCR主力合约跌0.20%，报3434美元，北京时间21:50涨至3596.50美元刷新日高，随后快速转跌。",
+          "url": "https://wallstreetcn.com/livenews/3003639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "比特币向下触及102000美元/枚，日内跌1.05%。",
@@ -433,7 +545,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -474,6 +586,57 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
+        },
+        {
+          "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
+          "url": "https://flash.jin10.com/detail/20251113060331720800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
+          "url": "https://www.cls.cn/detail/2197827",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
+          "url": "https://flash.jin10.com/detail/20251113024027019800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 4,
       "titles": [
@@ -486,8 +649,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -497,8 +660,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -527,46 +690,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 04时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
-        },
-        {
-          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
-          "url": "https://www.cls.cn/detail/2197827",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
-        },
-        {
-          "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
-          "url": "https://flash.jin10.com/detail/20251113024027019800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
         }
       ]
     },
@@ -623,8 +746,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         },
         {
           "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
@@ -635,8 +758,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         }
       ]
     },
@@ -653,8 +776,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时19分]"
         }
       ]
     }
