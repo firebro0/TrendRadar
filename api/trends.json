@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T22:20:52.206085+08:00",
-  "total_titles_processed": 1975,
+  "generated_at": "2025-11-12T23:22:31.436798+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时27分 ~ 23时22分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -91,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时20分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[13时20分 ~ 23时22分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -277,6 +277,18 @@
           "time_info": "[03时15分 ~ 05时18分]"
         },
         {
+          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
+          "url": "https://www.cls.cn/detail/2198526",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
           "url": "https://wallstreetcn.com/livenews/3003282",
           "source": "华尔街见闻-快讯",
@@ -299,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2198795",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
@@ -401,18 +425,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
-          "url": "https://www.cls.cn/detail/2198526",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -423,7 +436,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -445,7 +458,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -470,17 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2198795",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "鸿海：预计第四季度人工智能服务器机架出货量将实现两位数以上的高增长。",
@@ -654,7 +656,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -717,7 +719,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -860,13 +862,24 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，黄金转涨",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3003475",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -891,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "AMD积极前景驱动基准指数走强 美股仍处于复杂情绪交织中",
+          "url": "https://flash.jin10.com/detail/20251112230532535800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -959,6 +983,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "标普500银行指数创历史新高，现涨2%。",
+          "url": "https://flash.jin10.com/detail/20251112225707496800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.06%，报8233.31点。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，中国科技指数ETF（CQQQ）收跌0.98%，中概互联网指数ETF（KWEB）收跌0.60%。 德银嘉实沪深300指数ETF（ASHR）收跌0.96%，XtrackersHarvest中证50（ASHS）收跌0.68%。",
           "url": "https://wallstreetcn.com/livenews/3002973",
           "source": "华尔街见闻-快讯",
@@ -979,12 +1014,312 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "标普500指数高开21.16点，涨幅0.31%，报6867.77点； 道琼斯工业平均指数高开87.83点，涨幅0.18%，报48015.79点； 纳斯达克综合指数高开95.54点，涨幅0.41%，报23563.84点。",
+          "url": "https://wallstreetcn.com/livenews/3003491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "水贝市场销售降至“冰点” 料商直言“有货难出” 黄金税收新政之下商家迎“大考”|传真",
+          "url": "https://www.cls.cn/detail/2198040",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 19时17分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.3吨，当前持仓量为1046.36吨。",
+          "url": "https://flash.jin10.com/detail/20251112071300101800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "现货黄金30分钟内拉升近40美元，站上4170美元/盎司，日内涨1.06%。",
+          "url": "https://flash.jin10.com/detail/20251112231800187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月12日（周三）早盘盘初下跌0.05%报945.37元/克；<br/>上海黄金交易所白银T+D 11月12日（周三）早盘盘初上涨0.33%报11934.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251112090217098800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "现货黄金短线拉升，突破4160美元刷新日高，涨幅0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3003516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "现货白银向下触及51美元/盎司，日内跌0.42%。",
+          "url": "https://flash.jin10.com/detail/20251112120419358800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "现货黄金短线持续回落，较日高回吐逾40美元，现跌至4110美元/盎司下方，日内跌约0.5%。",
+          "url": "https://flash.jin10.com/detail/20251112120355439800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251112023113887800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时21分]"
+        },
+        {
+          "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
+          "url": "https://wallstreetcn.com/livenews/3002882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "现货黄金失守4120美元/盎司，日内跌幅0.16%。",
+          "url": "https://flash.jin10.com/detail/20251112105202129800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "现货黄金短线走高逾15美元，突破4150美元/盎司，日内涨0.58%。纽约期金日内涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251112231101622800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251112170030485800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "瑞银：黄金价格仍处于上升趋势",
+          "url": "https://flash.jin10.com/detail/20251112165811184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "上交所王泊：并购市场是投资中国未来的黄金通道",
+          "url": "https://wallstreetcn.com/livenews/3003194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.0%，报52.22美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "现货黄金短线走高近10美元，最新报4134.07美元/盎司；现货白银短线上扬0.2美元，报51.83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251112220830146800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "现货黄金向下触及4100美元/盎司，日内跌0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3003190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "现货黄金短线拉升，刷新日高，逼近4160美元，涨幅扩大至将近0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3003515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251112081621477800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "黄金到底还能不能买",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金向下触及4100美元/盎司关口，日内跌0.65%。",
+          "url": "https://flash.jin10.com/detail/20251112133242672800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "黄金开始大反攻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%A4%A7%E5%8F%8D%E6%94%BB&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D23%26q%3D%25E9%25BB%2584%25E9%2587%2591%25E5%25BC%2580%25E5%25A7%258B%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%26pos%3D24%26cate%3D5001%26realpos%3D23%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26dgr%3D0%26display_time%3D1762910825%26pre_seqid%3D176291082563102604045&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "中国黄金协会：2025中国铂族金属市场年会定于12月10日在三亚召开",
+          "url": "https://wallstreetcn.com/livenews/3003090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "现货黄金回落至4125美元下方，日内整体涨幅迅速收窄至0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3002869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现货黄金失守4100美元",
+          "url": "https://flash.jin10.com/detail/20251111232833576800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "国家能源局：积极推动新能源与新兴产业融合互促发展",
@@ -1033,6 +1368,23 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            17,
+            19,
+            15,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时27分 ~ 23时22分]"
+        },
+        {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
           "url": "https://www.cls.cn/detail/2197163",
           "source": "财联社热门",
@@ -1045,20 +1397,15 @@
           "time_info": "[01时17分 ~ 06时18分]"
         },
         {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
           "ranks": [
-            20,
-            16,
-            17,
-            19,
-            15,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时22分]"
         },
         {
           "title": "小米双十一销售额突破290亿元人民币。",
@@ -1081,17 +1428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -1221,7 +1557,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1235,6 +1571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "中概指数盘初跌超1%，百度与、蔚来、小鹏至少跌2%",
+          "url": "https://wallstreetcn.com/livenews/3003499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "小米汽车交付周期最快提至22周",
@@ -1272,242 +1619,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "水贝市场销售降至“冰点” 料商直言“有货难出” 黄金税收新政之下商家迎“大考”|传真",
-          "url": "https://www.cls.cn/detail/2198040",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 19时17分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.3吨，当前持仓量为1046.36吨。",
-          "url": "https://flash.jin10.com/detail/20251112071300101800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月12日（周三）早盘盘初下跌0.05%报945.37元/克；<br/>上海黄金交易所白银T+D 11月12日（周三）早盘盘初上涨0.33%报11934.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251112090217098800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "现货白银向下触及51美元/盎司，日内跌0.42%。",
-          "url": "https://flash.jin10.com/detail/20251112120419358800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时20分]"
-        },
-        {
-          "title": "现货黄金短线持续回落，较日高回吐逾40美元，现跌至4110美元/盎司下方，日内跌约0.5%。",
-          "url": "https://flash.jin10.com/detail/20251112120355439800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时20分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251112023113887800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时21分]"
-        },
-        {
-          "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
-          "url": "https://wallstreetcn.com/livenews/3002882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "现货黄金失守4120美元/盎司，日内跌幅0.16%。",
-          "url": "https://flash.jin10.com/detail/20251112105202129800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20251112170030485800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "瑞银：黄金价格仍处于上升趋势",
-          "url": "https://flash.jin10.com/detail/20251112165811184800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "上交所王泊：并购市场是投资中国未来的黄金通道",
-          "url": "https://wallstreetcn.com/livenews/3003194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "现货黄金短线走高近10美元，最新报4134.07美元/盎司；现货白银短线上扬0.2美元，报51.83美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251112220830146800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "现货黄金向下触及4100美元/盎司，日内跌0.65%。",
-          "url": "https://wallstreetcn.com/livenews/3003190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251112081621477800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "黄金到底还能不能买",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金向下触及4100美元/盎司关口，日内跌0.65%。",
-          "url": "https://flash.jin10.com/detail/20251112133242672800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "黄金开始大反攻",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%A4%A7%E5%8F%8D%E6%94%BB&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D23%26q%3D%25E9%25BB%2584%25E9%2587%2591%25E5%25BC%2580%25E5%25A7%258B%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%26pos%3D24%26cate%3D5001%26realpos%3D23%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26dgr%3D0%26display_time%3D1762910825%26pre_seqid%3D176291082563102604045&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "中国黄金协会：2025中国铂族金属市场年会定于12月10日在三亚召开",
-          "url": "https://wallstreetcn.com/livenews/3003090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "现货黄金回落至4125美元下方，日内整体涨幅迅速收窄至0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3002869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金失守4100美元",
-          "url": "https://flash.jin10.com/detail/20251111232833576800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
@@ -1575,6 +1688,19 @@
           "time_info": "[02时28分 ~ 04时21分]"
         },
         {
+          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
+          "url": "https://www.cls.cn/detail/2198568",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时22分]"
+        },
+        {
           "title": "俄罗斯人形机器人首秀时摔倒",
           "url": "https://www.douyin.com/hot/2303223",
           "source": "抖音",
@@ -1587,18 +1713,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 17时21分]"
-        },
-        {
-          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
-          "url": "https://www.cls.cn/detail/2198568",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时20分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人",
@@ -1625,6 +1739,18 @@
           "time_info": "[12时24分 ~ 13时20分]"
         },
         {
+          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
+          "url": "https://www.cls.cn/detail/2198609",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "专家：人形机器人未来将有两大收入",
           "url": "https://www.toutiao.com/trending/7571637202573069878/",
           "source": "今日头条",
@@ -1645,17 +1771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
-        },
-        {
-          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
-          "url": "https://www.cls.cn/detail/2198609",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人",
@@ -1724,6 +1839,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "人形机器人让小鹏走上了神坛",
+          "url": "https://www.toutiao.com/trending/7571798294121156102/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "俄最新机器人当众“散架”",
           "url": "https://www.toutiao.com/trending/7571706241454444086/",
           "source": "今日头条",
@@ -1738,7 +1864,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "存款“搬家”到股市？央行最新报告详解五组利率比价关系 资产配置调整和市值变化影响金融资产结构",
@@ -1889,6 +2015,17 @@
           "time_info": "19时17分"
         },
         {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251112230042458800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251112050826171800",
           "source": "金十数据",
@@ -1935,6 +2072,182 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "比特币富婆钱志敏最高面临14年监禁",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            13,
+            12,
+            19,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "“比特币富婆”钱志敏被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7570823653735235647/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            11,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 16时27分]"
+        },
+        {
+          "title": "以太坊突破3500美元/枚，日内涨2.42%。",
+          "url": "https://flash.jin10.com/detail/20251112181447975800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "Cassava Technologies宣布三笔交易（包括英伟达提供股权投资），将利用超过1.5亿美元新资本提供Liquid Techcommunications。",
+          "url": "https://wallstreetcn.com/livenews/3003517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "比特币洗钱案钱志敏奢靡生活披露",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            22,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 19时17分]"
+        },
+        {
+          "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
+          "url": "https://flash.jin10.com/detail/20251112020805549800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
+          "url": "https://wallstreetcn.com/livenews/3002993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "纳斯达克生物科技指数收涨超2.9%，成分股Theravance Biopharma收涨22.55%，Edgewise Therapeutics涨17.51%，uniQure NV涨17.48%，Autolus Therapeutics涨14.39%表现第四。 Pyxis Oncology则收跌4.19%表现倒数第三，Humacyte跌5.19%，Olema跌5.86%。",
+          "url": "https://wallstreetcn.com/livenews/3002990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
+          "url": "https://flash.jin10.com/detail/20251112014043460800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "比特币富婆钱志敏在床上被捕",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D14%26q%3D%2523%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%25AF%258C%25E5%25A9%2586%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E5%259C%25A8%25E5%25BA%258A%25E4%25B8%258A%25E8%25A2%25AB%25E6%258D%2595%2523%26pos%3D15%26cate%3D5001%26realpos%3D14%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26dgr%3D0%26display_time%3D1762910825%26pre_seqid%3D176291082563102604045&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "比特币瞬间从10.47万美元附近跳水至接近10.35万美元的水平，日内整体涨幅迅速收窄至1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "6万枚比特币洗钱案主犯在英获刑",
+          "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E4%B8%BB%E7%8A%AF%E5%9C%A8%E8%8B%B1%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "6万枚比特币洗钱案主犯钱志敏在英获刑11年零8个月",
+          "url": "https://flash.jin10.com/detail/20251112075644847800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 14,
       "titles": [
@@ -1950,8 +2263,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时27分 ~ 23时22分]"
         },
         {
           "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
@@ -2131,160 +2444,6 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "比特币富婆钱志敏最高面临14年监禁",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            13,
-            12,
-            19,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "“比特币富婆”钱志敏被捕画面曝光",
-          "url": "https://www.toutiao.com/trending/7570823653735235647/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            11,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 16时27分]"
-        },
-        {
-          "title": "以太坊突破3500美元/枚，日内涨2.42%。",
-          "url": "https://flash.jin10.com/detail/20251112181447975800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "比特币洗钱案钱志敏奢靡生活披露",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            22,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时17分]"
-        },
-        {
-          "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
-          "url": "https://flash.jin10.com/detail/20251112020805549800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
-          "url": "https://wallstreetcn.com/livenews/3002993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "纳斯达克生物科技指数收涨超2.9%，成分股Theravance Biopharma收涨22.55%，Edgewise Therapeutics涨17.51%，uniQure NV涨17.48%，Autolus Therapeutics涨14.39%表现第四。 Pyxis Oncology则收跌4.19%表现倒数第三，Humacyte跌5.19%，Olema跌5.86%。",
-          "url": "https://wallstreetcn.com/livenews/3002990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
-          "url": "https://flash.jin10.com/detail/20251112014043460800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "比特币富婆钱志敏在床上被捕",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D14%26q%3D%2523%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%25AF%258C%25E5%25A9%2586%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E5%259C%25A8%25E5%25BA%258A%25E4%25B8%258A%25E8%25A2%25AB%25E6%258D%2595%2523%26pos%3D15%26cate%3D5001%26realpos%3D14%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26dgr%3D0%26display_time%3D1762910825%26pre_seqid%3D176291082563102604045&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "6万枚比特币洗钱案主犯在英获刑",
-          "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E4%B8%BB%E7%8A%AF%E5%9C%A8%E8%8B%B1%E8%8E%B7%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "6万枚比特币洗钱案主犯钱志敏在英获刑11年零8个月",
-          "url": "https://flash.jin10.com/detail/20251112075644847800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "光伏",
       "match_count": 12,
       "titles": [
@@ -2354,6 +2513,18 @@
           "time_info": "15时19分"
         },
         {
+          "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
+          "url": "https://wallstreetcn.com/articles/3759217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 23时22分]"
+        },
+        {
           "title": "通威股份：坚定看好和支持光伏“反内卷”行动",
           "url": "https://wallstreetcn.com/livenews/3003459",
           "source": "华尔街见闻-快讯",
@@ -2364,18 +2535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时33分 ~ 22时20分]"
-        },
-        {
-          "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
-          "url": "https://wallstreetcn.com/articles/3759217",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "A股高开低走，创业板跌超1%，光伏全线爆发，存储芯片活跃，港股震荡微涨",
@@ -2396,7 +2555,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2437,8 +2596,20 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
         {
           "title": "段永平不买特斯拉是因看不惯马斯克吗",
           "url": "https://www.toutiao.com/trending/7571742472888389162/",
@@ -2476,15 +2647,15 @@
           "time_info": "[17时21分 ~ 18时22分]"
         },
         {
-          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
-          "source": "澎湃新闻",
+          "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
+          "url": "https://www.cls.cn/detail/2197827",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时22分"
         },
         {
           "title": "特斯拉筹备扩建机器人超级工厂 相关零部件环节有望持续受益",
@@ -2608,7 +2779,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -2617,11 +2788,12 @@
           "url": "https://www.toutiao.com/trending/7571825253601513003/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         }
       ]
     },
