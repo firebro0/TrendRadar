@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T07:19:15.763348+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-11-13T09:28:43.355817+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时28分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -62,9 +63,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -160,6 +172,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
+          "url": "https://www.zhihu.com/question/1970221380470568183",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
           "url": "https://flash.jin10.com/detail/20251113054057376800",
           "source": "金十数据",
@@ -177,7 +200,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -217,8 +240,171 @@
       ]
     },
     {
+      "keyword_group": "黄金 白银",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.28吨，当前持仓量为1046.64吨。",
+          "url": "https://flash.jin10.com/detail/20251113070609217800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "现货白银失守53美元关口",
+          "url": "https://flash.jin10.com/detail/20251113091906999800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "现货黄金站上4200美元/盎司，为10月21日以来首次，目前涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3003557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "现货黄金日内涨幅达2.0%，报4209.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月13日（周四）早盘盘初上涨1.66%报960.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）早盘盘初上涨4.29%报12462.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251113090138790800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "渣打银行：继续预计第四季度黄金均价为每盎司4000美元。",
+          "url": "https://flash.jin10.com/detail/20251113063345928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.5%，报4189.11美元/盎司。 纽约银日内涨幅达4.5%，报53.03美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
+          "url": "https://flash.jin10.com/detail/20251112234944623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "现货黄金短线拉升，突破4160美元刷新日高，涨幅0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3003516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "现货黄金站上4200美元/盎司，为10月21日以来首次。",
+          "url": "https://flash.jin10.com/detail/20251113010131698800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，现报53.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251113005225481800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -238,11 +424,12 @@
           "url": "https://www.cls.cn/detail/2198992",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 09时28分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -254,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "纳斯达克综合指数日内跌幅达0.5%，报23335.28点。",
@@ -341,145 +539,15 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.28吨，当前持仓量为1046.64吨。",
-          "url": "https://flash.jin10.com/detail/20251113070609217800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "现货黄金站上4200美元/盎司，为10月21日以来首次，目前涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3003557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时28分]"
-        },
-        {
-          "title": "现货黄金日内涨幅达2.0%，报4209.59美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时28分]"
-        },
-        {
-          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
-          "url": "https://wallstreetcn.com/livenews/3003663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "渣打银行：继续预计第四季度黄金均价为每盎司4000美元。",
-          "url": "https://flash.jin10.com/detail/20251113063345928800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "现货黄金日内涨幅达1.5%，报4189.11美元/盎司。 纽约银日内涨幅达4.5%，报53.03美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3003543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
-          "url": "https://flash.jin10.com/detail/20251112234944623800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "现货黄金短线拉升，突破4160美元刷新日高，涨幅0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3003516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "现货黄金站上4200美元/盎司，为10月21日以来首次。",
-          "url": "https://flash.jin10.com/detail/20251113010131698800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "现货白银日内大涨4.00%，现报53.26美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251113005225481800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "双十一iPhone 17为何又赢了",
@@ -545,11 +613,95 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
           "url": "https://wallstreetcn.com/livenews/3003545",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050601991800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（11月12日），南非富时/JSE非洲领先40可交易指数收涨1.57%，逼近10.5万点。 尼日利亚证交所全部股指收涨2.88%，脱离2010年3月19日以来最差单日表现——11月11日收跌5.04%。 毛里求斯证交所SEMDEX指数收涨0.43%，肯尼亚内罗毕证交所全股指数收跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3003537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113091138405800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113083933714800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "欧洲股市继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3003539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251113004606071800",
+          "source": "金十数据",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -620,53 +772,72 @@
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 4,
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050601991800",
-          "source": "金十数据",
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
           "ranks": [
-            2
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时28分]"
         },
         {
-          "title": "非洲股市收盘播报｜周三（11月12日），南非富时/JSE非洲领先40可交易指数收涨1.57%，逼近10.5万点。 尼日利亚证交所全部股指收涨2.88%，脱离2010年3月19日以来最差单日表现——11月11日收跌5.04%。 毛里求斯证交所SEMDEX指数收涨0.43%，肯尼亚内罗毕证交所全股指数收跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3003537",
-          "source": "华尔街见闻-快讯",
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            22
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时28分]"
         },
         {
-          "title": "欧洲股市继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3003539",
-          "source": "华尔街见闻-快讯",
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
           "ranks": [
-            20
+            9,
+            10,
+            8,
+            16,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "金十图示：2025年11月13日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251113004606071800",
-          "source": "金十数据",
+          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
+          "url": "https://www.cls.cn/detail/2199005",
+          "source": "财联社热门",
           "ranks": [
-            30
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 04时22分]"
         }
       ]
     },
@@ -680,11 +851,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时28分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
@@ -719,64 +891,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            8,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 04时22分]"
         }
       ]
     },
@@ -821,7 +935,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
@@ -847,12 +961,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "为机器人改筋骨换皮肉 塑料企业扎堆布局具身智能“轻量化”已小批量供货|行业观察",
+          "url": "https://www.cls.cn/detail/2198735",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "光伏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "传闻引发光伏板块重挫，行业协会和相关公司紧急辟谣，秘书长放话：不走出恶性竞争誓不罢休！",
@@ -860,11 +985,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时28分]"
+        },
+        {
+          "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
+          "url": "https://wallstreetcn.com/articles/3759183",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
