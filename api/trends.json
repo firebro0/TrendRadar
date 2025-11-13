@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T20:42:19.334580+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2025-11-13T21:32:55.256729+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -47,6 +47,17 @@
           "time_info": "[00时26分 ~ 12时25分]"
         },
         {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
           "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
           "url": "https://www.cls.cn/detail/2199055",
           "source": "财联社热门",
@@ -59,17 +70,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时25分 ~ 17时22分]"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -102,7 +102,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "Core AI宣布启动一项价值50亿美元的全球人工智能数据中心计划。",
+          "url": "https://flash.jin10.com/detail/20251113212900097800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
@@ -224,6 +235,17 @@
           "time_info": "[00时26分 ~ 06时19分]"
         },
         {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
           "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
@@ -248,15 +270,28 @@
           "time_info": "[12时25分 ~ 13时20分]"
         },
         {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
+          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
+          "time_info": "[20时42分 ~ 21时32分]"
         },
         {
           "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
@@ -268,17 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时22分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "新加坡考虑明确金融机构高管对AI风险负责",
@@ -303,6 +327,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "腾讯刘炽平：未来微信或推出AI智能体，帮助用户在微信内部利用AI完成任务",
+          "url": "https://wallstreetcn.com/livenews/3004211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -323,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
-        },
-        {
-          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3004181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -463,7 +487,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -548,7 +572,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -558,8 +582,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 20时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 21时32分]"
         },
         {
           "title": "中国黄金回应试戴金镯10秒被索赔1000",
@@ -789,6 +813,17 @@
           "time_info": "12时25分"
         },
         {
+          "title": "现货黄金短线走低超15美元，报4230美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251113211310069800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "受政府停摆结束和降息预期提振 黄金价格突破4200美元",
           "url": "https://flash.jin10.com/detail/20251113175418788800",
           "source": "金十数据",
@@ -798,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "黄金拉升大涨",
+          "url": "https://www.douyin.com/hot/2304388",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
@@ -839,7 +885,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -864,12 +910,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "俄罗斯至11月7日当周央行黄金和外汇储备 7198亿美元，前值7258亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113210003439800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -972,7 +1029,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1065,6 +1122,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "京东美股盘前涨超3%，此前公布业绩数据。",
           "url": "https://wallstreetcn.com/livenews/3004076",
           "source": "华尔街见闻-快讯",
@@ -1096,6 +1164,234 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "双十一iPhone 17为何又赢了",
+          "url": "https://www.toutiao.com/trending/7571835638589165110/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            16,
+            28,
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时32分]"
+        },
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 18时23分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
+          "url": "https://flash.jin10.com/detail/20251113000411182800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
+          "url": "https://wallstreetcn.com/livenews/3004217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
+          "url": "https://flash.jin10.com/detail/20251113190559735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
+          "url": "https://wallstreetcn.com/livenews/3004146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时42分]"
+        },
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "iPhone可检测针孔摄像头？客服回应",
+          "url": "https://www.toutiao.com/trending/7571748571801272329/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
+          "url": "https://www.zhihu.com/question/1972140495577806389",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "荣耀提前出了iPhoneAir2",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E6%8F%90%E5%89%8D%E5%87%BA%E4%BA%86iPhoneAir2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E6%258F%2590%25E5%2589%258D%25E5%2587%25BA%25E4%25BA%2586iPhoneAir2%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D17%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D17%26realpos%3D17%26display_time%3D1763011161%26pre_seqid%3D17630111614440113643907&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3003938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251113113051393800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
+          "url": "https://wallstreetcn.com/livenews/3003985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、苹果涨超3%，苯乙烯（EB）、沪锡、纯苯涨超2%，纯碱、菜油、20号胶涨近2%；跌幅方面，低硫燃料油（LU）跌超4%，SC原油、燃料油跌超3%，红枣、集运欧线跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251113150046534800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
+          "url": "https://wallstreetcn.com/livenews/3003545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "苹果和腾讯同意对购买微信小游戏收取15%费用？腾讯回应",
+          "url": "https://wallstreetcn.com/livenews/3004198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -1308,212 +1604,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "双十一iPhone 17为何又赢了",
-          "url": "https://www.toutiao.com/trending/7571835638589165110/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            16,
-            28,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时42分]"
-        },
-        {
-          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
-          "url": "https://wallstreetcn.com/articles/3759220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 18时23分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
-          "url": "https://flash.jin10.com/detail/20251113000411182800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
-          "url": "https://flash.jin10.com/detail/20251113190559735800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
-          "url": "https://wallstreetcn.com/livenews/3004146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时42分]"
-        },
-        {
-          "title": "大哥路边卖苹果摆得整整齐齐",
-          "url": "https://www.toutiao.com/trending/7571416741918752810/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时16分]"
-        },
-        {
-          "title": "iPhone可检测针孔摄像头？客服回应",
-          "url": "https://www.toutiao.com/trending/7571748571801272329/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 03时16分]"
-        },
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
-        },
-        {
-          "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
-          "url": "https://www.zhihu.com/question/1972140495577806389",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "荣耀提前出了iPhoneAir2",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E6%8F%90%E5%89%8D%E5%87%BA%E4%BA%86iPhoneAir2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E6%258F%2590%25E5%2589%258D%25E5%2587%25BA%25E4%25BA%2586iPhoneAir2%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D17%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D17%26realpos%3D17%26display_time%3D1763011161%26pre_seqid%3D17630111614440113643907&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251113113051393800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
-          "url": "https://wallstreetcn.com/livenews/3003985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、苹果涨超3%，苯乙烯（EB）、沪锡、纯苯涨超2%，纯碱、菜油、20号胶涨近2%；跌幅方面，低硫燃料油（LU）跌超4%，SC原油、燃料油跌超3%，红枣、集运欧线跌超2%。",
-          "url": "https://flash.jin10.com/detail/20251113150046534800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
-          "url": "https://wallstreetcn.com/livenews/3003545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
       "match_count": 10,
       "titles": [
@@ -1572,17 +1662,6 @@
           "time_info": "[17时22分 ~ 20时42分]"
         },
         {
-          "title": "何小鹏感谢吴敬琏鼓励机器人创新",
-          "url": "https://wallstreetcn.com/livenews/3004195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "宇树科技发布人形机器人数采训练全栈解决方案",
           "url": "https://wallstreetcn.com/livenews/3003876",
           "source": "华尔街见闻-快讯",
@@ -1593,6 +1672,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时30分]"
+        },
+        {
+          "title": "何小鹏感谢吴敬琏鼓励机器人创新",
+          "url": "https://wallstreetcn.com/livenews/3004195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时32分]"
         },
         {
           "title": "为机器人改筋骨换皮肉 塑料企业扎堆布局具身智能“轻量化”已小批量供货|行业观察",
@@ -1635,7 +1726,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         }
@@ -1868,11 +1959,12 @@
             3,
             4,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 20时42分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 21时32分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1954,6 +2046,84 @@
       ]
     },
     {
+      "keyword_group": "中美",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "涉中美大豆贸易，商务部最新发声",
+          "url": "https://news.ifeng.com/c/8oFWtudEQJD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时32分]"
+        },
+        {
+          "title": "中方敦促美方停止损害中美关系",
+          "url": "https://www.toutiao.com/trending/7572125453382156329/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 21时32分]"
+        },
+        {
+          "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
+          "url": "https://www.cls.cn/detail/2199591",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时32分]"
+        },
+        {
+          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
+          "url": "https://wallstreetcn.com/livenews/3003857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "商务部就中美大豆贸易相关问题介绍情况",
+          "url": "https://wallstreetcn.com/livenews/3003976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "中方敦促美方停止损害中美关系",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%81%9C%E6%AD%A2%E6%8D%9F%E5%AE%B3%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 6,
       "titles": [
@@ -1985,6 +2155,18 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
+          "url": "https://www.zhihu.com/question/1970943405648507051",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时32分]"
+        },
+        {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
           "url": "https://www.cls.cn/detail/2197827",
           "source": "财联社热门",
@@ -1994,17 +2176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
-        },
-        {
-          "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
-          "url": "https://www.zhihu.com/question/1970943405648507051",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
@@ -2031,72 +2202,6 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "涉中美大豆贸易，商务部最新发声",
-          "url": "https://news.ifeng.com/c/8oFWtudEQJD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时42分]"
-        },
-        {
-          "title": "中方敦促美方停止损害中美关系",
-          "url": "https://www.toutiao.com/trending/7572125453382156329/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 20时42分]"
-        },
-        {
-          "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
-          "url": "https://www.cls.cn/detail/2199591",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时42分]"
-        },
-        {
-          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
-          "url": "https://wallstreetcn.com/livenews/3003857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时20分]"
-        },
-        {
-          "title": "商务部就中美大豆贸易相关问题介绍情况",
-          "url": "https://wallstreetcn.com/livenews/3003976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "固态电池",
       "match_count": 4,
       "titles": [
@@ -2111,8 +2216,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时32分]"
         },
         {
           "title": "东风汽车固态电池预计明年9月量产上车",
