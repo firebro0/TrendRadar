@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T15:19:47.801673+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-11-13T16:27:27.761013+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -60,6 +60,20 @@
           "time_info": "[09时28分 ~ 13时20分]"
         },
         {
+          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
+          "url": "https://www.cls.cn/detail/2199055",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时27分]"
+        },
+        {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
           "url": "https://flash.jin10.com/detail/20251113050804559800",
           "source": "金十数据",
@@ -91,19 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
-        },
-        {
-          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
-          "url": "https://www.cls.cn/detail/2199055",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 15时19分]"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -213,13 +214,24 @@
           "time_info": "[12时25分 ~ 13时20分]"
         },
         {
+          "title": "新加坡考虑明确金融机构高管对AI风险负责",
+          "url": "https://flash.jin10.com/detail/20251113160349426800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -233,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
+          "url": "https://www.zhihu.com/question/1971870297541043616",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
@@ -381,7 +404,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -391,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "中国黄金回应试戴金镯10秒被索赔1000",
@@ -501,6 +524,17 @@
           "time_info": "[13时19分 ~ 13时20分]"
         },
         {
+          "title": "现货黄金突破4220美元/盎司，为10月21日以来首次，日内涨0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3003988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月13日（周四）早盘盘初上涨1.66%报960.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）早盘盘初上涨4.29%报12462.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251113090138790800",
           "source": "金十数据",
@@ -510,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "现货黄金突破4220美元/盎司，为10月21日以来首次，日内涨0.61%。",
+          "url": "https://flash.jin10.com/detail/20251113160008854800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "现货白银日内大涨1.01美元，现报54.26美元/盎司，涨幅1.89%。",
@@ -636,8 +681,19 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "金十图示：2025年11月13日（周四）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251113161525395800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
         {
           "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20251113050601991800",
@@ -650,13 +706,24 @@
           "time_info": "05时18分"
         },
         {
+          "title": "金十图示：2025年11月13日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251113161153689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "沪深两市今日成交额合计20419.62亿元",
           "url": "https://wallstreetcn.com/livenews/3003942",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -726,7 +793,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -737,7 +804,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -792,7 +859,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -810,9 +877,191 @@
       ]
     },
     {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "双十一iPhone 17为何又赢了",
+          "url": "https://www.toutiao.com/trending/7571835638589165110/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            16,
+            28,
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
+          "url": "https://flash.jin10.com/detail/20251113000411182800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 16时27分]"
+        },
+        {
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "iPhone可检测针孔摄像头？客服回应",
+          "url": "https://www.toutiao.com/trending/7571748571801272329/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
+          "url": "https://www.zhihu.com/question/1972140495577806389",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "荣耀提前出了iPhoneAir2",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E6%8F%90%E5%89%8D%E5%87%BA%E4%BA%86iPhoneAir2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E6%258F%2590%25E5%2589%258D%25E5%2587%25BA%25E4%25BA%2586iPhoneAir2%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D17%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D17%26realpos%3D17%26display_time%3D1763011161%26pre_seqid%3D17630111614440113643907&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3003938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251113113051393800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
+          "url": "https://wallstreetcn.com/livenews/3003985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、苹果涨超3%，苯乙烯（EB）、沪锡、纯苯涨超2%，纯碱、菜油、20号胶涨近2%；跌幅方面，低硫燃料油（LU）跌超4%，SC原油、燃料油跌超3%，红枣、集运欧线跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251113150046534800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
+          "url": "https://wallstreetcn.com/livenews/3003545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 16时27分]"
+        },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3759214",
@@ -825,18 +1074,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时19分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -953,154 +1190,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "双十一iPhone 17为何又赢了",
-          "url": "https://www.toutiao.com/trending/7571835638589165110/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            16,
-            28,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
-          "url": "https://flash.jin10.com/detail/20251113000411182800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
-          "url": "https://wallstreetcn.com/articles/3759220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 15时19分]"
-        },
-        {
-          "title": "大哥路边卖苹果摆得整整齐齐",
-          "url": "https://www.toutiao.com/trending/7571416741918752810/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时16分]"
-        },
-        {
-          "title": "iPhone可检测针孔摄像头？客服回应",
-          "url": "https://www.toutiao.com/trending/7571748571801272329/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 03时16分]"
-        },
-        {
-          "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
-          "url": "https://www.zhihu.com/question/1972140495577806389",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "荣耀提前出了iPhoneAir2",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E6%8F%90%E5%89%8D%E5%87%BA%E4%BA%86iPhoneAir2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E6%258F%2590%25E5%2589%258D%25E5%2587%25BA%25E4%25BA%2586iPhoneAir2%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D17%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D17%26realpos%3D17%26display_time%3D1763011161%26pre_seqid%3D17630111614440113643907&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251113113051393800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "午盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、苹果涨超3%，苯乙烯（EB）、沪锡、纯苯涨超2%，纯碱、菜油、20号胶涨近2%；跌幅方面，低硫燃料油（LU）跌超4%，SC原油、燃料油跌超3%，红枣、集运欧线跌超2%。",
-          "url": "https://flash.jin10.com/detail/20251113150046534800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
-          "url": "https://wallstreetcn.com/livenews/3003545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 8,
       "titles": [
@@ -1134,8 +1223,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时27分]"
+        },
+        {
+          "title": "7万枚比特币吸金案主犯获刑，比特币藏匿和转移细节披露",
+          "url": "https://news.ifeng.com/c/8oFLSy0SeXY",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 16时27分]"
         },
         {
           "title": "加密货币与加密货币关联指数跌3.19%，报75.21点。 周三（11月12日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.88%，报10.2万美元。 CME以太币期货DCR主力合约跌0.20%，报3434美元，北京时间21:50涨至3596.50美元刷新日高，随后快速转跌。",
@@ -1148,17 +1248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "7万枚比特币吸金案主犯获刑，比特币藏匿和转移细节披露",
-          "url": "https://news.ifeng.com/c/8oFLSy0SeXY",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "比特币向下触及101000美元/枚，日内跌2.02%。",
@@ -1200,6 +1289,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
+          "url": "https://www.cls.cn/detail/2199005",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时27分]"
+        },
+        {
           "title": "车圈打击黑公关,小米KOL被团灭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
           "source": "贴吧",
@@ -1211,19 +1311,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 15时19分]"
-        },
-        {
-          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
-          "url": "https://www.cls.cn/detail/2199005",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1319,8 +1408,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
@@ -1405,11 +1494,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时27分]"
         },
         {
           "title": "宇树科技发布人形机器人数采训练全栈解决方案",
@@ -1434,6 +1524,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 11时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "涉中美大豆贸易，商务部最新发声",
+          "url": "https://news.ifeng.com/c/8oFWtudEQJD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
+          "url": "https://wallstreetcn.com/livenews/3003857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "商务部就中美大豆贸易相关问题介绍情况",
+          "url": "https://wallstreetcn.com/livenews/3003976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -1478,8 +1608,19 @@
     },
     {
       "keyword_group": "固态电池",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "工信部指引动力电池发展路径：支持换电、V2G试点 固态电池成长期技术方向",
+          "url": "https://www.cls.cn/detail/2199536",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
         {
           "title": "中国汽车技术研究中心公开明确：将电池分为固态电池、固液混合电池、液态电池三大类",
           "url": "https://wallstreetcn.com/livenews/3003860",
@@ -1498,7 +1639,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -1520,8 +1661,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
@@ -1533,26 +1674,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中美",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
-          "url": "https://wallstreetcn.com/livenews/3003857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时27分]"
         }
       ]
     }
