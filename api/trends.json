@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:18:00.066867+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2025-11-13T20:42:19.334580+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -61,6 +61,17 @@
           "time_info": "[12时25分 ~ 17时22分]"
         },
         {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
@@ -83,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "新加坡金管局提案 金融机构需明确AI风险管理责任",
+          "url": "https://flash.jin10.com/detail/20251113204011304800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "深度思维正式推出“数学做题家AI”，其在奥赛中取得相当于银牌的成绩",
@@ -226,6 +248,17 @@
           "time_info": "[12时25分 ~ 13时20分]"
         },
         {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
           "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
           "url": "https://www.zhihu.com/question/1971870297541043616",
           "source": "知乎",
@@ -235,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时22分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "新加坡考虑明确金融机构高管对AI风险负责",
@@ -276,9 +320,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -402,6 +457,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "据华尔街日报：人工智能编码初创公司Cursor融资23亿美元，估值293亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113200430334800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "小米高调招揽“AI天才少女”背后",
           "url": "https://www.toutiao.com/trending/7572033504515460649/",
           "source": "今日头条",
@@ -482,7 +548,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -492,8 +558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时42分]"
         },
         {
           "title": "中国黄金回应试戴金镯10秒被索赔1000",
@@ -767,6 +833,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月13日（周四）晚盘盘初上涨0.69%报961.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）晚盘盘初上涨0.51%报12533.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251113200139635800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "现货白银日内大涨4.00%，现报53.26美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251113005225481800",
           "source": "金十数据",
@@ -792,7 +869,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -889,6 +966,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
+          "url": "https://flash.jin10.com/detail/20251113202452131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
           "url": "https://wallstreetcn.com/livenews/3004100",
           "source": "华尔街见闻-快讯",
@@ -939,7 +1027,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1221,7 +1309,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "双十一iPhone 17为何又赢了",
@@ -1252,6 +1340,19 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时42分]"
+        },
+        {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
           "url": "https://wallstreetcn.com/articles/3759220",
           "source": "华尔街见闻",
@@ -1262,30 +1363,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时28分 ~ 18时23分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时17分]"
-        },
-        {
-          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
-          "url": "https://wallstreetcn.com/livenews/3004146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
@@ -1305,9 +1382,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
+          "url": "https://wallstreetcn.com/livenews/3004146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时42分]"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
@@ -1332,6 +1421,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
@@ -1414,20 +1514,137 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 9,
+      "keyword_group": "机器人",
+      "match_count": 10,
       "titles": [
         {
-          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
-          "url": "https://wallstreetcn.com/livenews/3004151",
+          "title": "一汽、江淮密集招标 人形机器人加速“上岗”主机厂、产业链公司将受益",
+          "url": "https://www.cls.cn/detail/2199366",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 19时17分]"
+        },
+        {
+          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
+          "url": "https://www.cls.cn/detail/2198609",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
+          "url": "https://www.cls.cn/detail/2198568",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "宇树推出首款轮式人形机器人",
+          "url": "https://www.cls.cn/detail/2199402",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时42分]"
+        },
+        {
+          "title": "何小鹏感谢吴敬琏鼓励机器人创新",
+          "url": "https://wallstreetcn.com/livenews/3004195",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "宇树科技发布人形机器人数采训练全栈解决方案",
+          "url": "https://wallstreetcn.com/livenews/3003876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时30分]"
+        },
+        {
+          "title": "为机器人改筋骨换皮肉 塑料企业扎堆布局具身智能“轻量化”已小批量供货|行业观察",
+          "url": "https://www.cls.cn/detail/2198735",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时14分]"
+        },
+        {
+          "title": "第一批会穿糖葫芦的机器人现身北京",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BC%9A%E7%A9%BF%E7%B3%96%E8%91%AB%E8%8A%A6%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D27%26lcate%3D5001%26pos%3D27%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E4%25BC%259A%25E7%25A9%25BF%25E7%25B3%2596%25E8%2591%25AB%25E8%258A%25A6%25E7%259A%2584%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E7%258E%25B0%25E8%25BA%25AB%25E5%258C%2597%25E4%25BA%25AC%2523%26dgr%3D0%26band_rank%3D27%26c_type%3D31%26display_time%3D1763029265%26pre_seqid%3D17630292655280113807931&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
+          "title": "比亚迪：比亚迪电子业务已开始大规模应用AMR智能物流机器人",
+          "url": "https://wallstreetcn.com/livenews/3004132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "19时17分"
         },
+        {
+          "title": "绿的谐波张雨文：机器人硬件将走向智能化、集成化、标准化",
+          "url": "https://wallstreetcn.com/livenews/3004174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 9,
+      "titles": [
         {
           "title": "谷歌：欧盟新的反垄断调查或将损害欧洲用户利益。",
           "url": "https://flash.jin10.com/detail/20251113191351975800",
@@ -1435,9 +1652,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
+          "url": "https://wallstreetcn.com/livenews/3004151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时42分]"
         },
         {
           "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
@@ -1457,7 +1686,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1468,7 +1697,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1479,7 +1708,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1490,7 +1719,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1615,112 +1844,6 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "一汽、江淮密集招标 人形机器人加速“上岗”主机厂、产业链公司将受益",
-          "url": "https://www.cls.cn/detail/2199366",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 19时17分]"
-        },
-        {
-          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
-          "url": "https://www.cls.cn/detail/2198609",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
-          "url": "https://www.cls.cn/detail/2198568",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "宇树科技发布人形机器人数采训练全栈解决方案",
-          "url": "https://wallstreetcn.com/livenews/3003876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时30分]"
-        },
-        {
-          "title": "宇树推出首款轮式人形机器人",
-          "url": "https://www.cls.cn/detail/2199402",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时17分]"
-        },
-        {
-          "title": "为机器人改筋骨换皮肉 塑料企业扎堆布局具身智能“轻量化”已小批量供货|行业观察",
-          "url": "https://www.cls.cn/detail/2198735",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时14分]"
-        },
-        {
-          "title": "第一批会穿糖葫芦的机器人现身北京",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BC%9A%E7%A9%BF%E7%B3%96%E8%91%AB%E8%8A%A6%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D27%26lcate%3D5001%26pos%3D27%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E4%25BC%259A%25E7%25A9%25BF%25E7%25B3%2596%25E8%2591%25AB%25E8%258A%25A6%25E7%259A%2584%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E7%258E%25B0%25E8%25BA%25AB%25E5%258C%2597%25E4%25BA%25AC%2523%26dgr%3D0%26band_rank%3D27%26c_type%3D31%26display_time%3D1763029265%26pre_seqid%3D17630292655280113807931&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
-        },
-        {
-          "title": "比亚迪：比亚迪电子业务已开始大规模应用AMR智能物流机器人",
-          "url": "https://wallstreetcn.com/livenews/3004132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 8,
       "titles": [
@@ -1748,8 +1871,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时17分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 20时42分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1831,74 +1954,8 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "涉中美大豆贸易，商务部最新发声",
-          "url": "https://news.ifeng.com/c/8oFWtudEQJD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时17分]"
-        },
-        {
-          "title": "中方敦促美方停止损害中美关系",
-          "url": "https://www.toutiao.com/trending/7572125453382156329/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时17分]"
-        },
-        {
-          "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
-          "url": "https://www.cls.cn/detail/2199591",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时17分]"
-        },
-        {
-          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
-          "url": "https://wallstreetcn.com/livenews/3003857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时20分]"
-        },
-        {
-          "title": "商务部就中美大豆贸易相关问题介绍情况",
-          "url": "https://wallstreetcn.com/livenews/3003976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -1939,6 +1996,17 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
+          "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
+          "url": "https://www.zhihu.com/question/1970943405648507051",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
           "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
           "url": "https://flash.jin10.com/detail/20251113024027019800",
           "source": "金十数据",
@@ -1963,6 +2031,72 @@
       ]
     },
     {
+      "keyword_group": "中美",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "涉中美大豆贸易，商务部最新发声",
+          "url": "https://news.ifeng.com/c/8oFWtudEQJD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时42分]"
+        },
+        {
+          "title": "中方敦促美方停止损害中美关系",
+          "url": "https://www.toutiao.com/trending/7572125453382156329/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时42分]"
+        },
+        {
+          "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
+          "url": "https://www.cls.cn/detail/2199591",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时42分]"
+        },
+        {
+          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
+          "url": "https://wallstreetcn.com/livenews/3003857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "商务部就中美大豆贸易相关问题介绍情况",
+          "url": "https://wallstreetcn.com/livenews/3003976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "固态电池",
       "match_count": 4,
       "titles": [
@@ -1977,8 +2111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 20时42分]"
         },
         {
           "title": "东风汽车固态电池预计明年9月量产上车",
