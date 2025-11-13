@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T21:32:55.256729+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2025-11-13T22:20:13.258528+08:00",
+  "total_titles_processed": 2064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
@@ -124,9 +124,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
@@ -140,6 +151,17 @@
           "time_info": "14时30分"
         },
         {
+          "title": "迪士尼(DIS.N)CEO：通过部署人工智能能够带来效率提升的机会，而不仅仅局限于生产流程。",
+          "url": "https://flash.jin10.com/detail/20251113221119713800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
           "url": "https://www.cls.cn/detail/2198606",
           "source": "财联社热门",
@@ -149,6 +171,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 07时19分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-13）",
@@ -235,17 +269,6 @@
           "time_info": "[00时26分 ~ 06时19分]"
         },
         {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时32分]"
-        },
-        {
           "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
@@ -270,16 +293,16 @@
           "time_info": "[12时25分 ~ 13时20分]"
         },
         {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
+          "title": "腾讯刘炽平：未来微信或推出AI智能体，帮助用户在微信内部利用AI完成任务",
+          "url": "https://wallstreetcn.com/livenews/3004211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            17
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时32分]"
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时20分]"
         },
         {
           "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
@@ -305,6 +328,17 @@
           "time_info": "[16时27分 ~ 17时22分]"
         },
         {
+          "title": "迪士尼(DIS.N)CEO：正寻求保护创意内容，并利用人工智能技术与消费者互动。",
+          "url": "https://flash.jin10.com/detail/20251113221100451800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "新加坡考虑明确金融机构高管对AI风险负责",
           "url": "https://flash.jin10.com/detail/20251113160349426800",
           "source": "金十数据",
@@ -316,6 +350,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "迪士尼(DIS.N)CEO：公司已与人工智能公司展开了一些有趣的讨论。",
+          "url": "https://flash.jin10.com/detail/20251113221049068800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "小度科技发布多模态AI智能助手超能小度",
           "url": "https://wallstreetcn.com/livenews/3004097",
           "source": "华尔街见闻-快讯",
@@ -325,17 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "腾讯刘炽平：未来微信或推出AI智能体，帮助用户在微信内部利用AI完成任务",
-          "url": "https://wallstreetcn.com/livenews/3004211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -572,7 +606,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -582,8 +616,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时28分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时28分 ~ 22时20分]"
         },
         {
           "title": "中国黄金回应试戴金镯10秒被索赔1000",
@@ -645,6 +679,18 @@
           "time_info": "[12时25分 ~ 13时20分]"
         },
         {
+          "title": "黄金拉升大涨",
+          "url": "https://www.douyin.com/hot/2304388",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
           "title": "现货黄金日内涨幅达2.0%，报4209.59美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3003595",
           "source": "华尔街见闻-快讯",
@@ -667,6 +713,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "招金黄金：公司各项业务稳步推进 将推进市值管理工作",
@@ -819,7 +876,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -833,17 +890,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "黄金拉升大涨",
-          "url": "https://www.douyin.com/hot/2304388",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "现货白银向上触及53美元/盎司，创10月17日以来新高，日内涨3.50%。",
@@ -918,7 +964,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -926,7 +972,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -1078,6 +1124,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "标普确认泰国外币评级为“BBB+/A-2”，展望稳定。",
           "url": "https://wallstreetcn.com/livenews/3004123",
           "source": "华尔街见闻-快讯",
@@ -1128,7 +1185,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1169,8 +1226,21 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时27分 ~ 22时20分]"
+        },
         {
           "title": "双十一iPhone 17为何又赢了",
           "url": "https://www.toutiao.com/trending/7571835638589165110/",
@@ -1200,19 +1270,6 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 21时32分]"
-        },
-        {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
           "url": "https://wallstreetcn.com/articles/3759220",
           "source": "华尔街见闻",
@@ -1225,6 +1282,28 @@
           "time_info": "[09时28分 ~ 18时23分]"
         },
         {
+          "title": "美联储Hammack：通胀回归2%至关重要。",
+          "url": "https://wallstreetcn.com/livenews/3004243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
           "url": "https://flash.jin10.com/detail/20251113000411182800",
           "source": "金十数据",
@@ -1234,17 +1313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
-          "url": "https://wallstreetcn.com/livenews/3004217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
@@ -1270,15 +1338,16 @@
           "time_info": "[19时17分 ~ 20时42分]"
         },
         {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
+          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
+          "url": "https://wallstreetcn.com/livenews/3004217",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时32分]"
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时20分]"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
@@ -1326,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "苹果(AAPL.O)拒绝就英国法庭对应用商店佣金的裁决提起上诉。",
+          "url": "https://flash.jin10.com/detail/20251113220846207800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
@@ -1389,7 +1469,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -1605,7 +1685,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "一汽、江淮密集招标 人形机器人加速“上岗”主机厂、产业链公司将受益",
@@ -1729,6 +1809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "北京人形机器人创新中心开源最新具身智能VLM模型",
+          "url": "https://wallstreetcn.com/livenews/3004227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -1839,6 +1930,128 @@
       ]
     },
     {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
+          "url": "https://www.cls.cn/detail/2199005",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 17时22分]"
+        },
+        {
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            3,
+            4,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时26分 ~ 22时20分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 13时20分]"
+        },
+        {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            8,
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "工信部：编制“十五五”智能网联新能源汽车、新型电池产业发展规划",
+          "url": "https://wallstreetcn.com/livenews/3003822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "网红李福贵采购5元/斤小米引争议，助农直播卖贵了吗？",
+          "url": "https://news.ifeng.com/c/8oF7fnnROxu",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时20分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 04时22分]"
+        },
+        {
+          "title": "何小鹏：曾建议阿里造车 他们没听",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%EF%BC%9A%E6%9B%BE%E5%BB%BA%E8%AE%AE%E9%98%BF%E9%87%8C%E9%80%A0%E8%BD%A6+%E4%BB%96%E4%BB%AC%E6%B2%A1%E5%90%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
+          "title": "内蒙古：到2027年新增汽车（不含货车）中新能源汽车占比达到35%",
+          "url": "https://wallstreetcn.com/livenews/3003775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 8,
       "titles": [
@@ -1935,117 +2148,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
-          "url": "https://www.cls.cn/detail/2199005",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 17时22分]"
-        },
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            3,
-            4,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时26分 ~ 21时32分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 13时20分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            8,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "工信部：编制“十五五”智能网联新能源汽车、新型电池产业发展规划",
-          "url": "https://wallstreetcn.com/livenews/3003822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "网红李福贵采购5元/斤小米引争议，助农直播卖贵了吗？",
-          "url": "https://news.ifeng.com/c/8oF7fnnROxu",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时20分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 04时22分]"
-        },
-        {
-          "title": "内蒙古：到2027年新增汽车（不含货车）中新能源汽车占比达到35%",
-          "url": "https://wallstreetcn.com/livenews/3003775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
       "match_count": 6,
       "titles": [
@@ -2058,21 +2160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 21时32分]"
-        },
-        {
-          "title": "中方敦促美方停止损害中美关系",
-          "url": "https://www.toutiao.com/trending/7572125453382156329/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时32分]"
+          "appearance_count": 10,
+          "time_info": "[16时27分 ~ 22时20分]"
         },
         {
           "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
@@ -2084,8 +2173,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 22时20分]"
+        },
+        {
+          "title": "中方敦促美方停止损害中美关系",
+          "url": "https://www.toutiao.com/trending/7572125453382156329/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 22时20分]"
         },
         {
           "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
@@ -2100,6 +2203,18 @@
           "time_info": "[12时25分 ~ 13时20分]"
         },
         {
+          "title": "中方敦促美方停止损害中美关系",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%81%9C%E6%AD%A2%E6%8D%9F%E5%AE%B3%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
           "title": "商务部就中美大豆贸易相关问题介绍情况",
           "url": "https://wallstreetcn.com/livenews/3003976",
           "source": "华尔街见闻-快讯",
@@ -2109,17 +2224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "中方敦促美方停止损害中美关系",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%81%9C%E6%AD%A2%E6%8D%9F%E5%AE%B3%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         }
       ]
     },
@@ -2143,6 +2247,19 @@
           "time_info": "[00时26分 ~ 17时22分]"
         },
         {
+          "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
+          "url": "https://www.zhihu.com/question/1970943405648507051",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
           "url": "https://flash.jin10.com/detail/20251113060331720800",
           "source": "金十数据",
@@ -2153,18 +2270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
-          "url": "https://www.zhihu.com/question/1970943405648507051",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
