@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T09:28:43.355817+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-11-13T11:14:51.147334+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -68,15 +68,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "OpenAI发布GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
-          "source": "bilibili 热搜",
+          "title": "五年五芯，百度宣布打造最硬AI云",
+          "url": "https://wallstreetcn.com/livenews/3003829",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "11时14分"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -139,6 +139,18 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时14分]"
+        },
+        {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
           "url": "https://wallstreetcn.com/articles/3759168",
           "source": "华尔街见闻",
@@ -178,9 +190,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美国AI最终会国有化吗",
+          "url": "https://www.toutiao.com/trending/7572010257019309610/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
@@ -205,6 +228,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "李彦宏：AI产业结构正从不健康的“正金字塔”转变为健康的“倒金字塔”",
+          "url": "https://wallstreetcn.com/livenews/3003794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "思科(CSCO.O)CEO：预计2026财年将从超大规模企业获得约30亿美元的人工智能基础设施收入。",
           "url": "https://flash.jin10.com/detail/20251113053804104800",
           "source": "金十数据",
@@ -214,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "百度李彦宏回应AI泡沫争议",
+          "url": "https://wallstreetcn.com/livenews/3003791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "思科(CSCO.O)CEO：第一季度来自超大规模企业的AI基础设施订单总额达13亿美元。",
@@ -227,6 +272,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "孙正义为何抛弃英伟达转投OpenAI",
+          "url": "https://www.toutiao.com/trending/7571994755731574314/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
           "url": "https://wallstreetcn.com/livenews/3003511",
           "source": "华尔街见闻-快讯",
@@ -236,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "AI教母”李飞飞发布首款商用世界模型",
+          "url": "https://wallstreetcn.com/livenews/3003769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
@@ -250,9 +317,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时14分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.28吨，当前持仓量为1046.64吨。",
@@ -272,7 +339,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -319,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -428,8 +495,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 09时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 11时14分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -449,7 +516,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -546,8 +613,125 @@
       ]
     },
     {
+      "keyword_group": "沪深 股市",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050601991800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "创业板指涨幅扩大至2%，宁德时代涨超7%。沪指涨0.37%，深成指涨1.29%，锂电、有机硅、贵金属、光伏等方向领涨，沪深京三市上涨个股近3400只。",
+          "url": "https://wallstreetcn.com/livenews/3003821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周三（11月12日），南非富时/JSE非洲领先40可交易指数收涨1.57%，逼近10.5万点。 尼日利亚证交所全部股指收涨2.88%，脱离2010年3月19日以来最差单日表现——11月11日收跌5.04%。 毛里求斯证交所SEMDEX指数收涨0.43%，肯尼亚内罗毕证交所全股指数收跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3003537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113091138405800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "沪深两市成交额突破1万亿元。",
+          "url": "https://wallstreetcn.com/livenews/3003820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113083933714800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.17%，深成指涨0.8%，锂矿、有机硅、氟化工、贵金属等方向领涨，沪深京三市上涨个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3003797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "欧洲股市继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3003539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251113102545325800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251113004606071800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "双十一iPhone 17为何又赢了",
@@ -619,7 +803,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -633,79 +817,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "如何看待 Valve 最新推出的 Steam Machine 和 Steam Controller?",
+          "url": "https://www.zhihu.com/question/1972140495577806389",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 6,
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 8,
       "titles": [
         {
-          "title": "金十图示：2025年11月12日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050601991800",
-          "source": "金十数据",
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
           "ranks": [
-            2
+            7,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
-          "title": "非洲股市收盘播报｜周三（11月12日），南非富时/JSE非洲领先40可交易指数收涨1.57%，逼近10.5万点。 尼日利亚证交所全部股指收涨2.88%，脱离2010年3月19日以来最差单日表现——11月11日收跌5.04%。 毛里求斯证交所SEMDEX指数收涨0.43%，肯尼亚内罗毕证交所全股指数收跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3003537",
-          "source": "华尔街见闻-快讯",
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            22
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时14分]"
+        },
+        {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            8,
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
+          "url": "https://www.cls.cn/detail/2199005",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "time_info": "[09时28分 ~ 11时14分]"
         },
         {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-13）",
-          "url": "https://flash.jin10.com/detail/20251113091138405800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-13）",
-          "url": "https://flash.jin10.com/detail/20251113083933714800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "欧洲股市继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3003539",
+          "title": "工信部：编制“十五五”智能网联新能源汽车、新型电池产业发展规划",
+          "url": "https://wallstreetcn.com/livenews/3003822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "11时14分"
         },
         {
-          "title": "金十图示：2025年11月13日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251113004606071800",
-          "source": "金十数据",
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
           "ranks": [
-            30
+            25,
+            24,
+            26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时27分 ~ 04时22分]"
+        },
+        {
+          "title": "网红李福贵采购5元/斤小米引争议，助农直播卖贵了吗？",
+          "url": "https://news.ifeng.com/c/8oF7fnnROxu",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "11时14分"
+        },
+        {
+          "title": "内蒙古：到2027年新增汽车（不含货车）中新能源汽车占比达到35%",
+          "url": "https://wallstreetcn.com/livenews/3003775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
@@ -772,78 +999,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时28分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时28分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            8,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "【早报】国家能源局发文，新能源产业迎利好；国际油价创6月以来最大跌幅",
-          "url": "https://www.cls.cn/detail/2199005",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 04时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -855,8 +1012,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
@@ -891,6 +1048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "特斯拉上海超级工厂创2年来单月最高出口纪录",
+          "url": "https://wallstreetcn.com/livenews/3003787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
@@ -967,11 +1135,12 @@
           "url": "https://www.cls.cn/detail/2198735",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时14分]"
         }
       ]
     },
@@ -989,8 +1158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时14分]"
         },
         {
           "title": "A股全线收跌，光伏领跌，医药、银行集体拉升，港股全线上涨，新消费延续涨势，农行AH再创新高，市值突破3万亿元",
@@ -999,7 +1168,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
