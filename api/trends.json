@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:30:57.706594+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-11-14T15:19:31.554677+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -353,11 +353,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -368,11 +369,12 @@
             4,
             6,
             9,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -385,8 +387,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -413,8 +415,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 15时19分]"
         },
         {
           "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
@@ -538,7 +540,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -593,7 +595,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -689,7 +691,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -701,8 +703,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -719,6 +721,20 @@
           "time_info": "[00时24分 ~ 09时28分]"
         },
         {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时19分]"
+        },
+        {
           "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
           "url": "https://flash.jin10.com/detail/20251114034042642800",
           "source": "金十数据",
@@ -728,19 +744,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时30分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
@@ -785,11 +788,12 @@
           "ranks": [
             14,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 14时30分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 15时19分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
@@ -862,6 +866,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌不一。苹果、豆一涨超2%，苯乙烯（EB）、瓶片、PTA、液化石油气（LPG）、原木、乙二醇（EG）涨超1%；跌幅方面，甲醇跌超2%，玻璃、沪锡、焦煤、碳酸锂、工业硅、沪镍、集运欧线跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251114150046623800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "商品期货收盘，苹果、豆一主力合约涨超2%，瓶片、苯乙烯、PTA、乙二醇、原木、液化气涨超1%。甲醇跌超2%，玻璃、焦煤、沪锡、工业硅、沪镍、集运欧线、碳酸锂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3004656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。豆一涨近2%，液化石油气（LPG）、苯乙烯（EB）、苹果、PTA、瓶片、沪银、纯苯涨超1%；跌幅方面，焦煤跌超2%，甲醇、玻璃、沪锡、工业硅、沪镍跌超1%。",
@@ -1099,8 +1125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 14时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 15时19分]"
         },
         {
           "title": "APA Corp.涨幅扩大至7%，Repsol涨2%。 彭博援引知情人士报道称，Repsol SA考虑对旗下190亿美元上游业务实施反向收购，计划与美国能源生产商APA Corp.等潜在伙伴洽谈。",
@@ -1120,7 +1146,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1236,6 +1262,135 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "上证指数开盘报4007.13点，跌0.56%。 深证成指开盘报13323.45点，跌1.14%。 创业板指开盘报3145.92点，跌1.74%。 沪深300开盘报4663.32点，跌0.82%。 科创50开盘报1379.44点，跌1.42%。 中证500开盘报7283.70点，跌0.97%。 中证1000开盘报7527.83点，跌0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3004486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周四（11月13日），南非富时/JSE非洲领先40可交易指数收涨1.05%，守住10.65万点，早盘持续上涨，北京时间17:54刷新日高至10.80万点上方，之后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3004278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时19分]"
+        },
+        {
+          "title": "上证指数早盘收报4022.89点，跌0.16%。 深证成指早盘收报13327.91点，跌1.10%。 创业板指早盘收报3146.01点，跌1.74%。 沪深300早盘收报4666.68点，跌0.75%。 科创50早盘收报1378.27点，跌1.50%。 中证500早盘收报7296.48点，跌0.80%。 中证1000早盘收报7567.79点，跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3004572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时19分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出879.91亿元，占比4.49%；大单资金净流出310.24亿元，占比1.58%；小单资金净流入692.90亿元，占比3.54%。",
+          "url": "https://flash.jin10.com/detail/20251114150650363800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "沪深两市今日成交额合计19580.79亿元",
+          "url": "https://wallstreetcn.com/livenews/3004661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251114050533377800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "上证指数收报3990.49点，跌0.97%。 深证成指收报13216.03点，跌1.93%。 创业板指收报3111.51点，跌2.82%。 沪深300收报4628.14点，跌1.57%。 科创50收报1361.23点，跌2.72%。 中证500收报7235.46点，跌1.63%。 中证1000收报7502.76点，跌1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3004658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114090509471800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251114102553594800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "意大利银行板块继续创历史新高，德国股市跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3004288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "中国银河证券：股市赚钱效应进一步带动居民存款搬家，是值得市场关注的积极信号",
+          "url": "https://wallstreetcn.com/livenews/3004458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -1362,102 +1517,6 @@
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "上证指数开盘报4007.13点，跌0.56%。 深证成指开盘报13323.45点，跌1.14%。 创业板指开盘报3145.92点，跌1.74%。 沪深300开盘报4663.32点，跌0.82%。 科创50开盘报1379.44点，跌1.42%。 中证500开盘报7283.70点，跌0.97%。 中证1000开盘报7527.83点，跌0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3004486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周四（11月13日），南非富时/JSE非洲领先40可交易指数收涨1.05%，守住10.65万点，早盘持续上涨，北京时间17:54刷新日高至10.80万点上方，之后逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3004278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时19分]"
-        },
-        {
-          "title": "上证指数早盘收报4022.89点，跌0.16%。 深证成指早盘收报13327.91点，跌1.10%。 创业板指早盘收报3146.01点，跌1.74%。 沪深300早盘收报4666.68点，跌0.75%。 科创50早盘收报1378.27点，跌1.50%。 中证500早盘收报7296.48点，跌0.80%。 中证1000早盘收报7567.79点，跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3004572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时19分]"
-        },
-        {
-          "title": "金十图示：2025年11月13日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251114050533377800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114090509471800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251114102553594800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "意大利银行板块继续创历史新高，德国股市跌超1%",
-          "url": "https://wallstreetcn.com/livenews/3004288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "中国银河证券：股市赚钱效应进一步带动居民存款搬家，是值得市场关注的积极信号",
-          "url": "https://wallstreetcn.com/livenews/3004458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 6,
       "titles": [
@@ -1470,11 +1529,12 @@
             10,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -1512,11 +1572,12 @@
             19,
             17,
             13,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 15时19分]"
         },
         {
           "title": "武艺理想型原来是沈月",
@@ -1577,6 +1638,18 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
+          "title": "中美航空合作项目（ACP）第十届运输航空运行安全研讨会在厦门举行",
+          "url": "https://wallstreetcn.com/livenews/3004613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时19分]"
+        },
+        {
           "title": "据知情人士透露，欧洲官员们考虑集中美元（pooling dollar），从而降低对美联储的依赖程度。 欧洲官员的担忧大约在4月份有所上升，但由于美联储的保证，随后又有所消退。 集中美元的做法面临实际困难，可能不可行。 欧洲金融稳定官员正在讨论，是否要创建一个替代美联储的资金支持机制，将美国以外国家持有的美元集中起来。 在特朗普政府的领导下，各国央行试图减少对美国的依赖。 白宫发言人表示：“美国总统特朗普已经‘多次重申他致力于维持美元的强势和力量’。”（路透）",
           "url": "https://wallstreetcn.com/livenews/3004319",
           "source": "华尔街见闻-快讯",
@@ -1586,17 +1659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "中美航空合作项目（ACP）第十届运输航空运行安全研讨会在厦门举行",
-          "url": "https://wallstreetcn.com/livenews/3004613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
         }
       ]
     },
@@ -1611,7 +1673,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1634,7 +1696,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         }
