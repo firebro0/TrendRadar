@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T20:40:27.869719+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2025-11-14T21:30:06.972705+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 20时40分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 21时30分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -85,6 +85,19 @@
           "time_info": "[00时24分 ~ 14时30分]"
         },
         {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 21时30分]"
+        },
+        {
           "title": "OpenAI战略布局解读",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -94,18 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
-          "url": "https://www.cls.cn/detail/2200800",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时40分]"
         },
         {
           "title": "Meta Platforms(META.O)：BirdyChat和Haiket将成为首批与WhatsApp实现消息互通的外部服务。",
@@ -165,6 +166,17 @@
           "time_info": "[12时23分 ~ 13时19分]"
         },
         {
+          "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2200994",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 21时30分]"
+        },
+        {
           "title": "小伙高铁上用AI眼镜玩游戏",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
           "source": "百度热搜",
@@ -201,17 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
-          "url": "https://www.cls.cn/detail/2200994",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
@@ -397,7 +398,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -449,7 +450,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -480,6 +481,17 @@
           "time_info": "[01时19分 ~ 07时18分]"
         },
         {
+          "title": "科技股继续被砸！美股期货大跌，英伟达盘前跌超3%，币圈连续暴跌，黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
+        },
+        {
           "title": "道指、标普500指数和罗素2000指数创下自10月10日以来的最大单日百分比跌幅。",
           "url": "https://flash.jin10.com/detail/20251114051241136800",
           "source": "金十数据",
@@ -500,6 +512,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
+          "url": "https://wallstreetcn.com/articles/3759375",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 21时30分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -537,17 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
@@ -650,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
@@ -801,7 +825,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -812,7 +836,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
@@ -822,6 +846,19 @@
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 22,
       "titles": [
+        {
+          "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
+          "url": "https://www.cls.cn/detail/2200797",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 21时30分]"
+        },
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
           "url": "https://wallstreetcn.com/articles/3759322",
@@ -850,19 +887,6 @@
           "time_info": "[00时24分 ~ 09时28分]"
         },
         {
-          "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
-          "url": "https://www.cls.cn/detail/2200797",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 20时40分]"
-        },
-        {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
           "source": "澎湃新闻",
@@ -874,8 +898,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 21时30分]"
         },
         {
           "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
@@ -1091,7 +1115,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -1130,6 +1154,17 @@
           "time_info": "19时17分"
         },
         {
+          "title": "现货黄金跌超2%，报4087.08美元/盎司。现货白银跌超1.8%，报51.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加84.65吨，当前持仓量为15173.28吨。欢迎点击查看数据中心",
           "url": "https://flash.jin10.com/detail/20251114065134844800",
           "source": "金十数据",
@@ -1165,6 +1200,18 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "现货黄金跌破4130美元/盎司，日内跌幅扩大至1%。 现货白银跌1%，现报51.75美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3004864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时30分]"
+        },
+        {
           "title": "现货黄金日内跌幅达0.5%，报4172.32美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3004334",
           "source": "华尔街见闻-快讯",
@@ -1177,6 +1224,18 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
+          "title": "世界黄金协会： 10月，北美与亚洲地区黄金ETF大举流入",
+          "url": "https://wallstreetcn.com/livenews/3004859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时30分]"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至近1%，报4210.73美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3004568",
           "source": "华尔街见闻-快讯",
@@ -1187,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时19分]"
+        },
+        {
+          "title": "现货黄金失守4100美元/盎司，日内跌幅1.72%。",
+          "url": "https://flash.jin10.com/detail/20251114211210504800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "白宫确认将公布10月非农报告但失业率将成谜、美联储鹰派继续释放谨慎信号、欧洲谋划“美元备胎”计划......亚市早盘金银油价格齐涨，现货白银、美国原油多头占比维持高位，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1222,17 +1292,6 @@
           "time_info": "12时23分"
         },
         {
-          "title": "现货黄金跌破4130美元/盎司，日内跌幅扩大至1%。 现货白银跌1%，现报51.75美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3004864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "现货金银亚市早盘双双走高 白银涨约2%",
           "url": "https://flash.jin10.com/detail/20251114102748453800",
           "source": "金十数据",
@@ -1253,17 +1312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        },
-        {
-          "title": "世界黄金协会： 10月，北美与亚洲地区黄金ETF大举流入",
-          "url": "https://wallstreetcn.com/livenews/3004859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "现货白银日内涨超1.00%，现报52.80美元/盎司。",
@@ -1305,7 +1353,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
@@ -1313,7 +1361,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -1323,8 +1371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 21时30分]"
         },
         {
           "title": "APA Corp.涨幅扩大至7%，Repsol涨2%。 彭博援引知情人士报道称，Repsol SA考虑对旗下190亿美元上游业务实施反向收购，计划与美国能源生产商APA Corp.等潜在伙伴洽谈。",
@@ -1338,24 +1386,13 @@
           "time_info": "00时24分"
         },
         {
-          "title": "以太坊回落至3100美元/枚下方，日内跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3004874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "以太坊回落至3100美元/枚下方，日内跌4.08%。比特币现跌近4.5%。",
           "url": "https://flash.jin10.com/detail/20251114203516476800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1369,6 +1406,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "以太坊回落至3100美元/枚下方，日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时30分]"
         },
         {
           "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
@@ -1405,6 +1454,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "以太坊回落至3300美元/枚下方，日内跌3.38%。",
@@ -1468,7 +1528,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1671,7 +1731,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -1799,12 +1859,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)盘前跌势延续，最新跌近5%。",
+          "url": "https://flash.jin10.com/detail/20251114204832382800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         }
       ]
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "新能源车购置税明年起将从全免调为减半，这一变化意味着什么？将带来哪些影响？",
@@ -1839,8 +1910,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 20时40分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 21时30分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -1893,6 +1964,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时19分]"
+        },
+        {
+          "title": "禾赛科技获理想汽车独家定点",
+          "url": "https://wallstreetcn.com/livenews/3004881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "理想汽车针对2起批量质量事故进行内部问责，处理18人",
@@ -1952,11 +2034,12 @@
             28,
             7,
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 20时40分]"
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 21时30分]"
         },
         {
           "title": "中方敦促美方停止损害中美关系",
