@@ -1,8 +1,369 @@
 {
-  "generated_at": "2025-11-14T15:19:31.554677+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2025-11-14T16:26:21.748306+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 16时26分]"
+        },
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            6,
+            9,
+            14,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 16时26分]"
+        },
+        {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时26分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 16时26分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
+        },
+        {
+          "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
+          "url": "https://flash.jin10.com/detail/20251114130900870800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "韩国称，已经与美国敲定事实清单。 韩国和美国将在造船、人工智能、核工业方面建立新的伙伴关系。 韩国和美国同意，韩国在美投资将仅限于商业上可行的项目。 韩国和美国同意推进核动力潜艇建造。 韩国赢得美国支持，以扩大韩国的铀浓缩权。",
+          "url": "https://wallstreetcn.com/livenews/3004482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
+          "url": "https://wallstreetcn.com/livenews/3004362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时19分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114115348256800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时19分]"
+        },
+        {
+          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
+          "url": "https://wallstreetcn.com/livenews/3004338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时30分]"
+        },
+        {
+          "title": "韩国总统李在明：韩国与美国将建立造船、人工智能和核工业领域的新伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20251114092104622800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
+          "url": "https://flash.jin10.com/detail/20251114091237375800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
+          "url": "https://www.cls.cn/detail/2200129",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
+          "url": "https://flash.jin10.com/detail/20251114134034298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3004476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "Uzi用AI分析自己复出可能性",
+          "url": "https://search.bilibili.com/all?keyword=Uzi%E7%94%A8AI%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%A4%8D%E5%87%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
+          "url": "https://flash.jin10.com/detail/20251114130147456800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "微软CEO：祝OpenAI甲骨文好运",
+          "url": "https://www.toutiao.com/trending/7572366525785443903/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "特朗普用AI生成逮捕奥巴马视频",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%A8AI%E7%94%9F%E6%88%90%E9%80%AE%E6%8D%95%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%A7%86%E9%A2%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D14%26flag%3D1%26pos%3D13%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2594%25A8AI%25E7%2594%259F%25E6%2588%2590%25E9%2580%25AE%25E6%258D%2595%25E5%25A5%25A5%25E5%25B7%25B4%25E9%25A9%25AC%25E8%25A7%2586%25E9%25A2%2591%2523%26dgr%3D0%26display_time%3D1763089915%26pre_seqid%3D17630899152230114689251&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
+          "url": "https://flash.jin10.com/detail/20251114132125584800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "花旗：上调腾讯目标价，因其积极在人工智能领域保持前沿布局",
+          "url": "https://wallstreetcn.com/livenews/3004468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "AI会如何改编游戏行业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
+          "url": "https://flash.jin10.com/detail/20251114020002971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "美联储哈玛克：现在就说人工智能会怎样还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251114015816771800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "市场消息：Cognizant将收购3Cloud，打造微软Azure服务和企业人工智能转型领域的领先力量。",
+          "url": "https://flash.jin10.com/detail/20251114005555049800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
+          "url": "https://flash.jin10.com/detail/20251114024141963800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
+          "url": "https://flash.jin10.com/detail/20251114024049855800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
+          "url": "https://wallstreetcn.com/livenews/3004456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 29,
@@ -342,356 +703,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 15时19分]"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            6,
-            9,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 15时19分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 15时19分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时30分]"
-        },
-        {
-          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
-          "url": "https://www.cls.cn/detail/2200326",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时19分]"
-        },
-        {
-          "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
-          "url": "https://flash.jin10.com/detail/20251114130900870800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "韩国称，已经与美国敲定事实清单。 韩国和美国将在造船、人工智能、核工业方面建立新的伙伴关系。 韩国和美国同意，韩国在美投资将仅限于商业上可行的项目。 韩国和美国同意推进核动力潜艇建造。 韩国赢得美国支持，以扩大韩国的铀浓缩权。",
-          "url": "https://wallstreetcn.com/livenews/3004482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
-          "url": "https://wallstreetcn.com/livenews/3004362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时18分]"
-        },
-        {
-          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
-          "url": "https://flash.jin10.com/detail/20251114115801982800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时19分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114115348256800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时19分]"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
-          "url": "https://wallstreetcn.com/livenews/3004338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时22分]"
-        },
-        {
-          "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3004589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时30分]"
-        },
-        {
-          "title": "韩国总统李在明：韩国与美国将建立造船、人工智能和核工业领域的新伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20251114092104622800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
-          "url": "https://flash.jin10.com/detail/20251114091237375800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
-          "url": "https://www.cls.cn/detail/2200129",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
-          "url": "https://flash.jin10.com/detail/20251114134034298800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3004476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
-          "url": "https://flash.jin10.com/detail/20251114130147456800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "特朗普用AI生成逮捕奥巴马视频",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%A8AI%E7%94%9F%E6%88%90%E9%80%AE%E6%8D%95%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%A7%86%E9%A2%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D14%26flag%3D1%26pos%3D13%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2594%25A8AI%25E7%2594%259F%25E6%2588%2590%25E9%2580%25AE%25E6%258D%2595%25E5%25A5%25A5%25E5%25B7%25B4%25E9%25A9%25AC%25E8%25A7%2586%25E9%25A2%2591%2523%26dgr%3D0%26display_time%3D1763089915%26pre_seqid%3D17630899152230114689251&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
-          "url": "https://flash.jin10.com/detail/20251114132125584800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "花旗：上调腾讯目标价，因其积极在人工智能领域保持前沿布局",
-          "url": "https://wallstreetcn.com/livenews/3004468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "AI会如何改编游戏行业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
-          "url": "https://flash.jin10.com/detail/20251114020002971800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "美联储哈玛克：现在就说人工智能会怎样还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251114015816771800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "市场消息：Cognizant将收购3Cloud，打造微软Azure服务和企业人工智能转型领域的领先力量。",
-          "url": "https://flash.jin10.com/detail/20251114005555049800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
-          "url": "https://flash.jin10.com/detail/20251114024141963800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
-          "url": "https://flash.jin10.com/detail/20251114024049855800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
-          "url": "https://wallstreetcn.com/livenews/3004456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -703,8 +716,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 16时26分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -728,11 +741,23 @@
             15,
             9,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时26分]"
+        },
+        {
+          "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
+          "url": "https://www.cls.cn/detail/2200797",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
@@ -874,7 +899,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -885,7 +910,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1125,8 +1150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时26分]"
         },
         {
           "title": "APA Corp.涨幅扩大至7%，Repsol涨2%。 彭博援引知情人士报道称，Repsol SA考虑对旗下190亿美元上游业务实施反向收购，计划与美国能源生产商APA Corp.等潜在伙伴洽谈。",
@@ -1267,7 +1292,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "上证指数开盘报4007.13点，跌0.56%。 深证成指开盘报13323.45点，跌1.14%。 创业板指开盘报3145.92点，跌1.74%。 沪深300开盘报4663.32点，跌0.82%。 科创50开盘报1379.44点，跌1.42%。 中证500开盘报7283.70点，跌0.97%。 中证1000开盘报7527.83点，跌0.83%。",
@@ -1305,13 +1330,24 @@
           "time_info": "[12时23分 ~ 13时19分]"
         },
         {
+          "title": "金十图示：2025年11月14日（周五）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251114161551906800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "股市资金流向图：今日沪深两市主力资金净流出879.91亿元，占比4.49%；大单资金净流出310.24亿元，占比1.58%；小单资金净流入692.90亿元，占比3.54%。",
           "url": "https://flash.jin10.com/detail/20251114150650363800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1322,7 +1358,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1338,13 +1374,24 @@
           "time_info": "05时18分"
         },
         {
+          "title": "金十图示：2025年11月14日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251114161131170800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "上证指数收报3990.49点，跌0.97%。 深证成指收报13216.03点，跌1.93%。 创业板指收报3111.51点，跌2.82%。 沪深300收报4628.14点，跌1.57%。 科创50收报1361.23点，跌2.72%。 中证500收报7235.46点，跌1.63%。 中证1000收报7502.76点，跌1.16%。",
           "url": "https://wallstreetcn.com/livenews/3004658",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1518,7 +1565,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "车圈打击黑公关,小米KOL被团灭",
@@ -1530,11 +1577,12 @@
             15,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 15时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 16时26分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -1576,8 +1624,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时26分]"
         },
         {
           "title": "武艺理想型原来是沈月",
@@ -1590,6 +1638,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时19分]"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至3%，恒生指数跌近2%，小鹏汽车、百度跌超7%，京东跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3004677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "小鹏X9超级增程动态评测全网首发",
@@ -1606,7 +1665,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "涉中美大豆贸易，商务部最新发声",
@@ -1659,6 +1718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "邵永灵：高市早苗罕见被中美俄齐批",
+          "url": "https://www.toutiao.com/trending/7572444765321432614/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
