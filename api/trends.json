@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T13:19:31.479842+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-11-14T14:30:57.706594+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[06时19分 ~ 14时30分]"
         },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -342,7 +343,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -355,8 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -370,8 +371,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -384,8 +385,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -396,11 +397,12 @@
             17,
             16,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -411,8 +413,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时30分]"
         },
         {
           "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
@@ -421,7 +423,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -485,6 +487,18 @@
           "time_info": "[03时16分 ~ 04时22分]"
         },
         {
+          "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时30分]"
+        },
+        {
           "title": "韩国总统李在明：韩国与美国将建立造船、人工智能和核工业领域的新伙伴关系。",
           "url": "https://flash.jin10.com/detail/20251114092104622800",
           "source": "金十数据",
@@ -518,6 +532,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
+          "url": "https://flash.jin10.com/detail/20251114134034298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3004476",
           "source": "华尔街见闻-快讯",
@@ -535,7 +560,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -562,15 +587,15 @@
           "time_info": "11时12分"
         },
         {
-          "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3004589",
-          "source": "华尔街见闻-快讯",
+          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
+          "url": "https://flash.jin10.com/detail/20251114132125584800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "14时30分"
         },
         {
           "title": "花旗：上调腾讯目标价，因其积极在人工智能领域保持前沿布局",
@@ -676,8 +701,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -703,6 +728,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时30分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
@@ -741,17 +779,17 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
+          "title": "iPhone Pocket开箱",
+          "url": "https://www.douyin.com/hot/2305449",
+          "source": "抖音",
           "ranks": [
-            15,
-            9,
-            11
+            14,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时30分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
@@ -776,18 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
-        },
-        {
-          "title": "iPhone Pocket开箱",
-          "url": "https://www.douyin.com/hot/2305449",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时19分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：美元走软让其更加符合“历史性的公允值”。",
@@ -1063,7 +1089,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -1073,8 +1099,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 14时30分]"
         },
         {
           "title": "APA Corp.涨幅扩大至7%，Repsol涨2%。 彭博援引知情人士报道称，Repsol SA考虑对旗下190亿美元上游业务实施反向收购，计划与美国能源生产商APA Corp.等潜在伙伴洽谈。",
@@ -1088,6 +1114,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "比特币现货ETF单日资金流出近8.7亿美元，创历史第二高",
+          "url": "https://flash.jin10.com/detail/20251114140922355800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
           "url": "https://wallstreetcn.com/livenews/3004408",
           "source": "华尔街见闻-快讯",
@@ -1098,6 +1135,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "比特币跌破97000美元，24小时跌幅超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时30分]"
         },
         {
           "title": "以太坊回落至3200美元/枚下方，日内跌6.34%。",
@@ -1123,17 +1172,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "比特币跌破97000美元，24小时跌幅超4%。",
-          "url": "https://wallstreetcn.com/livenews/3004597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "以太坊日内走低5.00%，现报3242美元/枚。",
           "url": "https://flash.jin10.com/detail/20251114020500313800",
           "source": "金十数据",
@@ -1151,7 +1189,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1162,7 +1200,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1431,11 +1469,12 @@
             9,
             10,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时30分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -1472,11 +1511,12 @@
           "ranks": [
             19,
             17,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时30分]"
         },
         {
           "title": "武艺理想型原来是沈月",
@@ -1505,7 +1545,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "涉中美大豆贸易，商务部最新发声",
@@ -1546,13 +1586,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "中美航空合作项目（ACP）第十届运输航空运行安全研讨会在厦门举行",
+          "url": "https://wallstreetcn.com/livenews/3004613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌向欧盟提交整改方案，回应反垄断罚款但拒绝拆分相关业务",
+          "url": "https://flash.jin10.com/detail/20251114141801666800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
         {
           "title": "欧盟就网站搜索排名问题对谷歌启动调查",
           "url": "https://wallstreetcn.com/livenews/3004312",
@@ -1564,6 +1626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
+          "url": "https://flash.jin10.com/detail/20251114140157691800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         }
       ]
     },
