@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T00:21:23.964626+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-16T01:14:50.263454+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -37,19 +37,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -59,8 +60,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     },
@@ -76,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "黄金、科技股都有人抄底，只有比特币“一蹶不振”",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -98,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "马斯克称Neuralink植入者的交流速度几乎和正常人一样快",
@@ -109,8 +110,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     },
@@ -119,17 +120,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
-          "url": "https://www.zhihu.com/question/1972480723312181332",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
           "url": "https://wallstreetcn.com/articles/3759431",
           "source": "华尔街见闻",
@@ -137,8 +127,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
+        },
+        {
+          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
+          "url": "https://www.zhihu.com/question/1972480723312181332",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -148,19 +150,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "1299元起的苹果手机袋值不值",
           "url": "https://www.toutiao.com/trending/7572527631750217766/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     },
@@ -176,8 +179,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -187,8 +190,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -198,8 +201,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     },
@@ -215,8 +218,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     },
@@ -232,8 +235,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时14分]"
         }
       ]
     }
