@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T15:17:44.202782+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-11-16T16:23:37.309372+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -30,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -56,6 +56,18 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
+          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
+          "url": "https://www.cls.cn/detail/2201554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 16时23分]"
+        },
+        {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
           "url": "https://wallstreetcn.com/livenews/3005235",
           "source": "华尔街见闻-快讯",
@@ -69,29 +81,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时18分 ~ 15时17分]"
-        },
-        {
-          "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
-          "url": "https://wallstreetcn.com/livenews/3005267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
-          "url": "https://www.cls.cn/detail/2201554",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 15时17分]"
         },
         {
           "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
@@ -108,6 +97,18 @@
           "time_info": "[12时25分 ~ 15时17分]"
         },
         {
+          "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
+          "url": "https://wallstreetcn.com/livenews/3005267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时23分]"
+        },
+        {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
@@ -118,6 +119,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
+          "url": "https://wallstreetcn.com/livenews/3005279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -176,6 +188,22 @@
           "time_info": "[00时21分 ~ 06时15分]"
         },
         {
+          "title": "以太坊突破3200美元/枚，日内涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251116104826604800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            5,
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时23分]"
+        },
+        {
           "title": "马斯克称Neuralink植入者的交流速度几乎和正常人一样快",
           "url": "https://wallstreetcn.com/livenews/3005167",
           "source": "华尔街见闻-快讯",
@@ -187,32 +215,18 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
-          "title": "以太坊突破3200美元/枚，日内涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251116104826604800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            5,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时17分]"
-        },
-        {
           "title": "加密货币交易平台Kraken：目前正在调查影响ATH和LTC在网页端和移动端即时购买服务的问题。",
           "url": "https://flash.jin10.com/detail/20251116122424673800",
           "source": "金十数据",
           "ranks": [
             3,
             8,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "比特币日内维持窄幅震荡，突破96000美元/枚，日内涨0.45%；此前一度下破95000美元/枚。",
@@ -220,11 +234,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时23分]"
         }
       ]
     },
@@ -254,8 +269,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -292,11 +307,12 @@
             17,
             10,
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 16时23分]"
         },
         {
           "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
@@ -307,8 +323,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时23分]"
         }
       ]
     },
@@ -326,8 +342,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -340,8 +356,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -355,8 +371,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 16时23分]"
         }
       ]
     },
@@ -404,11 +420,12 @@
           "url": "https://news.ifeng.com/c/8oKM9NtXMbs",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时23分]"
         }
       ]
     },
@@ -443,6 +460,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军重申小米汽车安全是前提",
+          "url": "https://www.toutiao.com/trending/7572761056200723974/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     }
