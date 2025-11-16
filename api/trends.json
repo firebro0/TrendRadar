@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T14:28:13.522641+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2025-11-16T15:17:44.202782+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -26,11 +26,12 @@
           "ranks": [
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -62,24 +63,23 @@
             3,
             9,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时17分]"
         },
         {
-          "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
-          "url": "https://wallstreetcn.com/livenews/3005243",
+          "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
+          "url": "https://wallstreetcn.com/livenews/3005267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            16,
-            20
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 14时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -90,8 +90,22 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时17分]"
+        },
+        {
+          "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
+          "url": "https://wallstreetcn.com/livenews/3005243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            20,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时28分]"
+          "time_info": "[12时25分 ~ 15时17分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -180,22 +194,12 @@
             1,
             2,
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时28分]"
-        },
-        {
-          "title": "比特币日内维持窄幅震荡，突破96000美元/枚，日内涨0.45%；此前一度下破95000美元/枚。",
-          "url": "https://flash.jin10.com/detail/20251116131349786800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时17分]"
         },
         {
           "title": "加密货币交易平台Kraken：目前正在调查影响ATH和LTC在网页端和移动端即时购买服务的问题。",
@@ -203,11 +207,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "比特币日内维持窄幅震荡，突破96000美元/枚，日内涨0.45%；此前一度下破95000美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251116131349786800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时28分]"
+          "time_info": "[14时28分 ~ 15时17分]"
         }
       ]
     },
@@ -237,8 +254,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -278,8 +295,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 15时17分]"
         },
         {
           "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
@@ -290,8 +307,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 15时17分]"
         }
       ]
     },
@@ -305,11 +322,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -322,8 +340,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -337,8 +355,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时17分]"
         }
       ]
     },
@@ -354,11 +372,12 @@
             4,
             10,
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 15时17分]"
         },
         {
           "title": "王兴兴：下一个十年，是机器人迈向“生活伙伴”的十年",
@@ -373,6 +392,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时18分 ~ 14时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港媒关注中美“大豆外交”：手握遥控器的是中国",
+          "url": "https://news.ifeng.com/c/8oKM9NtXMbs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
