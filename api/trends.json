@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T13:18:38.702613+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2025-11-16T14:28:13.522641+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -61,11 +61,12 @@
           "ranks": [
             3,
             9,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 14时28分]"
         },
         {
           "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
@@ -73,11 +74,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时28分]"
+        },
+        {
+          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
+          "url": "https://www.cls.cn/detail/2201554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时25分 ~ 14时28分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -90,18 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 02时25分]"
-        },
-        {
-          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
-          "url": "https://www.cls.cn/detail/2201554",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时18分]"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -118,7 +120,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
@@ -177,22 +179,35 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 14时28分]"
+        },
+        {
+          "title": "比特币日内维持窄幅震荡，突破96000美元/枚，日内涨0.45%；此前一度下破95000美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251116131349786800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "加密货币交易平台Kraken：目前正在调查影响ATH和LTC在网页端和移动端即时购买服务的问题。",
           "url": "https://flash.jin10.com/detail/20251116122424673800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
         }
       ]
     },
@@ -222,8 +237,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -259,11 +274,12 @@
           "ranks": [
             17,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 14时28分]"
         },
         {
           "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
@@ -274,8 +290,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时28分]"
         }
       ]
     },
@@ -292,22 +308,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时18分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -320,8 +322,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时28分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时28分]"
         }
       ]
     },
@@ -336,11 +353,12 @@
           "ranks": [
             4,
             10,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 14时28分]"
         },
         {
           "title": "王兴兴：下一个十年，是机器人迈向“生活伙伴”的十年",
@@ -349,11 +367,12 @@
           "ranks": [
             7,
             13,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 14时28分]"
         }
       ]
     },
