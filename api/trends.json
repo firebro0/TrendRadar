@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T19:17:39.459020+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2025-11-17T20:41:15.960025+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -51,11 +51,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时30分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[14时30分 ~ 20时41分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -107,6 +108,18 @@
           "time_info": "[12时26分 ~ 16时29分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时41分]"
+        },
+        {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
           "url": "https://wallstreetcn.com/livenews/3005341",
           "source": "华尔街见闻-快讯",
@@ -136,18 +149,6 @@
           "time_info": "[04时20分 ~ 07时17分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时17分]"
-        },
-        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -159,6 +160,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时15分 ~ 14时31分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时41分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -222,19 +236,6 @@
           "time_info": "[13时20分 ~ 15时19分]"
         },
         {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时17分]"
-        },
-        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -260,6 +261,17 @@
           "time_info": "[16时28分 ~ 17时25分]"
         },
         {
+          "title": "湖北省委书记王忠林：着力构建“北斗+低空经济”“北斗+人形机器人”“北斗+人工智能”等新场景",
+          "url": "https://wallstreetcn.com/livenews/3005861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "华为将发布AI领域突破性技术 国产算力投资机遇凸显",
           "url": "https://www.cls.cn/detail/2201963",
           "source": "财联社热门",
@@ -269,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "CARBON3.AI将投资10亿英镑用于英国主权AI基础设施网络。",
+          "url": "https://wallstreetcn.com/livenews/3005849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "阿里国际站推出AI Mode",
@@ -302,6 +325,204 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时41分]"
+        },
+        {
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
+          "url": "https://wallstreetcn.com/livenews/3005399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20251117070144495800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251117170331832800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "华尔街共识浮现？摩根大通刚划出“关键防线”，高盛也警告标普6725点为多空分水岭",
+          "url": "https://wallstreetcn.com/articles/3759528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时23分]"
+        },
+        {
+          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时17分]"
+        },
+        {
+          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时23分]"
+        },
+        {
+          "title": "摩根士丹利：预测标普500指数2026年年底目标为7800点。",
+          "url": "https://flash.jin10.com/detail/20251117150623797800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
+          "url": "https://wallstreetcn.com/livenews/3005519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "量子计算概念股Quantum Computing美股盘前一度涨25%。",
+          "url": "https://wallstreetcn.com/livenews/3005866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
+          "url": "https://flash.jin10.com/detail/20251117103913637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "量子计算概念股Quantum Computing美股盘前一度涨25%。",
+          "url": "https://flash.jin10.com/detail/20251117202236451800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "Zymeworks美股盘前一度上涨43%，此前公布了癌症药物Ziihera的试验结果。",
+          "url": "https://wallstreetcn.com/livenews/3005836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3005738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -341,11 +562,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时41分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
@@ -656,160 +878,6 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
-          "url": "https://www.cls.cn/detail/2201578",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时17分]"
-        },
-        {
-          "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
-          "url": "https://wallstreetcn.com/livenews/3005399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20251117070144495800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
-        },
-        {
-          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时17分]"
-        },
-        {
-          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时23分]"
-        },
-        {
-          "title": "摩根士丹利：预测标普500指数2026年年底目标为7800点。",
-          "url": "https://flash.jin10.com/detail/20251117150623797800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
-          "url": "https://wallstreetcn.com/livenews/3005519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
-          "url": "https://flash.jin10.com/detail/20251117103913637800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3005738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 10,
       "titles": [
@@ -838,8 +906,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时15分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[11时15分 ~ 20时41分]"
         },
         {
           "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
@@ -849,8 +917,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时30分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[14时30分 ~ 20时41分]"
         },
         {
           "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
@@ -860,8 +928,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时41分]"
         },
         {
           "title": "比特币短线下跌近1000美元，现报93200美元/枚；以太坊逼近跌破3000美元/枚大关。",
@@ -937,7 +1005,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "小鹏汽车(09868.HK)：预计四季度汽车交付量在12.5万-13.2万辆之间，同比增36.6-44.3%",
@@ -961,6 +1029,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时23分]"
+        },
+        {
+          "title": "小米汽车湿滑路面超车时突然侧滑",
+          "url": "https://www.toutiao.com/trending/7572860166506151978/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "小鹏汽车(09868.HK)：第四季度营收展望为人民币215亿至230亿元。",
@@ -1002,7 +1081,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1042,6 +1121,101 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特斯拉“去中国化”背后隐藏什么",
+          "url": "https://www.toutiao.com/trending/7573105255983038502/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8,
+            16,
+            17,
+            5,
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时28分 ~ 20时41分]"
+        },
+        {
+          "title": "造芯，马斯克是“来真的”，2026年",
+          "url": "https://wallstreetcn.com/articles/3759471",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时16分]"
+        },
+        {
+          "title": "造芯，马斯克是“来真的”，2026年将小规模量产",
+          "url": "https://wallstreetcn.com/articles/3759471",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
+          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
+          "url": "https://www.cls.cn/detail/2202481",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 20时41分]"
+        },
+        {
+          "title": "特斯拉要求美产汽车避用中国零部件",
+          "url": "https://www.toutiao.com/trending/7573236848407875114/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 04时20分]"
+        },
+        {
+          "title": "特斯拉“去中国化”的背后隐藏什么",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%9A%84%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
+          "title": "博主：特斯拉正在“一分为二”",
+          "url": "https://www.toutiao.com/trending/7573566632954433065/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 7,
       "titles": [
@@ -1058,8 +1232,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时26分 ~ 20时41分]"
         },
         {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
@@ -1068,11 +1242,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时20分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 20时41分]"
         },
         {
           "title": "苹果CEO库克被曝最早于明年卸任，公司董事会和高层正加紧为交接做准备",
@@ -1091,6 +1266,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[11时15分 ~ 19时17分]"
+        },
+        {
+          "title": "苹果哥最后的清闲时光",
+          "url": "https://www.douyin.com/hot/2308797",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22,
+            28,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -1121,20 +1310,6 @@
           "time_info": "[02时25分 ~ 09时28分]"
         },
         {
-          "title": "苹果哥最后的清闲时光",
-          "url": "https://www.douyin.com/hot/2308797",
-          "source": "抖音",
-          "ranks": [
-            19,
-            22,
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时17分]"
-        },
-        {
           "title": "曝iPhone17 Pro Max被湿巾擦掉色",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2",
           "source": "百度热搜",
@@ -1149,91 +1324,21 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特斯拉“去中国化”背后隐藏什么",
-          "url": "https://www.toutiao.com/trending/7573105255983038502/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            8,
-            16,
-            17,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 19时17分]"
-        },
-        {
-          "title": "造芯，马斯克是“来真的”，2026年",
-          "url": "https://wallstreetcn.com/articles/3759471",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时16分]"
-        },
-        {
-          "title": "造芯，马斯克是“来真的”，2026年将小规模量产",
-          "url": "https://wallstreetcn.com/articles/3759471",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时20分]"
-        },
-        {
-          "title": "特斯拉要求美产汽车避用中国零部件",
-          "url": "https://www.toutiao.com/trending/7573236848407875114/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时20分]"
-        },
-        {
-          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
-          "url": "https://www.cls.cn/detail/2202481",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时17分]"
-        },
-        {
-          "title": "博主：特斯拉正在“一分为二”",
-          "url": "https://www.toutiao.com/trending/7573566632954433065/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
       "match_count": 6,
       "titles": [
+        {
+          "title": "泰王参观北京人形机器人创新中心",
+          "url": "https://www.toutiao.com/trending/7572969115011432489/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时41分]"
+        },
         {
           "title": "智元机器人CMO邱恒：自研发机器人操作系统“灵渠OS”，计划年底正式开源",
           "url": "https://wallstreetcn.com/livenews/3005563",
@@ -1289,17 +1394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "泰王参观北京人形机器人创新中心",
-          "url": "https://www.toutiao.com/trending/7572969115011432489/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         }
       ]
     },
@@ -1314,11 +1408,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时26分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 20时41分]"
         },
         {
           "title": "谷歌：还将支持PARIS21伙伴关系，为各国国家统计局提供人工智能培训和技术支持。将与非洲经济委员会合作，助力非洲区域数据共享平台的启动。",
@@ -1407,7 +1502,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
