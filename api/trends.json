@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T22:20:28.620016+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2025-11-17T23:22:50.047855+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时30分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[14时30分 ~ 23时22分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -64,11 +64,27 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时28分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[16时28分 ~ 23时22分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时25分 ~ 23时22分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -118,20 +134,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时26分 ~ 16时29分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 22时20分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -262,6 +264,17 @@
           "time_info": "[16时28分 ~ 17时25分]"
         },
         {
+          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
+          "url": "https://wallstreetcn.com/livenews/3005945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "湖北省委书记王忠林：着力构建“北斗+低空经济”“北斗+人形机器人”“北斗+人工智能”等新场景",
           "url": "https://wallstreetcn.com/livenews/3005861",
           "source": "华尔街见闻-快讯",
@@ -279,7 +292,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -295,6 +308,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "美联储副主席杰斐逊：从企业间的接触中了解到，由于对政策和人工智能影响的不确定性，企业在招聘时显得犹豫不决。",
+          "url": "https://flash.jin10.com/detail/20251117230048789800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "CARBON3.AI将投资10亿英镑用于英国主权AI基础设施网络。",
           "url": "https://wallstreetcn.com/livenews/3005849",
           "source": "华尔街见闻-快讯",
@@ -304,6 +328,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：人工智能对生产力的影响将对货币政策产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20251117225629427800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：现在判断人工智能短期内对劳动力的净影响还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251117225552829800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：人工智能正在影响企业当前及未来对劳动力的思考方式。",
+          "url": "https://flash.jin10.com/detail/20251117225433478800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "阿里国际站推出AI Mode",
@@ -337,12 +394,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "戴尔科技与英伟达升级企业AI创新，加速AI应用的部署。",
+          "url": "https://wallstreetcn.com/livenews/3005942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -369,6 +437,18 @@
           "time_info": "[00时21分 ~ 07时17分]"
         },
         {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -380,15 +460,16 @@
           "time_info": "[16时28分 ~ 16时29分]"
         },
         {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
+          "title": "华尔街共识浮现？摩根大通刚划出“关键防线”，高盛也警告标普6725点为多空分水岭",
+          "url": "https://wallstreetcn.com/articles/3759528",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 23时22分]"
         },
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -424,15 +505,16 @@
           "time_info": "17时25分"
         },
         {
-          "title": "华尔街共识浮现？摩根大通刚划出“关键防线”，高盛也警告标普6725点为多空分水岭",
-          "url": "https://wallstreetcn.com/articles/3759528",
-          "source": "华尔街见闻",
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3005923",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时20分]"
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
@@ -516,15 +598,59 @@
           "time_info": "20时41分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3005923",
+          "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
+          "url": "https://wallstreetcn.com/livenews/3005939",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美股锂矿股集体上涨，投资者关注需求增长迹象",
+          "url": "https://wallstreetcn.com/livenews/3005938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
+          "url": "https://wallstreetcn.com/livenews/3005934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3005936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
@@ -549,6 +675,17 @@
           "time_info": "21时32分"
         },
         {
+          "title": "标普500指数低开20.50点，跌幅0.30%，报6713.61点； 道琼斯工业平均指数低开79.42点，跌幅0.17%，报47068.06点； 纳斯达克综合指数低开112.27点，跌幅0.49%，报22788.32点。",
+          "url": "https://wallstreetcn.com/livenews/3005932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "量子计算概念股Quantum Computing美股盘前一度涨25%。",
           "url": "https://flash.jin10.com/detail/20251117202236451800",
           "source": "金十数据",
@@ -571,6 +708,17 @@
           "time_info": "20时41分"
         },
         {
+          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251117225055186800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
           "url": "https://wallstreetcn.com/livenews/3005738",
           "source": "华尔街见闻-快讯",
@@ -591,12 +739,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美股锂矿概念股走强，西格玛锂业（Sigma Lithium）上涨20.8%，标准锂业（Standard Lithium）涨9.3%、智利矿业化工(SQM.N)上涨9%，锂美公司上涨9%，美国雅宝(ALB.N)上涨6.7%。",
+          "url": "https://flash.jin10.com/detail/20251117224517468800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "外资又来唱多！大摩展望2026年：中国股市有望进一步上涨",
@@ -609,8 +768,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 23时22分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
@@ -637,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251117230417874800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出396.40亿元，占比2.07%；大单资金净流出211.23亿元，占比1.11%；小单资金净流入371.39亿元，占比1.94%。",
@@ -948,7 +1118,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Tether 推出的离岸人民币稳定币 CNHT0，已正式在 Conflux 网络发行，将产生哪些影响？",
@@ -975,8 +1145,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时15分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[11时15分 ~ 23时22分]"
         },
         {
           "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
@@ -1060,6 +1230,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "比特币短线拉升，从94000美元一线涨至接近96000美元的水平并刷新日高，北京时间22:00还曾回落至93500美元，几乎完全回吐日内稍早涨幅，并逼近亚太盘初微跌并刷新的日低92935.50美元。",
+          "url": "https://wallstreetcn.com/livenews/3005940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美国国务卿鲁比奥：打算将委内瑞拉总统马杜罗领导的“Cartel de los Soles”指定为外国恐怖主义组织。",
           "url": "https://flash.jin10.com/detail/20251117065150766800",
           "source": "金十数据",
@@ -1074,7 +1255,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
@@ -1090,8 +1271,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时26分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[12时26分 ~ 23时22分]"
         },
         {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
@@ -1105,8 +1286,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时20分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[13时20分 ~ 23时22分]"
         },
         {
           "title": "苹果CEO库克被曝最早于明年卸任，公司董事会和高层正加紧为交接做准备",
@@ -1134,11 +1315,12 @@
             19,
             22,
             28,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 23时22分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -1173,11 +1355,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BD%A0%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%96%B0iPhone",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
         },
         {
           "title": "曝iPhone17 Pro Max被湿巾擦掉色",
@@ -1192,6 +1375,18 @@
           "time_info": "[18时22分 ~ 19时17分]"
         },
         {
+          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E6%259B%259DiPhone17%2520Pro%2520Max%25E8%25A2%25AB%25E6%25B9%25BF%25E5%25B7%25BE%25E6%2593%25A6%25E6%258E%2589%25E8%2589%25B2%26flag%3D1%26dgr%3D0%26pos%3D27%26realpos%3D26%26display_time%3D1763389220%26pre_seqid%3D17633892208920280289394&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "字节跳动霸榜苹果应用商店",
           "url": "https://wallstreetcn.com/livenews/3005885",
           "source": "华尔街见闻-快讯",
@@ -1203,15 +1398,15 @@
           "time_info": "21时32分"
         },
         {
-          "title": "曝iPhone17 Pro Max被湿巾擦掉色",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9B%9DiPhone17+Pro+Max%E8%A2%AB%E6%B9%BF%E5%B7%BE%E6%93%A6%E6%8E%89%E8%89%B2&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E6%259B%259DiPhone17%2520Pro%2520Max%25E8%25A2%25AB%25E6%25B9%25BF%25E5%25B7%25BE%25E6%2593%25A6%25E6%258E%2589%25E8%2589%25B2%26flag%3D1%26dgr%3D0%26pos%3D27%26realpos%3D26%26display_time%3D1763389220%26pre_seqid%3D17633892208920280289394&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "苹果(AAPL.O)股价下跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20251117224954053800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时22分"
         }
       ]
     },
@@ -1334,6 +1529,115 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时26分 ~ 23时22分]"
+        },
+        {
+          "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
+          "url": "https://flash.jin10.com/detail/20251117230825709800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "市场消息：谷歌DeepMind和谷歌研究院正在开发先进天气预报模型Weathernext 2。",
+          "url": "https://flash.jin10.com/detail/20251117230741597800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "谷歌与Meta推迟红海（铺设海底）光缆项目，当前当地存在（与以色列相关的）安全风险。",
+          "url": "https://wallstreetcn.com/livenews/3005929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
+          "title": "欧盟评估将云服务纳入监管 AWS、Azure、谷歌云等科技巨头受关注",
+          "url": "https://flash.jin10.com/detail/20251117230237721800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "谷歌：还将支持PARIS21伙伴关系，为各国国家统计局提供人工智能培训和技术支持。将与非洲经济委员会合作，助力非洲区域数据共享平台的启动。",
+          "url": "https://flash.jin10.com/detail/20251117163740955800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "亚马逊AWS、Azure、谷歌云面临被纳入欧盟数字法律调查的风险。",
+          "url": "https://wallstreetcn.com/livenews/3005931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://flash.jin10.com/detail/20251117163555133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 7,
       "titles": [
@@ -1362,11 +1666,12 @@
             5,
             4,
             22,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时28分 ~ 22时20分]"
+          "appearance_count": 20,
+          "time_info": "[09时28分 ~ 23时22分]"
         },
         {
           "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
@@ -1410,11 +1715,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%9A%84%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 23时22分]"
         },
         {
           "title": "博主：特斯拉正在“一分为二”",
@@ -1504,73 +1810,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时26分 ~ 22时20分]"
-        },
-        {
-          "title": "谷歌与Meta推迟红海（铺设海底）光缆项目，当前当地存在（与以色列相关的）安全风险。",
-          "url": "https://wallstreetcn.com/livenews/3005929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "谷歌：还将支持PARIS21伙伴关系，为各国国家统计局提供人工智能培训和技术支持。将与非洲经济委员会合作，助力非洲区域数据共享平台的启动。",
-          "url": "https://flash.jin10.com/detail/20251117163740955800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
-          "url": "https://flash.jin10.com/detail/20251117163555133800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
-          "url": "https://wallstreetcn.com/livenews/3005746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
       "match_count": 3,
       "titles": [
+        {
+          "title": "驻美大使：中美关系不能进一步退半步",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%B8%8D%E8%83%BD%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%80%80%E5%8D%8A%E6%AD%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时22分]"
+        },
         {
           "title": "谢锋：中美关系要防止折腾反复，不能进一步退半步",
           "url": "https://news.ifeng.com/c/8oLzMCoUlvK",
@@ -1582,17 +1835,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
-          "title": "驻美大使：中美关系不能进一步退半步",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%B8%8D%E8%83%BD%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%80%80%E5%8D%8A%E6%AD%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时20分]"
         },
         {
           "title": "中国驻美大使谢锋：中美合作清单应该拉得更长、合作蛋糕可以做得更大",
