@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:16:05.697995+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2025-11-17T12:26:37.429119+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -41,8 +41,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时26分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -51,22 +51,24 @@
           "ranks": [
             24,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时26分]"
         },
         {
           "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
           "url": "https://www.cls.cn/detail/2201935",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 12时26分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -123,6 +125,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117120035076800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -140,11 +153,34 @@
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时26分]"
+        },
+        {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "阿里国际站推出AI Mode",
+          "url": "https://wallstreetcn.com/livenews/3005547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -153,9 +189,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "11月17日午间收评：创业板指半日跌0.8%，福建、AI应用方向集体走强",
+          "url": "https://wallstreetcn.com/livenews/3005541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -208,6 +255,30 @@
           "time_info": "09时28分"
         },
         {
+          "title": "金十图示：2025年11月17日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251117062056440800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 12时26分]"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251117062039351800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 12时26分]"
+        },
+        {
           "title": "金价居高不下，黄金消费现新趋势",
           "url": "https://wallstreetcn.com/livenews/3005396",
           "source": "华尔街见闻-快讯",
@@ -228,28 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251117062056440800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251117062039351800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         },
         {
           "title": "现货黄金抹去日内逾20美元的涨幅，现报4084.5美元/盎司。特朗普此前透露，可能会与委内瑞拉总统马杜罗进行讨论。",
@@ -293,6 +342,18 @@
           "time_info": "07时17分"
         },
         {
+          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
+          "url": "https://wallstreetcn.com/articles/3759492",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时26分]"
+        },
+        {
           "title": "加密货币熊市加剧背景下 比特币抹去年内涨幅",
           "url": "https://flash.jin10.com/detail/20251117053314547800",
           "source": "金十数据",
@@ -315,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
-          "url": "https://wallstreetcn.com/articles/3759492",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "比特币抹去年内涨幅",
@@ -354,7 +404,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东股市收盘播报｜埃及股市涨超2.5%，创收盘历史新高，沙特、卡塔尔股指跌1%",
@@ -378,7 +428,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -405,13 +455,24 @@
           "time_info": "09时28分"
         },
         {
+          "title": "上证指数早盘收报3973.31点，跌0.43%。 深证成指早盘收报13169.37点，跌0.35%。 创业板指早盘收报3086.67点，跌0.80%。 沪深300早盘收报4596.15点，跌0.69%。 科创50早盘收报1351.31点，跌0.73%。 中证500早盘收报7220.73点，跌0.20%。 中证1000早盘收报7509.66点，涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3005542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "金十图示：2025年11月17日（周一）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20251117102604898800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -473,7 +534,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -484,7 +545,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
@@ -492,7 +553,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "造芯，马斯克是“来真的”，2026年",
@@ -525,17 +586,29 @@
           "source": "今日头条",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 12时26分]"
+        },
+        {
+          "title": "造芯，马斯克是“来真的”，2026年将小规模量产",
+          "url": "https://wallstreetcn.com/articles/3759471",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -570,18 +643,41 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31979684",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时26分]"
+        },
+        {
+          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1973030189261874735",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "智元机器人CMO邱恒：自研发机器人操作系统“灵渠OS”，计划年底正式开源",
+          "url": "https://wallstreetcn.com/livenews/3005563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
         {
           "title": "具身智能应用百花齐放：人形机器人将商业落地异构机器人已导入场景",
           "url": "https://wallstreetcn.com/livenews/3005388",
@@ -597,7 +693,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "宁德时代在上海投资成立新能源公司",
@@ -606,9 +702,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "恒生科技指数日内跌超1%。携程跌近5%，联想跌近4%，小鹏汽车、百度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3005537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     }
