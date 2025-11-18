@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T19:18:36.010411+08:00",
-  "total_titles_processed": 1709,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:44:37.907025+08:00",
+  "total_titles_processed": 1717,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
@@ -16,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 20时42分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -42,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -126,7 +140,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -137,7 +151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -347,7 +361,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -509,8 +523,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时17分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时17分 ~ 20时42分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -573,7 +587,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -732,7 +746,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -754,7 +768,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -765,7 +779,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1352,7 +1366,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1410,7 +1424,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1538,8 +1552,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时42分]"
         },
         {
           "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
@@ -1551,8 +1565,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[14时29分 ~ 20时42分]"
         },
         {
           "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
@@ -1564,8 +1578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时42分]"
         },
         {
           "title": "比特币已挖出供应量超过2100万上限的95%，剩余发行量预计还需一个多世纪",
@@ -1799,7 +1813,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1810,7 +1824,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1943,6 +1957,18 @@
           "time_info": "[18时22分 ~ 18时23分]"
         },
         {
+          "title": "高管离职潮是因为马斯克不务正业吗",
+          "url": "https://www.toutiao.com/trending/7573718606148616218/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
           "title": "马斯克手下老臣为何集体跑路",
           "url": "https://www.toutiao.com/trending/7573920978921590314/",
           "source": "今日头条",
@@ -1974,17 +2000,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "高管离职潮是因为马斯克不务正业吗",
-          "url": "https://www.toutiao.com/trending/7573718606148616218/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         }
       ]
     },
@@ -2142,7 +2157,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "圆桌｜回应美国智库之声：中国专家眼中欧洲在中美博弈间的抉择之道",
@@ -2182,6 +2197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "刚刚，中美机器人爆发了一场论战",
+          "url": "https://wallstreetcn.com/articles/3759621",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -2196,7 +2222,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
@@ -2213,7 +2239,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
