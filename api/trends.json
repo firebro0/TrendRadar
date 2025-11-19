@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T21:32:15.736245+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2025-11-19T22:20:12.344538+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -50,11 +50,26 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时11分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[11时11分 ~ 22时20分]"
+        },
+        {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 22时20分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -68,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时23分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[12时23分 ~ 22时20分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -109,20 +124,6 @@
           "time_info": "[09时27分 ~ 21时32分]"
         },
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时32分]"
-        },
-        {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
@@ -132,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 22时20分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -159,11 +160,12 @@
             13,
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时19分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[13时19分 ~ 22时20分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -204,6 +206,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 04时23分]"
+        },
+        {
+          "title": "AI音乐平台Suno按24.5亿美元估值融资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
@@ -296,6 +309,19 @@
           "time_info": "[00时27分 ~ 01时19分]"
         },
         {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
           "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
           "url": "https://wallstreetcn.com/livenews/3006939",
           "source": "华尔街见闻-快讯",
@@ -344,18 +370,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
-          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
-          "url": "https://wallstreetcn.com/livenews/3007227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时32分]"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
@@ -569,6 +583,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "市场消息：Informatica深化与微软的合作，以可信数据加速企业生成式Ai的发展。",
+          "url": "https://flash.jin10.com/detail/20251119220939812800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美国计划批准向沙特AI公司Humain出售芯片。",
           "url": "https://wallstreetcn.com/livenews/3006708",
           "source": "华尔街见闻-快讯",
@@ -685,7 +710,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -762,7 +787,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -778,6 +803,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "Perplexity协议将以折扣价向政府机构提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251119215039509800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "夸克AI眼镜与支付宝合作再升级 新增骨传导拾音、准心等能力",
           "url": "https://wallstreetcn.com/livenews/3007192",
           "source": "华尔街见闻-快讯",
@@ -787,6 +823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "美国总务管理局（GSA）和PERPLEXITY达成了AI协议。",
+          "url": "https://flash.jin10.com/detail/20251119215008470800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
@@ -814,7 +861,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -887,8 +934,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 22时20分]"
         },
         {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
@@ -994,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "科兴回应收纳斯达克退市通知函：已聘请新任独立审计机构以满足纳斯达克合规要求",
@@ -1505,8 +1563,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时11分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[11时11分 ~ 22时20分]"
         },
         {
           "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
@@ -1556,11 +1614,12 @@
             21,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时27分 ~ 21时32分]"
+          "appearance_count": 30,
+          "time_info": "[00时27分 ~ 22时20分]"
         },
         {
           "title": "小米集团股价跌破40港元",
@@ -1738,11 +1797,12 @@
             14,
             23,
             22,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时23分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[12时23分 ~ 22时20分]"
         },
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -1947,6 +2007,200 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[09时27分 ~ 22时20分]"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 16时27分]"
+        },
+        {
+          "title": "谷歌正式发布Gemini3",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            8,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时29分 ~ 09时27分]"
+        },
+        {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 13时20分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            18,
+            21,
+            23,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[14时29分 ~ 22时20分]"
+        },
+        {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时18分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 22时20分]"
+        },
+        {
+          "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
+          "url": "https://wallstreetcn.com/livenews/3006981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1974260216498500253",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
+          "url": "https://flash.jin10.com/detail/20251119000857307800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
+          "url": "https://flash.jin10.com/detail/20251119000659140800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
+          "url": "https://wallstreetcn.com/livenews/3006643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
+          "url": "https://wallstreetcn.com/livenews/3006669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时17分]"
+        },
+        {
+          "title": "市场消息：OpenText深化与谷歌的合作，加速人工智能创新、数据安全及主权云解决方案的推进。",
+          "url": "https://flash.jin10.com/detail/20251119220402180800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
+          "url": "https://flash.jin10.com/detail/20251119044837907800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "沪深 股市",
       "match_count": 14,
       "titles": [
@@ -2112,188 +2366,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时27分 ~ 21时32分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 16时27分]"
-        },
-        {
-          "title": "谷歌正式发布Gemini3",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            8,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时29分 ~ 09时27分]"
-        },
-        {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 13时20分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            18,
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时29分 ~ 21时32分]"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时18分]"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
-        },
-        {
-          "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
-          "url": "https://wallstreetcn.com/livenews/3006981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1974260216498500253",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
-          "url": "https://flash.jin10.com/detail/20251119000857307800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
-        },
-        {
-          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
-          "url": "https://flash.jin10.com/detail/20251119000659140800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
-        },
-        {
-          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
-          "url": "https://wallstreetcn.com/livenews/3006643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
-        },
-        {
-          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
-          "url": "https://wallstreetcn.com/livenews/3006669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时17分]"
-        },
-        {
-          "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
-          "url": "https://flash.jin10.com/detail/20251119044837907800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 10,
       "titles": [
@@ -2305,8 +2377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时27分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[09时27分 ~ 22时20分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
@@ -2332,6 +2404,18 @@
           "time_info": "[03时17分 ~ 04时23分]"
         },
         {
+          "title": "游戏引擎巨头Unity Software盘前涨10%。公司与Epic Games宣布合作，将Unity引擎引入游戏《堡垒之夜》。",
+          "url": "https://wallstreetcn.com/livenews/3007243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
           "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
           "url": "https://wallstreetcn.com/articles/3759577",
           "source": "华尔街见闻",
@@ -2341,6 +2425,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "比特币大跌引发连锁反应 贝莱德旗下ETF遭遇创纪录资金赎回",
+          "url": "https://wallstreetcn.com/livenews/3007233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时20分]"
         },
         {
           "title": "市场消息：比特币大跌导致贝莱德旗下ETF遭遇创纪录资金赎回。",
@@ -2374,28 +2470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
-        },
-        {
-          "title": "游戏引擎巨头Unity Software盘前涨10%。公司与Epic Games宣布合作，将Unity引擎引入游戏《堡垒之夜》。",
-          "url": "https://wallstreetcn.com/livenews/3007243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "比特币大跌引发连锁反应 贝莱德旗下ETF遭遇创纪录资金赎回",
-          "url": "https://wallstreetcn.com/livenews/3007233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -2503,8 +2577,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 22时20分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
