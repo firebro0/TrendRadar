@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T15:19:39.898966+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-11-19T16:27:13.426221+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -68,11 +68,26 @@
             12,
             13,
             16,
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 16时27分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "time_info": "[12时23分 ~ 16时27分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -85,21 +100,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时19分 ~ 15时19分]"
+          "appearance_count": 14,
+          "time_info": "[06时19分 ~ 16时27分]"
         },
         {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            5,
-            8
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 16时27分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -116,8 +130,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 16时27分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -132,18 +146,6 @@
           "time_info": "[09时27分 ~ 15时19分]"
         },
         {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 15时19分]"
-        },
-        {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
           "url": "https://www.cls.cn/detail/2203836",
           "source": "财联社热门",
@@ -153,6 +155,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 04时23分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 16时27分]"
         },
         {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
@@ -220,19 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
@@ -370,6 +373,18 @@
           "time_info": "[13时19分 ~ 14时30分]"
         },
         {
+          "title": "如果 AI 能完美模拟已故亲友的思维和记忆，你会选择「复活」他们吗？",
+          "url": "https://www.zhihu.com/question/1920764981328221242",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时27分]"
+        },
+        {
           "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3006673",
           "source": "华尔街见闻-快讯",
@@ -380,17 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时17分]"
-        },
-        {
-          "title": "如果 AI 能完美模拟已故亲友的思维和记忆，你会选择「复活」他们吗？",
-          "url": "https://www.zhihu.com/question/1920764981328221242",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -444,9 +448,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "工信部：将会同相关部门制定发布促进消费品供需适配性的实施方案，引导玩具企业应用AI技术创造更多新需求",
+          "url": "https://wallstreetcn.com/livenews/3007061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
@@ -513,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "2025年我国AI玩具市场规模有望增至290亿元",
+          "url": "https://wallstreetcn.com/livenews/3007052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美国总统特朗普：希望将AI标准纳入NDAA，或者（国会山）单独起草一份法案。",
@@ -909,8 +935,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 16时27分]"
         },
         {
           "title": "分析师：黄金期货或迎来短期反弹",
@@ -1056,7 +1082,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1100,7 +1126,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1111,7 +1137,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -1119,7 +1145,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -1145,11 +1171,12 @@
           "ranks": [
             9,
             8,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 16时27分]"
         },
         {
           "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
@@ -1157,11 +1184,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 16时27分]"
         },
         {
           "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
@@ -1219,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "斯泰兰蒂斯Stellantis与特斯拉加强电动汽车充电设施的接入。 Stellantis为旗下特定车型提供特斯拉NACS标准。",
@@ -1323,7 +1362,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -1336,8 +1375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 16时27分]"
         },
         {
           "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
@@ -1364,11 +1403,12 @@
             11,
             13,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 16时27分]"
         },
         {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
@@ -1379,8 +1419,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 16时27分]"
         },
         {
           "title": "为什么越来越多的人开始接受「工资是受罪的钱」，而不是为理想和成就工作了？",
@@ -1389,11 +1429,12 @@
           "ranks": [
             12,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 16时27分]"
         },
         {
           "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
@@ -1403,11 +1444,24 @@
             11,
             10,
             9,
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 16时27分]"
+        },
+        {
+          "title": "小米集团股价跌破40港元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B440%E6%B8%AF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时23分 ~ 15时19分]"
+          "time_info": "[13时19分 ~ 16时27分]"
         },
         {
           "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
@@ -1419,18 +1473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "小米集团股价跌破40港元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B440%E6%B8%AF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "小米三季度净利润113.11亿",
@@ -1456,6 +1498,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.38%，恒生科技指数收跌0.69%。周大福、紫金矿业涨超2%；小米集团跌超4%，翰森制药跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "三季度如期实现盈利 小米卢伟冰：汽车业务2026年非常有挑战、毛利率或不及今年",
@@ -1502,6 +1555,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "雷军：小米SU7 Ultra与YU7车载ETC免费激活",
+          "url": "https://wallstreetcn.com/livenews/3007030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "小米净利增八成背后",
           "url": "https://www.toutiao.com/trending/7574214371480440358/",
           "source": "今日头条",
@@ -1530,6 +1594,21 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 16时27分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
@@ -1545,6 +1624,17 @@
           "time_info": "[02时29分 ~ 09时27分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 16时27分]"
+        },
+        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -1555,20 +1645,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时27分 ~ 13时20分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 15时19分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1582,17 +1658,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时18分]"
-        },
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 15时19分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -1622,11 +1687,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时27分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -1691,7 +1757,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2025年11月19日（周三）全球股市指数-欧洲市场（收盘）",
@@ -1742,13 +1808,35 @@
           "time_info": "[12时24分 ~ 13时20分]"
         },
         {
+          "title": "金十图示：2025年11月19日（周三）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251119161521549800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251119161515471800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "沪深两市今日成交额合计17259.08亿元",
           "url": "https://wallstreetcn.com/livenews/3007017",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1759,7 +1847,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1781,7 +1869,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1821,8 +1909,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 16时27分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
@@ -1865,7 +1953,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1910,8 +1998,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 16时27分]"
         },
         {
           "title": "Vanda Pharmaceuticals Inc.（VNDA）上涨19.09%，报5.24美元，有望创最近五个月最佳单日表现。 该公司称，根据一项新的临床试验结果，其试验性药物替替匹坦（tradipitant）可显著减轻服用流行减肥药Wegovy的患者的恶心和呕吐症状。 研究达到了主要目标，服用替替匹坦的患者中，有呕吐症状的比例为29.3%，而服用安慰剂的患者为58.6%；同时该药物还减少了严重的恶心症状。 公司称，计划于2026年进行后期试验。",
@@ -1951,8 +2039,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "脑机接口猴子能玩“黑神话” 手术机器人完成万例临床 中国医疗器械告别“模仿秀”",
+          "url": "https://www.cls.cn/detail/2204907",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3006926",
@@ -2018,8 +2117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 16时27分]"
         }
       ]
     },
@@ -2034,11 +2133,12 @@
           "ranks": [
             13,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 16时27分]"
         }
       ]
     }
