@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:29:28.984995+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2025-11-20T15:19:33.863250+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             9,
             11,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时19分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -80,11 +81,12 @@
             13,
             15,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时19分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -96,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时19分]"
         },
         {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
@@ -109,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时19分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
@@ -126,6 +128,19 @@
           "time_info": "[04时19分 ~ 11时09分]"
         },
         {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时19分]"
+        },
+        {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
           "url": "https://www.cls.cn/detail/2205150",
           "source": "财联社热门",
@@ -137,19 +152,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时29分 ~ 07时18分]"
-        },
-        {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时29分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -196,6 +198,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时19分]"
+        },
+        {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
           "url": "https://flash.jin10.com/detail/20251120021055474800",
           "source": "金十数据",
@@ -238,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 14时29分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -323,6 +325,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时20分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
@@ -426,17 +452,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "市场消息：Meta Platforms(META.O)首席人工智能科学家Yann LeCun拟最快于本周宣布离职并创办新公司，Meta将与Yann LeCun的新初创公司合作。",
           "url": "https://flash.jin10.com/detail/20251120044512589800",
           "source": "金十数据",
@@ -481,17 +496,6 @@
           "time_info": "06时18分"
         },
         {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
           "url": "https://flash.jin10.com/detail/20251120020145207800",
           "source": "金十数据",
@@ -509,7 +513,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -792,7 +796,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -815,8 +819,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -829,8 +833,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时18分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[06时18分 ~ 15时19分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -969,6 +973,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "巴克莱：将标普500指数2026年底的目标点位上调至7400点，此前的预测为7000点。",
+          "url": "https://flash.jin10.com/detail/20251120145903297800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "半导体ETF收涨超1.8%，和银行业ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3007420",
           "source": "华尔街见闻-快讯",
@@ -978,6 +993,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "科兴生物收到纳斯达克退市决定函",
+          "url": "https://www.toutiao.com/trending/7574399991700799507/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
@@ -1071,7 +1097,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "40万的嫁衣是用黄金做的吗",
@@ -1085,11 +1111,12 @@
             5,
             13,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时19分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加8.46吨，当前持仓量为15226.88吨。欢迎点击查看数据中心...",
@@ -1160,6 +1187,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时20分]"
+        },
+        {
+          "title": "瑞士10月黄金出口下降11%至128.2吨。",
+          "url": "https://flash.jin10.com/detail/20251120151003974800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）早盘盘初上涨0.7%报937.32元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）早盘盘初上涨1.11%报12132.0元/千克。",
@@ -1248,6 +1286,181 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
+          "url": "https://wallstreetcn.com/articles/3759745",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时19分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股市收涨约1.6%，金银矿业股领跑",
+          "url": "https://wallstreetcn.com/livenews/3007317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时18分]"
+        },
+        {
+          "title": "美联储会议纪要：多位与会者强调了股市可能出现无序下跌的可能性，尤其是在人工智能相关前景突然重新评估的情况下。",
+          "url": "https://flash.jin10.com/detail/20251120030202658800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时19分]"
+        },
+        {
+          "title": "美国总统特朗普：股市上扬正在提振美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3007361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时16分]"
+        },
+        {
+          "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3007634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时20分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出592.44亿元，占比3.47%；大单资金净流出311.60亿元，占比1.82%；小单资金净流入536.55亿元，占比3.14%。",
+          "url": "https://flash.jin10.com/detail/20251120150642466800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251120054404616800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "沪深两市今日成交额合计17081.89亿元",
+          "url": "https://wallstreetcn.com/livenews/3007742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251120103505955800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "上证指数收报3931.05点，跌0.40%。 深证成指收报12980.82点，跌0.76%。 创业板指收报3042.34点，跌1.12%。 沪深300收报4564.95点，跌0.51%。 科创50收报1328.19点，跌1.24%。 中证500收报7061.95点，跌0.85%。 中证1000收报7340.41点，跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3007739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，旅游酒店、食品、零售、纺织服装等方向跌幅居前，沪深京三市下跌个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3007596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120085220025800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "创业板指下行翻绿，开盘一度涨近2%，沪指、深成指涨幅同步收窄，旅游酒店、食品消费、纺织服装等方向跌幅居前，沪深京三市下跌个股近3500只。",
+          "url": "https://wallstreetcn.com/livenews/3007591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251120004521659800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "中信证券港股2026年策略：港股市场将迎来第二轮估值修复与业绩复苏行情",
+          "url": "https://wallstreetcn.com/livenews/3007508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -1417,144 +1630,191 @@
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 12,
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 8,
       "titles": [
         {
-          "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
-          "url": "https://wallstreetcn.com/articles/3759745",
-          "source": "华尔街见闻",
+          "title": "高管养水军?小米舆论战炸锅全网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
+          "source": "贴吧",
           "ranks": [
-            5
+            27,
+            28,
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时29分]"
         },
         {
-          "title": "非洲股市收盘播报｜南非股市收涨约1.6%，金银矿业股领跑",
-          "url": "https://wallstreetcn.com/livenews/3007317",
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
+          "url": "https://wallstreetcn.com/livenews/3007644",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时18分]"
-        },
-        {
-          "title": "美联储会议纪要：多位与会者强调了股市可能出现无序下跌的可能性，尤其是在人工智能相关前景突然重新评估的情况下。",
-          "url": "https://flash.jin10.com/detail/20251120030202658800",
-          "source": "金十数据",
           "ranks": [
             10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时19分]"
-        },
-        {
-          "title": "美国总统特朗普：股市上扬正在提振美国经济。",
-          "url": "https://wallstreetcn.com/livenews/3007361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时16分]"
-        },
-        {
-          "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3007634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时20分]"
         },
         {
-          "title": "金十图示：2025年11月19日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251120054404616800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251120103505955800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "A股三大指数集体翻绿，旅游酒店、食品、零售、纺织服装等方向跌幅居前，沪深京三市下跌个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3007596",
+          "title": "雷军：小米汽车到了一个新的规模化阶段",
+          "url": "https://wallstreetcn.com/livenews/3007642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-20）",
-          "url": "https://flash.jin10.com/detail/20251120085220025800",
-          "source": "金十数据",
-          "ranks": [
+            11,
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时20分]"
         },
         {
-          "title": "创业板指下行翻绿，开盘一度涨近2%，沪指、深成指涨幅同步收窄，旅游酒店、食品消费、纺织服装等方向跌幅居前，沪深京三市下跌个股近3500只。",
-          "url": "https://wallstreetcn.com/livenews/3007591",
+          "title": "恒生科技指数日内跌超1%，金山软件跌超10%，小鹏汽车跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3007600",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
         {
-          "title": "金十图示：2025年11月20日（周四）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251120004521659800",
-          "source": "金十数据",
+          "title": "财政部、工信部发布关于征求《新能源汽车政府采购需求标准（征求意见稿）》意见的函",
+          "url": "https://wallstreetcn.com/livenews/3007727",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "15时19分"
         },
         {
-          "title": "中信证券港股2026年策略：港股市场将迎来第二轮估值修复与业绩复苏行情",
-          "url": "https://wallstreetcn.com/livenews/3007508",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
+          "url": "https://flash.jin10.com/detail/20251120015210196800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "02时30分"
+        },
+        {
+          "title": "中概指数收跌超1.5%，小鹏跌6.4%，小马智行和网易跌超4%，蔚来、理想跌超3%",
+          "url": "https://wallstreetcn.com/livenews/3007415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时18分]"
+        },
+        {
+          "title": "加密货币概念股下跌，比特币处于七个月地位附近。 Coinbase跌4.9%，Bitfarms跌7.5%，Strategy跌10.3%。 Riot Platforms跌3.7%，Hut 8 Mining跌3.3%，MARA Holdings跌6.6%。 ProShares比特币策略ETF跌3.6%，iShares比特币信托跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3007363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 03时16分]"
+        },
+        {
+          "title": "Unity 和 Epic Games 突然宣布合作，那 Epic 自家的虚幻引擎怎么办？",
+          "url": "https://www.zhihu.com/question/1974535196784161172",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时22分]"
+        },
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "高盛CEO David Solomon（苏德巍）：并不担心超大规模数据中心运营商的债务偿还问题。",
+          "url": "https://wallstreetcn.com/livenews/3007312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "比特币跌破90000美元/枚，续创4月以来新低，日内跌3.21%。",
+          "url": "https://flash.jin10.com/detail/20251119235553993800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
+          "url": "https://wallstreetcn.com/livenews/3007428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
@@ -1567,11 +1827,12 @@
           "url": "https://wallstreetcn.com/livenews/3007704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -1645,175 +1906,8 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "高管养水军?小米舆论战炸锅全网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
-        },
-        {
-          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-          "url": "https://www.zhihu.com/question/1972270226642044065",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
-          "url": "https://wallstreetcn.com/livenews/3007644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时20分]"
-        },
-        {
-          "title": "雷军：小米汽车到了一个新的规模化阶段",
-          "url": "https://wallstreetcn.com/livenews/3007642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时20分]"
-        },
-        {
-          "title": "恒生科技指数日内跌超1%，金山软件跌超10%，小鹏汽车跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/3007600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
-          "url": "https://flash.jin10.com/detail/20251120015210196800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "中概指数收跌超1.5%，小鹏跌6.4%，小马智行和网易跌超4%，蔚来、理想跌超3%",
-          "url": "https://wallstreetcn.com/livenews/3007415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
-        },
-        {
-          "title": "加密货币概念股下跌，比特币处于七个月地位附近。 Coinbase跌4.9%，Bitfarms跌7.5%，Strategy跌10.3%。 Riot Platforms跌3.7%，Hut 8 Mining跌3.3%，MARA Holdings跌6.6%。 ProShares比特币策略ETF跌3.6%，iShares比特币信托跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3007363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时16分]"
-        },
-        {
-          "title": "Unity 和 Epic Games 突然宣布合作，那 Epic 自家的虚幻引擎怎么办？",
-          "url": "https://www.zhihu.com/question/1974535196784161172",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时22分]"
-        },
-        {
-          "title": "高盛CEO David Solomon（苏德巍）：并不担心超大规模数据中心运营商的债务偿还问题。",
-          "url": "https://wallstreetcn.com/livenews/3007312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "比特币跌破90000美元/枚，续创4月以来新低，日内跌3.21%。",
-          "url": "https://flash.jin10.com/detail/20251119235553993800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "周三（11月19日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.72%，报90390美元。 CME以太币期货DCR主力合约跌4.35%，报2991.50美元，亚太午盘跌穿3000点关口——短时出现V形走势，美股尾盘再次出现V形走势——最低逼近2850美元。 美股加密货币与加密货币关联指数跌4.80%，报62.20点。 MarketVector数字资产100小盘指数自美股开盘以来跌0.82%，报18816.93点，盘初涨至19267.90点之后转跌，一度刷新日低至18354.73点。",
-          "url": "https://wallstreetcn.com/livenews/3007428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -1826,8 +1920,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时29分 ~ 14时29分]"
+          "appearance_count": 14,
+          "time_info": "[02时29分 ~ 15时19分]"
         },
         {
           "title": "据AXIOS网站：一位美国官员就潜在的俄乌和平方案表示，尽管处于俄罗斯控制之下，乌克兰撤军后的顿巴斯地区仍将被视为非军事区，俄罗斯不得在此部署军队。",
@@ -1852,6 +1946,28 @@
           "time_info": "05时15分"
         },
         {
+          "title": "商品期货收盘，LU燃油、焦煤主力合约跌超3%，纯碱、玻璃、工业硅、多晶硅、纸浆、棕榈油、乙二醇跌超2%。纯苯涨超2%，鸡蛋、苹果、苯乙烯涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3007736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超3%，工业硅、玻璃、纸浆、纯碱、棕榈油、多晶硅、乙二醇跌超2%。涨幅方面，纯苯涨超2%，苯乙烯、鸡蛋、苹果涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251120150040116800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超2%，玻璃、纸浆、纯碱跌近2%。涨幅方面，碳酸锂涨超3%，纯苯涨超2%，苯乙烯、沪银、苹果涨超1%。",
           "url": "https://flash.jin10.com/detail/20251120113032951800",
           "source": "金十数据",
@@ -1866,7 +1982,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "常熟：力争到2027年智能机器人产业规模突破1200亿元",
@@ -1881,6 +1997,17 @@
           "time_info": "[12时22分 ~ 13时20分]"
         },
         {
+          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
+          "url": "https://www.cls.cn/detail/2205843",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
           "title": "人形机器人为普京献舞",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BA%E6%99%AE%E4%BA%AC%E7%8C%AE%E8%88%9E",
           "source": "百度热搜",
@@ -1893,15 +2020,54 @@
           "time_info": "[09时25分 ~ 11时09分]"
         },
         {
-          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
-          "url": "https://www.cls.cn/detail/2205843",
-          "source": "财联社热门",
+          "title": "人形机器人为普京献舞后鞠躬",
+          "url": "https://www.toutiao.com/trending/7574374882659319827/",
+          "source": "今日头条",
           "ranks": [
-            7
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光伏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "霸王茶姬CEO将与“光伏女神”结婚",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%ACCEO%E5%B0%86%E4%B8%8E%E2%80%9C%E5%85%89%E4%BC%8F%E5%A5%B3%E7%A5%9E%E2%80%9D%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
+          "title": "霸王茶姬创始人将与“光伏女神”结婚",
+          "url": "https://www.toutiao.com/trending/7574636005870534675/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "霸王茶姬创始人张俊杰将与天合光能“光伏女神”高海纯结婚",
+          "url": "https://wallstreetcn.com/livenews/3007675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         }
       ]
     },
@@ -1923,8 +2089,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时19分]"
         },
         {
           "title": "欧洲要开始和中美一起竞争了吗",
@@ -1936,34 +2102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光伏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霸王茶姬CEO将与“光伏女神”结婚",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%ACCEO%E5%B0%86%E4%B8%8E%E2%80%9C%E5%85%89%E4%BC%8F%E5%A5%B3%E7%A5%9E%E2%80%9D%E7%BB%93%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "霸王茶姬创始人张俊杰将与天合光能“光伏女神”高海纯结婚",
-          "url": "https://wallstreetcn.com/livenews/3007675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         }
       ]
     }
