@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T16:28:06.692540+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2025-11-20T17:20:55.382578+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -31,20 +31,6 @@
           "time_info": "[00时26分 ~ 06时18分]"
         },
         {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 16时28分]"
-        },
-        {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
           "url": "https://www.cls.cn/detail/2205700",
           "source": "财联社热门",
@@ -53,6 +39,20 @@
             7,
             4,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 17时20分]"
+        },
+        {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -70,11 +70,24 @@
             11,
             10,
             8,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时20分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时09分 ~ 17时20分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -114,20 +127,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时09分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
@@ -167,6 +168,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时29分 ~ 07时18分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -246,19 +261,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时28分]"
-        },
-        {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
           "url": "https://flash.jin10.com/detail/20251120020650627800",
           "source": "金十数据",
@@ -268,6 +270,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 17时20分]"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            22,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -342,32 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时20分]"
-        },
-        {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时28分]"
-        },
-        {
-          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
-          "url": "https://www.cls.cn/detail/2205868",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 16时28分]"
         },
         {
           "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
@@ -476,7 +480,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -512,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "联想集团董事长杨元庆：我们并不认为存在人工智能泡沫",
+          "url": "https://wallstreetcn.com/livenews/3007826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
@@ -608,7 +623,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -825,7 +840,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -837,8 +852,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 17时20分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -901,6 +916,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3007836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3007835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "巴克莱上调2026年年底的标普500指数目标至7400点，之前为7000点。",
@@ -1127,7 +1164,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储会议纪要暴严重分歧：多人认为不适合12月降息，一些人担心股市无序下跌",
@@ -1138,8 +1175,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 17时20分]"
+        },
+        {
+          "title": "沪深交易所已联合完成2024年度以上市公司质量为导向的保荐机构执业质量评价",
+          "url": "https://wallstreetcn.com/livenews/3007838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收涨约1.6%，金银矿业股领跑",
@@ -1196,7 +1244,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1240,7 +1288,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1262,7 +1310,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1336,7 +1384,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "40万的嫁衣是用黄金做的吗",
@@ -1352,11 +1400,12 @@
             14,
             18,
             20,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加8.46吨，当前持仓量为15226.88吨。欢迎点击查看数据中心...",
@@ -1376,7 +1425,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1473,6 +1522,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "金十图示：2025年11月20日（周四）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251120170025977800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "周三（11月19日）纽约尾盘，现货白银涨1.41%，报51.4188美元/盎司，亚太盘初以来持续走高，北京时间18:00前后加速上涨，不久刷新日高52.4679木管，23:14开始高位跳水并转跌。 COMEX白银期货涨1.17%，报51.110美元/盎司。 COMEX铜期货涨1.28%，报5.0320美元/磅。 现货铂金涨1.12%，报1549.74美元/盎司；现货钯金跌0.34%，报1394.38美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3007431",
           "source": "华尔街见闻-快讯",
@@ -1528,6 +1588,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "纽约期金跌幅扩大至1%，现报4041.9美元/盎司。 现货黄金失守4040美元/盎司，日内跌超0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3007808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "现货黄金短线下挫逾20美元，跌破4060美元/盎司，日内跌0.44%。现货白银向下触及51美元/盎司，日内跌0.70%。",
           "url": "https://flash.jin10.com/detail/20251120100914770800",
           "source": "金十数据",
@@ -1542,7 +1613,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -1671,6 +1742,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
+          "url": "https://www.cls.cn/detail/2205685",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "马斯克发帖感谢特朗普",
           "url": "https://flash.jin10.com/detail/20251120043942503800",
           "source": "金十数据",
@@ -1702,6 +1784,115 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时26分]"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时29分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
+          "url": "https://flash.jin10.com/detail/20251120104126755800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "谷歌公司：与迈凯伦车队（McLaren Formulate 1）扩大合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3007341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
+          "url": "https://flash.jin10.com/detail/20251120103853378800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
+          "url": "https://flash.jin10.com/detail/20251120005103639800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：计划为土耳其带来一个新的谷歌云区域，作为在该国为期10年总额20亿美元投资的一部分。",
+          "url": "https://flash.jin10.com/detail/20251120164537640800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -1743,11 +1934,12 @@
           "url": "https://wallstreetcn.com/livenews/3007800",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时20分]"
         },
         {
           "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
@@ -1841,11 +2033,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "加密货币概念股下跌，比特币处于七个月地位附近。 Coinbase跌4.9%，Bitfarms跌7.5%，Strategy跌10.3%。 Riot Platforms跌3.7%，Hut 8 Mining跌3.3%，MARA Holdings跌6.6%。 ProShares比特币策略ETF跌3.6%，iShares比特币信托跌3.7%。",
@@ -1907,93 +2100,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌：在中国台北启用新的硬件工程中心。",
-          "url": "https://wallstreetcn.com/livenews/3007704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 09时26分]"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时29分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
-          "url": "https://flash.jin10.com/detail/20251120104126755800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "谷歌公司：与迈凯伦车队（McLaren Formulate 1）扩大合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3007341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
-          "url": "https://flash.jin10.com/detail/20251120103853378800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
-          "url": "https://flash.jin10.com/detail/20251120005103639800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 6,
       "titles": [
@@ -2009,8 +2115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时29分 ~ 16时28分]"
+          "appearance_count": 17,
+          "time_info": "[02时29分 ~ 17时20分]"
         },
         {
           "title": "据AXIOS网站：一位美国官员就潜在的俄乌和平方案表示，尽管处于俄罗斯控制之下，乌克兰撤军后的顿巴斯地区仍将被视为非军事区，俄罗斯不得在此部署军队。",
@@ -2082,8 +2188,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时20分]"
         },
         {
           "title": "常熟：力争到2027年智能机器人产业规模突破1200亿元",
@@ -2137,11 +2243,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "商务部：目前中方正严格按照中美吉隆坡经贸磋商共识做好相关落实工作",
@@ -2150,7 +2257,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -2179,8 +2286,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "霸王茶姬CEO将与“光伏女神”结婚",
@@ -2188,11 +2295,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "霸王茶姬创始人张俊杰将与天合光能“光伏女神”高海纯结婚",
