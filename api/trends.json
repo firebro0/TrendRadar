@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T20:39:12.702692+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2025-11-21T21:28:26.901871+08:00",
+  "total_titles_processed": 2008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 21时28分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -110,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 21时28分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -135,8 +135,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时30分 ~ 20时39分]"
+          "appearance_count": 12,
+          "time_info": "[14时30分 ~ 21时28分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时28分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -151,19 +165,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时20分 ~ 17时20分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时39分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1.1%，半导体指数跌2.4%。英伟达跌超1%。",
@@ -183,7 +184,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -548,6 +549,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美联储“三把手”威廉姆斯表示对近期降息持开放态度后，美股三大股指期货短线拉升，纳指期货跌幅收窄至0.2%，标普500指数期货涨0.16%；美债上涨；现货黄金短线上扬近10美元。",
+          "url": "https://wallstreetcn.com/livenews/3008713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美股大跌 英伟达跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -694,7 +706,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -709,6 +721,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时26分 ~ 16时28分]"
+        },
+        {
+          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
+          "url": "https://wallstreetcn.com/articles/3759864",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时28分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -753,19 +778,6 @@
           "time_info": "[05时17分 ~ 17时20分]"
         },
         {
-          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
-          "url": "https://wallstreetcn.com/articles/3759864",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 20时39分]"
-        },
-        {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
           "url": "https://wallstreetcn.com/articles/3759838",
           "source": "华尔街见闻",
@@ -774,8 +786,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 21时28分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -800,6 +812,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时26分 ~ 15时20分]"
+        },
+        {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时28分]"
         },
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -835,17 +860,17 @@
           "time_info": "07时18分"
         },
         {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
           "ranks": [
-            22,
-            21,
-            26
+            13,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时39分]"
+          "time_info": "[18时20分 ~ 21时28分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -921,17 +946,15 @@
           "time_info": "[12时23分 ~ 13时20分]"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
+          "title": "我AI的易梦玲胡彦斌",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            11,
-            9
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时39分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时28分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -970,15 +993,15 @@
           "time_info": "[14时31分 ~ 15时20分]"
         },
         {
-          "title": "我AI的易梦玲胡彦斌",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
+          "source": "财联社热门",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
@@ -1001,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
@@ -1166,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "美联储威廉姆斯：市场似乎对人工智能非常乐观，预计将迎来一段强劲增长期。",
+          "url": "https://flash.jin10.com/detail/20251121205941631800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -1536,9 +1581,232 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 21时28分]"
+        },
+        {
+          "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 07时18分]"
+        },
+        {
+          "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
+          "url": "https://flash.jin10.com/detail/20251121041605243800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "比特币向下触及82000美元/枚，日内跌5.38%。",
+          "url": "https://flash.jin10.com/detail/20251121180525228800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
+          "url": "https://wallstreetcn.com/livenews/3008082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时16分]"
+        },
+        {
+          "title": "比特币再度向下触及82000美元/枚，日内跌5.38%。",
+          "url": "https://wallstreetcn.com/livenews/3008619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "避险情绪持续发酵，日韩股市大跌，韩股跌超4%，加密货币重挫，比特币跌破8.2万美元",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "再现“股金币”三杀！全球股市重挫，币圈流血不止，比特币跌破8.2万美元，金银走低，现货白银跌超3.7%",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
+          "title": "全球股市重挫，币圈流血不止，比特币跌破8.4万美元，欧股股指集体低开，日韩大幅收跌",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
+          "title": "比特币失守81000美元/枚，日内跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3008707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时28分]"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3008204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "比特币跌穿8.8万美元，目前跌幅超过2.6%。北京时间21:31之前持稳于9.2万美元一线，之后开始回吐涨幅，00:00之前跌破9万美元整数位心理关口、随后加速下跌。 以太坊跌1.8%，Solana跌0.3%，狗狗币涨幅收窄至不足1.1%，XRP跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3008094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时29分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
+          "url": "https://wallstreetcn.com/livenews/3008112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时16分]"
+        },
+        {
+          "title": "全球股市重挫，币圈流血不止，比特币跌破8.2万美元，金银走低，现货白银跌超3.7%",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "比特币失守81000美元/枚，日内跌幅6.59%。",
+          "url": "https://flash.jin10.com/detail/20251121202340962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "比特币日内大跌5003美元，现报81634美元/枚，跌幅5.77%。",
+          "url": "https://flash.jin10.com/detail/20251121202124137800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "比特币日内大跌5000美元，现报86400美元/枚，跌幅5.64%。",
+          "url": "https://flash.jin10.com/detail/20251121013555086800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     },
@@ -1757,208 +2025,8 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 20时39分]"
-        },
-        {
-          "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 07时18分]"
-        },
-        {
-          "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
-          "url": "https://flash.jin10.com/detail/20251121041605243800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "比特币向下触及82000美元/枚，日内跌5.38%。",
-          "url": "https://flash.jin10.com/detail/20251121180525228800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
-          "url": "https://wallstreetcn.com/livenews/3008082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时16分]"
-        },
-        {
-          "title": "比特币再度向下触及82000美元/枚，日内跌5.38%。",
-          "url": "https://wallstreetcn.com/livenews/3008619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "避险情绪持续发酵，日韩股市大跌，韩股跌超4%，加密货币重挫，比特币跌破8.2万美元",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "再现“股金币”三杀！全球股市重挫，币圈流血不止，比特币跌破8.2万美元，金银走低，现货白银跌超3.7%",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
-        },
-        {
-          "title": "全球股市重挫，币圈流血不止，比特币跌破8.4万美元，欧股股指集体低开，日韩大幅收跌",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
-        },
-        {
-          "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
-          "url": "https://wallstreetcn.com/livenews/3008204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "比特币跌穿8.8万美元，目前跌幅超过2.6%。北京时间21:31之前持稳于9.2万美元一线，之后开始回吐涨幅，00:00之前跌破9万美元整数位心理关口、随后加速下跌。 以太坊跌1.8%，Solana跌0.3%，狗狗币涨幅收窄至不足1.1%，XRP跌0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3008094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时29分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
-          "url": "https://wallstreetcn.com/livenews/3008112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时16分]"
-        },
-        {
-          "title": "全球股市重挫，币圈流血不止，比特币跌破8.2万美元，金银走低，现货白银跌超3.7%",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "比特币失守81000美元/枚，日内跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3008707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "比特币失守81000美元/枚，日内跌幅6.59%。",
-          "url": "https://flash.jin10.com/detail/20251121202340962800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "比特币日内大跌5003美元，现报81634美元/枚，跌幅5.77%。",
-          "url": "https://flash.jin10.com/detail/20251121202124137800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "比特币日内大跌5000美元，现报86400美元/枚，跌幅5.64%。",
-          "url": "https://flash.jin10.com/detail/20251121013555086800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "小鹏称将为跨年交付的X9增程版用户承担购置税",
@@ -2005,8 +2073,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时28分]"
         },
         {
           "title": "小米回应“潜水手表不能潜水”",
@@ -2052,6 +2120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "小米公关部总经理王化确认转岗武汉区域总部，徐洁云“回归”接任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32015299",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "分析师称宁德时代和小鹏汽车或被纳入恒生指数 医疗保健公司也有可能",
@@ -2115,7 +2194,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -2137,7 +2216,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -2148,9 +2227,111 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时22分 ~ 13时20分]"
+        },
+        {
+          "title": "特斯拉回应起诉无忧传媒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%E6%97%A0%E5%BF%A7%E4%BC%A0%E5%AA%92",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            20,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 07时18分]"
+        },
+        {
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "马斯克说金钱将无意义 黄仁勋惊了",
+          "url": "https://www.toutiao.com/trending/7574943921302982170/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时26分]"
+        },
+        {
+          "title": "欧盟：我们接触马斯克旗下社交媒体平台X公司（原名推特），因为该公司有义务针对大模型Grok的相关风险采取行动。 Grok生成的内容与欧洲的基本权利和价值存在冲突。",
+          "url": "https://wallstreetcn.com/livenews/3008129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时22分]"
+        },
+        {
+          "title": "马斯克：实时视频的理解与生成是未来的趋势。",
+          "url": "https://flash.jin10.com/detail/20251121045030890800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
+          "url": "https://wallstreetcn.com/livenews/3008079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "特斯拉上涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3008054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -2251,93 +2432,99 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 7,
+      "keyword_group": "机器人",
+      "match_count": 8,
       "titles": [
         {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时22分 ~ 13时20分]"
-        },
-        {
-          "title": "特斯拉回应起诉无忧传媒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%E6%97%A0%E5%BF%A7%E4%BC%A0%E5%AA%92",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            20,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时18分]"
-        },
-        {
-          "title": "马斯克说金钱将无意义 黄仁勋惊了",
-          "url": "https://www.toutiao.com/trending/7574943921302982170/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时26分]"
-        },
-        {
-          "title": "欧盟：我们接触马斯克旗下社交媒体平台X公司（原名推特），因为该公司有义务针对大模型Grok的相关风险采取行动。 Grok生成的内容与欧洲的基本权利和价值存在冲突。",
-          "url": "https://wallstreetcn.com/livenews/3008129",
+          "title": "A股机器人概念股震荡反弹，安培龙涨超10%，伟创电气、斯菱股份、恒工精密、浙江荣泰、长盈精密等多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3008419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            25
+            1,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时22分]"
+          "time_info": "[13时20分 ~ 14时31分]"
         },
         {
-          "title": "马斯克：实时视频的理解与生成是未来的趋势。",
-          "url": "https://flash.jin10.com/detail/20251121045030890800",
+          "title": "金帝股份：与东培工业股份有限公司签署了《战略合作意向书》，确认双方有意就人形机器人谐波减速器总成及其关键零部件相关业务进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3008571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
+          "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3008096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时29分]"
+        },
+        {
+          "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
+          "url": "https://flash.jin10.com/detail/20251121010114274800",
           "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
-          "url": "https://wallstreetcn.com/livenews/3008079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
         {
-          "title": "特斯拉上涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3008054",
-          "source": "华尔街见闻-快讯",
+          "title": "“大湾鸡”和机器人跳广播体操了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B9%BE%E9%B8%A1%E2%80%9D%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E5%B9%BF%E6%92%AD%E4%BD%93%E6%93%8D%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            25
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "人形机器人为普京献舞后鞠躬",
+          "url": "https://www.toutiao.com/trending/7574374882659319827/",
+          "source": "今日头条",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "09时26分"
+        },
+        {
+          "title": "人形机器人从苏州走到上海创纪录",
+          "url": "https://www.toutiao.com/trending/7574644652336791571/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "优刻得：已联合众多行业客户开发出宠物陪伴类机器人、自变量机器人等",
+          "url": "https://wallstreetcn.com/livenews/3008515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -2427,88 +2614,59 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 7,
+      "keyword_group": "中美",
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股机器人概念股震荡反弹，安培龙涨超10%，伟创电气、斯菱股份、恒工精密、浙江荣泰、长盈精密等多股涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3008419",
-          "source": "华尔街见闻-快讯",
+          "title": "中美合拍 我的哪吒与变形金刚",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%88%E6%8B%8D%20%E6%88%91%E7%9A%84%E5%93%AA%E5%90%92%E4%B8%8E%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时31分]"
-        },
-        {
-          "title": "金帝股份：与东培工业股份有限公司签署了《战略合作意向书》，确认双方有意就人形机器人谐波减速器总成及其关键零部件相关业务进行合作。",
-          "url": "https://wallstreetcn.com/livenews/3008571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            2,
             3,
-            29
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时28分]"
         },
         {
-          "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
-          "url": "https://wallstreetcn.com/livenews/3008096",
+          "title": "中美合拍《我的哪吒与变形金刚》定档",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%90%88%E6%8B%8D%E3%80%8A%E6%88%91%E7%9A%84%E5%93%AA%E5%90%92%E4%B8%8E%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E3%80%8B%E5%AE%9A%E6%A1%A3",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            4,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时28分]"
+        },
+        {
+          "title": "何立峰会见美国前总统国家安全事务助理哈德利一行时指出 中美双方应以两国元首会晤重要共识为引领 推动双边经贸关系稳定发展",
+          "url": "https://wallstreetcn.com/livenews/3008733",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            26
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
-          "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
-          "url": "https://flash.jin10.com/detail/20251121010114274800",
-          "source": "金十数据",
+          "title": "中美合拍我的哪吒与变形金刚",
+          "url": "https://www.douyin.com/hot/2313675",
+          "source": "抖音",
           "ranks": [
-            7
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "人形机器人为普京献舞后鞠躬",
-          "url": "https://www.toutiao.com/trending/7574374882659319827/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "人形机器人从苏州走到上海创纪录",
-          "url": "https://www.toutiao.com/trending/7574644652336791571/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "优刻得：已联合众多行业客户开发出宠物陪伴类机器人、自变量机器人等",
-          "url": "https://wallstreetcn.com/livenews/3008515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时28分]"
         }
       ]
     },
@@ -2571,49 +2729,6 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中美合拍 我的哪吒与变形金刚",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%88%E6%8B%8D%20%E6%88%91%E7%9A%84%E5%93%AA%E5%90%92%E4%B8%8E%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时39分]"
-        },
-        {
-          "title": "中美合拍《我的哪吒与变形金刚》定档",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%90%88%E6%8B%8D%E3%80%8A%E6%88%91%E7%9A%84%E5%93%AA%E5%90%92%E4%B8%8E%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E3%80%8B%E5%AE%9A%E6%A1%A3",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时39分]"
-        },
-        {
-          "title": "中美合拍我的哪吒与变形金刚",
-          "url": "https://www.douyin.com/hot/2313675",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "固态电池",
       "match_count": 3,
       "titles": [
@@ -2651,7 +2766,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
