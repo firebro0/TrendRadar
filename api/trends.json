@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:28:26.901871+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2025-11-21T22:19:42.661097+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -36,19 +36,6 @@
           "time_info": "[12时23分 ~ 18时20分]"
         },
         {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 21时28分]"
-        },
-        {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
@@ -61,6 +48,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时26分 ~ 22时19分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -110,8 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[09时26分 ~ 22时19分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -135,8 +136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时30分 ~ 21时28分]"
+          "appearance_count": 13,
+          "time_info": "[14时30分 ~ 22时19分]"
         },
         {
           "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
@@ -406,6 +407,17 @@
           "time_info": "[02时29分 ~ 03时16分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌3.2%。 热门中概股里，阿特斯太阳能初步收跌18.3%，大全新能源跌9.2%，蔚来跌6%，晶科能源跌5.7%，小马智行、小鹏、小米、拼多多、百度跌超4%，网易则涨0.6%，贝壳涨1.3%，万国数据涨1.8%，逸仙电商涨3.3%。 ETF中，KWEB跌2.7%，CQQQ跌2.6%，ASHS跌1.4%，ASHR跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3008176",
           "source": "华尔街见闻-快讯",
@@ -415,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
@@ -555,7 +578,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -706,7 +729,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -732,8 +755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 21时28分]"
+          "appearance_count": 9,
+          "time_info": "[16时27分 ~ 22时19分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -786,8 +809,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 22时19分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -820,11 +843,26 @@
           "ranks": [
             22,
             21,
-            26
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 22时19分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时28分]"
+          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -860,17 +898,16 @@
           "time_info": "07时18分"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时28分]"
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -950,11 +987,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时19分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -967,6 +1005,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时31分]"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "OpenAI正式推出ChatGPT群聊功能",
@@ -993,17 +1043,6 @@
           "time_info": "[14时31分 ~ 15时20分]"
         },
         {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
           "url": "https://flash.jin10.com/detail/20251121070128399800",
           "source": "金十数据",
@@ -1026,15 +1065,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
-          "url": "https://wallstreetcn.com/livenews/3008725",
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时19分"
         },
         {
           "title": "富士康：OpenAI将可提前访问以评估富士康的系统，并拥有购买这些系统的选项。",
@@ -1125,6 +1164,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "美联储副主席杰斐逊：AI企业的上涨潮不太可能重演当年互联网泡沫的情景",
+          "url": "https://flash.jin10.com/detail/20251121215455386800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
           "source": "华尔街见闻-快讯",
@@ -1134,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯应届大学毕业生正面临“完美风暴”——招聘疲软。 招聘疲软是周期性问题，而非结构性问题。 目前没有看到大量裁员。 雇主在招聘新员工方面非常谨慎。 人工智能将会改变我们的就业类型。",
+          "url": "https://wallstreetcn.com/livenews/3008742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "鸿海董事长刘扬伟：目前转移到美国的产品大多与AI相关。",
@@ -1208,9 +1269,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251121214555783800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -1235,6 +1307,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美联储副主席杰斐逊：杠杆的使用更加有限可能会降低任何人工智能情绪转变传递至经济的程度，但正在密切关注人工智能公司的债务发行情况。",
+          "url": "https://flash.jin10.com/detail/20251121214537456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
           "url": "https://www.zhihu.com/question/1974446156558910121",
           "source": "知乎",
@@ -1244,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：与互联网泡沫时期不同，与人工智能相关的股票上涨主要得益于人工智能公司确实拥有实际收益。",
+          "url": "https://flash.jin10.com/detail/20251121214527130800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "鸿海董事长称计划每年在AI领域投入20亿至30亿美元",
@@ -1315,7 +1409,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加19.75吨，当前持仓量为15246.63吨。欢迎点击查看数据中心...",
@@ -1349,6 +1443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "日本将因高市早苗言论损失多少真金白银？我们算了一笔账",
+          "url": "https://news.ifeng.com/c/8oT83VhPvU6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "现货黄金短线走低15美元，跌破4060美元/盎司，日内跌0.43%。现货白银回落至50美元/盎司下方，日内跌1.32%。",
@@ -1520,6 +1625,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "现货黄金日内转涨，报4077.75美元/盎司。消息面上，乌克兰与其欧洲盟友据称拒绝了美国提出的俄乌和平计划中的关键部分。美联储威廉姆斯仍认为近期存在降息空间。",
+          "url": "https://flash.jin10.com/detail/20251121215714070800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "纽约银日内跌幅达4%，报48.91美元/盎司；现货白银日内跌幅达3.5%，报48.84美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3008629",
           "source": "华尔街见闻-快讯",
@@ -1601,8 +1717,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时26分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[09时26分 ~ 22时19分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -1648,6 +1764,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时16分]"
+        },
+        {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "比特币再度向下触及82000美元/枚，日内跌5.38%。",
@@ -1719,6 +1847,18 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
+        },
+        {
           "title": "比特币跌穿8.8万美元，目前跌幅超过2.6%。北京时间21:31之前持稳于9.2万美元一线，之后开始回吐涨幅，00:00之前跌破9万美元整数位心理关口、随后加速下跌。 以太坊跌1.8%，Solana跌0.3%，狗狗币涨幅收窄至不足1.1%，XRP跌0.8%。",
           "url": "https://wallstreetcn.com/livenews/3008094",
           "source": "华尔街见闻-快讯",
@@ -1754,28 +1894,6 @@
           "time_info": "19时16分"
         },
         {
-          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3008724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "比特币失守81000美元/枚，日内跌幅6.59%。",
           "url": "https://flash.jin10.com/detail/20251121202340962800",
           "source": "金十数据",
@@ -1807,6 +1925,226 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "乘联分会论坛：11月狭义乘用车零售预计225.0万辆，新能源渗透率有望首次提升至60%",
+          "url": "https://wallstreetcn.com/livenews/3008762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "小鹏称将为跨年交付的X9增程版用户承担购置税",
+          "url": "https://wallstreetcn.com/livenews/3008457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
+        },
+        {
+          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
+          "url": "https://wallstreetcn.com/livenews/3008417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时31分]"
+        },
+        {
+          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32013425",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时19分]"
+        },
+        {
+          "title": "小米回应“潜水手表不能潜水”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E6%BD%9C%E6%B0%B4%E6%89%8B%E8%A1%A8%E4%B8%8D%E8%83%BD%E6%BD%9C%E6%B0%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时20分]"
+        },
+        {
+          "title": "小米公关部总经理王化确认转岗武汉区域总部，徐洁云“回归”接任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32015299",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
+        },
+        {
+          "title": "小米回应“潜水手表不能潜水”",
+          "url": "https://www.toutiao.com/trending/7574516866740305958/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "美的要求售后商停止小米格力业务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%9A%84%E8%A6%81%E6%B1%82%E5%94%AE%E5%90%8E%E5%95%86%E5%81%9C%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%A0%BC%E5%8A%9B%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "小鹏第100万台新车X9超级增程下线",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC100%E4%B8%87%E5%8F%B0%E6%96%B0%E8%BD%A6X9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "小米汽车公布车辆漂移新专利，可提升漂移安全性和稳定性",
+          "url": "https://wallstreetcn.com/livenews/3008562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "分析师称宁德时代和小鹏汽车或被纳入恒生指数 医疗保健公司也有可能",
+          "url": "https://wallstreetcn.com/livenews/3008470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "小米王化“接替者”确认：雷军特别助理徐洁云，再次兼任公关部总经理",
+          "url": "https://wallstreetcn.com/livenews/3008594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "小鹏汽车宣布其第100万台整车下线，下线车型为小鹏X9超级增程。从50万到100万，仅用14个月完成。",
+          "url": "https://wallstreetcn.com/livenews/3008521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "小米汽车：现阶段辅助驾驶依然还是一个辅助功能，不要相信“怎么开都撞不了”的夸大宣传",
+          "url": "https://wallstreetcn.com/livenews/3008520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "小米集团于11月21日斥资3.033亿港元回购800万股B类股份。",
+          "url": "https://wallstreetcn.com/livenews/3008628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "小鹏汽车制造基地首台陆地航母陆行体量产试制车下线",
+          "url": "https://wallstreetcn.com/livenews/3008690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "小米集团公关部总经理王化确认转岗小米武汉总部",
+          "url": "https://wallstreetcn.com/livenews/3008577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "小米全面开源具身大模型MiMo-Embodied",
+          "url": "https://wallstreetcn.com/livenews/3008684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "小米集团开启大额股份回购，两日斥资逾8亿港元",
+          "url": "https://wallstreetcn.com/livenews/3008683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
@@ -2025,215 +2363,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "小鹏称将为跨年交付的X9增程版用户承担购置税",
-          "url": "https://wallstreetcn.com/livenews/3008457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时20分]"
-        },
-        {
-          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
-          "url": "https://wallstreetcn.com/livenews/3008417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时31分]"
-        },
-        {
-          "title": "小米回应“潜水手表不能潜水”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E6%BD%9C%E6%B0%B4%E6%89%8B%E8%A1%A8%E4%B8%8D%E8%83%BD%E6%BD%9C%E6%B0%B4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时20分]"
-        },
-        {
-          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32013425",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时28分]"
-        },
-        {
-          "title": "小米回应“潜水手表不能潜水”",
-          "url": "https://www.toutiao.com/trending/7574516866740305958/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "美的要求售后商停止小米格力业务",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%9A%84%E8%A6%81%E6%B1%82%E5%94%AE%E5%90%8E%E5%95%86%E5%81%9C%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%A0%BC%E5%8A%9B%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "小鹏第100万台新车X9超级增程下线",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC100%E4%B8%87%E5%8F%B0%E6%96%B0%E8%BD%A6X9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
-          "title": "小米汽车公布车辆漂移新专利，可提升漂移安全性和稳定性",
-          "url": "https://wallstreetcn.com/livenews/3008562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "小米公关部总经理王化确认转岗武汉区域总部，徐洁云“回归”接任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32015299",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "分析师称宁德时代和小鹏汽车或被纳入恒生指数 医疗保健公司也有可能",
-          "url": "https://wallstreetcn.com/livenews/3008470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "小米王化“接替者”确认：雷军特别助理徐洁云，再次兼任公关部总经理",
-          "url": "https://wallstreetcn.com/livenews/3008594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "小鹏汽车宣布其第100万台整车下线，下线车型为小鹏X9超级增程。从50万到100万，仅用14个月完成。",
-          "url": "https://wallstreetcn.com/livenews/3008521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "小米汽车：现阶段辅助驾驶依然还是一个辅助功能，不要相信“怎么开都撞不了”的夸大宣传",
-          "url": "https://wallstreetcn.com/livenews/3008520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "小米集团于11月21日斥资3.033亿港元回购800万股B类股份。",
-          "url": "https://wallstreetcn.com/livenews/3008628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "小鹏汽车制造基地首台陆地航母陆行体量产试制车下线",
-          "url": "https://wallstreetcn.com/livenews/3008690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "小米集团公关部总经理王化确认转岗小米武汉总部",
-          "url": "https://wallstreetcn.com/livenews/3008577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "小米全面开源具身大模型MiMo-Embodied",
-          "url": "https://wallstreetcn.com/livenews/3008684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "小米集团开启大额股份回购，两日斥资逾8亿港元",
-          "url": "https://wallstreetcn.com/livenews/3008683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 8,
       "titles": [
@@ -2270,11 +2399,12 @@
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
         },
         {
           "title": "马斯克说金钱将无意义 黄仁勋惊了",
@@ -2472,6 +2602,17 @@
           "time_info": "[01时16分 ~ 02时29分]"
         },
         {
+          "title": "“大湾鸡”和机器人跳广播体操了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B9%BE%E9%B8%A1%E2%80%9D%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E5%B9%BF%E6%92%AD%E4%BD%93%E6%93%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时19分]"
+        },
+        {
           "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
           "url": "https://flash.jin10.com/detail/20251121010114274800",
           "source": "金十数据",
@@ -2481,17 +2622,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "“大湾鸡”和机器人跳广播体操了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%A7%E6%B9%BE%E9%B8%A1%E2%80%9D%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E5%B9%BF%E6%92%AD%E4%BD%93%E6%93%8D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "人形机器人为普京献舞后鞠躬",
@@ -2615,7 +2745,7 @@
     },
     {
       "keyword_group": "中美",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中美合拍 我的哪吒与变形金刚",
@@ -2628,8 +2758,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "中美合拍《我的哪吒与变形金刚》定档",
@@ -2642,8 +2772,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "何立峰会见美国前总统国家安全事务助理哈德利一行时指出 中美双方应以两国元首会晤重要共识为引领 推动双边经贸关系稳定发展",
@@ -2652,7 +2782,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -2662,11 +2792,23 @@
           "source": "抖音",
           "ranks": [
             25,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 22时19分]"
+        },
+        {
+          "title": "何立峰：中美双方应以两国元首会晤重要共识为引领 推动双边经贸关系稳定发展",
+          "url": "https://wallstreetcn.com/livenews/3008733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
