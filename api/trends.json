@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T09:24:03.974512+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-11-22T11:04:00.810554+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -76,8 +76,22 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 11时04分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
+          "url": "https://wallstreetcn.com/livenews/3008920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            19,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时17分 ~ 09时24分]"
+          "time_info": "[06时19分 ~ 11时04分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -85,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 11时04分]"
         },
         {
           "title": "周五（11月21日）纽约尾盘，标普500股指期货最终上涨1.15%，道指期货涨1.20%，纳斯达克100股指期货涨0.93%。 罗素2000股指期货涨2.89%。",
@@ -97,11 +112,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 11时04分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
+          "url": "https://wallstreetcn.com/livenews/3008933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 11时04分]"
         },
         {
           "title": "标普：上调科威特评级至AA-/A-1+，前景展望稳定。 上调乌兹别克斯坦评级至BB，前景展望稳定。 下调巴林评级至B，前景展望稳定。",
@@ -117,29 +146,17 @@
           "time_info": "[05时17分 ~ 07时18分]"
         },
         {
-          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
-          "url": "https://wallstreetcn.com/livenews/3008933",
+          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3008932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时24分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
-          "url": "https://wallstreetcn.com/livenews/3008920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            19
+            4,
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时24分]"
+          "time_info": "[07时18分 ~ 11时04分]"
         },
         {
           "title": "纳指涨幅扩大至1%，英伟达转涨，半导体指数涨幅扩大至1.2%。 标普500指数涨1.2%，道指涨637点涨幅1.4%，纳斯达克100指数涨1%。",
@@ -152,18 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时26分]"
-        },
-        {
-          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3008932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时24分]"
         },
         {
           "title": "标普500指数、纳斯达克100指数攀升至盘中高点。",
@@ -285,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "美股泡沫离破裂还有多久",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%A6%BB%E7%A0%B4%E8%A3%82%E8%BF%98%E6%9C%89%E5%A4%9A%E4%B9%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
@@ -428,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251122093221566800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
@@ -443,8 +470,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -454,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -469,8 +496,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -495,6 +522,17 @@
           "time_info": "[00时24分 ~ 09时24分]"
         },
         {
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
+        },
+        {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
           "url": "https://www.cls.cn/detail/2207484",
           "source": "财联社热门",
@@ -505,17 +543,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207918",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -529,6 +556,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 09时24分]"
+        },
+        {
+          "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
+          "url": "https://wallstreetcn.com/livenews/3008923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时19分 ~ 11时04分]"
         },
         {
           "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
@@ -556,19 +597,6 @@
           "time_info": "[02时26分 ~ 04时21分]"
         },
         {
-          "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
-          "url": "https://wallstreetcn.com/livenews/3008923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时24分]"
-        },
-        {
           "title": "惠誉：人工智能资本支出热潮加剧了美国企业交易对手的风险敞口。",
           "url": "https://flash.jin10.com/detail/20251122011055848800",
           "source": "金十数据",
@@ -581,6 +609,41 @@
           "time_info": "[01时17分 ~ 02时26分]"
         },
         {
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
+        },
+        {
+          "title": "胡彦斌疑似承认恋情：接吻视频非AI",
+          "url": "https://www.toutiao.com/trending/7575051643448741439/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
+        },
+        {
+          "title": "胡彦斌回应亲吻照：不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
+        },
+        {
           "title": "不是AI是爱",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AFAI%E6%98%AF%E7%88%B1%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -591,17 +654,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 05时17分]"
-        },
-        {
-          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
-          "url": "https://wallstreetcn.com/articles/3759852",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
         },
         {
           "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
@@ -621,17 +673,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "胡彦斌疑似承认恋情：接吻视频非AI",
-          "url": "https://www.toutiao.com/trending/7575051643448741439/",
-          "source": "今日头条",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -662,17 +703,6 @@
           "time_info": "[00时25分 ~ 01时17分]"
         },
         {
-          "title": "胡彦斌回应亲吻照：不是AI",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
           "title": "枭起青壤AI动画热血番具象化",
           "url": "https://www.douyin.com/hot/2313063",
           "source": "抖音",
@@ -698,8 +728,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
         },
         {
           "title": "日本将因高市言论损失多少真金白银",
@@ -733,11 +763,12 @@
           "ranks": [
             4,
             12,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[06时19分 ~ 11时04分]"
         },
         {
           "title": "周五（11月21日）纽约尾盘，现货黄金跌0.26%，报4066.21美元/盎司，本周累计下跌0.44%，交投于4132.86-3998.08美元区间，整体呈现出W形走势。 COMEX黄金期货涨0.10%，报4064.20美元/盎司，本周累跌0.73%，一度从3997.40美元反弹至4134.30美元。",
@@ -746,11 +777,12 @@
           "ranks": [
             6,
             14,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[06时19分 ~ 11时04分]"
         },
         {
           "title": "黄金跌势难止逼近关键关口",
@@ -763,6 +795,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.29吨，当前持仓量为15257.92吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20251122083528686800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
         },
         {
           "title": "德银凭借丰厚盈利重返黄金交易舞台",
@@ -801,15 +845,16 @@
           "time_info": "[03时16分 ~ 04时21分]"
         },
         {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加11.29吨，当前持仓量为15257.92吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20251122083528686800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.14吨，当前持仓量为1040.57吨。",
+          "url": "https://flash.jin10.com/detail/20251122080822349800",
           "source": "金十数据",
           "ranks": [
-            7
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时04分]"
         },
         {
           "title": "现货黄金短线拉升超10美元，突破4090美元/盎司，日内涨0.33%。",
@@ -821,17 +866,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.14吨，当前持仓量为1040.57吨。",
-          "url": "https://flash.jin10.com/detail/20251122080822349800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：10月7日当周，投机者所持COMEX黄金净多头头寸减少15,384手合约，至133,927手合约。 所持COMEX白银净多头头寸减少7,357手合约，至29,893手合约。 所持COMEX铜净多头头寸增加8,536手合约，至58,648手合约。",
@@ -848,7 +882,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
@@ -895,6 +929,20 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "比特币期货本周跌超9.5%，以太坊期货跌超11.6%",
+          "url": "https://wallstreetcn.com/livenews/3008922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时19分 ~ 11时04分]"
+        },
+        {
           "title": "C++ 原始指针、 shared_ptr 、 unique_ptr 分别在什么场景下使用？",
           "url": "https://www.zhihu.com/question/648170767",
           "source": "知乎",
@@ -907,17 +955,26 @@
           "time_info": "[02时25分 ~ 05时17分]"
         },
         {
-          "title": "比特币期货本周跌超9.5%，以太坊期货跌超11.6%",
-          "url": "https://wallstreetcn.com/livenews/3008922",
-          "source": "华尔街见闻-快讯",
+          "title": "买股卖币！美国散户抄底“区别对待”，比特币自2020年7月来首次跌破“生产成本”",
+          "url": "https://wallstreetcn.com/articles/3759862",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            11,
-            17
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时24分]"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "币圈有多恐慌？连“初代巨鲸”都跑了，Owen Gunden1个月清仓13亿美元比特币持仓",
+          "url": "https://wallstreetcn.com/articles/3759858",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "市场消息：爱彼迎(ABNB.O)首席技术官即将离职。",
@@ -946,7 +1003,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -1017,13 +1074,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时17分]"
+        },
+        {
+          "title": "从黄仁勋马斯克对话看AI未来趋势",
+          "url": "https://www.toutiao.com/trending/7575123816318242323/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
+        },
         {
           "title": "谷歌公司推出BigQuery AI。",
           "url": "https://wallstreetcn.com/livenews/3008826",
@@ -1048,17 +1128,6 @@
           "time_info": "[04时21分 ~ 05时17分]"
         },
         {
-          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
-          "url": "https://wallstreetcn.com/articles/3759889",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
@@ -1069,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -1110,8 +1190,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
+        },
+        {
+          "title": "中美俄争夺中东隐形战机市场",
+          "url": "https://www.toutiao.com/trending/7575330851043413567/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
         },
         {
           "title": "中美合拍我的哪吒与变形金刚",
@@ -1137,23 +1229,12 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 02时26分]"
-        },
-        {
-          "title": "中美俄争夺中东隐形战机市场",
-          "url": "https://www.toutiao.com/trending/7575330851043413567/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "达里欧解读“泡沫何时破裂”：股市大泡沫+大贫富差距=巨大的危险",
@@ -1190,6 +1271,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "金十图示：2025年11月21日（周五）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251122093244248800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "固态电池",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "让电车跑得更远更安全 国内首条大容量全固态电池产线建成",
+          "url": "https://www.cls.cn/detail/2207930",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时04分]"
+        },
+        {
+          "title": "国内首条大容量全固态电池产线建成",
+          "url": "https://www.toutiao.com/trending/7574782655942950966/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "博主：搞不出固态电池不丢人",
+          "url": "https://www.toutiao.com/trending/7575329115209731603/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
         }
       ]
     },
@@ -1235,11 +1367,12 @@
             10,
             11,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
         },
         {
           "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
@@ -1249,11 +1382,12 @@
             11,
             12,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时04分]"
         }
       ]
     },
@@ -1277,23 +1411,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "固态电池",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "让电车跑得更远更安全 国内首条大容量全固态电池产线建成",
-          "url": "https://www.cls.cn/detail/2207930",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     }
