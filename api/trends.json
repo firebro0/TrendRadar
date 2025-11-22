@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:16:38.195932+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-22T23:17:56.129739+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时17分 ~ 22时16分]"
+          "appearance_count": 19,
+          "time_info": "[07时17分 ~ 23时17分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -130,6 +130,19 @@
           "time_info": "[07时18分 ~ 14时27分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时17分]"
+        },
+        {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
           "url": "https://wallstreetcn.com/livenews/3008932",
           "source": "华尔街见闻-快讯",
@@ -143,18 +156,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时18分 ~ 13时18分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时16分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -497,7 +498,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -530,8 +531,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时23分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[09时23分 ~ 23时17分]"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -652,15 +653,15 @@
           "time_info": "[06时19分 ~ 12时22分]"
         },
         {
-          "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
-          "url": "https://www.zhihu.com/question/1975471032841232421",
-          "source": "知乎",
+          "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
+          "url": "https://wallstreetcn.com/livenews/3009021",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时17分"
         },
         {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
@@ -713,6 +714,18 @@
           "time_info": "[01时17分 ~ 02时26分]"
         },
         {
+          "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
+          "url": "https://www.zhihu.com/question/1975471032841232421",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
           "url": "https://flash.jin10.com/detail/20251122151156685800",
           "source": "金十数据",
@@ -723,6 +736,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 17时18分]"
+        },
+        {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
         },
         {
           "title": "加拿大政府：（加法两国）领导人继续聚焦关键全球优先事项，如关键矿物、清洁能源和人工智能。",
@@ -736,18 +762,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时14分 ~ 21时23分]"
-        },
-        {
-          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
         },
         {
           "title": "不是AI是爱",
@@ -796,6 +810,18 @@
           "time_info": "[17时18分 ~ 18时18分]"
         },
         {
+          "title": "中欧专家呼吁加强人工智能领域务实合作",
+          "url": "https://wallstreetcn.com/livenews/3009007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "报道：白宫搁置一项旨在推翻州级AI法律的行政命令草案",
           "url": "https://wallstreetcn.com/livenews/3008892",
           "source": "华尔街见闻-快讯",
@@ -820,6 +846,18 @@
           "time_info": "[00时25分 ~ 01时17分]"
         },
         {
+          "title": "AI产业为何成为烧钱竞赛",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "哪些令你惊艳的 AI 大语言模型提示词（prompt）？",
           "url": "https://www.zhihu.com/question/5415393695",
           "source": "知乎",
@@ -831,17 +869,6 @@
           "time_info": "12时22分"
         },
         {
-          "title": "中欧专家呼吁加强人工智能领域务实合作",
-          "url": "https://wallstreetcn.com/livenews/3009007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "枭起青壤AI动画热血番具象化",
           "url": "https://www.douyin.com/hot/2313063",
           "source": "抖音",
@@ -851,23 +878,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "AI产业为何成为烧钱竞赛",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本将因高市早苗言论损失多少真金白银？我们算了一笔账",
@@ -1030,6 +1046,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "男子称给女友买1.5万黄金后被拉黑",
+          "url": "https://www.toutiao.com/trending/7575421487273312319/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：10月7日当周，投机者所持COMEX黄金净多头头寸减少15,384手合约，至133,927手合约。 所持COMEX白银净多头头寸减少7,357手合约，至29,893手合约。 所持COMEX铜净多头头寸增加8,536手合约，至58,648手合约。",
@@ -1226,6 +1264,18 @@
           "time_info": "[13时18分 ~ 19时14分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
+        },
+        {
           "title": "谷歌公司推出BigQuery AI。",
           "url": "https://wallstreetcn.com/livenews/3008826",
           "source": "华尔街见闻-快讯",
@@ -1237,16 +1287,17 @@
           "time_info": "01时17分"
         },
         {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             7,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时17分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -1261,29 +1312,17 @@
           "time_info": "[04时21分 ~ 05时17分]"
         },
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
-        },
-        {
           "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
           "url": "https://wallstreetcn.com/articles/3759896",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时17分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -1535,8 +1574,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时17分]"
         },
         {
           "title": "非洲股市收盘播报｜周五（11月21日），南非富时/JSE非洲领先40可交易指数收跌2.09%，逼近10.2万点，跳空低开后低位震荡，本周累计下跌2.29%。 本周，毛里求斯证交所SEMDEX指数累跌2.11%，尼日利亚证交所全部股指累跌2.26%——周一盘中显著跳水、后续持续震荡下行，肯尼亚内罗毕证交所全股指数累涨0.26%。",
@@ -1619,8 +1658,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 22时16分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
@@ -1663,8 +1702,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时23分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[09时23分 ~ 23时17分]"
         },
         {
           "title": "国内首条大容量全固态电池产线建成",
