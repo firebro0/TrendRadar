@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T17:18:44.495116+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2025-11-23T18:19:17.944575+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时19分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -28,11 +28,27 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时19分]"
+        },
+        {
+          "title": "第一批AI公司，已经开始破产了",
+          "url": "https://wallstreetcn.com/articles/3759937",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时19分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -45,11 +61,12 @@
             11,
             12,
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 17时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 18时19分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -66,23 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
-        },
-        {
-          "title": "第一批AI公司，已经开始破产了",
-          "url": "https://wallstreetcn.com/articles/3759937",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时19分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -120,11 +122,12 @@
             2,
             12,
             17,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 18时19分]"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
@@ -152,6 +155,17 @@
           "time_info": "[02时26分 ~ 06时18分]"
         },
         {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时19分]"
+        },
+        {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
           "url": "https://wallstreetcn.com/articles/3759924",
           "source": "华尔街见闻",
@@ -163,15 +177,26 @@
           "time_info": "[09时47分 ~ 11时27分]"
         },
         {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "18时19分"
+        },
+        {
+          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
+          "url": "https://www.zhihu.com/question/1974446156558910121",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -187,8 +212,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 17时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 18时19分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
@@ -199,11 +224,12 @@
             4,
             5,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时19分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -211,11 +237,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "小米汽车被判返还双倍定金",
@@ -241,6 +268,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 04时20分]"
+        },
+        {
+          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 18时19分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -270,20 +312,6 @@
           "time_info": "[11时27分 ~ 14时28分]"
         },
         {
-          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 17时18分]"
-        },
-        {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%A7%8B%E8%B5%9A%E9%92%B1%E4%BA%86+%E4%BD%86%E9%9B%B7%E5%86%9B%E8%BF%98%E6%9C%89%E7%82%B9%E7%83%A6",
           "source": "百度热搜",
@@ -305,8 +333,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "小米公关一号位变动背后",
@@ -334,11 +362,12 @@
             5,
             6,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时19分]"
         },
         {
           "title": "丁程鑫红发绅士solo",
@@ -348,11 +377,12 @@
             11,
             15,
             14,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 18时19分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
@@ -391,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         }
       ]
     },
@@ -410,8 +440,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时19分]"
         },
         {
           "title": "深蓝董事长：固态电池不一定绝对安全",
@@ -469,8 +499,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时19分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -553,11 +583,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -565,11 +596,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "段永平买入特斯拉",
@@ -581,6 +613,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "曝苹果将推出多款廉价产品",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时14分]"
+        },
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
+          "url": "https://www.zhihu.com/question/1973990805782943063",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -652,35 +724,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时27分 ~ 14时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "曝苹果将推出多款廉价产品",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         }
       ]
     },
