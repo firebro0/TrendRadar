@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T22:16:43.884775+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-23T23:17:49.862446+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -112,8 +112,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 23时17分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -141,6 +141,20 @@
           "time_info": "[11时27分 ~ 16时24分]"
         },
         {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 23时17分]"
+        },
+        {
           "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
           "url": "https://flash.jin10.com/detail/20251123140222907800",
           "source": "金十数据",
@@ -154,20 +168,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时28分 ~ 18时19分]"
-        },
-        {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 22时16分]"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
@@ -252,11 +252,31 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 23时17分]"
+        },
+        {
+          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            9,
+            8,
+            7,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时28分 ~ 23时17分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
@@ -274,24 +294,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时27分 ~ 19时15分]"
-        },
-        {
-          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            9,
-            8,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时28分 ~ 22时16分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -364,11 +366,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时17分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -438,11 +441,25 @@
             26,
             16,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 23时17分]"
+        },
+        {
+          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
+          "url": "https://wallstreetcn.com/articles/3759953",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%；以太坊向上触及2800美元/枚，日内涨1.11%。",
@@ -461,19 +478,6 @@
           "time_info": "[11时27分 ~ 18时19分]"
         },
         {
-          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
-          "url": "https://wallstreetcn.com/articles/3759953",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时16分]"
-        },
-        {
           "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
           "url": "https://wallstreetcn.com/articles/3759947",
           "source": "华尔街见闻",
@@ -484,8 +488,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时24分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 23时17分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
@@ -549,6 +553,20 @@
           "time_info": "[00时22分 ~ 09时47分]"
         },
         {
+          "title": "俄央行宣布出售实物黄金意味着什么",
+          "url": "https://www.toutiao.com/trending/7575865502568812073/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            9,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时17分]"
+        },
+        {
           "title": "黄金投资者周报上新！",
           "url": "https://flash.jin10.com/detail/20251123200000000800",
           "source": "金十数据",
@@ -562,28 +580,16 @@
           "time_info": "[20时34分 ~ 22时16分]"
         },
         {
-          "title": "俄央行宣布出售实物黄金意味着什么",
-          "url": "https://www.toutiao.com/trending/7575865502568812073/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时16分]"
-        },
-        {
           "title": "年轻人开始“整顿”黄金市场了吗",
           "url": "https://www.toutiao.com/trending/7575885417782709769/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "俄央行抛售黄金 金价会大跌吗",
@@ -624,11 +630,12 @@
           "url": "https://wallstreetcn.com/livenews/3009124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
@@ -664,9 +671,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         }
       ]
     },
@@ -683,8 +690,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 23时17分]"
         },
         {
           "title": "曝苹果将推出多款廉价产品",
@@ -699,6 +706,18 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
+          "title": "据AXIOS网站：一名美国高级官员表示，以色列并未事先通知美国空袭黎巴嫩一事。美国是在空袭发生后立即获知的。",
+          "url": "https://flash.jin10.com/detail/20251123213338040800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
           "url": "https://www.zhihu.com/question/1973990805782943063",
           "source": "知乎",
@@ -709,17 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 19时15分]"
-        },
-        {
-          "title": "据AXIOS网站：一名美国高级官员表示，以色列并未事先通知美国空袭黎巴嫩一事。美国是在空袭发生后立即获知的。",
-          "url": "https://flash.jin10.com/detail/20251123213338040800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         }
       ]
     },
