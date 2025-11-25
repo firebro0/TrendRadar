@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T12:26:24.617552+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2025-11-25T13:20:37.937302+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -39,11 +39,12 @@
             8,
             10,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时20分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -73,6 +74,19 @@
           "time_info": "[00时22分 ~ 09时27分]"
         },
         {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时20分]"
+        },
+        {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
           "url": "https://www.zhihu.com/question/1962093650352771598",
           "source": "知乎",
@@ -86,30 +100,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 06时18分]"
-        },
-        {
-          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
-          "url": "https://wallstreetcn.com/livenews/3009972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
-          "url": "https://www.cls.cn/detail/2209653",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时26分]"
         },
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -183,6 +173,29 @@
           "time_info": "[02时29分 ~ 04时23分]"
         },
         {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时20分]"
+        },
+        {
+          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
+          "url": "https://wallstreetcn.com/livenews/3009972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
           "url": "https://flash.jin10.com/detail/20251125000337819800",
           "source": "金十数据",
@@ -207,15 +220,17 @@
           "time_info": "[02时29分 ~ 03时14分]"
         },
         {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
           "ranks": [
-            7
+            19,
+            11,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时26分]"
+          "time_info": "[11时14分 ~ 13时20分]"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -231,16 +246,16 @@
           "time_info": "[01时19分 ~ 03时14分]"
         },
         {
-          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
-          "url": "https://www.zhihu.com/question/1976013755256153204",
-          "source": "知乎",
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            11
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时26分]"
+          "time_info": "[12时26分 ~ 13时20分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
@@ -273,7 +288,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -322,17 +337,6 @@
           "time_info": "11时14分"
         },
         {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "特朗普下令启动“创世使命” 计划 大力推动AI科研革命",
           "url": "https://flash.jin10.com/detail/20251125061520606800",
           "source": "金十数据",
@@ -364,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "软银集团暴跌11% 因AI竞争担忧加剧",
+          "url": "https://flash.jin10.com/detail/20251125125119877800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "据日经新闻：日本拟将人工智能、核聚变等列为六大战略技术领域。",
@@ -478,11 +493,12 @@
             12,
             13,
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时20分]"
         },
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -494,8 +510,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时20分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -815,6 +831,18 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
+          "url": "https://wallstreetcn.com/livenews/3009962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
           "title": "周一（11月24日）纽约尾盘，现货黄金涨1.80%，报4138.26美元/盎司，北京时间13:22微跌至4040.25美元刷新日低，随后持续、平滑地上涨。 COMEX黄金期货涨1.44%，报4138.00美元/盎司，日内交投区间为4036.40-4138.20美元。",
           "url": "https://wallstreetcn.com/livenews/3009776",
           "source": "华尔街见闻-快讯",
@@ -872,24 +900,13 @@
           "time_info": "11时14分"
         },
         {
-          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
-          "url": "https://wallstreetcn.com/livenews/3009962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "金十图示：2025年11月25日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251125115245525800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -911,7 +928,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -955,7 +972,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -1035,6 +1052,18 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
+          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
+          "url": "https://wallstreetcn.com/livenews/3009948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
           "title": "沪深ETF规模逾5.7万亿元，注册新规落地激发市场新活力",
           "url": "https://wallstreetcn.com/livenews/3009796",
           "source": "华尔街见闻-快讯",
@@ -1066,17 +1095,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
-          "url": "https://wallstreetcn.com/livenews/3009948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
         },
         {
           "title": "金十图示：2025年11月25日（周二）亚太市场股市指数（盘初）",
@@ -1137,7 +1155,7 @@
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -1150,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 11时14分]"
+        },
+        {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)正考虑斥资数十亿美元购买谷歌的TPU，包括用于Meta公司的数据中心。双方希望2027年落地该计划。",
@@ -1276,7 +1305,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -1324,6 +1353,18 @@
           "time_info": "[09时27分 ~ 11时14分]"
         },
         {
+          "title": "苹果夹烤肉",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
           "url": "https://wallstreetcn.com/livenews/3009747",
           "source": "华尔街见闻-快讯",
@@ -1346,17 +1387,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "苹果夹烤肉",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
           "url": "https://flash.jin10.com/detail/20251125034040133800",
           "source": "金十数据",
@@ -1366,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "苹果已经在烤肉届杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%83%A4%E8%82%89%E5%B1%8A%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普已告知其顾问，他正计划直接与委内瑞拉总统马杜罗对话。",
@@ -1385,7 +1426,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -1401,11 +1442,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时20分]"
         },
         {
           "title": "狂蹭小米博流量,造谣者慌了!",
@@ -1415,11 +1457,12 @@
             11,
             13,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时20分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -1453,11 +1496,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时20分]"
         },
         {
           "title": "恒生科技指数涨2%。百度、哔哩哔哩、小米涨超4%。",
@@ -1469,6 +1513,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时20分]"
+        },
+        {
+          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
+          "url": "https://wallstreetcn.com/articles/3759972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "欧洲汽车制造商协会：特斯拉10月在欧盟的新车注册量下降了48%。",
+          "url": "https://flash.jin10.com/detail/20251125130045287800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
+          "url": "https://flash.jin10.com/detail/20251125055653747800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "专家：马斯克撕破西方的假仁假义",
+          "url": "https://www.toutiao.com/trending/7576240890289606163/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     },
@@ -1498,8 +1605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "中美元首此次通话极为重要极不寻常",
@@ -1508,9 +1615,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
         },
         {
           "title": "中美元首此次通话极为重要极不寻常",
@@ -1521,59 +1628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时26分]"
-        },
-        {
-          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
-          "url": "https://wallstreetcn.com/articles/3759972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
-          "url": "https://flash.jin10.com/detail/20251125055653747800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "专家：马斯克撕破西方的假仁假义",
-          "url": "https://www.toutiao.com/trending/7576240890289606163/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时20分]"
         }
       ]
     },
