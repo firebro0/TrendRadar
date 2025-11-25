@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T21:35:18.048960+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2025-11-25T22:21:09.502907+08:00",
+  "total_titles_processed": 1962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -35,6 +35,19 @@
           "time_info": "[00时22分 ~ 06时18分]"
         },
         {
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
           "url": "https://www.zhihu.com/question/1976013755256153204",
           "source": "知乎",
@@ -44,11 +57,12 @@
             5,
             4,
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时14分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[11时14分 ~ 22时21分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -61,21 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时26分 ~ 21时35分]"
-        },
-        {
-          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
-          "url": "https://www.cls.cn/detail/2210415",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 21时35分]"
+          "appearance_count": 17,
+          "time_info": "[12时26分 ~ 22时21分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -107,8 +108,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 21时35分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 22时21分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 22时21分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -164,16 +177,18 @@
           "time_info": "[17时23分 ~ 21时35分]"
         },
         {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
+          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
+          "url": "https://www.zhihu.com/question/1976610994328445009",
+          "source": "知乎",
           "ranks": [
-            11,
-            10
+            19,
+            12,
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[18时23分 ~ 21时35分]"
+          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -191,17 +206,16 @@
           "time_info": "[01时18分 ~ 06时18分]"
         },
         {
-          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
-          "url": "https://www.zhihu.com/question/1976610994328445009",
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
           "source": "知乎",
           "ranks": [
-            19,
-            12,
-            8
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -221,7 +235,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -243,7 +257,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -265,7 +279,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -368,17 +382,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时14分]"
-        },
-        {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "日本将把人工智能列入6大战略技术领域",
@@ -495,13 +498,24 @@
           "time_info": "11时14分"
         },
         {
+          "title": "阿里巴巴：未来三年内不太可能出现人工智能泡沫",
+          "url": "https://wallstreetcn.com/livenews/3010265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "阿里电话会披露AI战略进展：B端C端齐发力",
           "url": "https://wallstreetcn.com/livenews/3010237",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -649,6 +663,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "阿里巴巴(09988.HK)CEO：未来三年内不太可能出现人工智能泡沫。",
+          "url": "https://flash.jin10.com/detail/20251125213612361800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "欧洲央行行长拉加德警告：欧盟在AI领域错失良机，未来面临风险",
           "url": "https://wallstreetcn.com/livenews/3009659",
           "source": "华尔街见闻-快讯",
@@ -669,12 +694,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：未来三年，人工智能资源整体将处于供不应求的状态。",
+          "url": "https://flash.jin10.com/detail/20251125213541065800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -727,6 +763,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
@@ -1384,6 +1431,20 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
           "url": "https://www.cls.cn/detail/2209826",
           "source": "财联社热门",
@@ -1399,20 +1460,6 @@
           "time_info": "[13时20分 ~ 20时42分]"
         },
         {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 21时35分]"
-        },
-        {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
@@ -1424,30 +1471,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[15时21分 ~ 22时21分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
           "url": "https://www.cls.cn/detail/2210371",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
           "url": "https://www.cls.cn/detail/2210485",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -1862,8 +1911,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时27分 ~ 21时35分]"
+          "appearance_count": 19,
+          "time_info": "[09时27分 ~ 22时21分]"
         },
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -1874,8 +1923,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[16时28分 ~ 22时21分]"
         },
         {
           "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
@@ -1889,21 +1938,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[16时28分 ~ 22时21分]"
         },
         {
-          "title": "外交部：此次中美元首通话由美方发起",
-          "url": "https://www.toutiao.com/trending/7576560877021695507/",
-          "source": "今日头条",
+          "title": "“中美‘默契’敲打日本：老实点”",
+          "url": "https://news.ifeng.com/c/8oZXSgs1vde",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            7,
-            16
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -1933,6 +1981,20 @@
           "time_info": "[00时22分 ~ 09时27分]"
         },
         {
+          "title": "外交部：此次中美元首通话由美方发起",
+          "url": "https://www.toutiao.com/trending/7576560877021695507/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时28分 ~ 22时21分]"
+        },
+        {
           "title": "中美元首通话是美方发起的",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E6%98%AF%E7%BE%8E%E6%96%B9%E5%8F%91%E8%B5%B7%E7%9A%84",
           "source": "bilibili 热搜",
@@ -1943,18 +2005,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时28分 ~ 19时19分]"
-        },
-        {
-          "title": "“中美‘默契’敲打日本：老实点”",
-          "url": "https://news.ifeng.com/c/8oZXSgs1vde",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 21时35分]"
         },
         {
           "title": "中美元首此次通话极为重要极不寻常",
@@ -1972,6 +2022,18 @@
           "time_info": "[09时27分 ~ 17时23分]"
         },
         {
+          "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32038521",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "中美元首再沟通，“台湾问题是重点”",
           "url": "https://news.ifeng.com/c/8oZOU2Yu2Z2",
           "source": "凤凰网",
@@ -1983,17 +2045,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时21分 ~ 18时24分]"
-        },
-        {
-          "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32038521",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 21时35分]"
         },
         {
           "title": "中美元首通话聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
@@ -2081,7 +2132,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -2164,6 +2215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
+          "title": "汪峰大女儿小苹果疑似恋爱",
+          "url": "https://www.toutiao.com/trending/7576376875753177124/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
@@ -2259,8 +2321,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[15时21分 ~ 22时21分]"
         },
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
@@ -2293,8 +2355,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 21时35分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 22时21分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -2420,8 +2482,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 21时35分]"
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 22时21分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 22时21分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -2436,18 +2510,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时27分 ~ 15时21分]"
-        },
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 21时35分]"
         },
         {
           "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
@@ -2599,6 +2661,18 @@
           "time_info": "14时32分"
         },
         {
+          "title": "比特币一个多月来下跌近35%",
+          "url": "https://www.douyin.com/hot/2317407",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 22时21分]"
+        },
+        {
           "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
           "url": "https://wallstreetcn.com/livenews/3009775",
           "source": "华尔街见闻-快讯",
@@ -2609,17 +2683,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "比特币一个多月来下跌近35%",
-          "url": "https://www.douyin.com/hot/2317407",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         }
       ]
     },
@@ -2651,11 +2714,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[17时23分 ~ 22时21分]"
         }
       ]
     }
