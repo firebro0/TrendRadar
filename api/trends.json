@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T05:19:17.758630+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2025-11-26T06:19:55.186421+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -16,19 +16,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时19分]"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，标普500股指期货最终涨0.89%，道指期货涨1.46%，纳斯达克100股指期货涨0.49%。 罗素2000股指期货涨2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3010420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -37,7 +49,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -48,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -59,7 +71,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -70,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -130,9 +142,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.68%，报301.82点。 纽约证交所ARCA金矿开采商指数收涨0.77%，报2179.87点；北京时间22:30美股开盘之前持稳于2172点附近——保持微幅上涨状态、之后出现一波V形反转行情。",
+          "url": "https://wallstreetcn.com/livenews/3010414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3010410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美股收盘：三大股指低开高收 英伟达跌超2%",
@@ -141,9 +175,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数的11个板块多数上涨，保健板块收涨2.16%，可选消费、电信板块至少涨1.63%，金融板块涨1.19%表现靠后，信息技术/科技板块则收跌0.03%，能源板块跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3010405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "标普500指数尾盘涨幅扩大至1%。",
@@ -152,9 +197,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.35%，报7753.25点。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.26%。 中国科技指数ETF（CQQQ）收涨1.18%，中概互联网指数ETF（KWEB）收涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3010397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "英伟达下跌5.5%，市值蒸发2430亿美元。 半导体指数跌幅扩大至3.4%，纳斯达克100指数跌幅随后扩大至1%。",
@@ -204,8 +260,21 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
+        },
         {
           "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
           "url": "https://www.cls.cn/detail/2210415",
@@ -215,20 +284,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
-        },
-        {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
@@ -238,8 +295,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -249,8 +306,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -260,8 +317,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
@@ -275,26 +332,26 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
-          "title": "戴尔(DELL.N)：今年下半年人工智能势头正在加速，迄今为止已收到300亿美元的人工智能服务器订单。",
-          "url": "https://flash.jin10.com/detail/20251126050745140800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
           "url": "https://wallstreetcn.com/livenews/3010403",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "多地发布人工智能新场景，加速新领域供需适配",
+          "url": "https://wallstreetcn.com/livenews/3010421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "戴尔(DELL.N)上调2026财年AI出货指引至约250亿美元。",
@@ -303,7 +360,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -313,11 +370,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时19分]"
+        },
+        {
+          "title": "戴尔(DELL.N)：今年下半年人工智能势头正在加速，迄今为止已收到300亿美元的人工智能服务器订单。",
+          "url": "https://flash.jin10.com/detail/20251126050745140800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时19分]"
+          "time_info": "[05时19分 ~ 06时19分]"
         },
         {
           "title": "00后谈恋爱用AI当“僚机”",
@@ -325,11 +395,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 06时19分]"
         },
         {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
@@ -342,6 +413,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时21分]"
+        },
+        {
+          "title": "戴尔上调全年AI服务器发货预期",
+          "url": "https://wallstreetcn.com/livenews/3010403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "戴尔第四财季指引乐观 AI服务器销售强劲成驱动力",
+          "url": "https://flash.jin10.com/detail/20251126052005700800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "惠普(HPQ.N)首席执行官：惠普将加大对某些领域的投资，以将人工智能融入其产品组合中。",
+          "url": "https://flash.jin10.com/detail/20251126051715916800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "惠普(HPQ.N)首席执行官：惠普预计将借助人工智能加速产品和软件的开发。",
+          "url": "https://flash.jin10.com/detail/20251126051639703800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "惠普(HPQ.N)计划在全球范围内裁减4000至6000名员工，以推动全公司范围内采用人工智能。",
+          "url": "https://flash.jin10.com/detail/20251126051604849800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
@@ -357,19 +483,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1976422285205329357",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "中美元首通话释放了哪些信号",
@@ -381,8 +508,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "“中美‘默契’敲打日本：老实点”",
@@ -392,8 +519,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "大外交｜中美元首通话重点聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
@@ -404,8 +531,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "外交部：此次中美元首通话由美方发起",
@@ -415,11 +542,12 @@
             25,
             24,
             23,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "中美元首此次通话极为重要极不寻常",
@@ -428,11 +556,12 @@
           "ranks": [
             19,
             9,
-            15
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时30分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[02时30分 ~ 06时19分]"
         },
         {
           "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
@@ -471,8 +600,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -482,8 +611,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -493,8 +622,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -502,11 +631,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -561,8 +691,19 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "周二（11月25日）纽约尾盘，现货白银涨0.07%，报51.3992美元/盎司。 COMEX白银期货涨1.35%，报51.005美元/盎司。 COMEX铜期货涨1.07%，报50.205美元/磅，北京时间21:24曾冲高回至5.1050美元。 现货铂金涨0.13%，报1555.02美元/盎司；现货钯金涨0.20%，报1396.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 11月25日（周二）晚盘收盘上涨0.17%报941.6元/克；<br/>上海黄金交易所白银T+D 11月25日（周二）晚盘收盘下跌0.33%报12089.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251126023110155800",
@@ -574,6 +715,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时23分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月14日当周，投机者所持COMEX黄金净多头头寸减少24,350手合约，至109,577手合约。 所持WTI原油净空头头寸增加7,089手合约，至49,576手合约。",
+          "url": "https://wallstreetcn.com/livenews/3010389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时19分]"
         },
         {
           "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
@@ -588,15 +741,15 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：10月14日当周，投机者所持COMEX黄金净多头头寸减少24,350手合约，至109,577手合约。 所持WTI原油净空头头寸增加7,089手合约，至49,576手合约。",
-          "url": "https://wallstreetcn.com/livenews/3010389",
+          "title": "周二（11月25日）纽约尾盘，现货黄金跌0.14%，报4130.59美元/盎司，日内交投于4159.30-4109.68美元区间。 COMEX黄金期货涨0.81%，报4127.20美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010413",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "06时19分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月14日当周，COMEX白银投机者将净多头头寸减少了4,931手，至24,963手。",
@@ -605,7 +758,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -616,7 +769,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
@@ -624,7 +777,7 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
@@ -675,12 +828,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时23分]"
+        },
+        {
+          "title": "20岁小苹果身高已超1米7",
+          "url": "https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%B0%8F%E8%8B%B9%E6%9E%9C%E8%BA%AB%E9%AB%98%E5%B7%B2%E8%B6%851%E7%B1%B37%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "汪峰大女儿小苹果疑似恋爱",
+          "url": "https://www.toutiao.com/trending/7576376875753177124/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年11月26日（周三）全球股市指数-欧洲市场（收盘）",
@@ -703,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251126050747146800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "德国股指收涨约1%，意大利银行板块涨2%，丹麦股市反弹超1.9%",
@@ -741,8 +927,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "雷军回应小米再捐5500万",
@@ -754,8 +940,41 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 06时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币一个多月来下跌近35%",
+          "url": "https://www.douyin.com/hot/2317407",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            12,
+            10,
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
+          "url": "https://wallstreetcn.com/livenews/3010418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
@@ -771,8 +990,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -783,32 +1002,12 @@
             16,
             9,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币一个多月来下跌近35%",
-          "url": "https://www.douyin.com/hot/2317407",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            12,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 06时19分]"
         }
       ]
     }
