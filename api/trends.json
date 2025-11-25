@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T02:31:02.891398+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-11-26T03:17:19.043018+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 03时17分]"
         },
         {
           "title": "标普500指数涨幅扩大至0.5%，道指涨475点涨幅超过1%，纳指涨0.1%，半导体指数跌1.4%。",
@@ -24,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时17分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -43,37 +55,28 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
-          "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 02时31分]"
-        },
-        {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251126013932256800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251126013741004800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
           "title": "英伟达下跌5.5%，市值蒸发2430亿美元。 半导体指数跌幅扩大至3.4%，纳斯达克100指数跌幅随后扩大至1%。",
@@ -133,8 +136,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
@@ -144,19 +147,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "中美元首通话释放了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "“中美‘默契’敲打日本：老实点”",
@@ -166,8 +158,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "中美元首通话释放了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "大外交｜中美元首通话重点聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
@@ -178,8 +182,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "外交部：此次中美元首通话由美方发起",
@@ -187,11 +191,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "中美元首此次通话极为重要极不寻常",
@@ -201,8 +206,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 03时17分]"
         },
         {
           "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
@@ -212,100 +217,14 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai 人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
-          "url": "https://www.cls.cn/detail/2210415",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
-          "url": "https://wallstreetcn.com/articles/3760106",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "两美刀逼疯AI!怒要报官告公司",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
-          "url": "https://wallstreetcn.com/livenews/3010309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 03时17分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google pixel",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -316,8 +235,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -327,8 +246,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -338,8 +257,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -350,8 +269,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
+          "url": "https://flash.jin10.com/detail/20251126024316318800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
+          "url": "https://flash.jin10.com/detail/20251126023611975800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
+          "url": "https://wallstreetcn.com/livenews/3010363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -368,20 +320,95 @@
       ]
     },
     {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 4,
+      "keyword_group": "ai 人工智能",
+      "match_count": 7,
       "titles": [
         {
-          "title": "机构：苹果势将超越三星，重夺全球最大智能手机制造商桂冠",
-          "url": "https://wallstreetcn.com/livenews/3010354",
-          "source": "华尔街见闻-快讯",
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
+          "url": "https://wallstreetcn.com/articles/3760106",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
+          "url": "https://wallstreetcn.com/livenews/3010309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 4,
+      "titles": [
         {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3010321",
@@ -407,15 +434,28 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
+          "title": "机构：苹果势将超越三星，重夺全球最大智能手机制造商桂冠",
+          "url": "https://wallstreetcn.com/livenews/3010354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
           "title": "苹果有望超越三星 再度成为全球最大智能手机制造商",
           "url": "https://flash.jin10.com/detail/20251126020759372800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         }
       ]
     },
@@ -452,9 +492,78 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 小鹏 小米 理想",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小米股价暴跌35%背后有何隐情",
+          "url": "https://www.toutiao.com/trending/7576655923473550889/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "小米双11耍赖皮,特价秒杀玩不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347482&amp;topic_name=%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E8%80%8D%E8%B5%96%E7%9A%AE%2C%E7%89%B9%E4%BB%B7%E7%A7%92%E6%9D%80%E7%8E%A9%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "雷军回应小米再捐5500万",
+          "url": "https://www.douyin.com/hot/2317701",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3010340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月25日（周二）晚盘收盘上涨0.17%报941.6元/克；<br/>上海黄金交易所白银T+D 11月25日（周二）晚盘收盘下跌0.33%报12089.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251126023110155800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },
@@ -470,8 +579,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -480,40 +589,12 @@
           "ranks": [
             10,
             16,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小米股价暴跌35%背后有何隐情",
-          "url": "https://www.toutiao.com/trending/7576655923473550889/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "小米双11耍赖皮,特价秒杀玩不起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347482&amp;topic_name=%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E8%80%8D%E8%B5%96%E7%9A%AE%2C%E7%89%B9%E4%BB%B7%E7%A7%92%E6%9D%80%E7%8E%A9%E4%B8%8D%E8%B5%B7",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     },
@@ -528,28 +609,12 @@
           "ranks": [
             19,
             21,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 02时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3010340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 03时17分]"
         }
       ]
     }
