@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T16:28:31.465538+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-11-25T17:23:42.053687+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -30,8 +30,23 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 17时23分]"
+        },
+        {
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时27分 ~ 16时28分]"
+          "time_info": "[11时14分 ~ 17时23分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -57,11 +72,12 @@
             18,
             19,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时23分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -91,21 +107,6 @@
           "time_info": "[00时22分 ~ 09时27分]"
         },
         {
-          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
-          "url": "https://www.zhihu.com/question/1976013755256153204",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 16时28分]"
-        },
-        {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
           "url": "https://www.cls.cn/detail/2209616",
           "source": "财联社热门",
@@ -115,8 +116,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 17时23分]"
+        },
+        {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时23分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -132,19 +147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 06时18分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
         },
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -371,6 +373,17 @@
           "time_info": "11时14分"
         },
         {
+          "title": "硬科技迎资金活水，首批7只双创人工智能ETF周五齐发",
+          "url": "https://www.cls.cn/detail/2210084",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "特朗普下令启动“创世使命” 计划 大力推动AI科研革命",
           "url": "https://flash.jin10.com/detail/20251125061520606800",
           "source": "金十数据",
@@ -454,7 +467,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -861,8 +874,30 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "现货白银向下触及51美元/盎司，日内跌0.68%。",
+          "url": "https://flash.jin10.com/detail/20251125165144150800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "现货黄金短线走低10美元，回落至4120美元/盎司下方，日内跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20251125165037538800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
         {
           "title": "现货黄金短线拉升10余美元，日内涨超1.00%，现报4106.56美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251125023858420800",
@@ -970,6 +1005,17 @@
           "time_info": "11时14分"
         },
         {
+          "title": "现货白银日内跌幅达1%，报50.79美元/盎司；现货黄金日内跌幅达0.5%，报4109.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "金十图示：2025年11月25日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251125115245525800",
           "source": "金十数据",
@@ -1009,7 +1055,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1083,8 +1129,19 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "德意志银行策略师：科技股引发股市全线下跌的可能性不大",
+          "url": "https://wallstreetcn.com/livenews/3010129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-25）",
           "url": "https://flash.jin10.com/detail/20251125090706775800",
@@ -1103,7 +1160,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1174,7 +1231,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1280,6 +1337,190 @@
       ]
     },
     {
+      "keyword_group": "中美",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976422285205329357",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 17时23分]"
+        },
+        {
+          "title": "中美元首通电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时27分]"
+        },
+        {
+          "title": "中美元首此次通话极为重要极不寻常",
+          "url": "https://www.toutiao.com/trending/7576455726567017993/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            1,
+            7,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 17时23分]"
+        },
+        {
+          "title": "中美元首再沟通，“台湾问题是重点”",
+          "url": "https://news.ifeng.com/c/8oZOU2Yu2Z2",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时23分]"
+        },
+        {
+          "title": "中美元首通话聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
+          "url": "https://news.ifeng.com/c/8oZJAzOWFoP",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时23分]"
+        },
+        {
+          "title": "中美元首此次通话极为重要极不寻常",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%AD%A4%E6%AC%A1%E9%80%9A%E8%AF%9D%E6%9E%81%E4%B8%BA%E9%87%8D%E8%A6%81%E6%9E%81%E4%B8%8D%E5%AF%BB%E5%B8%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            8,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 16时28分]"
+        },
+        {
+          "title": "外交部：此次中美元首通话由美方发起",
+          "url": "https://www.toutiao.com/trending/7576560877021695507/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "外交部：中美元首通话是美方发起的",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E6%98%AF%E7%BE%8E%E6%96%B9%E5%8F%91%E8%B5%B7%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "中美元首通话是美方发起的",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E6%98%AF%E7%BE%8E%E6%96%B9%E5%8F%91%E8%B5%B7%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "外交部：中美元首通话是美方发起的",
+          "url": "https://news.ifeng.com/c/8oZPdoEp2zu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
+          "url": "https://www.cls.cn/detail/2210157",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
+          "title": "中美元首通话是美方发起",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E6%98%AF%E7%BE%8E%E6%96%B9%E5%8F%91%E8%B5%B7%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "外交部回应中美元首通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "【外交部：中美元首通话是美方发起的，通话氛围是积极的、友好的、建设性的】在11月25日外交部例行记者会上，有记者提问称，根据中方发布的消息，昨晚中美元首通了电话，请问这次通话是由中方主动提议，还是应美方邀请进行？另外这次通话持续了多长时间？中方如何评价这次通话的成果？对此，发言人毛宁表示，特朗普总统第二任期以来，中美元首保持着经常性的交往。据我了解，此次通话是美方发起的，通话的氛围是积极的、友好的、建设性的。两国元首就共同关心的问题进行沟通，对中美关系稳定发展十分重要。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3010059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "媒体谈中美元首再通话聚焦台湾问题",
+          "url": "https://www.toutiao.com/trending/7576552383841308211/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 14,
       "titles": [
@@ -1331,6 +1572,18 @@
           "time_info": "[13时20分 ~ 15时21分]"
         },
         {
+          "title": "波兰反垄断监管机构就隐私政策调查苹果。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3010085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
+        },
+        {
           "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
           "url": "https://www.cls.cn/detail/2209345",
           "source": "财联社热门",
@@ -1352,17 +1605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时20分]"
-        },
-        {
-          "title": "波兰反垄断监管机构就隐私政策调查苹果。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3010085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
@@ -1426,7 +1668,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1457,19 +1699,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时23分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时23分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -1607,166 +1850,6 @@
       ]
     },
     {
-      "keyword_group": "中美",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976422285205329357",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 16时28分]"
-        },
-        {
-          "title": "中美元首通电话",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时27分]"
-        },
-        {
-          "title": "中美元首此次通话极为重要极不寻常",
-          "url": "https://www.toutiao.com/trending/7576455726567017993/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            1,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 16时28分]"
-        },
-        {
-          "title": "中美元首此次通话极为重要极不寻常",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%AD%A4%E6%AC%A1%E9%80%9A%E8%AF%9D%E6%9E%81%E4%B8%BA%E9%87%8D%E8%A6%81%E6%9E%81%E4%B8%8D%E5%AF%BB%E5%B8%B8",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            8,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
-        },
-        {
-          "title": "中美元首再沟通，“台湾问题是重点”",
-          "url": "https://news.ifeng.com/c/8oZOU2Yu2Z2",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时28分]"
-        },
-        {
-          "title": "中美元首通话聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
-          "url": "https://news.ifeng.com/c/8oZJAzOWFoP",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时28分]"
-        },
-        {
-          "title": "外交部：此次中美元首通话由美方发起",
-          "url": "https://www.toutiao.com/trending/7576560877021695507/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "外交部：中美元首通话是美方发起的",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E6%98%AF%E7%BE%8E%E6%96%B9%E5%8F%91%E8%B5%B7%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "中美元首通话是美方发起的",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D%E6%98%AF%E7%BE%8E%E6%96%B9%E5%8F%91%E8%B5%B7%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "外交部：中美元首通话是美方发起的",
-          "url": "https://news.ifeng.com/c/8oZPdoEp2zu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
-          "url": "https://www.cls.cn/detail/2210157",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "【外交部：中美元首通话是美方发起的，通话氛围是积极的、友好的、建设性的】在11月25日外交部例行记者会上，有记者提问称，根据中方发布的消息，昨晚中美元首通了电话，请问这次通话是由中方主动提议，还是应美方邀请进行？另外这次通话持续了多长时间？中方如何评价这次通话的成果？对此，发言人毛宁表示，特朗普总统第二任期以来，中美元首保持着经常性的交往。据我了解，此次通话是美方发起的，通话的氛围是积极的、友好的、建设性的。两国元首就共同关心的问题进行沟通，对中美关系稳定发展十分重要。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3010059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "媒体谈中美元首再通话聚焦台湾问题",
-          "url": "https://www.toutiao.com/trending/7576552383841308211/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 9,
       "titles": [
@@ -1795,11 +1878,12 @@
             21,
             22,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时23分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -1833,22 +1917,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时28分]"
-        },
-        {
-          "title": "恒生指数收盘涨0.69%，恒生科技指数涨1.2%。万国数据涨约6%，哔哩哔哩涨约5%，小米集团涨约4%。",
-          "url": "https://wallstreetcn.com/livenews/3010089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 17时23分]"
         },
         {
           "title": "雷军斥资1亿港元增持小米",
@@ -1863,6 +1937,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时14分 ~ 14时32分]"
+        },
+        {
+          "title": "恒生指数收盘涨0.69%，恒生科技指数涨1.2%。万国数据涨约6%，哔哩哔哩涨约5%，小米集团涨约4%。",
+          "url": "https://wallstreetcn.com/livenews/3010089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时23分]"
         },
         {
           "title": "小米集团涨4.5%",
@@ -1995,7 +2081,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "优必选中标2.64亿元人形机器人项目",
@@ -2007,6 +2093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "王兴兴、稚晖君入选，工信部人形机器人标准化技术委员会名单公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32031326",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     },
@@ -2024,6 +2121,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光伏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年内涨幅超130%，光伏、军工、PCB钻针新兴需求强劲，钨正迎来重新估值？",
+          "url": "https://www.cls.cn/detail/2210210",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
