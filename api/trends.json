@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T22:21:09.502907+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-11-25T23:22:24.850257+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -41,11 +41,12 @@
           "ranks": [
             13,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
@@ -72,11 +73,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时26分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[12时26分 ~ 23时22分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -89,6 +91,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时19分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -105,23 +120,12 @@
             24,
             26,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时22分 ~ 22时21分]"
-        },
-        {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 31,
+          "time_info": "[00时22分 ~ 23时22分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -187,8 +191,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时18分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[19时18分 ~ 23时22分]"
+        },
+        {
+          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
+          "url": "https://www.zhihu.com/question/1975840016744858598",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时22分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -204,18 +221,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 06时18分]"
-        },
-        {
-          "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
-          "url": "https://www.zhihu.com/question/1975840016744858598",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时21分]"
         },
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -240,6 +245,17 @@
           "time_info": "21时35分"
         },
         {
+          "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
+          "url": "https://wallstreetcn.com/livenews/3010309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
           "url": "https://flash.jin10.com/detail/20251125024002118800",
           "source": "金十数据",
@@ -260,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
+          "url": "https://wallstreetcn.com/articles/3760106",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
@@ -504,7 +531,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -669,7 +696,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -702,7 +729,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -710,7 +737,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 37,
+      "match_count": 46,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -765,17 +792,6 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3010279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
           "url": "https://flash.jin10.com/detail/20251125070008701800",
           "source": "金十数据",
@@ -821,6 +837,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时24分 ~ 19时19分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时22分]"
         },
         {
           "title": "柯尔百货美股盘前涨幅扩大至逾24%，公司上调全财年指引。",
@@ -1026,6 +1054,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2210782",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
           "url": "https://flash.jin10.com/detail/20251125050102306800",
           "source": "金十数据",
@@ -1059,6 +1098,39 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美股费城半导体指数下跌3%。",
+          "url": "https://flash.jin10.com/detail/20251125225344695800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "标普500医疗保健板块创下历史新高，最新上涨1.3%。",
+          "url": "https://flash.jin10.com/detail/20251125225044942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "英伟达下跌5.5%，市值蒸发2430亿美元。 半导体指数跌幅扩大至3.4%，纳斯达克100指数跌幅随后扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3010290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "分析：美股若震荡加剧，或迫使美联储降息",
           "url": "https://flash.jin10.com/detail/20251125180247597800",
           "source": "金十数据",
@@ -1079,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3010287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "标普：预测加拿大的失业率将在2026年逐步下降。",
@@ -1114,6 +1197,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "标普500指数的11个板块中，科技板块盘初跌1.07%，能源板块跌0.64%，金融、工业、保健、原材料、电信板块则至多涨超0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3010285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨2.82%，报7726.23点。 ETF中，中概互联网指数ETF（KWEB）收涨2.91%，中国科技指数ETF（CQQQ）收涨2.82%。 中国ETF-iShares MSCI（MCHI）收涨1.71%，XtrackersHarvest中证50（ASHS）收涨0.90%，德银嘉实沪深300指数ETF（ASHR）收涨0.19%。",
           "url": "https://wallstreetcn.com/livenews/3009762",
           "source": "华尔街见闻-快讯",
@@ -1123,6 +1217,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "标普500指数低开8.09点，跌幅0.12%，报6697.03点； 道琼斯工业平均指数高开34.09点，涨幅0.07%，报46482.36点； 纳斯达克综合指数低开69.16点，跌幅0.30%，报22802.85点。",
+          "url": "https://wallstreetcn.com/livenews/3010283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251125224331100800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -1145,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.28%，标普500指数跌0.06%，纳指跌0.39%。谷歌母公司Alphabet涨2%，此前报道称，谷歌正与Meta商讨一项价值数十亿美元的协议，计划自2027年起向Meta的数据中心供应定制AI芯片。英伟达(NVDA.O)跌4%。阿里巴巴(BABA.N)涨2%。",
+          "url": "https://flash.jin10.com/detail/20251125223046114800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -1427,6 +1554,249 @@
       ]
     },
     {
+      "keyword_group": "沪深 股市",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-25）",
+          "url": "https://flash.jin10.com/detail/20251125090706775800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251125161654615800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "沪深京三市成交额超1.5万亿元，较上日此时放量1188亿元。",
+          "url": "https://wallstreetcn.com/livenews/3010006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时21分]"
+        },
+        {
+          "title": "德意志银行策略师：科技股引发股市全线下跌的可能性不大",
+          "url": "https://wallstreetcn.com/livenews/3010129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时24分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050636470800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "据知情人士透露，英国财政大臣Reeves将在其预算案中把年度现金个人储蓄账户限额削减至12,000英镑，此举旨在推动储蓄流入英国股市。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3009684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（11月24日），南非富时/JSE非洲领先40可交易指数收涨0.37%，报10.3万点。 日线图上，南非股指自11月13日涨至10.8万点创盘中历史新高、按10.7万点创收盘历史新高以来，持续回调。",
+          "url": "https://wallstreetcn.com/livenews/3009679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
+        },
+        {
+          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
+          "url": "https://wallstreetcn.com/livenews/3009948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251125161531693800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251125230055987800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "上证指数收报3870.02点，涨0.87%。 深证成指收报12777.31点，涨1.53%。 创业板指收报2980.93点，涨1.77%。 沪深300收报4490.40点，涨0.95%。 科创50收报1302.17点，涨0.43%。 中证500收报6954.60点，涨1.25%。 中证1000收报7249.95点，涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3010041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "沪深ETF规模逾5.7万亿元，注册新规落地激发市场新活力",
+          "url": "https://wallstreetcn.com/livenews/3009796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "沪指涨幅扩大至1%，深成指涨2.11%，创业板指涨2.92%，AI应用、教育、游戏、算力硬件、贵金属等方向涨幅居前，沪深京三市上涨个股近4800只。",
+          "url": "https://wallstreetcn.com/livenews/3009908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-25）",
+          "url": "https://flash.jin10.com/detail/20251125083849690800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251125180416847800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "金十图示：2025年11月25日（周二）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20251125102548495800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.65%，深成指涨1.42%，算力硬件、AI应用、贵金属、量子科技等方向领涨，沪深京三市上涨个股超4600只。",
+          "url": "https://wallstreetcn.com/livenews/3009889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "美国股市延续跌势，纳指跌幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251125224622120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251124231054180800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "德国股指收涨超0.6%，意大利股市跌超0.8%，银行板块跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/3009698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "上证指数开盘报3850.57点，涨0.36%。 深证成指开盘报12692.09点，涨0.85%。 创业板指开盘报2970.73点，涨1.42%。 沪深300开盘报4475.84点，涨0.62%。 科创50开盘报1309.67点，涨1.01%。 中证500开盘报6915.12点，涨0.67%。 中证1000开盘报7195.10点，涨0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3009865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google pixel",
       "match_count": 21,
       "titles": [
@@ -1441,8 +1811,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
@@ -1471,8 +1841,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时21分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[15时21分 ~ 23时22分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -1480,11 +1850,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时18分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[19时18分 ~ 23时22分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -1492,11 +1863,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时22分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -1679,227 +2051,6 @@
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-25）",
-          "url": "https://flash.jin10.com/detail/20251125090706775800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）沪深港通南向资金流向",
-          "url": "https://flash.jin10.com/detail/20251125161654615800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "沪深京三市成交额超1.5万亿元，较上日此时放量1188亿元。",
-          "url": "https://wallstreetcn.com/livenews/3010006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时21分]"
-        },
-        {
-          "title": "德意志银行策略师：科技股引发股市全线下跌的可能性不大",
-          "url": "https://wallstreetcn.com/livenews/3010129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时24分]"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050636470800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "据知情人士透露，英国财政大臣Reeves将在其预算案中把年度现金个人储蓄账户限额削减至12,000英镑，此举旨在推动储蓄流入英国股市。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3009684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时19分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（11月24日），南非富时/JSE非洲领先40可交易指数收涨0.37%，报10.3万点。 日线图上，南非股指自11月13日涨至10.8万点创盘中历史新高、按10.7万点创收盘历史新高以来，持续回调。",
-          "url": "https://wallstreetcn.com/livenews/3009679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时19分]"
-        },
-        {
-          "title": "上证指数早盘收报3880.22点，涨1.13%。 深证成指早盘收报12841.60点，涨2.04%。 创业板指早盘收报3005.23点，涨2.60%。 沪深300早盘收报4504.16点，涨1.26%。 科创50早盘收报1314.21点，涨1.36%。 中证500早盘收报6999.07点，涨1.89%。 中证1000早盘收报7293.96点，涨1.92%。",
-          "url": "https://wallstreetcn.com/livenews/3009948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时20分]"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251125161531693800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "上证指数收报3870.02点，涨0.87%。 深证成指收报12777.31点，涨1.53%。 创业板指收报2980.93点，涨1.77%。 沪深300收报4490.40点，涨0.95%。 科创50收报1302.17点，涨0.43%。 中证500收报6954.60点，涨1.25%。 中证1000收报7249.95点，涨1.31%。",
-          "url": "https://wallstreetcn.com/livenews/3010041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "沪深ETF规模逾5.7万亿元，注册新规落地激发市场新活力",
-          "url": "https://wallstreetcn.com/livenews/3009796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "沪指涨幅扩大至1%，深成指涨2.11%，创业板指涨2.92%，AI应用、教育、游戏、算力硬件、贵金属等方向涨幅居前，沪深京三市上涨个股近4800只。",
-          "url": "https://wallstreetcn.com/livenews/3009908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2025-11-25）",
-          "url": "https://flash.jin10.com/detail/20251125083849690800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20251125180416847800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "金十图示：2025年11月25日（周二）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20251125102548495800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.65%，深成指涨1.42%，算力硬件、AI应用、贵金属、量子科技等方向领涨，沪深京三市上涨个股超4600只。",
-          "url": "https://wallstreetcn.com/livenews/3009889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20251124231054180800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "德国股指收涨超0.6%，意大利股市跌超0.8%，银行板块跌约2.3%",
-          "url": "https://wallstreetcn.com/livenews/3009698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "上证指数开盘报3850.57点，涨0.36%。 深证成指开盘报12692.09点，涨0.85%。 创业板指开盘报2970.73点，涨1.42%。 沪深300开盘报4475.84点，涨0.62%。 科创50开盘报1309.67点，涨1.01%。 中证500开盘报6915.12点，涨0.67%。 中证1000开盘报7195.10点，涨0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3009865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "中美",
       "match_count": 18,
       "titles": [
@@ -1911,8 +2062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时27分 ~ 22时21分]"
+          "appearance_count": 20,
+          "time_info": "[09时27分 ~ 23时22分]"
         },
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -1923,8 +2074,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时28分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[16时28分 ~ 23时22分]"
         },
         {
           "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
@@ -1950,8 +2101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时18分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[19时18分 ~ 23时22分]"
         },
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -1988,11 +2139,12 @@
             1,
             7,
             16,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时28分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[16时28分 ~ 23时22分]"
         },
         {
           "title": "中美元首通话是美方发起的",
@@ -2027,11 +2179,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "中美元首再沟通，“台湾问题是重点”",
@@ -2308,7 +2461,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -2318,11 +2471,12 @@
             3,
             5,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时21分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[15时21分 ~ 23时22分]"
         },
         {
           "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
@@ -2458,6 +2612,17 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
+          "title": "小米集团股价大涨",
+          "url": "https://www.douyin.com/hot/2317568",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "恒生科技指数涨2%。百度、哔哩哔哩、小米涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3009879",
           "source": "华尔街见闻-快讯",
@@ -2479,11 +2644,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时41分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[20时41分 ~ 23时22分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -2494,8 +2660,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时41分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[20时41分 ~ 23时22分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -2666,11 +2832,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时22分]"
         },
         {
           "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
@@ -2718,8 +2885,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时23分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[17时23分 ~ 23时22分]"
         }
       ]
     }
