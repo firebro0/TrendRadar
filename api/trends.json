@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T02:25:40.251866+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-11-27T03:18:04.670802+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "人类正在被AI反向训练吗",
@@ -70,11 +70,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -82,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "AI硬件为何大涨",
@@ -106,7 +108,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -124,19 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
-          "url": "https://flash.jin10.com/detail/20251127021140906800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -150,6 +141,18 @@
           "time_info": "00时26分"
         },
         {
+          "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
+          "url": "https://flash.jin10.com/detail/20251127021140906800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时18分]"
+        },
+        {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2212003",
           "source": "财联社热门",
@@ -157,8 +160,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
@@ -167,7 +170,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -178,7 +181,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -217,7 +220,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -228,7 +231,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -243,11 +246,12 @@
           "url": "https://wallstreetcn.com/livenews/3011009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时18分]"
         },
         {
           "title": "面临最高380亿美元罚款 苹果对印度新修订的反垄断法提起首例司法挑战",
@@ -256,7 +260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -267,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -297,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -308,19 +312,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
           "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -330,8 +335,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     },
@@ -346,7 +351,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -356,11 +361,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "标普：下调Tether的稳定币USDT评级至“偏弱”稳定，因其对比特币等高风险资产有敞口，且信息披露有限。",
@@ -369,7 +375,47 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时18分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月26日（周三）晚盘收盘上涨0.15%报944.3元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）晚盘收盘上涨1.91%报12413.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251127023105059800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "现货白银站上53美元/盎司，为11月14日以来首次，日内涨近3%。",
+          "url": "https://flash.jin10.com/detail/20251127004201230800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -387,8 +433,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -398,8 +444,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "为什么多是新能源钻研豪华的事，自主燃油卖不上价值？",
@@ -427,8 +473,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "中美通话信号：阻击复活军国主义图谋",
@@ -439,36 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货白银日内涨幅达3.0%，报53.02美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3010994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "现货白银站上53美元/盎司，为11月14日以来首次，日内涨近3%。",
-          "url": "https://flash.jin10.com/detail/20251127004201230800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     },
@@ -484,8 +502,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     },
@@ -498,11 +516,12 @@
           "url": "https://search.bilibili.com/all?keyword=MrBeast%20%E4%BA%BA%E7%B1%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8C%E5%8F%B0%E7%AB%9E%E6%8A%80",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 03时18分]"
         }
       ]
     },
@@ -516,11 +535,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     }
