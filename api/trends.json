@@ -1,8 +1,349 @@
 {
-  "generated_at": "2025-11-27T17:22:46.773423+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2025-11-27T18:23:56.599724+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "ai 人工智能",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
+          "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
+          "url": "https://www.zhihu.com/question/1977081679454630577",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 13时20分]"
+        },
+        {
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时21分]"
+        },
+        {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            10,
+            27,
+            18,
+            11,
+            20,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 14时32分]"
+        },
+        {
+          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
+          "url": "https://www.cls.cn/detail/2211624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "GAI进化论6万人重庆场记录",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16,
+            21,
+            24,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时22分]"
+        },
+        {
+          "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
+          "url": "https://flash.jin10.com/detail/20251127064701943800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时28分]"
+        },
+        {
+          "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
+          "url": "https://flash.jin10.com/detail/20251127130943837800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-27）",
+          "url": "https://flash.jin10.com/detail/20251127115301613800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时20分]"
+        },
+        {
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时22分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 18时23分]"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时32分]"
+        },
+        {
+          "title": "金十数据整理：AI眼镜密集发布 行业发展进入加速阶段",
+          "url": "https://flash.jin10.com/detail/20251127164906023800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "AI硬件为何大涨",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%A1%AC%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
+          "url": "https://wallstreetcn.com/livenews/3011353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "王自如称选择用AI创业还债",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
+          "url": "https://wallstreetcn.com/livenews/3011350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "我用AI开了家一人公司",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "夸克AI眼镜带来的行业利好",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E5%B8%A6%E6%9D%A5%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%88%A9%E5%A5%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "夸克AI眼镜正式发布 阿里巴巴加速AI战略落地消费端",
+          "url": "https://flash.jin10.com/detail/20251127154544500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "夸克AI眼镜发布两个系列六款单品，G1系列最低到手价1899元起",
+          "url": "https://wallstreetcn.com/livenews/3011399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "TES官宣naiyou加入",
+          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "国新办：外空、网络、人工智能等新兴领域是人类发展的新高地、战略安全的新焦点、全球治理的新疆域",
+          "url": "https://wallstreetcn.com/livenews/3011188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度",
+          "url": "https://flash.jin10.com/detail/20251127004128098800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 25,
@@ -302,294 +643,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 16时28分]"
-        },
-        {
-          "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
-          "url": "https://www.zhihu.com/question/1977081679454630577",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 13时20分]"
-        },
-        {
-          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
-          "url": "https://wallstreetcn.com/articles/3760129",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时21分]"
-        },
-        {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            10,
-            27,
-            18,
-            11,
-            20,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 14时32分]"
-        },
-        {
-          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
-          "url": "https://www.cls.cn/detail/2211624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "GAI进化论6万人重庆场记录",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16,
-            21,
-            24,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时20分]"
-        },
-        {
-          "title": "多家手机厂商取消Air机型",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时22分]"
-        },
-        {
-          "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
-          "url": "https://flash.jin10.com/detail/20251127064701943800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
-          "url": "https://www.cls.cn/detail/2212151",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 16时28分]"
-        },
-        {
-          "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
-          "url": "https://flash.jin10.com/detail/20251127130943837800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-27）",
-          "url": "https://flash.jin10.com/detail/20251127115301613800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时20分]"
-        },
-        {
-          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3011311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时22分]"
-        },
-        {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时32分]"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 17时22分]"
-        },
-        {
-          "title": "金十数据整理：AI眼镜密集发布 行业发展进入加速阶段",
-          "url": "https://flash.jin10.com/detail/20251127164906023800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "AI硬件为何大涨",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%A1%AC%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
-          "url": "https://wallstreetcn.com/livenews/3011353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
-          "url": "https://wallstreetcn.com/livenews/3011350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "夸克AI眼镜正式发布 阿里巴巴加速AI战略落地消费端",
-          "url": "https://flash.jin10.com/detail/20251127154544500800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "夸克AI眼镜发布两个系列六款单品，G1系列最低到手价1899元起",
-          "url": "https://wallstreetcn.com/livenews/3011399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "国新办：外空、网络、人工智能等新兴领域是人类发展的新高地、战略安全的新焦点、全球治理的新疆域",
-          "url": "https://wallstreetcn.com/livenews/3011188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度",
-          "url": "https://flash.jin10.com/detail/20251127004128098800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "沪深 股市",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-27）",
@@ -609,7 +664,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -694,13 +749,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "摩根大通看好中国股市 列出多项增量支撑因素",
+          "url": "https://wallstreetcn.com/livenews/3011474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "金十图示：2025年11月27日（周四）沪深港通南向资金流向",
           "url": "https://flash.jin10.com/detail/20251127161534501800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -714,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "业内：A股市场底部已基本确立",
+          "url": "https://www.toutiao.com/trending/7577325754254364196/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "沪深京三市成交额超1.5万亿元，较上日此时缩量887亿元。",
@@ -932,8 +1009,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时20分 ~ 17时22分]"
+          "appearance_count": 14,
+          "time_info": "[06时20分 ~ 18时23分]"
         },
         {
           "title": "中美通话信号：阻击复活军国主义图谋",
@@ -1010,7 +1087,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1055,6 +1132,20 @@
           "time_info": "[00时26分 ~ 05时17分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 18时23分]"
+        },
+        {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
           "source": "华尔街见闻",
@@ -1066,19 +1157,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 17时22分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -1093,17 +1171,6 @@
           "time_info": "[00时26分 ~ 05时17分]"
         },
         {
-          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
-          "url": "https://wallstreetcn.com/livenews/3011463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -1115,6 +1182,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时20分 ~ 11时11分]"
+        },
+        {
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时23分]"
         }
       ]
     },
@@ -1132,11 +1211,12 @@
             22,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 18时23分]"
         },
         {
           "title": "小米双11耍赖皮,特价秒杀玩不起",
@@ -1219,8 +1299,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 18时23分]"
         },
         {
           "title": "links悬崖攀岩",
@@ -1247,11 +1327,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 18时23分]"
         },
         {
           "title": "比特币站上90000美元/枚，日内涨3.01%。",
@@ -1327,11 +1408,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时23分]"
         },
         {
           "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
@@ -1419,9 +1501,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "A股收盘：创业板指冲高回落跌0.44%，有机硅、固态电池概念股走强",
@@ -1449,7 +1531,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -1466,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时26分 ~ 17时22分]"
+        },
+        {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
@@ -1519,11 +1612,12 @@
             16,
             23,
             19,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 18时23分]"
         },
         {
           "title": "苹果挑战印度反垄断监管机构的“全球营业额”罚款规定",
