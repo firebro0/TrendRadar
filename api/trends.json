@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T21:34:21.260530+08:00",
-  "total_titles_processed": 1808,
+  "generated_at": "2025-11-28T22:20:19.541362+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -267,6 +267,17 @@
           "time_info": "[12时24分 ~ 13时22分]"
         },
         {
+          "title": "北京拟将大规模AI算力搬上太空",
+          "url": "https://wallstreetcn.com/articles/3760284",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美国专利商标局规定AI不能被视为“发明人”",
           "url": "https://flash.jin10.com/detail/20251128112039157800",
           "source": "金十数据",
@@ -369,7 +380,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "四川发现81吨特大金矿 探矿权人背后现紫金矿业身影 四川黄金实控人有注入承诺",
@@ -407,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "现货黄金短线走高近10美元，现报4182.23美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251128215810703800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "津巴布韦推出新的黄金特许权使用费结构，以从市场上涨中获利",
@@ -449,6 +471,18 @@
           "time_info": "[03时16分 ~ 06时19分]"
         },
         {
+          "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
+          "url": "https://wallstreetcn.com/articles/3760314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
           "title": "美联储12月降息25个基点的概率升至86.9%，现货黄金、白银多头占比分别达60%和70%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251128104408615800",
           "source": "金十数据",
@@ -461,15 +495,16 @@
           "time_info": "[11时11分 ~ 12时24分]"
         },
         {
-          "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
-          "url": "https://wallstreetcn.com/articles/3760314",
-          "source": "华尔街见闻",
+          "title": "机构：11月国内白银产量较10月下降约3.63%",
+          "url": "https://wallstreetcn.com/livenews/3012267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "time_info": "[21时34分 ~ 22时20分]"
         },
         {
           "title": "紫金矿业黄金珠宝公司增资至7.3亿",
@@ -560,17 +595,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "机构：11月国内白银产量较10月下降约3.63%",
-          "url": "https://wallstreetcn.com/livenews/3012267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
           "title": "金十图示：2025年11月28日（周五）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251128121201273800",
           "source": "金十数据",
@@ -599,9 +623,217 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[09时25分 ~ 22时20分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3012282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "标普：尽管2025年秋季预算中宣布了收入端措施，但英国公共财政仍受到制约。 我们认为英国的财政状况是脆弱的，这是我们主权信用评级的主要制约因素之一。 我们预测英国的一般政府赤字应会温和下降，直至2028年。 在我们看来，英国的财政整顿计划存在风险，尤其是在预测期临近结束时。",
+          "url": "https://wallstreetcn.com/livenews/3011687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "标普500指数期货、纳斯达克100指数期货、WTI原油、美债恢复交易",
+          "url": "https://wallstreetcn.com/livenews/3012277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "标普500指数恐录得4月份以来首个月度下跌 芝商所故障影响市场",
+          "url": "https://wallstreetcn.com/livenews/3012230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时34分]"
+        },
+        {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时23分]"
+        },
+        {
+          "title": "标普：在我们看来，英国的财政整顿计划存在风险，尤其是在预测期限的末端。",
+          "url": "https://flash.jin10.com/detail/20251128065514164800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "标普：预计英国的公共部门赤字将持续到2028年趋于缓和。",
+          "url": "https://flash.jin10.com/detail/20251128065320472800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "标普：认为英国的财政状况脆弱，并且是制约我们主权评级的关键因素之一。",
+          "url": "https://flash.jin10.com/detail/20251128065257116800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "标普：尽管2025年秋季预算中已宣布了增收措施，但英国公共财政状况依然受限。",
+          "url": "https://flash.jin10.com/detail/20251128065223349800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
+          "url": "https://flash.jin10.com/detail/20251128174843998800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
+          "url": "https://www.cls.cn/detail/2213450",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
+          "url": "https://wallstreetcn.com/livenews/3011578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "标普评级：我们认为英国的财政状况脆弱 尽管预算案中宣布了多项重大增收措施，但英国在中期内仍将面临财政压力。 随着下届大选临近，英国政府或将撤回部分紧缩政策。",
+          "url": "https://wallstreetcn.com/livenews/3012172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "标普500指数和纳斯达克100指数期货在中断后恢复交易。标普500指数期货涨0.2%，纳斯达克100指数期货涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20251128213026389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "据LSEG数据，自格林威治标准时间03:44（北京时间11:44）以来，标普500期货和纳斯达克100期货无交易数据。",
+          "url": "https://flash.jin10.com/detail/20251128120535088800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "标普：随着下届大选临近，英国政府或将撤回部分紧缩政策。",
+          "url": "https://flash.jin10.com/detail/20251128183309549800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "标普：尽管预算中宣布了多项大幅增收措施，但英国中期财政压力仍将持续。",
+          "url": "https://flash.jin10.com/detail/20251128183208380800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
@@ -819,181 +1051,6 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
-          "url": "https://wallstreetcn.com/articles/3760251",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时25分 ~ 21时34分]"
-        },
-        {
-          "title": "标普：尽管2025年秋季预算中宣布了收入端措施，但英国公共财政仍受到制约。 我们认为英国的财政状况是脆弱的，这是我们主权信用评级的主要制约因素之一。 我们预测英国的一般政府赤字应会温和下降，直至2028年。 在我们看来，英国的财政整顿计划存在风险，尤其是在预测期临近结束时。",
-          "url": "https://wallstreetcn.com/livenews/3011687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "标普500指数恐录得4月份以来首个月度下跌 芝商所故障影响市场",
-          "url": "https://wallstreetcn.com/livenews/3012230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时34分]"
-        },
-        {
-          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3012094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时23分]"
-        },
-        {
-          "title": "标普：在我们看来，英国的财政整顿计划存在风险，尤其是在预测期限的末端。",
-          "url": "https://flash.jin10.com/detail/20251128065514164800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "标普：预计英国的公共部门赤字将持续到2028年趋于缓和。",
-          "url": "https://flash.jin10.com/detail/20251128065320472800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "标普：认为英国的财政状况脆弱，并且是制约我们主权评级的关键因素之一。",
-          "url": "https://flash.jin10.com/detail/20251128065257116800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "标普：尽管2025年秋季预算中已宣布了增收措施，但英国公共财政状况依然受限。",
-          "url": "https://flash.jin10.com/detail/20251128065223349800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
-          "url": "https://flash.jin10.com/detail/20251128174843998800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
-          "url": "https://www.cls.cn/detail/2213450",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
-          "url": "https://wallstreetcn.com/livenews/3011578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "标普评级：我们认为英国的财政状况脆弱 尽管预算案中宣布了多项重大增收措施，但英国在中期内仍将面临财政压力。 随着下届大选临近，英国政府或将撤回部分紧缩政策。",
-          "url": "https://wallstreetcn.com/livenews/3012172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "据LSEG数据，自格林威治标准时间03:44（北京时间11:44）以来，标普500期货和纳斯达克100期货无交易数据。",
-          "url": "https://flash.jin10.com/detail/20251128120535088800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "标普：随着下届大选临近，英国政府或将撤回部分紧缩政策。",
-          "url": "https://flash.jin10.com/detail/20251128183309549800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "标普：尽管预算中宣布了多项大幅增收措施，但英国中期财政压力仍将持续。",
-          "url": "https://flash.jin10.com/detail/20251128183208380800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 iphone ipad mac ios",
       "match_count": 9,
       "titles": [
@@ -1108,7 +1165,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
@@ -1169,8 +1226,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
+          "title": "小鹏报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "小米成毛利率提升最快车企",
@@ -1315,11 +1383,12 @@
           "url": "https://www.cls.cn/detail/2214176",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 21时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "险企开辟新赛道：人形机器人专属保险破冰",
