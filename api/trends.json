@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T16:27:56.192978+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2025-11-28T17:21:15.348397+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
@@ -43,21 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时18分 ~ 16时27分]"
-        },
-        {
-          "title": "AI还原香港大埔火灾",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时24分 ~ 16时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时18分 ~ 17时21分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -72,6 +59,20 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时24分 ~ 15时20分]"
+        },
+        {
+          "title": "AI还原香港大埔火灾",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时24分 ~ 17时21分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -188,6 +189,17 @@
           "time_info": "[14时31分 ~ 15时20分]"
         },
         {
+          "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
+          "url": "https://www.cls.cn/detail/2213547",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "英国央行货币政策委员格林：（就人工智能权重问题）修正可能会蔓延。",
           "url": "https://flash.jin10.com/detail/20251128005350230800",
           "source": "金十数据",
@@ -252,7 +264,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -442,7 +454,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -475,7 +487,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -551,7 +563,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -647,7 +659,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -658,7 +670,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -699,7 +711,7 @@
     },
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -710,8 +722,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 16时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 17时21分]"
         },
         {
           "title": "标普：尽管2025年秋季预算中宣布了收入端措施，但英国公共财政仍受到制约。 我们认为英国的财政状况是脆弱的，这是我们主权信用评级的主要制约因素之一。 我们预测英国的一般政府赤字应会温和下降，直至2028年。 在我们看来，英国的财政整顿计划存在风险，尤其是在预测期临近结束时。",
@@ -769,6 +781,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
           "url": "https://wallstreetcn.com/livenews/3011578",
           "source": "华尔街见闻-快讯",
@@ -794,41 +817,8 @@
     },
     {
       "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
-          "url": "https://flash.jin10.com/detail/20251128161818417800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "苹果(AAPL.O)：我们期待进一步向欧盟委员会说明，为何苹果地图和苹果广告不应被指定。",
-          "url": "https://flash.jin10.com/detail/20251128161747493800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "苹果(AAPL.O)：已就《数字市场法案》预先指定通知提交了反驳意见。",
-          "url": "https://flash.jin10.com/detail/20251128161734525800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
         {
           "title": "苹果或面临380亿美元罚款",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
@@ -839,8 +829,44 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时21分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们期待进一步向欧盟委员会说明，为何苹果地图和苹果广告不应被指定。",
+          "url": "https://flash.jin10.com/detail/20251128161747493800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：已就《数字市场法案》预先指定通知提交了反驳意见。",
+          "url": "https://flash.jin10.com/detail/20251128161734525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
         },
         {
           "title": "葛荟婕回应大女儿小苹果恋爱",
@@ -886,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "苹果：对欧盟DMA的预先指定通知提交了反驳意见",
+          "url": "https://wallstreetcn.com/livenews/3012060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
@@ -904,8 +941,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 16时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 17时21分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -1049,9 +1086,50 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
+          "url": "https://wallstreetcn.com/articles/3760220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时19分]"
+        },
+        {
+          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
+          "url": "https://www.cls.cn/detail/2213392",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         }
       ]
     },
@@ -1093,36 +1171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
-          "url": "https://wallstreetcn.com/articles/3760220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 06时19分]"
         }
       ]
     },
