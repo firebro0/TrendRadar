@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T15:20:01.651407+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-11-28T16:27:56.192978+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 16时27分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 16时27分]"
         },
         {
           "title": "AI还原香港大埔火灾",
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 16时27分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -246,6 +246,17 @@
           "time_info": "12时24分"
         },
         {
+          "title": "首批科创创业人工智能ETF现一日结募",
+          "url": "https://wallstreetcn.com/livenews/3012037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "《北京市促进“人工智能+视听”产业高质量发展行动方案（2025—2029年）》发布",
           "url": "https://wallstreetcn.com/livenews/3011794",
           "source": "华尔街见闻-快讯",
@@ -274,7 +285,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -285,7 +296,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -296,7 +307,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -326,7 +337,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-11-28）",
@@ -425,6 +436,17 @@
           "time_info": "[01时18分 ~ 02时28分]"
         },
         {
+          "title": "金十图示：2025年11月28日（周五）沪深港通南向资金流向",
+          "url": "https://flash.jin10.com/detail/20251128161538794800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "金十图示：2025年11月27日（周四）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20251127231608000800",
           "source": "金十数据",
@@ -445,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251128161146374800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "金十数据整理：隔日全球股市走势回顾（2025-11-28）",
@@ -483,7 +516,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "四川发现81吨特大金矿 探矿权人背后现紫金矿业身影 四川黄金实控人有注入承诺",
@@ -510,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "现货黄金短线下挫约15美元后，又迅速拉升约13美元，现报4172.84美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3012047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "津巴布韦推出新的黄金特许权使用费结构，以从市场上涨中获利",
@@ -570,7 +614,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -595,6 +639,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "现货黄金短线下挫，一度急跌至4154美元/盎司，现回升至4163.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251128160632457800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251128160456548800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "现货黄金短线走高逾10美元，突破4180美元/盎司。",
@@ -644,8 +710,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时25分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时25分 ~ 16时27分]"
         },
         {
           "title": "标普：尽管2025年秋季预算中宣布了收入端措施，但英国公共财政仍受到制约。 我们认为英国的财政状况是脆弱的，这是我们主权信用评级的主要制约因素之一。 我们预测英国的一般政府赤字应会温和下降，直至2028年。 在我们看来，英国的财政整顿计划存在风险，尤其是在预测期临近结束时。",
@@ -727,6 +793,103 @@
       ]
     },
     {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们期待进一步向欧盟委员会说明，为何苹果地图和苹果广告不应被指定。",
+          "url": "https://flash.jin10.com/detail/20251128161747493800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "苹果(AAPL.O)：已就《数字市场法案》预先指定通知提交了反驳意见。",
+          "url": "https://flash.jin10.com/detail/20251128161734525800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "苹果或面临380亿美元罚款",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时27分]"
+        },
+        {
+          "title": "葛荟婕回应大女儿小苹果恋爱",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "苹果手机被偷一周收到骗子来电",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "开售爆卖，华为Mate 80系列溢价高于iPhone 17",
+          "url": "https://wallstreetcn.com/livenews/3011961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "挑战苹果夹万物",
+          "url": "https://www.douyin.com/hot/2318198",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源 小鹏 小米 理想",
       "match_count": 6,
       "titles": [
@@ -741,8 +904,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时25分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时25分 ~ 16时27分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -804,69 +967,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 iphone ipad mac ios",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "葛荟婕回应大女儿小苹果恋爱",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "苹果或面临380亿美元罚款",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 15时20分]"
-        },
-        {
-          "title": "苹果手机被偷一周收到骗子来电",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "开售爆卖，华为Mate 80系列溢价高于iPhone 17",
-          "url": "https://wallstreetcn.com/livenews/3011961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "挑战苹果夹万物",
-          "url": "https://www.douyin.com/hot/2318198",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
       "match_count": 3,
       "titles": [
@@ -911,6 +1011,51 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            3,
+            11,
+            8,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 11时11分]"
+        },
+        {
+          "title": "雷军称继续向特斯拉学习",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%BB%A7%E7%BB%AD%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "特斯拉印度：印度首家一站式特斯拉中心现已在哈里亚纳邦古尔冈开业。",
+          "url": "https://flash.jin10.com/detail/20251128161132218800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
       "match_count": 3,
       "titles": [
@@ -948,40 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            3,
-            11,
-            8,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 11时11分]"
-        },
-        {
-          "title": "雷军称继续向特斯拉学习",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%BB%A7%E7%BB%AD%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         }
       ]
     },
@@ -1050,8 +1161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 16时27分]"
         }
       ]
     }
