@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T04:21:10.081897+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-11-30T05:17:17.986010+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         }
       ]
     },
@@ -55,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -79,8 +79,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         }
       ]
     },
@@ -96,8 +96,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         },
         {
           "title": "央行：虚拟货币相关业务活动属于非法金融活动 稳定币是虚拟货币的一种形式",
@@ -107,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         }
       ]
     },
@@ -122,11 +122,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         },
         {
           "title": "2025全球开发者先锋大会暨国际具身智能技能大赛12月举行，将首次引入机器人裁判",
@@ -136,8 +137,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时17分]"
         }
       ]
     },
@@ -187,8 +188,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 05时17分]"
         }
       ]
     }
