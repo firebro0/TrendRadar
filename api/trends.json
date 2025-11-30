@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T13:19:28.604165+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2025-11-30T14:29:53.048925+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 14时29分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 13时19分]"
+          "appearance_count": 12,
+          "time_info": "[01时17分 ~ 14时29分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时29分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时29分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -100,8 +101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 14时29分]"
         },
         {
           "title": "芝商所大宕机无碍“万物齐涨”，标普五连涨，大宗商品、比特币齐升，白银伦铜创新高",
@@ -120,11 +121,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时29分]"
         },
         {
           "title": "ENHYPEN定制中文感谢",
@@ -133,7 +135,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -174,11 +176,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 14时29分]"
         }
       ]
     },
@@ -221,8 +224,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时29分]"
         }
       ]
     },
@@ -238,11 +241,12 @@
             8,
             12,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时29分]"
         },
         {
           "title": "黄金再次反弹 为何华尔街坚定看涨",
@@ -269,11 +273,12 @@
             2,
             5,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时29分]"
         },
         {
           "title": "苹果10月全球份额飙至24.2%",
@@ -299,22 +304,24 @@
           "ranks": [
             10,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 14时29分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时29分]"
         }
       ]
     },
