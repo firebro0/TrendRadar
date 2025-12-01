@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T01:22:59.329680+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-02T02:33:58.585203+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -26,19 +26,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
           "url": "https://www.cls.cn/detail/2216065",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "郑恺上戏合影 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
@@ -53,15 +66,16 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
-          "title": "郑恺上戏合影 AI生成",
-          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "顾客买鞋子仅退款拿AI视频当凭证",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
+          "source": "百度热搜",
           "ranks": [
-            14
+            24,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "time_info": "[01时22分 ~ 02时33分]"
         },
         {
           "title": "顾客买鞋子仅退款发AI图",
@@ -85,46 +99,25 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "现货白银日内大涨4.00%，现报58.62美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251202004631951800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
         {
           "title": "现货白银日内涨幅达3.0%，报58.1美元/盎司。纽约银日内涨幅达2.5%，报58.62美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013153",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "巴里克矿业考虑将旗下北美黄金资产IPO。",
@@ -132,11 +125,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，现报58.62美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202004631951800",
+          "source": "金十数据",
+          "ranks": [
+            4,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "time_info": "[01时22分 ~ 02时33分]"
         },
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -146,8 +152,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
@@ -157,19 +163,184 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "现货白银突破58美元/盎司",
           "url": "https://flash.jin10.com/detail/20251202001532087800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报58.66美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013128346800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013125562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
+          "url": "https://wallstreetcn.com/livenews/3013174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3013173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
+          "url": "https://wallstreetcn.com/livenews/3013172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "标普全球评级：英国秋季预算对公共财政而言不算太糟。",
+          "url": "https://flash.jin10.com/detail/20251201234416371800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251202004530090800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（12月1日），南非富时/JSE非洲领先40可交易指数收涨1.10%，逼近10.45万点。",
+          "url": "https://wallstreetcn.com/livenews/3013145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时22分]"
+        },
+        {
+          "title": "德国股市收跌1%，空客德国股价跌5.9%，领跌一众成分股",
+          "url": "https://wallstreetcn.com/livenews/3013158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
+          "url": "https://flash.jin10.com/detail/20251202010150806800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
+        },
+        {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
+          "url": "https://flash.jin10.com/detail/20251202011157970800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
@@ -185,8 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -196,65 +367,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "沪深 股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251202004530090800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（12月1日），南非富时/JSE非洲领先40可交易指数收涨1.10%，逼近10.45万点。",
-          "url": "https://wallstreetcn.com/livenews/3013145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
-          "url": "https://flash.jin10.com/detail/20251202010150806800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -267,11 +381,12 @@
           "url": "https://www.toutiao.com/trending/7578838517380288027/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "朱迪的理想9年来一直没有变",
@@ -279,28 +394,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普全球评级：英国秋季预算对公共财政而言不算太糟。",
-          "url": "https://flash.jin10.com/detail/20251201234416371800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -316,8 +415,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     }
