@@ -1,22 +1,33 @@
 {
-  "generated_at": "2025-12-02T06:21:16.402361+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-12-02T07:24:57.187365+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
-          "title": "周一（12月1日）纽约尾盘，标普500股指期货最终跌0.50%，道指期货跌0.87%，纳斯达克100股指期货跌0.34%。 罗素2000股指期货跌1.14%。",
-          "url": "https://wallstreetcn.com/livenews/3013233",
-          "source": "华尔街见闻-快讯",
+          "title": "“风险晴雨表”加密货币大跌，标普连涨终结，中概股逆市上涨，白银强势再创新高",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
+          "url": "https://www.cls.cn/detail/2216490",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时24分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -67,6 +78,18 @@
           "time_info": "[05时17分 ~ 06时21分]"
         },
         {
+          "title": "周一（12月1日）纽约尾盘，标普500股指期货最终跌0.50%，道指期货跌0.87%，纳斯达克100股指期货跌0.34%。 罗素2000股指期货跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3013233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
           "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
           "url": "https://wallstreetcn.com/livenews/3013174",
           "source": "华尔街见闻-快讯",
@@ -113,33 +136,36 @@
           "url": "https://wallstreetcn.com/livenews/3013227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
         },
         {
           "title": "周一（12月1日）纽约尾盘，现货黄金跌0.18%，报4231.34美元/盎司，亚太盘初跌至4206.05美元刷新日低，之后反弹，美股开盘之前涨至4264.62美元刷新日高，之后走低。 COMEX黄金期货涨0.30%，报4267.60美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
         },
         {
           "title": "公用事业ETF收跌超2.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3013222",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -148,7 +174,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -159,7 +185,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -170,7 +196,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -192,7 +218,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -203,7 +229,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -211,18 +237,19 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
           "url": "https://wallstreetcn.com/articles/3760431",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -230,11 +257,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -243,11 +271,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -259,8 +288,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -270,11 +299,23 @@
             24,
             18,
             21,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 07时24分]"
+        },
+        {
+          "title": "人脑优于人工智能的关键机制揭示",
+          "url": "https://wallstreetcn.com/livenews/3013258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
@@ -352,7 +393,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
@@ -364,19 +405,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
           "url": "https://wallstreetcn.com/articles/3760415",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "现货白银周二小幅低开，现报57.84美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202070122711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报58.1美元/盎司。纽约银日内涨幅达2.5%，报58.62美元/盎司。",
@@ -417,6 +470,18 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
+          "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
           "title": "现货白银日内涨幅达4.0%，报58.66美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013175",
           "source": "华尔街见闻-快讯",
@@ -441,15 +506,15 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
-          "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3013228",
+          "title": "现货白银、现货黄金小幅低开，分别跌0.14%和0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3013252",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时24分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月1日（周一）晚盘收盘上涨0.19%报958.5元/克；<br/>上海黄金交易所白银T+D 12月1日（周一）晚盘收盘上涨3.27%报13720.0元/千克。",
@@ -510,7 +575,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -528,8 +593,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -580,8 +645,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -634,8 +699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -653,11 +718,12 @@
           "url": "https://wallstreetcn.com/livenews/3013229",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时24分]"
         }
       ]
     },
@@ -676,8 +742,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "朱迪的理想9年来一直没有变",
@@ -688,11 +754,12 @@
             21,
             17,
             26,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "人民日报谈小米集团高质量发展",
@@ -704,6 +771,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 iphone ipad mac ios",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果任命AI业务副总裁",
+          "url": "https://flash.jin10.com/detail/20251202061819637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
+          "url": "https://wallstreetcn.com/livenews/3013239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人形机器人成本结构巨变！半导体占比将激增至24%，聚焦“大脑+视觉+传感”三大核心赛道",
+          "url": "https://wallstreetcn.com/articles/3760430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     }
