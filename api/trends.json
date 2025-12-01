@@ -1,8 +1,214 @@
 {
-  "generated_at": "2025-12-02T05:17:37.114416+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-12-02T06:21:16.402361+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "周一（12月1日）纽约尾盘，标普500股指期货最终跌0.50%，道指期货跌0.87%，纳斯达克100股指期货跌0.34%。 罗素2000股指期货跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3013233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251202050542973800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时21分]"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013128346800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251202013125562800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
+          "url": "https://flash.jin10.com/detail/20251202050101474800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时21分]"
+        },
+        {
+          "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
+          "url": "https://wallstreetcn.com/livenews/3013174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 05时17分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3013173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 05时17分]"
+        },
+        {
+          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
+          "url": "https://wallstreetcn.com/livenews/3013172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 05时17分]"
+        },
+        {
+          "title": "（美股）费城金银指数大致收平，报324.58点。 纽约证交所ARCA金矿开采商指数收涨0.26%，报2323.69点；北京时间22:30之前维持微幅上涨状态——持稳于2320点附近，（开盘时）达到2350.23点，随后快速转而跌至2308.78点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3013227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，现货黄金跌0.18%，报4231.34美元/盎司，亚太盘初跌至4206.05美元刷新日低，之后反弹，美股开盘之前涨至4264.62美元刷新日高，之后走低。 COMEX黄金期货涨0.30%，报4267.60美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "公用事业ETF收跌超2.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3013222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3013217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
+          "url": "https://wallstreetcn.com/livenews/3013216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "标普收跌超0.5%，半导体微跌，小盘股指跌超1.2%，生物科技指数跌约2.2%",
+          "url": "https://wallstreetcn.com/livenews/3013213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "标普全球评级：英国秋季预算对公共财政而言不算太糟。",
+          "url": "https://flash.jin10.com/detail/20251201234416371800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3013211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251202050552225800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "ai 人工智能",
       "match_count": 11,
@@ -15,8 +221,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -27,8 +233,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -40,8 +246,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -53,8 +259,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -67,8 +273,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 06时21分]"
         },
         {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
@@ -145,113 +351,8 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251202050542973800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
-          "url": "https://flash.jin10.com/detail/20251202050101474800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251202013128346800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时26分]"
-        },
-        {
-          "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251202013125562800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时26分]"
-        },
-        {
-          "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
-          "url": "https://wallstreetcn.com/livenews/3013174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 05时17分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
-          "url": "https://wallstreetcn.com/livenews/3013173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 05时17分]"
-        },
-        {
-          "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
-          "url": "https://wallstreetcn.com/livenews/3013172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 05时17分]"
-        },
-        {
-          "title": "标普全球评级：英国秋季预算对公共财政而言不算太糟。",
-          "url": "https://flash.jin10.com/detail/20251201234416371800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 白银",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
@@ -263,8 +364,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -274,8 +375,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报58.1美元/盎司。纽约银日内涨幅达2.5%，报58.62美元/盎司。",
@@ -340,6 +441,17 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
+          "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月1日（周一）晚盘收盘上涨0.19%报958.5元/克；<br/>上海黄金交易所白银T+D 12月1日（周一）晚盘收盘上涨3.27%报13720.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251202023119793800",
           "source": "金十数据",
@@ -349,6 +461,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "沪深 股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251202004530090800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周一（12月1日），南非富时/JSE非洲领先40可交易指数收涨1.10%，逼近10.45万点。",
+          "url": "https://wallstreetcn.com/livenews/3013145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时22分]"
+        },
+        {
+          "title": "德国股市收跌1%，空客德国股价跌5.9%，领跌一众成分股",
+          "url": "https://wallstreetcn.com/livenews/3013158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251202050601898800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -364,8 +528,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -416,8 +580,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -425,11 +589,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时21分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -438,7 +603,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -449,56 +614,15 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
       ]
     },
     {
-      "keyword_group": "沪深 股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月02日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251202004530090800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周一（12月1日），南非富时/JSE非洲领先40可交易指数收涨1.10%，逼近10.45万点。",
-          "url": "https://wallstreetcn.com/livenews/3013145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "德国股市收跌1%，空客德国股价跌5.9%，领跌一众成分股",
-          "url": "https://wallstreetcn.com/livenews/3013158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -510,8 +634,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -521,14 +645,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌4.78%，报86595美元，日内大部分时间交投于57000美元下方。 CME以太币期货DCR主力合约跌8.35%，报2794美元， 美股加密货币与加密货币关联指数跌3.96%，报68.48点。 最近24小时，MarketVector数字资产100小盘指数跌6.00%，暂报17764.31点。",
+          "url": "https://wallstreetcn.com/livenews/3013229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -558,6 +693,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 04时25分]"
+        },
+        {
+          "title": "人民日报谈小米集团高质量发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         }
       ]
     }
