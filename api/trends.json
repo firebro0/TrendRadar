@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T12:50:21.612013+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-12-01T13:28:23.678862+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 白银",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金短线下挫20美元，回落至4210美元/盎司下方，日内跌0.19%。",
@@ -19,6 +19,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "黄金疯涨背后的逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%96%AF%E6%B6%A8%E8%83%8C%E5%90%8E%E7%9A%84%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "现货白银历史首次触及57美元/盎司，日内涨1.13%。",
           "url": "https://flash.jin10.com/detail/20251201070227483800",
           "source": "金十数据",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "现货黄金短线下挫约15美元，最低至4218.91美元/盎司，日内涨幅收窄至0.11%。",
+          "url": "https://flash.jin10.com/detail/20251201132447080800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "周一现货黄金小幅高开，现报4228美元/盎司。",
@@ -46,11 +68,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时28分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）白银ETF持仓报告",
@@ -135,7 +158,7 @@
     },
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -145,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时28分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -179,7 +202,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -190,11 +213,24 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时28分]"
+        },
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时28分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -204,8 +240,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时28分]"
+        },
+        {
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时50分]"
+          "time_info": "[12时50分 ~ 13时28分]"
         },
         {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
@@ -220,35 +268,13 @@
           "time_info": "[11时53分 ~ 12时50分]"
         },
         {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
           "title": "没想到夸克AI浏览器还可以这么用",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -259,15 +285,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
+          "url": "https://flash.jin10.com/detail/20251201130151032800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
+          "url": "https://flash.jin10.com/detail/20251201125304161800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -280,8 +328,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时28分]"
         },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
@@ -294,8 +342,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 13时28分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -310,16 +358,39 @@
           "time_info": "[00时27分 ~ 06时20分]"
         },
         {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://wallstreetcn.com/livenews/3012810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "小米汽车将开放现车选购",
           "url": "https://www.douyin.com/hot/2322868",
           "source": "抖音",
           "ranks": [
             22,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时28分]"
+        },
+        {
+          "title": "小米汽车将开放“现车选购”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时50分]"
+          "time_info": "[12时50分 ~ 13时28分]"
         },
         {
           "title": "11月小米汽车交付量超4万台",
@@ -333,15 +404,15 @@
           "time_info": "11时53分"
         },
         {
-          "title": "小米汽车将开放“现车选购”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
-          "source": "百度热搜",
+          "title": "小米汽车“现车选购”即将开启",
+          "url": "https://www.toutiao.com/trending/7578719989142834726/",
+          "source": "今日头条",
           "ranks": [
-            25
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时50分"
+          "time_info": "13时28分"
         },
         {
           "title": "小米汽车11月交付量超过4万辆",
@@ -350,7 +421,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
@@ -358,7 +429,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -401,9 +472,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3012789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
@@ -430,8 +512,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时28分]"
         },
         {
           "title": "中美六代机的“非对称竞争”",
@@ -462,13 +544,25 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "中式苹果炖猪排",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时28分]"
+        },
+        {
           "title": "据AXIOS网站：两名乌克兰官员表示，周日美国和乌克兰之间的谈判重点是根据和平协议划定与俄罗斯的实际边界。他们形容5个小时的会议“艰难”、“紧张”，但富有成效。",
           "url": "https://flash.jin10.com/detail/20251201120659557800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -479,18 +573,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "中式苹果炖猪排",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -501,7 +584,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
@@ -517,11 +600,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时28分]"
         },
         {
           "title": "深成指涨超1%，沪指涨0.45%，创业板指涨0.88%，商业航天、消费电子、有色金属等方向领涨，沪深京三市上涨个股超3700只。",
@@ -625,8 +709,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时21分 ~ 12时50分]"
+          "appearance_count": 9,
+          "time_info": "[04时21分 ~ 13时28分]"
         },
         {
           "title": "机器人日租价格跳水式下跌",
