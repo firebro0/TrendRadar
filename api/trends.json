@@ -1,11 +1,362 @@
 {
-  "generated_at": "2025-12-01T21:35:17.855409+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2025-12-01T22:23:25.397253+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "ai 人工智能",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 14时33分]"
+        },
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时50分 ~ 22时23分]"
+        },
+        {
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 20时42分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时53分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
+          "url": "https://www.cls.cn/detail/2215163",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 16时31分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
+          "url": "https://www.cls.cn/detail/2215927",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时23分]"
+        },
+        {
+          "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
+          "url": "https://flash.jin10.com/detail/20251201160943754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
+          "url": "https://www.cls.cn/detail/2215245",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 17时28分]"
+        },
+        {
+          "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
+          "url": "https://flash.jin10.com/detail/20251201122301880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时23分]"
+        },
+        {
+          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
+          "url": "https://flash.jin10.com/detail/20251201212133290800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
+        },
+        {
+          "title": "如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko?",
+          "url": "https://www.zhihu.com/question/1978825874213205536",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 20时42分]"
+        },
+        {
+          "title": "顾客买鞋子仅退款发AI图",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时23分]"
+        },
+        {
+          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
+        },
+        {
+          "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
+          "url": "https://wallstreetcn.com/livenews/3012731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时50分]"
+        },
+        {
+          "title": "顾客买鞋子仅退款拿AI视频当凭证",
+          "url": "https://www.toutiao.com/trending/7578774499518169151/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
+        },
+        {
+          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
+          "url": "https://www.cls.cn/detail/2216291",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
+          "url": "https://wallstreetcn.com/livenews/3012910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
+          "url": "https://www.cls.cn/detail/2216065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
+          "url": "https://wallstreetcn.com/livenews/3012849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "新思科技：与英伟达的多年合作涵盖英伟达CUDA加速计算、智能体与物理AI、Omniverse数字孪生方面。",
+          "url": "https://flash.jin10.com/detail/20251201210321820800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
+          "url": "https://flash.jin10.com/detail/20251201210253983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "没想到夸克AI浏览器还可以这么用",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201115633561800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
+          "url": "https://flash.jin10.com/detail/20251201205933747800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
+          "url": "https://flash.jin10.com/detail/20251201130151032800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "REITs项目行业范围清单（2025年版）印发 人工智能基础设施项目在列",
+          "url": "https://wallstreetcn.com/livenews/3012941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
+          "url": "https://flash.jin10.com/detail/20251201125304161800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
@@ -20,8 +371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时53分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[11时53分 ~ 22时23分]"
         },
         {
           "title": "黄金疯涨背后的逻辑",
@@ -146,11 +497,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时23分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）白银ETF持仓报告",
@@ -230,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "巴西央行行长Galipolo：黄金升值有助于提升我国国际储备价值。",
+          "url": "https://flash.jin10.com/detail/20251201213929709800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "市场消息：巴里克考虑北美黄金资产IPO。",
@@ -322,332 +685,8 @@
       ]
     },
     {
-      "keyword_group": "ai 人工智能",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 14时33分]"
-        },
-        {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时50分 ~ 21时35分]"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时50分 ~ 20时42分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时53分]"
-        },
-        {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
-          "url": "https://www.cls.cn/detail/2215163",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 16时31分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
-          "url": "https://www.cls.cn/detail/2215927",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时35分]"
-        },
-        {
-          "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
-          "url": "https://flash.jin10.com/detail/20251201160943754800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
-          "url": "https://www.cls.cn/detail/2215245",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 17时28分]"
-        },
-        {
-          "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
-          "url": "https://flash.jin10.com/detail/20251201122301880800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
-          "url": "https://flash.jin10.com/detail/20251201212133290800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时35分]"
-        },
-        {
-          "title": "如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko?",
-          "url": "https://www.zhihu.com/question/1978825874213205536",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时42分]"
-        },
-        {
-          "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
-          "url": "https://wallstreetcn.com/livenews/3012731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时50分]"
-        },
-        {
-          "title": "顾客买鞋子仅退款发AI图",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时35分]"
-        },
-        {
-          "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
-          "url": "https://wallstreetcn.com/livenews/3012910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
-          "url": "https://wallstreetcn.com/livenews/3012849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "新思科技：与英伟达的多年合作涵盖英伟达CUDA加速计算、智能体与物理AI、Omniverse数字孪生方面。",
-          "url": "https://flash.jin10.com/detail/20251201210321820800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
-          "url": "https://flash.jin10.com/detail/20251201210253983800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "没想到夸克AI浏览器还可以这么用",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-01）",
-          "url": "https://flash.jin10.com/detail/20251201115633561800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
-          "url": "https://flash.jin10.com/detail/20251201205933747800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.toutiao.com/trending/7578774499518169151/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
-          "url": "https://flash.jin10.com/detail/20251201130151032800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "REITs项目行业范围清单（2025年版）印发 人工智能基础设施项目在列",
-          "url": "https://wallstreetcn.com/livenews/3012941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
-          "url": "https://flash.jin10.com/detail/20251201125304161800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -759,6 +798,18 @@
           "time_info": "[17时28分 ~ 18时25分]"
         },
         {
+          "title": "人民日报谈小米集团高质量发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
+        },
+        {
           "title": "小米汽车“现车选购”即将开启",
           "url": "https://www.toutiao.com/trending/7578719989142834726/",
           "source": "今日头条",
@@ -804,17 +855,6 @@
           "time_info": "18时25分"
         },
         {
-          "title": "人民日报谈小米集团高质量发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "小鹏汽车(09868.HK)2025年1月至11月累计交付量达391,937辆，同比增长156%。",
           "url": "https://flash.jin10.com/detail/20251201173034335800",
           "source": "金十数据",
@@ -824,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "小米汽车月销破4万辆 订单还够用吗",
+          "url": "https://www.toutiao.com/trending/7578838517380288027/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "小鹏汽车(09868.HK)2025年11月交付智能电动汽车36,728辆，同比增长19%。",
@@ -892,6 +943,17 @@
           "time_info": "20时42分"
         },
         {
+          "title": "小米汽车为何推现车选购",
+          "url": "https://www.toutiao.com/trending/7577800242021482538/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "小米汽车11月交付量超过4万辆",
           "url": "https://www.toutiao.com/trending/7577675094711222282/",
           "source": "今日头条",
@@ -917,7 +979,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -965,15 +1027,27 @@
           "time_info": "12时50分"
         },
         {
+          "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2216342",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "Strategy盘前一度跌超6%，公司CEO暗示有可能卖出比特币",
           "url": "https://wallstreetcn.com/livenews/3013092",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
@@ -988,6 +1062,30 @@
           "time_info": "[20时42分 ~ 21时35分]"
         },
         {
+          "title": "Strategy目前持有65万枚比特币。",
+          "url": "https://wallstreetcn.com/livenews/3013083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
+        },
+        {
+          "title": "比特币一度下跌6.1%，跌破8.5万美元关口。",
+          "url": "https://wallstreetcn.com/livenews/3013071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
+        },
+        {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
           "url": "https://wallstreetcn.com/livenews/3012789",
           "source": "华尔街见闻-快讯",
@@ -1000,15 +1098,15 @@
           "time_info": "[13时28分 ~ 14时33分]"
         },
         {
-          "title": "Strategy目前持有65万枚比特币。",
-          "url": "https://wallstreetcn.com/livenews/3013083",
-          "source": "华尔街见闻-快讯",
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时23分"
         },
         {
           "title": "比特币一路狂泻至8.6万美元以下！市场刚企稳，抛售情绪再度迸发",
@@ -1017,18 +1115,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "比特币一度下跌6.1%，跌破8.5万美元关口。",
-          "url": "https://wallstreetcn.com/livenews/3013071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -1082,11 +1169,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时23分]"
         },
         {
           "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
@@ -1142,6 +1230,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 标普 纳斯达克",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股期货亚市盘初波动不大，三大股指期货基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3012579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3012978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
+          "url": "https://flash.jin10.com/detail/20251201211507412800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-01）",
+          "url": "https://flash.jin10.com/detail/20251201214154979800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "新思科技美股盘前股价大涨8%，英伟达向其投资20亿美元。",
+          "url": "https://flash.jin10.com/detail/20251201210402506800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
+          "url": "https://www.cls.cn/detail/2215285",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "澳大利亚11月标普全球制造业PMI终值 51.6，前值51.6。",
+          "url": "https://flash.jin10.com/detail/20251201060002108800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3013007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -1246,89 +1428,6 @@
       ]
     },
     {
-      "keyword_group": "美股 标普 纳斯达克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股期货亚市盘初波动不大，三大股指期货基本持平。",
-          "url": "https://wallstreetcn.com/livenews/3012579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3012978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
-          "url": "https://flash.jin10.com/detail/20251201211507412800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "新思科技美股盘前股价大涨8%，英伟达向其投资20亿美元。",
-          "url": "https://flash.jin10.com/detail/20251201210402506800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "最高8000点！华尔街“2026美股预测”陆续出炉，一个比一个乐观……",
-          "url": "https://www.cls.cn/detail/2215285",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "澳大利亚11月标普全球制造业PMI终值 51.6，前值51.6。",
-          "url": "https://flash.jin10.com/detail/20251201060002108800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3013007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 7,
       "titles": [
@@ -1343,6 +1442,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时24分 ~ 21时35分]"
+        },
+        {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
         },
         {
           "title": "挪威公路联合会：特斯拉11月份在挪威的新车注册量同比增长175%。",
@@ -1365,17 +1475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "特斯拉11月在丹麦的注册量同比下降49%，降至534辆。（路透）",
@@ -1409,6 +1508,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google pixel",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时50分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 05时18分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 18时25分]"
+        },
+        {
+          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
+          "url": "https://wallstreetcn.com/livenews/3012823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时26分]"
+        },
+        {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时23分]"
+        },
+        {
+          "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
+          "url": "https://www.cls.cn/detail/2215915",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
@@ -1476,77 +1658,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google pixel",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时50分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时18分]"
-        },
-        {
-          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
-          "url": "https://www.cls.cn/detail/2215337",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时25分]"
-        },
-        {
-          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
-          "url": "https://wallstreetcn.com/livenews/3012823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时26分]"
-        },
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
       "match_count": 4,
       "titles": [
@@ -1589,8 +1700,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时23分]"
         },
         {
           "title": "谁为机器人的“工伤”买单",
