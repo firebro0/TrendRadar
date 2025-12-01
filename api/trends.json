@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T02:33:58.585203+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-02T03:26:15.374372+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -50,8 +50,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
+        },
+        {
+          "title": "顾客买鞋子仅退款拿AI视频当凭证",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时26分]"
         },
         {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
@@ -66,18 +79,6 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
           "title": "顾客买鞋子仅退款发AI图",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时22分]"
+        },
+        {
+          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3013184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
@@ -104,8 +116,31 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
+          "url": "https://www.cls.cn/detail/2216138",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
+        },
+        {
+          "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
+          "url": "https://wallstreetcn.com/articles/3760415",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
+        },
         {
           "title": "现货白银日内涨幅达3.0%，报58.1美元/盎司。纽约银日内涨幅达2.5%，报58.62美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3013153",
@@ -145,26 +180,16 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
-          "title": "供应危机与降息预期夹击，白银和伦铜双双创历史新高",
-          "url": "https://wallstreetcn.com/articles/3760415",
-          "source": "华尔街见闻",
+          "title": "现货白银日内涨幅达4.0%，报58.66美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
-        },
-        {
-          "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
-          "url": "https://www.cls.cn/detail/2216138",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
         },
         {
           "title": "现货白银突破58美元/盎司",
@@ -179,15 +204,15 @@
           "time_info": "[01时22分 ~ 02时33分]"
         },
         {
-          "title": "现货白银日内涨幅达4.0%，报58.66美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3013175",
-          "source": "华尔街见闻-快讯",
+          "title": "上海黄金交易所黄金T+D 12月1日（周一）晚盘收盘上涨0.19%报958.5元/克；<br/>上海黄金交易所白银T+D 12月1日（周一）晚盘收盘上涨3.27%报13720.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251202023119793800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "03时26分"
         }
       ]
     },
@@ -200,55 +225,60 @@
           "url": "https://flash.jin10.com/detail/20251202013128346800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013125562800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
         },
         {
           "title": "纳斯达克100指数指数转涨，此前一度下跌1.1%",
           "url": "https://wallstreetcn.com/livenews/3013174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨幅重新扩大至超过1%。",
           "url": "https://wallstreetcn.com/livenews/3013173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
           "url": "https://wallstreetcn.com/livenews/3013172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时26分]"
         },
         {
           "title": "标普全球评级：英国秋季预算对公共财政而言不算太糟。",
@@ -260,6 +290,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
+        },
+        {
+          "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
+          "url": "https://flash.jin10.com/detail/20251202010150806800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
+        },
+        {
+          "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
+          "url": "https://flash.jin10.com/detail/20251202011157970800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "特斯拉在欧洲的销量下滑势头没有减弱的迹象",
+          "url": "https://flash.jin10.com/detail/20251202022407373800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -298,47 +379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
-          "url": "https://flash.jin10.com/detail/20251202010150806800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时33分]"
-        },
-        {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
-        },
-        {
-          "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
-          "url": "https://flash.jin10.com/detail/20251202011157970800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -356,19 +397,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
           "url": "https://www.cls.cn/detail/2216342",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         }
       ]
     },
@@ -382,11 +424,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         },
         {
           "title": "朱迪的理想9年来一直没有变",
@@ -395,11 +438,12 @@
           "ranks": [
             29,
             21,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         }
       ]
     },
@@ -412,11 +456,12 @@
           "url": "https://wallstreetcn.com/articles/3760440",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时26分]"
         }
       ]
     }
