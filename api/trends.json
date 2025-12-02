@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T14:33:09.632185+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-12-02T15:23:19.488323+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "网警破获AI换脸非法侵入系统案",
@@ -105,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -116,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -129,19 +129,34 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
           "url": "https://wallstreetcn.com/articles/3760479",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
+        },
+        {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "time_info": "[12时30分 ~ 15时23分]"
         },
         {
           "title": "三星推出首款三折叠智能手机 搭载全套Galaxy AI",
@@ -183,7 +198,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -211,19 +226,6 @@
           "time_info": "13时24分"
         },
         {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时33分]"
-        },
-        {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
           "url": "https://flash.jin10.com/detail/20251202035104895800",
           "source": "金十数据",
@@ -234,6 +236,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时17分]"
+        },
+        {
+          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
+          "url": "https://www.cls.cn/detail/2216759",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -247,18 +262,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时17分]"
-        },
-        {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时33分]"
         },
         {
           "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
@@ -331,6 +334,28 @@
           "time_info": "13时24分"
         },
         {
+          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
+          "url": "https://wallstreetcn.com/articles/3760465",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "中国AI公司智谱今年营收料较2024年的4200万美元增长逾一倍。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
           "url": "https://wallstreetcn.com/livenews/3013130",
           "source": "华尔街见闻-快讯",
@@ -340,6 +365,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "英国央行金融稳定报告：若出现与人工智能相关的资产价格修正，贷款损失或将加剧金融稳定风险。",
+          "url": "https://flash.jin10.com/detail/20251202150510898800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "英国央行金融稳定报告：人工智能估值加剧市场剧烈回调的风险。",
+          "url": "https://flash.jin10.com/detail/20251202150351073800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "英国央行金融稳定报告：许多风险资产的估值仍严重高估，尤其是专注于人工智能的科技公司。",
+          "url": "https://flash.jin10.com/detail/20251202150318242800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "中信建投：关注字节Force大会和AI产业链",
@@ -356,7 +414,7 @@
     },
     {
       "keyword_group": "黄金 白银",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
@@ -393,8 +451,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时23分]"
         },
         {
           "title": "现货白银周二小幅低开，现报57.84美元/盎司。",
@@ -616,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "现货黄金十分钟内下跌约15美元，现报4207.14美元/盎司，日内跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3013516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -623,6 +692,17 @@
       "keyword_group": "美股 标普 纳斯达克",
       "match_count": 21,
       "titles": [
+        {
+          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时23分]"
+        },
         {
           "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
           "url": "https://www.cls.cn/detail/2216490",
@@ -635,17 +715,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时24分 ~ 14时33分]"
-        },
-        {
-          "title": "日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 14时33分]"
         },
         {
           "title": "“风险晴雨表”加密货币大跌，标普连涨终结，中概股逆市上涨，白银强势再创新高",
@@ -877,7 +946,7 @@
     },
     {
       "keyword_group": "沪深 股市",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "上证指数开盘报3908.46点，跌0.14%。 深证成指开盘报13130.07点，跌0.13%。 创业板指开盘报3091.37点，跌0.04%。 沪深300开盘报4571.91点，跌0.10%。 科创50开盘报1334.00点，跌0.21%。 中证500开盘报7084.80点，跌0.24%。 中证1000开盘报7364.20点，跌0.30%。",
@@ -889,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "上证指数收报3897.71点，跌0.42%。 深证成指收报13056.70点，跌0.68%。 创业板指收报3071.15点，跌0.69%。 沪深300收报4554.33点，跌0.48%。 科创50收报1320.16点，跌1.24%。 中证500收报7040.30点，跌0.87%。 中证1000收报7313.18点，跌1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3013539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.57%，深成指跌0.74%，机器人、小金属、锂矿、CRO等方向跌幅居前，沪深京三市下跌个股近4000只。",
@@ -950,6 +1030,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "沪深京三市成交额突破1.5万亿，较上日此时缩量超2600亿。",
+          "url": "https://wallstreetcn.com/livenews/3013531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-02）",
           "url": "https://flash.jin10.com/detail/20251202090728307800",
           "source": "金十数据",
@@ -959,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出526.51亿元，占比3.3%；大单资金净流出206.67亿元，占比1.3%；小单资金净流入411.94亿元，占比2.59%。",
+          "url": "https://flash.jin10.com/detail/20251202150618840800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "德国股市收跌1%，空客德国股价跌5.9%，领跌一众成分股",
@@ -1057,11 +1159,12 @@
           "url": "https://www.toutiao.com/trending/7578133755190722610/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时23分]"
         },
         {
           "title": "人民日报谈小米集团高质量发展",
@@ -1114,8 +1217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1136,11 +1239,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -1197,11 +1301,12 @@
           "url": "https://www.toutiao.com/trending/7579074233024646666/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时23分]"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -1260,11 +1365,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时38分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时23分]"
         },
         {
           "title": "网友发明「苹果夹烤肉」吃法被赞「天才」，这样搭配会更好吃吗？你认为哪种水果和烤肉是绝配？",
@@ -1272,11 +1378,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时30分 ~ 15时23分]"
         },
         {
           "title": "苹果任命AI业务副总裁",
@@ -1307,17 +1414,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
-          "url": "https://wallstreetcn.com/livenews/3013514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "优必选与卓世科技计划5年内联合部署1万台机器人",
           "url": "https://wallstreetcn.com/livenews/3013463",
           "source": "华尔街见闻-快讯",
@@ -1329,6 +1425,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时31分 ~ 14时33分]"
+        },
+        {
+          "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
+          "url": "https://wallstreetcn.com/livenews/3013514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "优地机器人（无锡）股份有限公司境外发行上市计划获中国证监会备案",
