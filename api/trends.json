@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T13:21:15.402640+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-03T19:29:38.491695+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -249,6 +249,18 @@
           "time_info": "[12时30分 ~ 13时21分]"
         },
         {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 19时29分]"
+        },
+        {
           "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
           "url": "https://wallstreetcn.com/livenews/3014113",
           "source": "华尔街见闻-快讯",
@@ -273,26 +285,70 @@
           "time_info": "[03时21分 ~ 04时25分]"
         },
         {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-03）",
           "url": "https://flash.jin10.com/detail/20251203115452067800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
         {
-          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
-          "url": "https://wallstreetcn.com/articles/3760553",
-          "source": "华尔街见闻",
+          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
+          "url": "https://flash.jin10.com/detail/20251203185148537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "OpenAI：目前出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20251203185037298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
+          "url": "https://flash.jin10.com/detail/20251203184353377800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "19时29分"
         },
         {
           "title": "Git3.0 默认主分支从「master」改为「main」，这一调整是出于哪些考量？",
@@ -337,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
@@ -486,8 +553,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 19时29分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -718,7 +785,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特斯拉发布人形机器人跑步视频",
@@ -840,6 +907,28 @@
           "time_info": "09时38分"
         },
         {
+          "title": "特斯拉11月德国汽车销量下降五分之一",
+          "url": "https://wallstreetcn.com/livenews/3014412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "德国联邦机动车管理局：特斯拉11月在德国的新车销量下降20.2%至1763辆。",
+          "url": "https://flash.jin10.com/detail/20251203185403530800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "特斯拉人形机器人跑步视频",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
@@ -905,6 +994,18 @@
           "time_info": "[11时17分 ~ 13时21分]"
         },
         {
+          "title": "全球供应极度紧绷，白银上演史诗级逼空",
+          "url": "https://wallstreetcn.com/articles/3760543",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 19时29分]"
+        },
+        {
           "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
           "url": "https://wallstreetcn.com/livenews/3014152",
           "source": "华尔街见闻-快讯",
@@ -915,17 +1016,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时21分]"
-        },
-        {
-          "title": "全球供应极度紧绷，白银上演史诗级逼空",
-          "url": "https://wallstreetcn.com/articles/3760543",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
@@ -946,7 +1036,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1127,8 +1217,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 19时29分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1157,6 +1247,19 @@
           "time_info": "00时28分"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 19时29分]"
+        },
+        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -1166,18 +1269,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 05时22分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时21分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -1228,7 +1319,7 @@
     },
     {
       "keyword_group": "新能源 小鹏 小米 理想",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
@@ -1237,11 +1328,12 @@
           "ranks": [
             7,
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 13时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 19时29分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -1273,7 +1365,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1287,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "首次中新新能源汽车对话在新西兰惠灵顿召开",
+          "url": "https://wallstreetcn.com/livenews/3014397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "近日网传称，前小米中国区市场部总经理王腾加入魅族。针对该传闻，接近魅族的知情人士予以否认。（新浪科技）",
@@ -1314,7 +1417,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 BTC ETH SOL BNB LTC LINK UNI AAVE HYPE Bitcoin Ethereum Solana Binance Hypeliquid",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比特币一度涨至93000美元上方，创近两周高位。",
@@ -1339,6 +1442,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 13时21分]"
+        },
+        {
+          "title": "手握 65 万枚比特币的巨鲸 Strategy 首提卖币，打破永不卖出承诺，其市值一度跌破持币价值，如何解读？",
+          "url": "https://www.zhihu.com/question/1979277813887551142",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "比特币涨穿90000美元，涨幅超过6%",
